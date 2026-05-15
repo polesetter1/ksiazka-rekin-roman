@@ -4,60 +4,494 @@
 
 ## Cel sceny
 
-_TODO: Przedstawienie głównego bohatera i wprowadzenie do świata, wraz z przedstawieniem zadania i motywacji.
+Przedstawienie Stanleya Hutchinsa jako młodego, ambitnego naukowca, którego największa obsesja zostaje zauważona przez ludzi władzy. Scena ma zawiązać główny konflikt: spełnienie naukowego marzenia za cenę moralnego podporządkowania się tajnej misji, politycznej przemocy i eksperymentom poza granicami prawa.
 
 ## Treść sceny
 
-Stanley rozsiadł się wygodnie na skórzanym fotelu i rozejrzał się po pomieszczeniu. Nie wpadało tutaj zbyt wiele światła, co w połączeniu z działającą klimatyzacją stanowiło miłą odmianę w stosunku do warunków panujących na zewnątrz. Między fotelem, na którym siedział a sąsiednim rosła w doniczce niezmiernie wiel-ka paproć. Sekretarka na końcu pokoju nieśpiesznie przeglądała dokumenty znajdujące się na jej biurku. Była całkiem ładna. Mia-ła spięte w kok czarne włosy, krótką grzywkę opadającą na czoło i wyzywająco czerwone usta. Gdy wychwyciła jego spojrzenie uśmiechnęła się do Stanley’a i wtedy ten odwrócił wzrok. Zasta-nawiał się co jest powodem tego wezwania. W okresie kampanii wyborczej senator Witchins miał mnóstwo rzeczy na głowie i pewnie nie zawracałby sobie głowy drobiazgami. Rzucił okiem na zegarek, który wskazywał już trzydzieści minut po piętnastej. 
--Senator zaraz pana przyjmie, profesorze- oznajmiła sekre-tarka, która wydawała się nieustannie kontrolować jego zacho-wanie.
--W porządku- zdołał jedynie bąknąć. Nie czuł się zbyt kom-fortowo w jej towarzystwie, a w dodatku dzisiejsze spotkanie mogło oznaczać dla niego olbrzymie konsekwencje. 
-Czas jednak dalej mijał, a towarzyszyło temu denerwujące tykanie ściennego zegara oraz występujące, w coraz krótszych odstępach czasu, kropelki potu na skroni Stanley’a. Dopiero 15 minut przed czwartą drzwi gabinetu się otworzyły. Otworzył je roześmiany senator Witchins, który mimo siwych włosów i dość cienkich okularów wciąż wyglądał całkiem nieźle, zachowując sprężystość ruchów i szczupłą sylwetkę, którą podkreślał idealnie skrojony garnitur.
--Witam serdecznie, panie profesorze- rozpoczął rozkładając szeroko ramiona i wciąż się uśmiechając- przepraszam, że musiał pan tyle na mnie czekać, ale uzgadniałem jeszcze z moimi… jeśli można to tak określić… przyjaciółmi kilka detali dotyczących pana.
--Jestem zaszczycony.
-Witchins wybuchnął śmiechem - Darujmy sobie te dworskie obyczaje, zapraszam do mojego gabinetu.- rzekł, wykonując za-praszający gest i przepuszczając gościa przed sobą. - Niech pan sobie usiądzie. Mam nadzieję, że gdy załatwiłem wszystkie dzi-siejsze sprawy nikt już nie będzie nas niepokoił. Whisky?
--Z przyjemnością.
-Senator podszedł do barku ustawionego w narożniku dal-szym od okna i wyjął 10-letnią szkocką, oraz dwie szklanki. Na-łożył do obu lodu i nalał do nich złocistego trunku. Po chwili po-łożył szklanki na biurku między sobą a profesorem i zasunął żalu-zje za swoimi plecami. Stanley pociągnął krótki łyk i poczuł przy-jemne pieczenie w gardle.
--Pewnie się pan zastanawia, dlaczego pana do siebie zaprosi-łem?- zaczął Witchins i nie czekając na odpowiedź kontynuował- Otóż, na jednym z ostatnich spotkań z moimi najaktywniejszymi wyborcami- po tych słowach rozbawiony puścił oko Stanleyowi.- jeden z nich wspominał o panu. Jest to bardzo poważany czło-wiek, który ma spory wkład w ten sławny fundusz akademicki Uniwersytetu Stanforda. Sam jest emerytowanym naukowcem, więc mam do niego zaufanie w tych kwestiach. Mianowicie, pod-czas przeglądania tematów profesur natrafił na pewien szczegól-nie ciekawy. Należał on do niejakiego doktora Stanley’a Hutchin-sa- Stanley’owi szybciej zabiło serce, a whisky zdawała się wypa-lać jego wnętrzności- i dotyczył… No sam pan przecież wie czego. Ów przyjaciel przyjrzał się więc zarówno tej pracy, jak i karierze świeżo upieczonego profesora. I okazało się, że jest ona nad wy-raz błyskotliwa i niewielu można spotkać tak młodych profeso-rów. W związku z tym postanowił podzielić się swymi spostrze-żeniami ze mną, oraz naszymi wspólnymi przyjaciółmi i… jeste-śmy skłonni dać panu okazję działania.- Te słowa uderzyły do głowy niczym alkohol, którego jeszcze nie wypił.
--Ale jak to?- zdołał jedynie wykrztusić, odkładając szklankę na biurko.
--Moi przyjaciele są na tyle wpływowymi, oraz majętnymi ludźmi, że w połączeniu z pomocą rządu federalnego uda nam się zebrać fundusze potrzebne do realizacji pańskiego celu. Co pan na to?
--To… to są tylko hipotezy, technologia nie oferuje obecnie…
--Zaoferuje. Będzie pan miał wszystko czego będzie pan po-trzebował.
--Panie senatorze, to wymaga…
--Eksperymentów. Wiemy o tym.- Witchins uśmiechnął się złowieszczo- Dostarczymy wszelkich potrzebnych… obiektów. Musi się to odbywać naturalnie z dala od wścibskich dziennika-rzy. Myślę, że Europa będzie odpowiednia.
--Europa?- na pierwszy rzut oka wydawało się to bardzo dziwne. Zwłaszcza, że angażował się w to amerykański rząd.
--Konkretniej, to jedna z greckich wysp. Zespół badawczy bę-dzie miał ją w całości dla siebie. Niewielką ludność wysiedlono pod pretekstem budowania bazy wojskowej. Grekom zabrakło na to funduszy, a to stanowiło dla nas znakomitą okazję.
--Od jak dawna to planowaliście?
-Witchins prychnął nim odpowiedział- Właściwie to od obro-nienia przez pana pracy. Nie zajęło nam to dużo czasu. Udało się jedynie rozwiązać kwestie logistyczne, oraz dofinansowanie. Ma-my nadzieję, że budowę ośrodka będzie już nadzorował pan. Na-turalnie zakwaterowanie nie jest problemem. Mieszkańcy zostawi-li wiele domów, które posłużą grupie badawczej. Wystarczy je tylko umeblować. Naturalnie pański mały zespół z uniwersytetu nie wystarczy do realizacji tego zadania, stąd damy panu wolną rękę w dobieraniu współpracowników. Listę przygotował mój przyjaciel.- Senator schylił się, otworzył szufladę i wyciągnął złożoną na cztery kartkę. Podał ją Stanley’owi.
-Hutchins rozwinął kartkę i rzucił okiem na dziesiątki widnie-jących na niej nazwisk. Wśród nich znalazł kilka uznanych auto-rytetów z branży, ale większość niewiele mu mówiła - To amery-kańscy naukowcy?
--Och, nie tylko.
--Myślę, że w tej kwestii całkowicie zdam się na pańskiego przyjaciela. Ufam, że ma odpowiednie rozeznanie w temacie.- Stanley starał się zachować spokojny i rzeczowy ton, choć pod-niecenie na myśl o otrzymanej szansie utrudniało to zadanie.
--Na pewno go to ucieszy- Witchins splótł dłonie na brzuchu i pochylił się nieco w stronę rozmówcy - Zostało nam jednak kilka formalności do załatwienia.
--Naturalnie
--Wcale nie. Musi pan pamiętać, że badania będą miały status misji. Poufnej, rozumie pan?
-Stanley przemknął ślinę i otarł wierzchem dłoni kropelki po-tu z czoła - Co to dla mnie oznacza?
--Każdy członek zespołu badawczego będzie musiał podpisać porozumienie zakazujące mu opowiadania o przebiegu, celu i postępach prowadzonych badań. Naruszenie tego porozumienia będzie się wiązało z przykrymi konsekwencjami wychodzącymi poza obręb prawa.
--Jakimi konsekwencjami?
--Myślę, że potrafi się pan tego domyślić.
--Czy jest coś jeszcze?
--Ma pan tydzień na uporządkowanie wszystkich swoich spraw w kraju i na uczelni. Z końcem roku akademickiego na Uniwersytecie Stanforda wyrusza pan z pańskim zespołem do Grecji. Do tego czasu będzie musiał pan się kilka razy spotkać z moimi współpracownikami, w związku z organizacją pobytu, budowy oraz kompletowania kadry, a ostatniego dnia przed wy-lotem urządzamy przyjęcie.
--Jakie przyjęcie? - zapytał zmieszany Stanley. Nigdy nie lubił przyjęć.
--Niech pan się nie martwi. Znajdzie się tam tylko zaufane grono osób, z których każda będzie miała podpisane porozumie-nie podobne do pańskiego.
-Senator odwrócił się bokiem do biurka, pochylił nad sejfem i obrócił kilka razy gałką tworząc odpowiednią kombinację. Ze środka wyjął kopertę, oraz kartkę papieru. Położył je na stole podsuwając kartkę Stanley’owi i podajając mu, wyjęty zza pazu-chy, długopis. Ten bez słowa złapał kartkę i zaczął czytać:
-Ja, niżej podpisany, prof. dr hab. Stanley Hutchins, dobro-wolnie zobowiązuję się do:
-1.	Zachowania poufności wszelkich danych dotyczących prowadzonej przeze mnie misji badawczej.
-2.	Informowania o postępach prac niżej podpisanych zlece-niodawców- prof. Christophera Boyle’a, Gregory’ego Hewletta, dr Alexa Kinga, Timothyego Paxtona, Randylla Witchinsa- oraz urzędującego prezydenta Stanów Zjednoczonych i jego kancelarii.
-3.	Prowadzenia wszelkich działań mających za zadanie zrea-lizowanie celu postawionego przed misją „Brainstorm”, które zostały przedstawione ustnie każdemu z uczestników misji i opie-rają się na założeniach przedstawionych w pracy profesorskiej profesora Hutchinsa.
-Złamanie któregoś z wyżej przedstawionych punktów, czyni mnie zdrajcą i wiąże się z karą śmierci mającą status natychmia-stowej wykonalności.
-Niżej znajdowały się miejsca na podpisy. Jednak treść poro-zumienia uświadomiła Stanley’owi w co się pakuje.
--Nie wiem czy mogę to podpisać.
--Ależ oczywiście, że pan może- odpowiedział nalegającym tonem Witchins nalewając szkockiej do opróżnionych szklanek.
--Właściwie… Co ja będę z tego miał?
--Możliwość realizacji swojego marzenia- odparł wyraźnie za-skoczony senator. - No i, naturalnie, bogactwo. Wszystko czego pan zapragnie zarówno w pracy jak i poza nią. A w dowód na-szego zaufania przekazuję panu to - wyciągnął z koperty czek. Stanley rzucił na niego okiem:
--Pół miliona dolarów?
--Tak. Jeśli pan się zgodzi, będzie pan otrzymywał dwanaście takich czeków w ciągu roku.
-Senatora Witchinsa wyraźnie musiała rozbawić mina  Stan-ley’a po usłyszeniu tej wiadomości. Roześmiał się serdecznie, podszedł do niego i klepnął go w bark.
--Tylko proszę mieć na uwadze, że bacznie będziemy się przyglądać efektom pańskiej pracy. Nie ukrywam, że pańskie pomysły bardzo zainteresowały prezydenta i będzie to jeden z najważniejszych projektów podczas jego kadencji. A więc jak?- wyciągnął do Stanley’a dłoń gotową do uścisku. Profesor pod-niósł się z fotela, przełknął niemal całą zawartość szklanki. Gdy na twarzy zrobiły mu się wypieki a oczy zaszły łzami uścisnął dłoń.
--Randyll - powiedział senator.
--Stanley.
- 
+Skórzany fotel był miękki, głęboki i absurdalnie wygodny, ale Stanley Hutchins siedział na jego krawędzi, jak student wezwany do dziekanatu.
 
+W pomieszczeniu panował półmrok. Ciężkie żaluzje odcinały popołudniowe słońce, które za oknem zalewało Waszyngton białym, dusznym blaskiem. Klimatyzacja szumiała cicho i jednostajnie, jakby ktoś ukrył w ścianie niewielki generator. Stanley powinien był poczuć ulgę. Na zewnątrz marynarka przyklejała mu się do pleców, pot spływał spod kołnierzyka, a powietrze miało smak gorącego metalu. Tutaj było chłodno. Czysto. Elegancko.
+
+A jednak nie potrafił się rozluźnić.
+
+Między jego fotelem a drugim, pustym, stała ogromna paproć w ceramicznej donicy. Jej liście zwisały nisko, niemal dotykając podłogi. Stanley przyłapał się na tym, że przez dłuższą chwilę patrzył właśnie na nią, nie na drzwi gabinetu senatora, nie na sekretarkę, nie na zegar. Paproć była jedyną żywą rzeczą w tym pokoju, która nie sprawiała wrażenia, że pełni jakąś funkcję.
+
+Sekretarka siedziała przy biurku na końcu poczekalni i przeglądała dokumenty z powolnością człowieka, który nie musi się spieszyć, bo inni będą czekać za niego. Miała czarne włosy spięte w ciasny kok, krótką grzywkę i usta pomalowane na głęboki, niemal teatralny odcień czerwieni. Nie wyglądała, jakby czekała na polecenia. Wyglądała, jakby już je znała.
+
+Kiedy Stanley zerknął w jej stronę, uniosła wzrok.
+
+Nie uśmiechnęła się od razu. Najpierw go oceniła. Dopiero potem kąciki jej ust drgnęły uprzejmie, niemal niezauważalnie.
+
+Odwrócił wzrok.
+
+Na zegarze dochodziła piętnasta trzydzieści. Senator Randyll Witchins kazał mu przyjść na trzecią. Człowiek prowadzący kampanię wyborczą, mający dostęp do gabinetów, których nazw nie wypowiadano w gazetach, nie wzywał młodego profesora ze Stanforda po to, by porozmawiać o pogodzie. Stanley powtarzał to sobie od chwili, gdy odebrał telefon. Najpierw z niedowierzaniem. Potem z nadzieją. Teraz, po trzydziestu minutach czekania, z rosnącym niepokojem.
+
+— Senator zaraz pana przyjmie, profesorze — powiedziała sekretarka.
+
+Jej głos był miękki, ale pozbawiony ciepła.
+
+— Oczywiście — odparł Stanley.
+
+Zabrzmiało to słabiej, niż zamierzał.
+
+Znowu spojrzał na zegar. Tykanie było ciche, lecz natrętne. Z każdą minutą wydawało się bliższe. Stanley poczuł kroplę potu na skroni i otarł ją kciukiem, udając, że poprawia okulary. W teczce, którą trzymał przy nodze, miał egzemplarz swojej pracy profesorskiej. Nie wiedział, po co ją zabrał. Nikt go o to nie prosił. Może chciał mieć przy sobie dowód, że to wszystko wydarzyło się naprawdę: że nie był już doktorantem proszącym starszych kolegów o miejsce w laboratorium, lecz profesorem, autorem teorii, którą jedni nazywali przełomową, inni groteskową, a najostrożniejsi — przedwczesną.
+
+Przedwczesną. To słowo prześladowało go od miesięcy.
+
+Nie niemożliwą. Nie błędną. Nie szaloną. Przedwczesną.
+
+Jakby prawda musiała czekać, aż świat łaskawie dojrzeje.
+
+Drzwi gabinetu otworzyły się dopiero piętnaście minut przed czwartą.
+
+Senator Witchins wyszedł roześmiany, z dłonią opartą na klamce i głową lekko odchyloną do tyłu, jak człowiek, który właśnie usłyszał znakomity żart. Miał siwe włosy, cienkie okulary w złotej oprawie i twarz tak dobrze wypoczętą, jakby kampania wyborcza była dla niego nie wysiłkiem, lecz sportem. Jego garnitur leżał idealnie. Nawet kiedy się śmiał, ani jeden element tej postaci nie tracił kontroli.
+
+— Pan profesor Hutchins — powiedział, rozkładając szeroko ramiona. — Wreszcie. Proszę mi wybaczyć. Kilku przyjaciół uznało, że ostatnia chwila jest najlepszą chwilą na ustalanie szczegółów.
+
+— Rozumiem, senatorze.
+
+— Nie, nie. „Senatorze” zostawmy dziennikarzom. Proszę wejść.
+
+Witchins przepuścił go przodem.
+
+Gabinet był większy, niż Stanley się spodziewał, ale urządzony oszczędnie: biurko z ciemnego drewna, dwa fotele, biblioteczka, barek, amerykańska flaga i wielka mapa świata oprawiona w ramę. Na mapie ktoś zaznaczył cienkimi szpilkami kilkanaście punktów. Czerwone, niebieskie, czarne. Stanley nie zdążył im się przyjrzeć, bo senator zamknął za nim drzwi.
+
+Kliknięcie zamka zabrzmiało zbyt głośno.
+
+— Whisky? — spytał Witchins.
+
+Stanley powinien był odmówić. O tej porze zwykle pił kawę, za dużo kawy, i jadł cokolwiek, co akurat znalazło się pod ręką między zajęciami a laboratorium. Ale w gabinecie senatora odmowa wydawała się bardziej znacząca niż zgoda.
+
+— Z przyjemnością.
+
+— Doskonale.
+
+Witchins podszedł do barku, wyjął butelkę szkockiej i dwie niskie szklanki. Lód zadzwonił krótko, ostro. Senator nalał po równej porcji, a potem, zanim podał jedną Stanleyowi, podszedł do okna i opuścił żaluzje jeszcze niżej.
+
+W gabinecie zrobiło się ciemniej.
+
+— Proszę usiąść.
+
+Stanley usiadł. Tym razem głębiej, bo senator patrzył.
+
+Witchins postawił szklanki na biurku, zajął miejsce naprzeciwko i przez moment milczał. Nie było to milczenie niezręczne. Było wymierzone. Stanley znał ten rodzaj ciszy z egzaminów, komisji, obron doktoratów. Cisza człowieka, który wie, że drugi zacznie mówić pierwszy, jeśli tylko poczeka się wystarczająco długo.
+
+Stanley nie zaczął.
+
+Senator uśmiechnął się, jakby właśnie to mu się spodobało.
+
+— Wie pan, dlaczego pana zaprosiłem?
+
+— Domyślam się, że nie chodzi o poparcie środowiska akademickiego w kampanii.
+
+Witchins roześmiał się cicho.
+
+— A szkoda. Dobrze brzmi w gazetach. Młody profesor, Stanford, przyszłość amerykańskiej nauki. — Uniósł szklankę, ale nie pił. — Nie. Nie o kampanię.
+
+Stanley poczuł, że palce zaciskają mu się na poręczy fotela.
+
+— W takim razie słucham.
+
+— Ma pan przyjaciół, profesorze?
+
+Pytanie było tak nieoczekiwane, że Stanley przez chwilę nie odpowiedział.
+
+— Kilku.
+
+— Wpływowych?
+
+— Raczej nie.
+
+— To niedopatrzenie. W pańskiej dziedzinie wpływowi przyjaciele są niemal tak ważni jak talent. Czasem ważniejsi.
+
+— Wolałbym wierzyć, że wystarczy talent.
+
+— Wszyscy wolelibyśmy wierzyć w coś eleganckiego.
+
+Witchins upił pierwszy łyk. Stanley poszedł za jego przykładem. Whisky była mocniejsza, niż się spodziewał. Przyjemne pieczenie rozlało się po gardle i zaraz potem opadło ciężarem do żołądka.
+
+— Jeden z moich przyjaciół — podjął senator — trafił niedawno na pańską pracę.
+
+Stanley znieruchomiał.
+
+— Którą?
+
+— Tę, o której nie mówi się przy kolacji, jeśli nie chce się zepsuć apetytu pozostałym gościom.
+
+Senator patrzył na niego zza szkieł z rozbawieniem, ale w jego oczach nie było żartu.
+
+Stanley poczuł, że chłód klimatyzacji przestaje wystarczać.
+
+— To praca teoretyczna.
+
+— Większość rzeczy jest teoretyczna, zanim ktoś pierwszy raz podpisze rachunek.
+
+— Senatorze…
+
+— Randyll.
+
+— Panie senatorze — powtórzył Stanley, świadomie ignorując poprawkę — moja praca opisuje możliwość mapowania i przenoszenia wzorców świadomości w warunkach, których obecna technologia nie jest w stanie zapewnić. To model. Hipoteza. Kierunek badań. Nie projekt inżynieryjny.
+
+— Mój przyjaciel twierdzi inaczej.
+
+— W takim razie pański przyjaciel nie zrozumiał pracy.
+
+Przez twarz Witchinsa przemknął cień uśmiechu. Nie urażony. Zadowolony.
+
+— Profesor Christopher Boyle rzadko czegoś nie rozumie.
+
+Nazwisko uderzyło Stanleya silniej niż whisky.
+
+Boyle.
+
+Christopher Boyle, człowiek, którego artykuły Stanley czytał jako student z takim nabożeństwem, z jakim inni czytali listy z frontu. Boyle, który zniknął z uniwersyteckiego obiegu na kilka lat, wracał nieregularnie, publikował mało, ale za każdym razem przesuwał granicę rozmowy o kilka cali dalej. Boyle, który podczas jednej z konferencji miał powiedzieć, że większość neurologów przypomina mnichów opisujących pożar na podstawie zapachu dymu.
+
+— Profesor Boyle czytał moją pracę? — spytał Stanley, zanim zdołał nadać głosowi obojętność.
+
+— Nie tylko czytał. Nazwał ją niebezpiecznie użyteczną.
+
+Stanley odłożył szklankę.
+
+Niebezpiecznie użyteczną.
+
+Przez ostatni rok słyszał wiele określeń: śmiała, prowokacyjna, ryzykowna, przedwczesna, etycznie problematyczna. Ale nie to.
+
+— Czego ode mnie chcecie? — zapytał.
+
+Witchins splótł dłonie na brzuchu i oparł się wygodnie.
+
+— My? Na razie rozmowy.
+
+— A później?
+
+— Później wyników.
+
+Za oknem przejechał samochód. Przez żaluzje przedostało się kilka cienkich pasków światła, które przecięły biurko i zgasły na mankietach senatora.
+
+— Nie mam laboratorium zdolnego do…
+
+— Będzie pan miał.
+
+— Nie mam zespołu.
+
+— Dobierze go pan.
+
+— Nie mam zgody komisji etycznej.
+
+Witchins po raz pierwszy uśmiechnął się naprawdę szeroko.
+
+— Nie będzie pan potrzebował komisji.
+
+Stanley powoli cofnął dłoń od szklanki.
+
+— To niemożliwe.
+
+— Nie. To tylko niewygodne w kraju, w którym każdy urzędnik myśli, że jest sumieniem cywilizacji.
+
+— Gdzie?
+
+Senator wstał i podszedł do mapy. Przez chwilę przesuwał palcem po Morzu Śródziemnym, nie dotykając papieru. Zatrzymał się nad skupiskiem wysp na wschód od Grecji.
+
+— Europa dobrze wygląda na papierze. Stara, zmęczona, pełna historii i małych państw, które bardzo potrzebują pieniędzy.
+
+— Grecja? — spytał Stanley.
+
+— Jedna z wysp. Skyropula.
+
+Nazwa nic mu nie mówiła.
+
+— Nie ma tam infrastruktury.
+
+— Będzie.
+
+— Ludzie?
+
+— Nie będą przeszkadzać.
+
+Stanley spojrzał na senatora.
+
+— Co to znaczy?
+
+Witchins odwrócił się od mapy.
+
+— To znaczy, że rząd grecki ma swoje potrzeby, my mamy swoje, a mieszkańcy małych wysp rzadko wygrywają z mapami sztabowymi.
+
+W gabinecie na chwilę zapadła cisza. Tym razem Stanley poczuł ją w żołądku.
+
+— Wysiedliliście ich.
+
+— Przeniesiono ich.
+
+— Pod jakim pretekstem?
+
+— Pod wystarczająco dobrym.
+
+Stanley wstał z fotela, choć nie planował tego zrobić.
+
+— Nie sądzę, żebym chciał w tym uczestniczyć.
+
+Witchins nie ruszył się spod mapy. Nawet nie podniósł głosu.
+
+— Chce pan.
+
+— Nie zna mnie pan.
+
+— Profesorze, znam pana lepiej niż większość ludzi, którzy pracują z panem od lat. Wiem, że sypia pan po cztery godziny. Wiem, że ostatni grant przepadł, bo komisja uznała pańskie badania za zbyt spekulatywne. Wiem, że trzech starszych kolegów podpisało recenzje pełne uprzejmych kłamstw, bo żaden z nich nie miał odwagi napisać, że po prostu się boi. Wiem, że pańska matka uważa, iż marnuje pan życie w laboratorium. Wiem też, że kiedy miał pan dwadzieścia sześć lat, powiedział pan doktorowi Larkinowi, że człowiek, który pierwszy przeniesie świadomość poza ciało, nie odkryje nowej terapii, tylko nowy kontynent.
+
+Stanley poczuł, jak twarz mu tężeje.
+
+To zdanie wypowiedział raz. W korytarzu. Po kłótni. Wtedy myślał, że słyszał je tylko Larkin.
+
+— Podsłuchujecie mnie?
+
+— Szukamy ludzi, którym warto pomóc.
+
+— To groźba?
+
+— To oferta.
+
+Witchins wrócił do biurka, usiadł i wskazał fotel naprzeciwko.
+
+— Proszę.
+
+Stanley stał jeszcze przez moment. Czuł, że powinien wyjść. Nie zadawać pytań, nie pić whisky, nie patrzeć na mapę, nie myśleć o Boyle’u, o wyspie, o laboratorium, o sprzęcie, którego nikt na Stanfordzie nie pozwoliłby mu nawet zamówić. Powinien wyjść, wrócić do hotelu, spakować walizkę i powiedzieć sobie, że właśnie uniknął katastrofy.
+
+Zamiast tego usiadł.
+
+Senator otworzył szufladę i wyjął cienką teczkę. Położył ją na biurku, ale nie przesunął od razu w jego stronę.
+
+— Misja nosi nazwę Brainstorm.
+
+Stanley mimo woli spojrzał na teczkę.
+
+— Kto ją finansuje?
+
+— Ludzie, którzy rozumieją, że przyszłość nie powstaje z pieniędzy publicznych, lecz z decyzji podjętych, zanim opinia publiczna dowie się, że miała jakiś wybór.
+
+— Nazwiska.
+
+— Nie wszystkie dzisiaj.
+
+— Mam podpisać umowę z ludźmi, których nie znam?
+
+— Podpisze pan porozumienie z tymi, których trzeba znać. Boyle. Hewlett. King. Paxton. Ja. Kancelaria prezydenta.
+
+Przy ostatnich słowach Stanley poczuł, że powietrze w gabinecie staje się gęstsze.
+
+— Prezydent wie?
+
+— Prezydent chce, żeby Ameryka nie obudziła się pewnego dnia jako druga.
+
+— Druga wobec kogo?
+
+Witchins nachylił się nad biurkiem.
+
+— Właśnie dlatego musimy zacząć teraz.
+
+Teczka przesunęła się po blacie o kilka cali. Stanley jej nie dotknął.
+
+— Mówił pan o wynikach. Jakich?
+
+— Pierwszych. Wystarczających.
+
+— Na zwierzętach?
+
+— Na początku.
+
+— A potem?
+
+Senator spojrzał na niego długo. Zbyt długo.
+
+— Profesorze, pan naprawdę chce, żebym powiedział to słowo pierwszy?
+
+Stanley odwrócił wzrok.
+
+Przez głowę przemknęły mu obrazy, których nie chciał oglądać: stalowy stół, elektrody, oczy zwierzęcia szukające ucieczki, ludzkie ciało nieruchome pod lampą. Ale zaraz potem pojawiło się coś innego. Ciało jako drzwi. Mózg jako mapa. Świadomość jako wzór, który można przepisać, ocalić, przenieść. Nie metafora. Nie religia. Mechanizm.
+
+Nowy kontynent.
+
+— To nie może wyglądać jak rzeźnia — powiedział cicho.
+
+— Będzie wyglądać jak nauka.
+
+— Nauka wymaga granic.
+
+— Nauka wymaga ludzi, którzy potrafią zdecydować, które granice są tylko płotem postawionym przez tchórzy.
+
+Stanley zaśmiał się bez radości.
+
+— Pięknie pan mówi.
+
+— Za to mi płacą.
+
+Witchins otworzył teczkę i wyjął pojedynczy dokument. Papier był gruby, kremowy, z niewielkim oznaczeniem w prawym górnym rogu. Nie było na nim godła, herbu ani pieczęci. Właśnie to wydawało się najgorsze. Jakby rzecz, którą miał podpisać, nie potrzebowała symboli państwa, bo stała powyżej nich.
+
+— Zanim pojedziemy dalej, musi pan zrozumieć jedną rzecz — powiedział senator. — Brainstorm nie będzie grantem. Nie będzie programem uniwersyteckim. Nie będzie pracą badawczą, którą można przerwać, jeśli recenzenci zaczną kręcić nosem. To misja. Poufna. Chroniona. Rozliczana z efektów.
+
+— A jeśli odmówię?
+
+— Dzisiaj? Wyjdzie pan stąd. Wróci do Stanforda. Za kilka miesięcy pański wydział otrzyma hojny fundusz na badania, ale nie pańskie. Profesor Larkin dostanie laboratorium. Ktoś inny dostanie pańskie pytania, pańskie szkice i pańskie błędy. Może za pięć lat dołączy pan do projektu jako konsultant. Może będzie pan czytał o nim w gazetach, pod inną nazwą. Może będzie pan udawał, że tak właśnie musiało być.
+
+Każde zdanie padało spokojnie. Każde było osobnym cięciem.
+
+— To szantaż.
+
+— Nie. To opis świata bez pana decyzji.
+
+Stanley spojrzał na dokument.
+
+Na pierwszej stronie widniało jego nazwisko.
+
+Prof. Stanley Hutchins.
+
+Jeszcze niedawno brzmiało dla niego jak obietnica. Teraz wyglądało jak etykieta na próbce.
+
+— Przeczytam — powiedział.
+
+— Naturalnie.
+
+Wziął kartkę. Litery przez chwilę drżały mu przed oczami, więc zamrugał i zaczął od początku.
+
+Porozumienie zobowiązywało go do zachowania całkowitej poufności w sprawach dotyczących misji Brainstorm, jej personelu, lokalizacji, finansowania, metod oraz rezultatów. Zobowiązywało do składania raportów wyznaczonym zleceniodawcom i przedstawicielom administracji federalnej. Zobowiązywało do prowadzenia prac zmierzających do realizacji celu określonego ustnie i na podstawie założeń pracy profesorskiej Stanleya Hutchinsa.
+
+Potem przyszło zdanie, które przeczytał trzy razy.
+
+Naruszenie warunków porozumienia zostanie potraktowane jako akt zdrady wobec misji i jej zwierzchników, a strony przyjmują do wiadomości, że w warunkach operacyjnych sankcje mogą zostać wykonane natychmiast, bez udziału sądu powszechnego.
+
+Stanley powoli opuścił dokument.
+
+— To znaczy, że możecie mnie zabić.
+
+— To znaczy, że nikt nie powinien nas zdradzać.
+
+— To nie jest odpowiedź.
+
+— Jest najlepszą, jaką pan dzisiaj dostanie.
+
+Witchins wstał, podszedł do barku i dolał whisky do obu szklanek. Stanley patrzył, jak bursztynowy płyn uderza o lód. Wszystko w tym gabinecie było spokojne. Zbyt spokojne. Jakby kara śmierci była tylko kolejnym punktem harmonogramu, zaraz po transporcie sprzętu i doborze personelu.
+
+— Co ja będę z tego miał? — spytał Stanley.
+
+Witchins zatrzymał się z butelką w dłoni.
+
+Przez ułamek sekundy wyglądał na naprawdę zaskoczonego. Potem parsknął śmiechem.
+
+— I to jest właściwe pytanie.
+
+Wrócił do biurka, odstawił butelkę i z tej samej szuflady wyjął kopertę. Nie była zaklejona. W środku znajdował się czek.
+
+Położył go przed Stanleyem.
+
+Stanley spojrzał.
+
+Pół miliona dolarów.
+
+Najpierw pomyślał, że źle policzył zera. Potem policzył jeszcze raz. I jeszcze raz.
+
+— To zaliczka — powiedział Witchins. — Dwanaście takich rocznie, dopóki projekt będzie szedł zgodnie z oczekiwaniami. Poza tym pełne finansowanie laboratorium, dowolny sprzęt, ochrona, transport, zakwaterowanie, personel techniczny, dostęp do danych medycznych i biologicznych, o których uniwersytet nawet nie śmie marzyć. Jeśli będzie pan potrzebował maszyny, dostanie pan maszynę. Jeśli będzie pan potrzebował człowieka, który umie ją zbudować, dostanie pan człowieka. Jeśli będzie pan potrzebował ciszy, dostanie pan wyspę.
+
+Stanley nie odrywał wzroku od czeku.
+
+Za pół miliona dolarów mógł spłacić wszystkie długi. Kupić matce dom bliżej kliniki. Sprowadzić aparaturę, o którą prosił od lat. Zatrudnić ludzi. Pracować bez błagania o recenzje, bez pisania grantów, bez uśmiechania się do profesorów, którzy klepali go po ramieniu i mówili, że jeszcze przyjdzie jego czas.
+
+Ale najgorsze było to, że pieniądze nie były najważniejsze.
+
+Najważniejsze było, że ktoś wreszcie powiedział: teraz.
+
+Nie za dekadę. Nie po kolejnej komisji. Nie po ostrożnym pilotażu zatwierdzonym przez ludzi, którzy bali się własnego cienia.
+
+Teraz.
+
+— Musiałbym mieć pełną kontrolę nad procedurą — powiedział.
+
+Witchins uśmiechnął się.
+
+— Nad procedurą tak.
+
+— Nad doborem zespołu.
+
+— W granicach rozsądku.
+
+— Nad publikacją wyników.
+
+— Nie.
+
+Stanley podniósł wzrok.
+
+— Bez publikacji nie ma nauki.
+
+— Bez przeżycia nie ma naukowca.
+
+— Chcecie mnie kupić i zamknąć.
+
+— Chcemy pana uwolnić od ludzi, którzy nigdy nie pozwolą panu zrobić tego, co obaj wiemy, że pan zrobiłby, gdyby miał odwagę i środki.
+
+To zdanie zabolało, bo było zbyt blisko prawdy.
+
+Stanley wziął szklankę. Lód stuknął o szkło. Przez chwilę trzymał ją w dłoni, czując chłód na palcach.
+
+— A jeśli mi się nie uda?
+
+— Wtedy będzie pan miał bardzo dużo czasu, żeby żałować, że nie zadał pan właściwych pytań wcześniej.
+
+— To również groźba?
+
+— Profesorze, groźby są dla ludzi, którzy mają wybór i nie wiedzą, co z nim zrobić. Ja oferuję panu przeznaczenie.
+
+Stanley uśmiechnął się mimowolnie.
+
+— Przeznaczenie w kopercie.
+
+— Ameryka zawsze miała talent do pakowania wielkich idei w praktyczne formy.
+
+Na biurku leżały obok siebie dokument i czek. Jedno mówiło, że jego życie przestanie należeć do niego. Drugie mówiło, że dopiero teraz mogło naprawdę się zacząć.
+
+Stanley pomyślał o swojej pracy. O równaniach poprawianych nocami. O sali wykładowej, w której jeden z recenzentów uśmiechał się z politowaniem, kiedy padło słowo „ciągłość tożsamości”. O koledze, który po obronie powiedział mu, że zrobiłby karierę szybciej, gdyby zajął się czymś mniej widowiskowym. O matce pytającej przez telefon, czy ma kogoś, z kim je kolację. O własnym głosie na korytarzu: nowy kontynent.
+
+Nie był dobrym człowiekiem. To odkrycie nie przyszło nagle. Przez lata obchodził je ostrożnie, jak aparaturę pod napięciem. Był uprzejmy, pracowity, czasem hojny, często zmęczony. Ale w samym centrum była rzecz twardsza od zasad. Gdyby ktoś naprawdę otworzył przed nim drzwi, Stanley nie był pewien, czy zatrzymałby się tylko dlatego, że za progiem leżała cudza krzywda.
+
+Teraz drzwi stały otwarte.
+
+Witchins wyjął długopis zza wewnętrznej kieszeni marynarki i położył go na dokumencie.
+
+— Ma pan tydzień na uporządkowanie spraw w kraju i na uczelni — powiedział. — Potem spotka się pan z ludźmi Boyle’a. Ostatniego wieczoru odbędzie się przyjęcie. Zaufane grono. Bez prasy. Bez przypadkowych gości. Tam pozna pan część zespołu i sponsorów.
+
+— Przyjęcie? — spytał Stanley.
+
+— Rytuały są ważne, profesorze. Ludzie lepiej kłamią po wspólnym toaście.
+
+Stanley parsknął cicho. Nie chciał, ale nie zdołał się powstrzymać.
+
+Senator wyciągnął rękę nad biurkiem, nie po dokument, lecz do uścisku.
+
+— A więc?
+
+Stanley spojrzał na dłoń. Była sucha, pewna, zadbana. Dłoń człowieka, który nigdy nie musiał samodzielnie przesuwać ciężkich rzeczy, bo od tego miał ludzi. Dłoń człowieka, który podpisywał budżety, nominacje, rozkazy, listy kondolencyjne. Dłoń, która teraz czekała na niego.
+
+Nie podpisał od razu.
+
+Najpierw wypił whisky. Za dużo naraz. Alkohol zapiekł go w gardle, uderzył do oczu i przez chwilę świat rozmazał się w bursztynowych krawędziach. Odstawił szklankę, wziął długopis i złożył podpis w wyznaczonym miejscu.
+
+Stanley Hutchins.
+
+Pismo wyszło niemal równe.
+
+Dopiero potem uścisnął dłoń senatora.
+
+— Randyll — powiedział Witchins.
+
+Stanley poczuł, że uścisk jest mocniejszy, niż powinien.
+
+— Stanley.
+
+Senator puścił jego rękę i schował dokument do teczki. Czek zostawił na biurku.
+
+Za drzwiami poczekalni rozległ się cichy stuk obcasów. Sekretarka musiała podejść bliżej, choć nikt jej nie wzywał. Stanley przez moment wyobraził sobie, że stała tam przez cały czas, nieruchoma, z uchem przy drewnie albo z palcem na przycisku ukrytego urządzenia.
+
+Witchins podniósł szklankę.
+
+— Za przyszłość, Stanley.
+
+Stanley spojrzał na czek, potem na mapę świata, na maleńką wyspę, której nazwy jeszcze godzinę temu nie znał, i pomyślał, że przyszłość właśnie przestała być czasem. Stała się miejscem.
+
+— Za przyszłość — odpowiedział.
