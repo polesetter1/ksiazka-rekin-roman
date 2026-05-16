@@ -10,7 +10,7 @@ Przedstawienie Stanleya Hutchinsa jako młodego, ambitnego naukowca, którego na
 
 Skórzany fotel był miękki, głęboki i absurdalnie wygodny, ale Stanley Hutchins siedział na jego krawędzi, jak student wezwany do dziekanatu.
 
-W pomieszczeniu panował półmrok. Ciężkie żaluzje odcinały popołudniowe słońce, które za oknem zalewało Waszyngton białym, dusznym blaskiem. Klimatyzacja szumiała cicho i jednostajnie, jakby ktoś ukrył w ścianie niewielki generator. Stanley powinien był poczuć ulgę. Na zewnątrz marynarka przyklejała mu się do pleców, pot spływał spod kołnierzyka, a powietrze miało smak gorącego metalu. Tutaj było chłodno. Czysto. Elegancko.
+W pomieszczeniu panował półmrok. Ciężkie żaluzje odcinały popołudniowe słońce, które za oknem zalewało Waszyngton białym, dusznym blaskiem. Klimatyzacja szumiała cicho i jednostajnie, jakby ktoś ukrył w ścianie niewielki generator. Na zewnątrz marynarka przyklejała mu się do pleców, a powietrze miało smak gorącego metalu. Tutaj było chłodno. Czysto. Elegancko.
 
 A jednak nie potrafił się rozluźnić.
 
@@ -18,9 +18,7 @@ Między jego fotelem a drugim, pustym, stała ogromna paproć w ceramicznej doni
 
 Sekretarka siedziała przy biurku na końcu poczekalni i przeglądała dokumenty z powolnością człowieka, który nie musi się spieszyć, bo inni będą czekać za niego. Miała czarne włosy spięte w ciasny kok, krótką grzywkę i usta pomalowane na głęboki, niemal teatralny odcień czerwieni. Nie wyglądała, jakby czekała na polecenia. Wyglądała, jakby już je znała.
 
-Kiedy Stanley zerknął w jej stronę, uniosła wzrok.
-
-Nie uśmiechnęła się od razu. Najpierw go oceniła. Dopiero potem kąciki jej ust drgnęły uprzejmie, niemal niezauważalnie.
+Kiedy Stanley zerknął w jej stronę, uniosła wzrok. Nie uśmiechnęła się od razu. Najpierw go oceniła. Dopiero potem kąciki jej ust drgnęły uprzejmie, niemal niezauważalnie.
 
 Odwrócił wzrok.
 
@@ -34,11 +32,11 @@ Jej głos był miękki, ale pozbawiony ciepła.
 
 Zabrzmiało to słabiej, niż zamierzał.
 
-Znowu spojrzał na zegar. Tykanie było ciche, lecz natrętne. Z każdą minutą wydawało się bliższe. Stanley poczuł kroplę potu na skroni i otarł ją kciukiem, udając, że poprawia okulary.
+Znowu spojrzał na zegar. Tykanie było ciche, lecz natrętne. Stanley poczuł kroplę potu na skroni i otarł ją kciukiem, udając, że poprawia okulary.
 
 W teczce, którą trzymał przy nodze, miał kopię manuskryptu.
 
-Nie powinien był jej zabierać. Nikt go o to nie prosił. Nikt, poza trzema osobami na wydziale i komisją grantową, nie powinien nawet wiedzieć, że tekst istnieje. Oficjalnie był tylko odrzuconym projektem badawczym: zbyt spekulatywnym, zbyt kosztownym, zbyt obciążonym ryzykiem etycznym. Nieoficjalnie kilku starszych kolegów radziło mu odłożyć go do szuflady na dziesięć lat, może na dwadzieścia. Jeden powiedział mu po pijanemu, że jeśli naprawdę wierzy w to, co napisał, powinien najpierw nauczyć się kłamać lepiej niż ksiądz, lekarz i polityk razem wzięci.
+Nie powinien był jej zabierać. Nikt go o to nie prosił. Nikt, poza trzema osobami na wydziale i komisją grantową, nie powinien nawet wiedzieć, że tekst istnieje. Oficjalnie był tylko odrzuconym projektem badawczym: zbyt spekulatywnym, zbyt kosztownym, zbyt obciążonym ryzykiem etycznym. Nieoficjalnie kilku starszych kolegów radziło mu odłożyć go do szuflady na dziesięć lat, może na dwadzieścia.
 
 Najłagodniejsi mówili: przedwczesne.
 
@@ -114,7 +112,7 @@ Pytanie było tak nieoczekiwane, że Stanley przez chwilę nie odpowiedział.
 
 — Wszyscy byśmy chcieli wierzyć w bajki.
 
-Witchins upił pierwszy łyk. Stanley poszedł za jego przykładem. Whisky była mocniejsza, niż się spodziewał. Przyjemne pieczenie rozlało się po gardle i zaraz potem opadło ciężarem do żołądka.
+Witchins upił pierwszy łyk. Stanley poszedł za jego przykładem. Whisky była mocniejsza, niż się spodziewał.
 
 — Jeden z moich przyjaciół — podjął senator — trafił niedawno na pański tekst.
 
@@ -125,8 +123,6 @@ Stanley znieruchomiał.
 — Ten, którego nikt rozsądny nie chciał podpisać swoim nazwiskiem jako recenzent.
 
 Senator patrzył na niego zza szkieł z rozbawieniem, ale w jego oczach nie było żartu.
-
-Stanley poczuł, że chłód klimatyzacji przestaje wystarczać.
 
 — To nie jest tekst do publikacji.
 
@@ -146,7 +142,7 @@ Nazwisko uderzyło Stanleya silniej niż whisky.
 
 Boyle.
 
-Christopher Boyle, człowiek, którego artykuły Stanley czytał jako student z takim nabożeństwem, z jakim inni czytali listy z frontu. Boyle, który zniknął z uniwersyteckiego obiegu na kilka lat, wracał nieregularnie, publikował mało, ale za każdym razem przesuwał granicę rozmowy o kilka cali dalej. Boyle, który podczas jednej z konferencji miał powiedzieć, że większość neurologów przypomina mnichów opisujących pożar na podstawie zapachu dymu.
+Christopher Boyle, człowiek, którego artykuły Stanley czytał jako student z takim nabożeństwem, z jakim inni czytali listy z frontu. Boyle, który zniknął z uniwersyteckiego obiegu na kilka lat, wracał nieregularnie, publikował mało, ale za każdym razem przesuwał granicę rozmowy o kilka cali dalej.
 
 — Profesor Boyle czytał mój manuskrypt? — spytał Stanley, zanim zdołał nadać głosowi obojętność.
 
@@ -202,10 +198,6 @@ Senator wstał i podszedł do mapy. Przez chwilę przesuwał palcem po Morzu Śr
 
 Nazwa nic mu nie mówiła.
 
-— Nie ma tam infrastruktury.
-
-— Będzie.
-
 — Ludzie?
 
 — Nie będą przeszkadzać.
@@ -238,23 +230,23 @@ Witchins nie ruszył się spod mapy. Nawet nie podniósł głosu.
 
 — Nie zna mnie pan.
 
-— Profesorze, znam pana lepiej niż większość ludzi, którzy pracują z panem od lat. Wiem, że sypia pan po cztery godziny. Wiem, że ostatni grant przepadł, bo komisja uznała pański projekt za zbyt spekulatywny. Wiem, że trzech starszych kolegów widziało manuskrypt i żaden nie odważył się panu powiedzieć, że najbardziej boi się nie błędu, tylko tego, że może mieć pan rację. Wiem, że pańska matka uważa, iż marnuje pan życie w laboratorium. Wiem też, że miał pan piętnaście lat, kiedy pański ojciec przestał chodzić.
+— Profesorze, znam pana lepiej niż większość ludzi, którzy pracują z panem od lat. Wiem, że sypia pan po cztery godziny. Wiem, że ostatni grant przepadł, bo komisja uznała pański projekt za zbyt spekulatywny. Wiem, że pańska matka uważa, iż marnuje pan życie w laboratorium. Wiem też, że miał pan piętnaście lat, kiedy pański ojciec przestał chodzić.
 
 Stanley poczuł, jak twarz mu tężeje.
 
-Witchins mówił dalej tym samym tonem, spokojnym, niemal uprzejmym.
+— Niech pan nie…
 
-— Najpierw laska, potem wózek. Potem łóżko ustawione przy oknie, bo podobno chorzy lubią światło. Przez kilka miesięcy patrzył pan, jak człowiek, który jeszcze niedawno nosił pana na ramionach, staje się coraz lżejszy, cichszy i bardziej przezroczysty. Ciało gasło tydzień po tygodniu, a on zostawał w środku. Uwięziony. Przytomny. Bezsilny. Lekarze mówili, że trzeba czekać. Ksiądz mówił, że trzeba ufać. Pan modlił się, żeby następnego ranka okazało się, że to był tylko zły sen.
+— Najpierw laska, potem wózek — powiedział Witchins. — Potem łóżko ustawione przy oknie. Tyle wystarczy, prawda?
 
-Stanley nie oddychał.
+Nie wystarczyło.
 
-W gardle pojawił się smak, którego nie czuł od lat: ciepła herbata z metalowego kubka, szpitalny kurz, płyn do dezynfekcji, nocne światło korytarza. Przypomniał sobie palce ojca. Najpierw silne, potem suche i nieruchome na kocu. Przypomniał sobie, jak matka poprawiała poduszkę, chociaż nie było już czego poprawiać. Przypomniał sobie własny szept pod kołdrą, powtarzany miesiącami: wróć, wróć, wróć.
+W gardle pojawił się smak, którego Stanley nie czuł od lat: ciepła herbata z metalowego kubka, szpitalny kurz, płyn do dezynfekcji, nocne światło korytarza. Zobaczył palce ojca, najpierw silne, potem suche i nieruchome na kocu. Usłyszał własny szept spod kołdry, powtarzany miesiącami, coraz ciszej, coraz bardziej dziecinnie: wróć, wróć, wróć.
 
 — Proszę przestać — powiedział.
 
 Witchins skinął głową, jakby przyjął rozsądną uwagę.
 
-— Wiem, że kiedy miał pan szesnaście lat, powiedział pan szkolnemu pedagogowi, że ciało nie powinno być więzieniem. Wiem, że od tamtej pory nie ufa pan ludziom, którzy mówią, że koniec jest naturalny. I wiem, że pański manuskrypt nie powstał z ciekawości, profesorze. Ciekawość pisze artykuły. Pański tekst napisała odmowa.
+— Pański manuskrypt nie powstał z ciekawości, profesorze. Ciekawość pisze artykuły. Pański tekst napisała odmowa.
 
 Stanley zacisnął pięści.
 
@@ -326,7 +318,7 @@ Senator spojrzał na niego długo. Zbyt długo.
 
 Stanley odwrócił wzrok.
 
-Przez głowę przemknęły mu obrazy, których nie chciał oglądać: stalowy stół, elektrody, oczy zwierzęcia szukające ucieczki, ludzkie ciało nieruchome pod lampą. Ale zaraz potem pojawiło się coś innego. Nie obraz, raczej wspomnienie pytania, które zadał sobie po śmierci ojca i od którego nigdy naprawdę nie uciekł: czy to, co było w człowieku najważniejsze, musiało gasnąć tylko dlatego, że zawiodło mięso?
+Przez głowę przemknęły mu obrazy, których nie chciał oglądać: stalowy stół, elektrody, oczy zwierzęcia szukające ucieczki, ludzkie ciało nieruchome pod lampą. Ale zaraz potem pojawiło się coś innego. Nie obraz, raczej pytanie, od którego nigdy naprawdę nie uciekł: czy to, co było w człowieku najważniejsze, musiało gasnąć tylko dlatego, że zawiodło mięso?
 
 — To nie może wyglądać jak rzeźnia — powiedział cicho.
 
@@ -348,7 +340,7 @@ Witchins otworzył teczkę i wyjął pojedynczy dokument. Papier był gruby, kre
 
 — A jeśli odmówię?
 
-— Dzisiaj? Wyjdzie pan stąd. Wróci do Stanforda. Za kilka miesięcy pański wydział otrzyma hojny fundusz na badania, ale nie pańskie. Profesor Larkin dostanie laboratorium. Ktoś inny dostanie pańskie pytania, pańskie szkice i pańskie błędy. Może za pięć lat dołączy pan do projektu jako konsultant. Może będzie pan czytał o nim w gazetach, pod inną nazwą. Może będzie pan udawał, że tak właśnie musiało być.
+— Dzisiaj? Wyjdzie pan stąd. Wróci do Stanforda. Za kilka miesięcy pański wydział otrzyma hojny fundusz na badania, ale nie pańskie. Ktoś inny dostanie pańskie pytania, pańskie szkice i pańskie błędy. Może będzie pan czytał o tym w gazetach, pod inną nazwą. Może będzie pan udawał, że tak właśnie musiało być.
 
 Każde zdanie padało spokojnie. Każde było osobnym cięciem.
 
@@ -356,9 +348,7 @@ Każde zdanie padało spokojnie. Każde było osobnym cięciem.
 
 — Nie. To opis świata bez pana decyzji.
 
-Stanley spojrzał na dokument.
-
-Na pierwszej stronie widniało jego nazwisko.
+Stanley spojrzał na dokument. Na pierwszej stronie widniało jego nazwisko.
 
 Prof. Stanley Hutchins.
 
@@ -386,7 +376,7 @@ Stanley powoli opuścił dokument.
 
 — Jest najlepszą, jaką pan dzisiaj dostanie.
 
-Witchins wstał, podszedł do barku i dolał whisky do obu szklanek. Stanley patrzył, jak bursztynowy płyn uderza o lód. Wszystko w tym gabinecie było spokojne. Zbyt spokojne. Jakby kara śmierci była tylko kolejnym punktem harmonogramu, zaraz po transporcie sprzętu i doborze personelu.
+Witchins wstał, podszedł do barku i dolał whisky do obu szklanek. Stanley patrzył, jak bursztynowy płyn uderza o lód. Wszystko w tym gabinecie było spokojne. Zbyt spokojne.
 
 — Co ja będę z tego miał? — spytał Stanley.
 
@@ -468,7 +458,7 @@ Stanley pomyślał o swoim manuskrypcie. O równaniach poprawianych nocami. O sa
 
 I o ojcu.
 
-O tym, że człowiek mógł być w środku cały, a jednak świat traktował go jak odchodzące ciało. O tym, że lekarze mierzyli funkcje, ksiądz mówił o duszy, matka o cierpliwości, a piętnastoletni Stanley rozumiał tylko jedno: nikt nie umiał otworzyć drzwi.
+Nie o całej chorobie. Nie teraz. Tylko o jednej rzeczy: że człowiek mógł być w środku cały, a świat traktował go jak odchodzące ciało. Lekarze mierzyli funkcje, ksiądz mówił o duszy, matka o cierpliwości, a piętnastoletni Stanley rozumiał tylko jedno: nikt nie umiał otworzyć drzwi.
 
 Nie był dobrym człowiekiem. To odkrycie nie przyszło nagle. Przez lata obchodził je ostrożnie, jak aparaturę pod napięciem. Był uprzejmy, pracowity, czasem hojny, często zmęczony. Ale w samym centrum była rzecz twardsza od zasad. Gdyby ktoś naprawdę otworzył przed nim drzwi, Stanley nie był pewien, czy zatrzymałby się tylko dlatego, że za progiem leżała cudza krzywda.
 
