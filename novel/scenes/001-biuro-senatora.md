@@ -4,7 +4,7 @@
 
 ## Cel sceny
 
-Przedstawienie Stanleya Hutchinsa jako młodego, ambitnego naukowca, którego największa obsesja zostaje zauważona przez ludzi władzy. Scena ma zawiązać główny konflikt: spełnienie naukowego marzenia za cenę moralnego podporządkowania się tajnej misji, politycznej przemocy i eksperymentom poza granicami prawa.
+Przedstawienie Stanleya Hutchinsa jako młodego, ambitnego naukowca, którego największa obsesja zostaje zauważona przez ludzi władzy. Scena ma zawiązać główny konflikt: spełnienie naukowego marzenia za cenę moralnego podporządkowania się tajnej misji, politycznej przemocy i eksperymentom poza granicami prawa. Czytelnik ma jeszcze nie znać pełnego celu projektu — powinien jedynie wyczuć, że chodzi o przekroczenie najstarszej granicy biologicznej.
 
 ## Treść sceny
 
@@ -34,11 +34,17 @@ Jej głos był miękki, ale pozbawiony ciepła.
 
 Zabrzmiało to słabiej, niż zamierzał.
 
-Znowu spojrzał na zegar. Tykanie było ciche, lecz natrętne. Z każdą minutą wydawało się bliższe. Stanley poczuł kroplę potu na skroni i otarł ją kciukiem, udając, że poprawia okulary. W teczce, którą trzymał przy nodze, miał egzemplarz swojej pracy profesorskiej. Nie wiedział, po co ją zabrał. Nikt go o to nie prosił. Może chciał mieć przy sobie dowód, że to wszystko wydarzyło się naprawdę: że nie był już doktorantem proszącym starszych kolegów o miejsce w laboratorium, lecz profesorem, autorem teorii, którą jedni nazywali przełomową, inni groteskową, a najostrożniejsi — przedwczesną.
+Znowu spojrzał na zegar. Tykanie było ciche, lecz natrętne. Z każdą minutą wydawało się bliższe. Stanley poczuł kroplę potu na skroni i otarł ją kciukiem, udając, że poprawia okulary.
 
-Przedwczesną. To słowo prześladowało go od miesięcy.
+W teczce, którą trzymał przy nodze, miał kopię manuskryptu.
 
-Nie niemożliwą. Nie błędną. Nie szaloną. Przedwczesną.
+Nie powinien był jej zabierać. Nikt go o to nie prosił. Nikt, poza trzema osobami na wydziale i komisją grantową, nie powinien nawet wiedzieć, że tekst istnieje. Oficjalnie był tylko odrzuconym projektem badawczym: zbyt spekulatywnym, zbyt kosztownym, zbyt obciążonym ryzykiem etycznym. Nieoficjalnie kilku starszych kolegów radziło mu odłożyć go do szuflady na dziesięć lat, może na dwadzieścia. Jeden powiedział mu po pijanemu, że jeśli naprawdę wierzy w to, co napisał, powinien najpierw nauczyć się kłamać lepiej niż ksiądz, lekarz i polityk razem wzięci.
+
+Najłagodniejsi mówili: przedwczesne.
+
+To słowo prześladowało go od miesięcy.
+
+Nie niemożliwe. Nie błędne. Nie szalone. Przedwczesne.
 
 Jakby prawda musiała czekać, aż świat łaskawie dojrzeje.
 
@@ -106,35 +112,31 @@ Pytanie było tak nieoczekiwane, że Stanley przez chwilę nie odpowiedział.
 
 — Wolałbym wierzyć, że wystarczy talent.
 
-— Wszyscy wolelibyśmy wierzyć w coś eleganckiego.
+— Wszyscy byśmy chcieli wierzyć w bajki.
 
 Witchins upił pierwszy łyk. Stanley poszedł za jego przykładem. Whisky była mocniejsza, niż się spodziewał. Przyjemne pieczenie rozlało się po gardle i zaraz potem opadło ciężarem do żołądka.
 
-— Jeden z moich przyjaciół — podjął senator — trafił niedawno na pańską pracę.
+— Jeden z moich przyjaciół — podjął senator — trafił niedawno na pański tekst.
 
 Stanley znieruchomiał.
 
-— Którą?
+— Jaki tekst?
 
-— Tę, o której nie mówi się przy kolacji, jeśli nie chce się zepsuć apetytu pozostałym gościom.
+— Ten, którego nikt rozsądny nie chciał podpisać swoim nazwiskiem jako recenzent.
 
 Senator patrzył na niego zza szkieł z rozbawieniem, ale w jego oczach nie było żartu.
 
 Stanley poczuł, że chłód klimatyzacji przestaje wystarczać.
 
-— To praca teoretyczna.
+— To nie jest tekst do publikacji.
 
-— Większość rzeczy jest teoretyczna, zanim ktoś pierwszy raz podpisze rachunek.
+— Zgadzam się.
 
-— Senatorze…
+— To wstępny model. Hipoteza. Zbiór pytań, których nie da się jeszcze uczciwie zadać w laboratorium.
 
-— Randyll.
+— Mój przyjaciel twierdzi, że właśnie dlatego jest cenny.
 
-— Panie senatorze — powtórzył Stanley, świadomie ignorując poprawkę — moja praca opisuje możliwość mapowania i przenoszenia wzorców świadomości w warunkach, których obecna technologia nie jest w stanie zapewnić. To model. Hipoteza. Kierunek badań. Nie projekt inżynieryjny.
-
-— Mój przyjaciel twierdzi inaczej.
-
-— W takim razie pański przyjaciel nie zrozumiał pracy.
+— W takim razie pański przyjaciel nie zrozumiał problemu.
 
 Przez twarz Witchinsa przemknął cień uśmiechu. Nie urażony. Zadowolony.
 
@@ -146,15 +148,15 @@ Boyle.
 
 Christopher Boyle, człowiek, którego artykuły Stanley czytał jako student z takim nabożeństwem, z jakim inni czytali listy z frontu. Boyle, który zniknął z uniwersyteckiego obiegu na kilka lat, wracał nieregularnie, publikował mało, ale za każdym razem przesuwał granicę rozmowy o kilka cali dalej. Boyle, który podczas jednej z konferencji miał powiedzieć, że większość neurologów przypomina mnichów opisujących pożar na podstawie zapachu dymu.
 
-— Profesor Boyle czytał moją pracę? — spytał Stanley, zanim zdołał nadać głosowi obojętność.
+— Profesor Boyle czytał mój manuskrypt? — spytał Stanley, zanim zdołał nadać głosowi obojętność.
 
-— Nie tylko czytał. Nazwał ją niebezpiecznie użyteczną.
+— Nie tylko czytał. Nazwał go niebezpiecznie użytecznym.
 
 Stanley odłożył szklankę.
 
-Niebezpiecznie użyteczną.
+Niebezpiecznie użytecznym.
 
-Przez ostatni rok słyszał wiele określeń: śmiała, prowokacyjna, ryzykowna, przedwczesna, etycznie problematyczna. Ale nie to.
+Przez ostatni rok słyszał wiele określeń: śmiały, prowokacyjny, ryzykowny, przedwczesny, etycznie problematyczny. Ale nie to.
 
 — Czego ode mnie chcecie? — zapytał.
 
@@ -168,7 +170,7 @@ Witchins splótł dłonie na brzuchu i oparł się wygodnie.
 
 Za oknem przejechał samochód. Przez żaluzje przedostało się kilka cienkich pasków światła, które przecięły biurko i zgasły na mankietach senatora.
 
-— Nie mam laboratorium zdolnego do…
+— Nie mam laboratorium zdolnego do badań na taką skalę.
 
 — Będzie pan miał.
 
@@ -236,11 +238,25 @@ Witchins nie ruszył się spod mapy. Nawet nie podniósł głosu.
 
 — Nie zna mnie pan.
 
-— Profesorze, znam pana lepiej niż większość ludzi, którzy pracują z panem od lat. Wiem, że sypia pan po cztery godziny. Wiem, że ostatni grant przepadł, bo komisja uznała pańskie badania za zbyt spekulatywne. Wiem, że trzech starszych kolegów podpisało recenzje pełne uprzejmych kłamstw, bo żaden z nich nie miał odwagi napisać, że po prostu się boi. Wiem, że pańska matka uważa, iż marnuje pan życie w laboratorium. Wiem też, że kiedy miał pan dwadzieścia sześć lat, powiedział pan doktorowi Larkinowi, że człowiek, który pierwszy przeniesie świadomość poza ciało, nie odkryje nowej terapii, tylko nowy kontynent.
+— Profesorze, znam pana lepiej niż większość ludzi, którzy pracują z panem od lat. Wiem, że sypia pan po cztery godziny. Wiem, że ostatni grant przepadł, bo komisja uznała pański projekt za zbyt spekulatywny. Wiem, że trzech starszych kolegów widziało manuskrypt i żaden nie odważył się panu powiedzieć, że najbardziej boi się nie błędu, tylko tego, że może mieć pan rację. Wiem, że pańska matka uważa, iż marnuje pan życie w laboratorium. Wiem też, że miał pan piętnaście lat, kiedy pański ojciec przestał chodzić.
 
 Stanley poczuł, jak twarz mu tężeje.
 
-To zdanie wypowiedział raz. W korytarzu. Po kłótni. Wtedy myślał, że słyszał je tylko Larkin.
+Witchins mówił dalej tym samym tonem, spokojnym, niemal uprzejmym.
+
+— Najpierw laska, potem wózek. Potem łóżko ustawione przy oknie, bo podobno chorzy lubią światło. Przez kilka miesięcy patrzył pan, jak człowiek, który jeszcze niedawno nosił pana na ramionach, staje się coraz lżejszy, cichszy i bardziej przezroczysty. Ciało gasło tydzień po tygodniu, a on zostawał w środku. Uwięziony. Przytomny. Bezsilny. Lekarze mówili, że trzeba czekać. Ksiądz mówił, że trzeba ufać. Pan modlił się, żeby następnego ranka okazało się, że to był tylko zły sen.
+
+Stanley nie oddychał.
+
+W gardle pojawił się smak, którego nie czuł od lat: ciepła herbata z metalowego kubka, szpitalny kurz, płyn do dezynfekcji, nocne światło korytarza. Przypomniał sobie palce ojca. Najpierw silne, potem suche i nieruchome na kocu. Przypomniał sobie, jak matka poprawiała poduszkę, chociaż nie było już czego poprawiać. Przypomniał sobie własny szept pod kołdrą, powtarzany miesiącami: wróć, wróć, wróć.
+
+— Proszę przestać — powiedział.
+
+Witchins skinął głową, jakby przyjął rozsądną uwagę.
+
+— Wiem, że kiedy miał pan szesnaście lat, powiedział pan szkolnemu pedagogowi, że ciało nie powinno być więzieniem. Wiem, że od tamtej pory nie ufa pan ludziom, którzy mówią, że koniec jest naturalny. I wiem, że pański manuskrypt nie powstał z ciekawości, profesorze. Ciekawość pisze artykuły. Pański tekst napisała odmowa.
+
+Stanley zacisnął pięści.
 
 — Podsłuchujecie mnie?
 
@@ -260,11 +276,15 @@ Zamiast tego usiadł.
 
 Senator otworzył szufladę i wyjął cienką teczkę. Położył ją na biurku, ale nie przesunął od razu w jego stronę.
 
-— Misja nosi nazwę Brainstorm.
+— Na razie nie potrzebuje pan nazwy — powiedział.
 
-Stanley mimo woli spojrzał na teczkę.
+Stanley spojrzał na teczkę.
 
-— Kto ją finansuje?
+— Każdy projekt ma nazwę.
+
+— Ten będzie miał ją wtedy, kiedy uznamy, że pan jest gotów ją usłyszeć.
+
+— Kto go finansuje?
 
 — Ludzie, którzy rozumieją, że przyszłość nie powstaje z pieniędzy publicznych, lecz z decyzji podjętych, zanim opinia publiczna dowie się, że miała jakiś wybór.
 
@@ -306,9 +326,7 @@ Senator spojrzał na niego długo. Zbyt długo.
 
 Stanley odwrócił wzrok.
 
-Przez głowę przemknęły mu obrazy, których nie chciał oglądać: stalowy stół, elektrody, oczy zwierzęcia szukające ucieczki, ludzkie ciało nieruchome pod lampą. Ale zaraz potem pojawiło się coś innego. Ciało jako drzwi. Mózg jako mapa. Świadomość jako wzór, który można przepisać, ocalić, przenieść. Nie metafora. Nie religia. Mechanizm.
-
-Nowy kontynent.
+Przez głowę przemknęły mu obrazy, których nie chciał oglądać: stalowy stół, elektrody, oczy zwierzęcia szukające ucieczki, ludzkie ciało nieruchome pod lampą. Ale zaraz potem pojawiło się coś innego. Nie obraz, raczej wspomnienie pytania, które zadał sobie po śmierci ojca i od którego nigdy naprawdę nie uciekł: czy to, co było w człowieku najważniejsze, musiało gasnąć tylko dlatego, że zawiodło mięso?
 
 — To nie może wyglądać jak rzeźnia — powiedział cicho.
 
@@ -326,7 +344,7 @@ Stanley zaśmiał się bez radości.
 
 Witchins otworzył teczkę i wyjął pojedynczy dokument. Papier był gruby, kremowy, z niewielkim oznaczeniem w prawym górnym rogu. Nie było na nim godła, herbu ani pieczęci. Właśnie to wydawało się najgorsze. Jakby rzecz, którą miał podpisać, nie potrzebowała symboli państwa, bo stała powyżej nich.
 
-— Zanim pojedziemy dalej, musi pan zrozumieć jedną rzecz — powiedział senator. — Brainstorm nie będzie grantem. Nie będzie programem uniwersyteckim. Nie będzie pracą badawczą, którą można przerwać, jeśli recenzenci zaczną kręcić nosem. To misja. Poufna. Chroniona. Rozliczana z efektów.
+— Zanim pojedziemy dalej, musi pan zrozumieć jedną rzecz — powiedział senator. — To nie będzie grant. Nie będzie program uniwersytecki. Nie będzie praca badawcza, którą można przerwać, jeśli recenzenci zaczną kręcić nosem. To misja. Poufna. Chroniona. Rozliczana z efektów.
 
 — A jeśli odmówię?
 
@@ -352,7 +370,7 @@ Jeszcze niedawno brzmiało dla niego jak obietnica. Teraz wyglądało jak etykie
 
 Wziął kartkę. Litery przez chwilę drżały mu przed oczami, więc zamrugał i zaczął od początku.
 
-Porozumienie zobowiązywało go do zachowania całkowitej poufności w sprawach dotyczących misji Brainstorm, jej personelu, lokalizacji, finansowania, metod oraz rezultatów. Zobowiązywało do składania raportów wyznaczonym zleceniodawcom i przedstawicielom administracji federalnej. Zobowiązywało do prowadzenia prac zmierzających do realizacji celu określonego ustnie i na podstawie założeń pracy profesorskiej Stanleya Hutchinsa.
+Porozumienie zobowiązywało go do zachowania całkowitej poufności w sprawach dotyczących misji, jej personelu, lokalizacji, finansowania, metod oraz rezultatów. Zobowiązywało do składania raportów wyznaczonym zleceniodawcom i przedstawicielom administracji federalnej. Zobowiązywało do prowadzenia prac zmierzających do realizacji celu określonego ustnie i na podstawie założeń nieopublikowanego manuskryptu Stanleya Hutchinsa.
 
 Potem przyszło zdanie, które przeczytał trzy razy.
 
@@ -388,7 +406,7 @@ Pół miliona dolarów.
 
 Najpierw pomyślał, że źle policzył zera. Potem policzył jeszcze raz. I jeszcze raz.
 
-— To zaliczka — powiedział Witchins. — Dwanaście takich rocznie, dopóki projekt będzie szedł zgodnie z oczekiwaniami. Poza tym pełne finansowanie laboratorium, dowolny sprzęt, ochrona, transport, zakwaterowanie, personel techniczny, dostęp do danych medycznych i biologicznych, o których uniwersytet nawet nie śmie marzyć. Jeśli będzie pan potrzebował maszyny, dostanie pan maszynę. Jeśli będzie pan potrzebował człowieka, który umie ją zbudować, dostanie pan człowieka. Jeśli będzie pan potrzebował ciszy, dostanie pan wyspę.
+— To zaliczka — powiedział Witchins. — Dwanaście takich rocznie, dopóki prace będą szły zgodnie z oczekiwaniami. Poza tym pełne finansowanie laboratorium, dowolny sprzęt, ochrona, transport, zakwaterowanie, personel techniczny, dostęp do danych medycznych i biologicznych, o których uniwersytet nawet nie śmie marzyć. Jeśli będzie pan potrzebował maszyny, dostanie pan maszynę. Jeśli będzie pan potrzebował człowieka, który umie ją zbudować, dostanie pan człowieka. Jeśli będzie pan potrzebował ciszy, dostanie pan wyspę.
 
 Stanley nie odrywał wzroku od czeku.
 
@@ -446,7 +464,11 @@ Stanley uśmiechnął się mimowolnie.
 
 Na biurku leżały obok siebie dokument i czek. Jedno mówiło, że jego życie przestanie należeć do niego. Drugie mówiło, że dopiero teraz mogło naprawdę się zacząć.
 
-Stanley pomyślał o swojej pracy. O równaniach poprawianych nocami. O sali wykładowej, w której jeden z recenzentów uśmiechał się z politowaniem, kiedy padło słowo „ciągłość tożsamości”. O koledze, który po obronie powiedział mu, że zrobiłby karierę szybciej, gdyby zajął się czymś mniej widowiskowym. O matce pytającej przez telefon, czy ma kogoś, z kim je kolację. O własnym głosie na korytarzu: nowy kontynent.
+Stanley pomyślał o swoim manuskrypcie. O równaniach poprawianych nocami. O sali konferencyjnej, w której jeden z recenzentów uśmiechał się z politowaniem, kiedy padło słowo „ciągłość”. O koledze, który po posiedzeniu komisji powiedział mu, że zrobiłby karierę szybciej, gdyby zajął się czymś mniej widowiskowym. O matce pytającej przez telefon, czy ma kogoś, z kim je kolację.
+
+I o ojcu.
+
+O tym, że człowiek mógł być w środku cały, a jednak świat traktował go jak odchodzące ciało. O tym, że lekarze mierzyli funkcje, ksiądz mówił o duszy, matka o cierpliwości, a piętnastoletni Stanley rozumiał tylko jedno: nikt nie umiał otworzyć drzwi.
 
 Nie był dobrym człowiekiem. To odkrycie nie przyszło nagle. Przez lata obchodził je ostrożnie, jak aparaturę pod napięciem. Był uprzejmy, pracowity, czasem hojny, często zmęczony. Ale w samym centrum była rzecz twardsza od zasad. Gdyby ktoś naprawdę otworzył przed nim drzwi, Stanley nie był pewien, czy zatrzymałby się tylko dlatego, że za progiem leżała cudza krzywda.
 
@@ -470,13 +492,23 @@ Stanley spojrzał na dłoń. Była sucha, pewna, zadbana. Dłoń człowieka, kt�
 
 Nie podpisał od razu.
 
-Najpierw wypił whisky. Za dużo naraz. Alkohol zapiekł go w gardle, uderzył do oczu i przez chwilę świat rozmazał się w bursztynowych krawędziach. Odstawił szklankę, wziął długopis i złożył podpis w wyznaczonym miejscu.
+Powinien zapytać o ludzi z wyspy. Powinien zapytać, kto jeszcze przeczytał jego manuskrypt. Powinien zapytać, co stanie się z nim, jeśli odmówi.
+
+Zapytał:
+
+— Kiedy zobaczę laboratorium?
+
+Witchins uśmiechnął się powoli.
+
+— Wiedziałem, że się zrozumiemy.
+
+Dopiero wtedy Stanley wypił whisky. Za dużo naraz. Alkohol zapiekł go w gardle, uderzył do oczu i przez chwilę świat rozmazał się w bursztynowych krawędziach. Odstawił szklankę, wziął długopis i złożył podpis w wyznaczonym miejscu.
 
 Stanley Hutchins.
 
 Pismo wyszło niemal równe.
 
-Dopiero potem uścisnął dłoń senatora.
+Potem uścisnął dłoń senatora.
 
 — Randyll — powiedział Witchins.
 
