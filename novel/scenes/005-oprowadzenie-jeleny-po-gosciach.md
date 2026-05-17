@@ -146,6 +146,10 @@ Uścisnął jej dłoń obiema rękami, z przesadną serdecznością starego poli
 
 — Właśnie. Nudy najwyższego rzędu.
 
+— Sądziłam, że polityka bywa niebezpieczna.
+
+— Niebezpieczne są tylko rzeczy źle nazwane. Prawo, doktor Ivanova, jest sposobem, w jaki cywilizacja prosi nas, żebyśmy kłamali składniej.
+
 Wiedziała już po pierwszych dziesięciu sekundach, że ten człowiek jest groźniejszy, niż chciał wyglądać. Paxton miał w sobie przemoc. Boyle — konieczność. Witchins miał coś bardziej trwałego: zdolność nadawania przemocy i konieczności nazw, po których ludzie czuli się lepiej.
 
 — Niech pani uważa na profesora Boyle’a — dodał senator półgłosem, tak by jednak wszyscy mogli usłyszeć. — W jego domu nawet zegary sprawiają wrażenie, że podpisały klauzulę poufności.
@@ -240,7 +244,7 @@ Ta drobna wymiana rozluźniła pomieszczenie na tyle, by służba mogła przejś
 
 Nie podniósł głosu. Nie musiał. Wystarczyło, że zaczął mówić, a wszystkie rozmowy ucichły.
 
-— Za chwilę przejdziemy do stołu. Nie będzie przemówień. Przemówienia są po to, żeby ludzie mogli ukryć brak decyzji za rytmem zdań. My mamy decyzje. Potrzebujemy tylko ustalić, kto jeszcze rozumie ich konsekwencje.
+— Za chwilę przejdziemy do stołu. Nie będzie przemówień. Przemówienia są po to, żeby ludzie mogli ukryć brak decyzji za rytmem zdań. My decyzje już mamy. Kości zostały rzucone wcześniej, poza tym domem i bez świadków. Dzisiejszy wieczór jest tylko pierwszym momentem, w którym wszyscy mogą usłyszeć ich stukot.
 
 Jelena poczuła, że w pokoju zmieniło się ciśnienie.
 
