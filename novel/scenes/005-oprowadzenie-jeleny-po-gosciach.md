@@ -244,7 +244,7 @@ Ta drobna wymiana rozluźniła pomieszczenie na tyle, by służba mogła przejś
 
 Nie podniósł głosu. Nie musiał. Wystarczyło, że zaczął mówić, a wszystkie rozmowy ucichły.
 
-— Za chwilę przejdziemy do stołu. Nie będzie przemówień. Przemówienia są po to, żeby ludzie mogli ukryć brak decyzji za rytmem zdań. My decyzje już mamy. Kości zostały rzucone wcześniej, poza tym domem i bez świadków. Dzisiejszy wieczór jest tylko pierwszym momentem, w którym wszyscy mogą usłyszeć ich stukot.
+— Za chwilę przejdziemy do stołu. Senator powie potem kilka słów, bo od tego są senatorowie: zamieniają fakty dokonane w coś, co brzmi jak wspólna decyzja. Proszę jednak nie mylić inauguracji z naradą. My decyzje już mamy. Kości zostały rzucone wcześniej, poza tym domem i bez świadków. Dzisiejszy wieczór jest tylko pierwszym momentem, w którym wszyscy mogą usłyszeć ich stukot.
 
 Jelena poczuła, że w pokoju zmieniło się ciśnienie.
 
