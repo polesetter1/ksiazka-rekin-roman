@@ -10,19 +10,19 @@ Wprowadzenie Skyros i Skyropuli jako miejsca pozornie wakacyjnego, lecz od pocz�
 
 Z góry Skyropula wyglądała jak zielony kamień wrzucony w Morze Egejskie.
 
-Dopiero gdy Cessna obniżyła lot, Stanley Hutchins zobaczył ranę pośrodku wyspy: wykarczowany krąg lasu, betonowy plac i kilka dróg tymczasowych, które przecinały zieleń jak świeże szwy. Dalej były tylko skały, karłowate drzewa, strome brzegi i woda tak niebieska, że przez chwilę wydawała się nierealna.
+Dopiero gdy Cessna obniżyła lot, Stanley Hutchins zobaczył ranę pośrodku wyspy: wykarczowany krąg lasu, betonowy plac i drogi tymczasowe, które przecinały zieleń jak świeże szwy. Dalej były tylko skały, karłowate drzewa, strome brzegi i woda tak niebieska, że wydawała się nierealna.
 
 — Pięć kilometrów drogą morską od Skyros — powiedział doktor Henry Marshall, pochylając się do okna z miną człowieka, który bardzo chciał być pomocny. — Drogą lądową podobnie, jeśli liczyć od hotelu do przystani. Sama Skyropula ma około pięciuset hektarów. Niewiele, ale wystarczy.
 
-Stanley nie odpowiedział od razu.
+Stanley nie odpowiedział.
 
 Wystarczy na co? Na laboratorium? Na bazę? Na więzienie?
 
-Wyspa przesunęła się pod nimi powoli, jak eksponat na stole sekcyjnym. Z tej wysokości nie było widać ludzi. To go uspokoiło bardziej, niż powinno.
+Wyspa przesunęła się pod nimi jak eksponat na stole sekcyjnym. Z tej wysokości nie było widać ludzi. To go uspokoiło bardziej, niż powinno.
 
 — Nie wygląda na zamieszkaną — powiedział.
 
-Marshall poprawił okulary. Był niski, łysiejący, miękki w sylwetce, z rudawym wąsem, który nie pasował do jego twarzy tak wyraźnie, jakby został doklejony po namyśle.
+Marshall poprawił okulary. Był niski, łysiejący, miękki w sylwetce, z rudawym wąsem, który wyglądał, jakby ktoś dokleił go po namyśle.
 
 — Teraz już nie.
 
@@ -32,7 +32,7 @@ Stanley odwrócił głowę od okna.
 
 Marshall zamrugał.
 
-— To znaczy… nie w sensie stałej infrastruktury. Miejscowi korzystali z wyspy raczej sezonowo. Pastwiska, małe gospodarstwa, kaplica, podobno kilka magazynów rybackich. Rząd grecki uregulował sprawę.
+— To znaczy… nie w sensie stałej infrastruktury. Miejscowi korzystali z wyspy sezonowo. Pastwiska, małe gospodarstwa, kaplica, podobno kilka magazynów rybackich. Rząd grecki uregulował sprawę.
 
 „Uregulował” — pomyślał Stanley. Słowo czyste jak rękawiczka.
 
@@ -40,13 +40,13 @@ Marshall zamrugał.
 
 Nie rozumiał. Albo rozumiał aż za dobrze.
 
-Cessna zatoczyła szeroki łuk nad morzem i skierowała się ku Skyros. W oddali, przy większej wyspie, widać było pas startowy, biały pas zabudowań i góry wypalone słońcem. Skyros wyglądała normalnie. Hotele, drogi, łodzie, ludzie, którzy żyli swoje małe, skończone życia. Skyropula, przed chwilą pod nimi, wyglądała jak miejsce już wyjęte z tego porządku.
+Cessna zatoczyła szeroki łuk nad morzem i skierowała się ku Skyros. Przy większej wyspie widać było pas startowy, białe zabudowania i góry wypalone słońcem. Skyros wyglądała normalnie. Hotele, drogi, łodzie, ludzie, którzy żyli swoje małe, skończone życia. Skyropula wyglądała jak miejsce już wyjęte z tego porządku.
 
 — Na razie będzie pan mieszkał w Skyros — odezwał się Marshall. — Klimat nie różni się bardzo od kalifornijskiego. Powinien pan szybko przywyknąć.
 
 — Codzienne podróże mogą być uciążliwe.
 
-— Rozumiem. — Marshall pogładził wąsa. — Do końca roku powinny powstać pierwsze prowizoryczne domki na Skyropuli. Oczywiście nie ma tyle miejsca, aby zamieszkała tam cała kadra. Zresztą… — zawahał się — część osób uważa, że lepiej, żeby kadra nie mieszkała tam stale.
+— Do końca roku powinny powstać pierwsze prowizoryczne domki na Skyropuli. Oczywiście nie ma tyle miejsca, aby zamieszkała tam cała kadra. Zresztą… — zawahał się — część osób uważa, że lepiej, żeby kadra nie mieszkała tam stale.
 
 — Dlaczego?
 
@@ -54,15 +54,13 @@ Cessna zatoczyła szeroki łuk nad morzem i skierowała się ku Skyros. W oddali
 
 Stanley spojrzał na niego uważniej.
 
-Marshall natychmiast się speszył.
-
-— Tak mówią. Ja tylko powtarzam.
+— Tak mówią — dodał Marshall szybko. — Ja tylko powtarzam.
 
 — A kiedy zaczniemy właściwe prace?
 
-Zapytał ostrzej, niż zamierzał. Był zmęczony. Po locie z Waszyngtonu do Aten, potem po przesiadce, po bezsennej nocy i po dwóch tygodniach udawania na Stanfordzie, że bierze urlop naukowy z powodów, które nie powinny nikogo interesować, miał ochotę spać. Miał też ochotę zobaczyć laboratorium. Jedno i drugie gryzło się w nim od rana.
+Zapytał ostrzej, niż zamierzał. Był zmęczony lotami, bezsenną nocą i dwoma tygodniami udawania na Stanfordzie, że bierze urlop naukowy z powodów, które nie powinny nikogo interesować. Chciał spać. Chciał też zobaczyć laboratorium. Jedno i drugie gryzło się w nim od rana.
 
-— Zapewniano mnie, że przed końcem roku — powiedział Marshall. — Część pomieszczeń podziemnych istniała już wcześniej. Stąd ten betonowy plac. Ale doktor King stwierdził podczas pierwszej wizytacji, że przestrzeń jest niewystarczająca. Kazał rozkopać wyspę bardziej.
+— Zapewniano mnie, że przed końcem roku — powiedział Marshall. — Część pomieszczeń podziemnych istniała już wcześniej. Stąd betonowy plac. Ale doktor King stwierdził podczas pierwszej wizytacji, że przestrzeń jest niewystarczająca. Kazał rozkopać wyspę bardziej.
 
 — I?
 
@@ -79,8 +77,6 @@ Stanley przez moment patrzył na niego bez słowa.
 — Naturalnie. Kiedy ziemia usuwa się spod nóg, najlepiej przyspieszyć.
 
 Marshall wydał z siebie krótki, nerwowy śmiech, jakby nie był pewien, czy profesor żartuje.
-
-— Senator nalegał — powtórzył ciszej.
 
 Samolot zadrżał lekko. Marshall uchwycił się podłokietnika. Stanley nawet nie drgnął.
 
@@ -100,7 +96,7 @@ Marshall spojrzał na niego szybko, jakby nie wiedział, ile wolno powiedzieć c
 
 — Właśnie.
 
-Wypowiedź przerwał wstrząs. Koła Cessny uderzyły o asfalt lądowiska. Samolot podskoczył raz, drugi, po czym potoczył się pasem. Z tyłu ktoś zaklął półgłosem. Jeden z inżynierów, których Stanleyowi przedstawiono jeszcze w Atenach, obudził się z otwartymi ustami i rozejrzał z przerażeniem.
+Koła Cessny uderzyły o asfalt lądowiska. Samolot podskoczył raz, drugi, po czym potoczył się pasem. Z tyłu ktoś zaklął półgłosem. Jeden z inżynierów, których Stanleyowi przedstawiono jeszcze w Atenach, obudził się z otwartymi ustami.
 
 Lot się skończył.
 
@@ -112,7 +108,7 @@ Stanley rozpiął pasy i powoli wstał. Szczęka rozchyliła mu się w głęboki
 
 Marshall znów nie wiedział, czy powinien się śmiać.
 
-Gdy Stanley przeciskał się między fotelami do wyjścia, stewardessa budziła pozostałych pracowników. Czterech inżynierów w granatowych marynarkach zbierało teczki i torby, jakby przylecieli na konferencję, a nie na wyspę, którą właśnie rozpruto od środka. Stanley nie zapamiętał ich nazwisk. Nie próbował. Mieli rozwiązać jednorazowe problemy, o których wspominał Marshall. W projekcie wszyscy mieli być od czegoś. Niektórzy od kabli, niektórzy od betonu, a niektórzy od późniejszego udawania, że nikt niczego nie przewidział.
+Gdy Stanley przeciskał się między fotelami do wyjścia, czterech inżynierów w granatowych marynarkach zbierało teczki i torby, jakby przylecieli na konferencję, a nie na wyspę rozprutą od środka. Stanley nie zapamiętał ich nazwisk. Mieli rozwiązać jednorazowe problemy, o których wspominał Marshall. W projekcie wszyscy mieli być od czegoś. Niektórzy od kabli, niektórzy od betonu, a niektórzy od późniejszego udawania, że nikt niczego nie przewidział.
 
 Drzwi otwarto. Uderzyło go światło.
 
@@ -126,7 +122,7 @@ Na płycie czekały dwie czarne limuzyny. Mercedesy klasy E, lśniące tak mocno
 
 Marshall powiedział to lekko, ale zaraz potem spuścił wzrok, jakby zorientował się, że powiedział za dużo.
 
-Wnętrze mercedesa było ciemne jak pudełko na kosztowności. Czarna skóra, mahoń, chłód klimatyzacji. Marshall usiadł naprzeciwko i wskazał barek wysuwający się spomiędzy siedzeń.
+Wnętrze mercedesa było ciemne jak pudełko na kosztowności: czarna skóra, mahoń, chłód klimatyzacji. Marshall usiadł naprzeciwko i wskazał barek wysuwający się spomiędzy siedzeń.
 
 — Może coś zimnego?
 
@@ -138,7 +134,7 @@ Stanley odmówił ruchem dłoni.
 
 Stanley uśmiechnął się krótko. Tylko trochę.
 
-Przez szybę obserwował Cessnę. Dwóch mężczyzn odpychało schody, ktoś zamykał luk bagażowy. Samolot miał zaraz ruszyć po kolejnych ludzi. Kolejnych specjalistów, kolejne nazwiska, kolejne tryby w maszynie, którą sam pomógł uruchomić, zanim jeszcze zobaczył jej kształt.
+Przez szybę obserwował Cessnę. Samolot miał zaraz ruszyć po kolejnych ludzi. Kolejnych specjalistów, kolejne nazwiska, kolejne tryby w maszynie, którą sam pomógł uruchomić, zanim jeszcze zobaczył jej kształt.
 
 — Ochrona jest dyskretna — dodał Marshall, kiedy limuzyna ruszyła. — Kamery, kierowcy, ludzie w hotelu. Po kilku dniach człowiek prawie przestaje zauważać.
 
@@ -146,13 +142,13 @@ Przez szybę obserwował Cessnę. Dwóch mężczyzn odpychało schody, ktoś zam
 
 — Tak to jest przy sponsorach.
 
-Marshall mówił potem o okolicy: o porcie, drogach, hotelach, o tym, gdzie serwują przyzwoitą kawę, a gdzie lepiej nie zamawiać ryb. Po kilku minutach jego głos zmienił się w brzęczenie owada uwięzionego pod szybą. Stanley patrzył na mijane uliczki i przytakiwał z grzeczności.
+Marshall mówił potem o porcie, drogach, hotelach, kawie i rybach, których lepiej nie zamawiać. Po kilku minutach jego głos zmienił się w brzęczenie owada uwięzionego pod szybą. Stanley patrzył na mijane uliczki i przytakiwał z grzeczności.
 
-Myślał o odpowiedzialności za to, co się stanie, jeśli im się nie uda.
+Myślał o tym, co się stanie, jeśli im się nie uda.
 
-A potem o wiele gorszej rzeczy: o tym, co się stanie, jeśli im się uda.
+A potem o wiele gorszej rzeczy: co się stanie, jeśli im się uda.
 
-Hotel Nefeli był śnieżnobiały. Tak biały, że kiedy Stanley wysiadł z samochodu, musiał zmrużyć oczy. Budynek stał wśród gęstej roślinności, która w tym upale wyglądała prawie nieprawdopodobnie. Dalej, za nim, widać było fragment morza i zbocze najwyższego wzgórza wyspy.
+Hotel Nefeli był śnieżnobiały. Tak biały, że Stanley musiał zmrużyć oczy. Stał wśród gęstej roślinności, która w tym upale wyglądała prawie nieprawdopodobnie. Dalej, za budynkiem, widać było fragment morza i zbocze najwyższego wzgórza wyspy.
 
 Marshall wysiadł za nim i natychmiast zaczął się pocić.
 
@@ -162,7 +158,7 @@ Marshall wysiadł za nim i natychmiast zaczął się pocić.
 
 — Nie, nie. To bardzo dobry hotel.
 
-Stanley wiedział, że zmęczenie czyni go złośliwym, ale nie potrafił tego w sobie powstrzymać.
+Stanley wiedział, że zmęczenie czyni go złośliwym, ale nie potrafił tego powstrzymać.
 
 — Dziękuję, doktorze Marshall.
 
@@ -182,13 +178,13 @@ Stanley odwzajemnił uśmiech odruchowo.
 
 — Oczywiście. Proszę za mną.
 
-Ruszyła w stronę wejścia. Stanley poszedł za nią, czując nagle całą ciężkość własnego ciała: loty, brak snu, koszulę przyklejoną do pleców, głowę pełną myśli, których nie dało się odsunąć. Przez moment zauważył jej nagie nogi, krótkie dżinsowe spodenki, warkocz opadający na zawiązaną w pasie koszulę. Zauważył też własne spojrzenie — zbyt długie, niepotrzebne.
+Ruszyła w stronę wejścia. Stanley poszedł za nią, czując ciężar własnego ciała: loty, brak snu, koszulę przyklejoną do pleców, głowę pełną myśli, których nie dało się odsunąć. Przez moment zauważył jej nagie nogi, krótkie dżinsowe spodenki, warkocz opadający na zawiązaną w pasie koszulę. Zauważył też własne spojrzenie — zbyt długie, niepotrzebne.
 
 Odwrócił wzrok pierwszy.
 
-Nie był z kobietą od bardzo dawna. Ta myśl przyszła nagle, brutalnie, bez związku z miejscem i natychmiast go zirytowała. Był profesorem, nie chłopcem na wakacjach. Przyjechał tu, żeby pracować nad czymś, czego inni bali się nazwać.
+Nie był z kobietą od bardzo dawna. Myśl przyszła nagle, brutalnie, i natychmiast go zirytowała. Był profesorem, nie chłopcem na wakacjach. Przyjechał tu, żeby pracować nad czymś, czego inni bali się nazwać.
 
-A jednak ciało miało swoje małe, żałosne terminy ważności. Domagało się snu, alkoholu, dotyku, zapomnienia. Nawet teraz. Zwłaszcza teraz.
+A jednak ciało miało swoje małe, żałosne terminy ważności. Domagało się snu, alkoholu, dotyku, zapomnienia. Zwłaszcza teraz.
 
 Hol był chłodny, wyłożony jasnymi kafelkami. Dziewczyna, która przedstawiła się jako Tala, podała mu klucz do pokoju L113. Po drodze mówiła coś o częściach hotelu — Villas Lino, Villas Gyrismata — ale Stanley zapamiętał tylko kształt korytarza i przyjemny półmrok.
 
@@ -200,7 +196,7 @@ Pokój był prosty: łóżko z jasnozielonym materacem, dwa krzesła o wiklinowy
 
 Ukłoniła się lekko i wyszła.
 
-Kiedy został sam, zdjął marynarkę, rozluźnił krawat i usiadł na łóżku. Materac był twardszy, niż wyglądał. Otworzył okiennice. Z balkonu zobaczył białe ściany hotelu, korony drzew, skrawek basenu i za nim wzgórze, na którym światło południa leżało jak kurz.
+Kiedy został sam, zdjął marynarkę, rozluźnił krawat i usiadł na łóżku. Otworzył okiennice. Z balkonu zobaczył białe ściany hotelu, korony drzew, skrawek basenu i za nim wzgórze, na którym światło południa leżało jak kurz.
 
 Skyros była piękna.
 
@@ -210,15 +206,13 @@ Ta różnica będzie mu towarzyszyć, pomyślał, po czym zamknął okiennice, z
 
 Zasnął, zanim zdążył zdjąć buty.
 
-Kiedy się obudził, zegarek wskazywał dwudziestą. Spał tylko cztery godziny, ale ciało uznało to za dar. Przez chwilę siedział na brzegu łóżka, rozcierając zdrętwiałą lewą rękę. Czerwcowy wieczór wciąż był jasny. Za oknem słychać było śmiech, plusk wody i muzykę.
+Kiedy się obudził, zegarek wskazywał dwudziestą. Spał tylko cztery godziny, ale ciało uznało to za dar. Za oknem słychać było śmiech, plusk wody i muzykę.
 
 Mógł zostać w pokoju. Powinien zostać w pokoju. Zamówić herbatę, przeczytać notatki Marshalla, przejrzeć manuskrypt, położyć się znowu.
 
 Zamiast tego poszedł do łazienki, obmył twarz zimną wodą i spojrzał w lustro.
 
-Wyglądał starzej niż rano.
-
-Nie staro. Gorzej: wyglądał jak człowiek, który bardzo długo udaje, że nie jest zmęczony.
+Wyglądał jak człowiek, który bardzo długo udaje, że nie jest zmęczony.
 
 — Dobry wieczór, przyszłości ludzkości — powiedział do odbicia.
 
@@ -233,8 +227,6 @@ Za hotelem trwała impreza.
 Pod drewnianym daszkiem wspartym na kamiennych kolumnach ustawiono bar. Część ludzi pływała w basenie, część leżała na leżakach, większość piła. Mężczyźni w krótkich spodenkach i hawajskich koszulach, kobiety w bikini, śmiech, pochodnie, muzyka.
 
 Stanley spojrzał ponad ogrodem w stronę morza. Plaża była niedaleko, wystarczająco blisko, by słyszeć szum fal. Mimo to nikt nie siedział przy wodzie. Na zejściu do piasku wisiała żółta taśma i tablica z greckim napisem, pod którym ktoś dopisał po angielsku: **BEACH CLOSED — SHARK RISK**.
-
-Stanley zmrużył oczy.
 
 — Rekiny? — mruknął.
 
@@ -266,7 +258,7 @@ Barman uniósł brew, jakby Stanley zamówił operę w tawernie.
 
 Nalał. Oliwka wpadła do srebrzystego płynu z małym pluskiem.
 
-Pierwszy łyk był za szybki. Stanley zakaszlał, ale zaraz poczuł, jak w gardle rozlewa się przyjemne ciepło. Nie ulga. Jeszcze nie. Obietnica ulgi.
+Pierwszy łyk był za szybki. Stanley zakaszlał, ale zaraz poczuł w gardle przyjemne ciepło. Nie ulgę. Jeszcze nie. Obietnicę ulgi.
 
 — Widzi pan? — powiedział barman. — Martini jest dla ludzi, którzy chcą cierpieć elegancko.
 
@@ -318,7 +310,7 @@ Posejdon uśmiechnął się szeroko.
 
 — Dlatego góra ma klientów.
 
-Po drugiej szklance świat stracił krawędzie. Po trzeciej zrobił się przyjazny. Po czwartej Stanley poczuł, że od wielu miesięcy, może lat, nikt nie wymaga od niego natychmiastowej odpowiedzi. Muzyka zwolniła. Śmiech ludzi przestał drażnić. Pochodnie wokół basenu drżały na wietrze, a on siedział na leżaku obok Tali i patrzył, jak wieczór zmienia wodę w ciemne szkło.
+Po drugiej szklance świat stracił krawędzie. Po trzeciej zrobił się przyjazny. Po czwartej Stanley poczuł, że od wielu miesięcy nikt nie wymaga od niego natychmiastowej odpowiedzi. Muzyka zwolniła. Śmiech ludzi przestał drażnić. Pochodnie wokół basenu drżały na wietrze, a on siedział na leżaku obok Tali i patrzył, jak wieczór zmienia wodę w ciemne szkło.
 
 Gdzieś wysoko, na rogu budynku, zauważył małą czarną kopułkę kamery.
 
