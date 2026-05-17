@@ -4,32 +4,262 @@
 
 ## Cel sceny
 
-Wprowadzenie postaci Jeleny Ivanovej.
+Wprowadzenie Jeleny Ivanovej jako ambitnej, inteligentnej i świadomej własnej wartości neurolog, która przyjmuje zaproszenie do świata amerykańskich sponsorów Projektu Matuzalem. Scena ma działać jako wcześniejszy chronologicznie epizod: zanim Stanley zobaczy Skyropulę, Jelena zostaje wprowadzona w orbitę Hewletta, Paxtona i przyszłego projektu. Ma pokazać nie tyle „kupowanie” Jeleny, ile mechanizm potwierdzania jej wyboru: luksus, swoboda, karta kredytowa, izolacja i poczucie wejścia do elity. W tle należy zawiesić niejasny cień rosyjskich służb, bez rozstrzygania, czy Jelena jest wtyką, czy jedynie osobą obserwowaną przez FSB.
 
 ## Treść sceny
 
-Stukot czarnych szpilek roznosił się po pustym lobby lotniska. Podczas gdy wszyscy pasażerowie musieli ustawić się w kolejce do kontroli, jedna postać przemierzała w spokoju, wypuszczona wcześniej przez szwadron żołnierzy, w stronę mężczyzny stojącego z tekturową kartką. Obserwował przez chwilę jej ładne łydki w czarnych pończochach. Od kolana w górę, nogi przysłonięte były granatową spódnicą. Wyżej kobieta miała ubraną formalną białą koszulę, na lewym ramieniu niosła torebkę, a przez prawe miała przerzucony ciemnoniebieski żakiet. Podczas, gdy kolega mężczyzny szukał jej torby, ona podeszła miękkim krokiem, mimo zmęczenia wielogodzinną podróżą, wyciągnęła rękę i uścisnęła zdecydowanie dłoń głównego przedstawiciela mikrokomitetu powitalnego.
-- Dzień dobry! Pan Mark Shore, jak mniemam - rzekła z wyraźnym rosyjskim akcentem.
-Mężczyzna schował kartkę z napisem "Jelena Ivanova" i odwzajemnił uścisk.
-- Zapraszam.
-Pod jego eskortą, śledzona przez uzbrojonych po zęby żołnierzy, udała się do wyjścia z lotniska. To było dość niezwykłe, aby w czasach skrupulatnych kontroli, gdzie zamachy zdarzały się co tydzień, przepuścić kogoś bez chociażby sprawdzenia czujnikiem metalu. Kobieta była jednak gościem prezydenta Stanów Zjednoczonych i tego typu procedury jej nie obowiązywały. Pan Shore poprowadził ją w stronę chodnika, gdzie wspólnie wsiedli do, ustawionej tam wcześniej, czarnej limuzyny Chevrolette'a. Siedzielil chwilę w milczeniu. Kobieta ziewnęła, poprawiła pończochy, a w tym czasie młody pomocnik pana Shore'a i, truchtając z dwiema torbami bagaży pod rękoma, otworzył bagażnik limuzyny, wrzucił bagaże do środka i przeniósł się na fotel szofera.
-Ruszyli w stronę hotelu, jadąc ulicami Nowego Jorku i rozmawiali kurtuazyjnie na tematy luźno powiązane z, mającym niedługo ruszyć, projektem.
-- Kto się do pani zgłosił? Szczerze mówiąc, nie wiem skąd wypłynęła kandydatura. To sam profesor Hutchins? - zagaił Shore.
-- Nie, skądże. Obawiam się, że profesor nawet nie wie o moim istnieniu. - rzekła piękna kobieta o czarnych włosach, rumianych policzkach i zielonych oczach, które odwróciły się od rozmówcy i obserwowały miasto. - Dzwonił do mnie pan Timothy Paxton. Rozmawialiśmy dwukrotnie przez wideokonferencje, umówiliśmy się na rozmowę pod Sankt Petersburgiem i, zgodnie z instrukcją, oto jestem! - uśmiechnęła się.
-Mark odpowiedział jej skinieniem głowy i przyłączył się do obserwacji kolejnych nowojorskich dzielnic, które mijała taksówka. Jelena cieszyła się na myśl o współpracy z tak młodym profesorem, o tak dużym autorytecie. Profesorem był, co prawda, od niedawna, ale w jej branży wzbudził wielkie zainteresowanie. Od kiedy tylko zaczął pojawiać się na międzynarodowych sympozjach naukowych. Jedyny raz miała go okazję spotkać i wysłuchować w Dubaju, jeszcze jako doktorantka sanktpetersburskiego uniwersytetu. Od tego czasu, wraz ze swoim promotorem, rozpoczęli równoległe prace nad zagadnieniem przedstawionym przez profesora Hutchinsa.
-Gdy dotarli pod hotel, Mark Shore dał kobiecie kartę kredytową i pożegnał się z nią słowami:
-- Jestem zmuszony teraz panią opuścić. Jest jeszcze kilka spraw, które muszę dziś załatwić. Tutaj jest karta kredytowa na pięćdziesiąt tysięcy dolarów. Jest na pani użytek, na czas pobytu w Nowym Jorku. Zaproszenie do pana Hewletta jest na za trzy dni. Proszę czuć się w tym czasie jak u siebie i dobrze się bawić! Proszę udać się do recepcji, podać swoje imię i nazwisko, a dostanie pani kartę i zostanie skierowana do pokoju hotelowego.
-- Dziękuję bardzo. - dygnęła Ivanova, będąca pod wrażeniem amerykańskiego przepychu i udała się w stronę recepcji.
-W międzyczasie, jeden z boyów hotelowych podążał już za nią, niosąc wyniesione z bagażnika torby, o których kobieta na śmierć zapomniała. Hotel był bardzo wystawny. Przywitał ją wielki, bogato zdobiony hol. Jelena nie przypominała sobie, by była kiedykolwiek w podobny miejscu, mimo iż niejednokrotnie bywała sanktpetersburskich i moskiewskich pałacykach. Tutaj był jednak zupełnie inny rodzaj przepychu. Bardziej burżujski, jak zwykło się mówić w pokoleniu jej dziadków.
-Zameldowała się w recepcji i weszła do windy, wraz z boyem hotelowym, który zdyszany, z rumianą twarzą stał w milczeniu nie wiedząc co powiedzieć. Jelena nie czuła potrzeby rozmowy z pucułowatym blondynem i w milczeniu, trzymając w rękach torebkę, mknęła na górę, w stronę trzynastego piętra budynku. Wyszedłszy na korytarz, wciąż jeszcze mając przed oczami wspaniały żyrandol, złocone zdobienia i piękne dywany z holu, sama kroczyła po miękkim jak wiosenna trawa materiale. W końcu weszła do pokoju hotelowego. Otworzyła go, przepuściła w drzwiach boya, który zostawił w środku bagaże i odprawiła go z przepraszającym gestem informującym, że nie ma przy sobie gotówki. Nieco zrezygnowany chłopak zamknął drzwi i zostawił Jelenę sam na sam ze swoim pokojem. Rosjanka podziwiała piękne mahoniowe łóżko i meble, wykonane z tego samego materiału. Przy łóżku był stolik kawowy, przy ścianie szafa, stolik, biurko oraz dwa krzesła. Na przeciwko stolika kawowego wisiał telewizor, a na rogu biurka stał piękny, starannie wykonany telefon. Taki jaki oglądało się tylko na filmach, z obrotowym bębnem służącym do wybierania numeru. Gdy tylko zawiesiła na nim wzrok słuchawka podskoczyła, a telefon odezwał się staromodnym brzęczeniem, sygnalizującym próbę kontaktu. Uniosła słuchawkę do ucha i usłyszała.
-- Serdecznie witamy, w imieniu hotelu Plaza. Prosimy o przyjrzenie się karty menu, zostawionej na stoliku nocnym i wybrać swoją dzisiejszą kolację, która zostanie przyniesiona do pani pokoju hotelowego. W razie pytań proszę dzwonić pod numer sześć-siedem-cztery. Uzyska tam pani wszystkie cenne informacje lub złoży interesujące panią zamówienie. życzymy miłego pobytu!
-Jelena podziękowała i odłożyła słuchawkę. "Jezu, dziękowała syntezatorowi." Zaśmiała się, wstała i zatańczyła po pokoju, z rozłożonymi rękami. Po kilku obrotach padła na łóżko, wciąż się śmiejąc i próbując sobie wyobrazić jak są witani naukowcy w jej kraju. Teraz czuła się jak królowa, w warunkach w jakich nie była nigdy wcześniej. W końcu spoważniała i wzięła w rękę kartę menu, zaczynając czytanie od dostępnych gatunków szampana.
+Trzy tygodnie przed przylotem Stanleya Hutchinsa na Skyropulę Nowy Jork przywitał Jelenę Ivanovą pustym korytarzem, uzbrojonymi żołnierzami i mężczyzną z tekturową kartką, na której starannie wypisano jej nazwisko.
+
+Nie lubiła takich kartek. Człowiek natychmiast stawał się przesyłką.
+
+Szła przez terminal spokojnie, choć po wielogodzinnej podróży bolały ją stopy. Czarne szpilki stukały o wypolerowaną posadzkę. Po lewej, za taśmami, zwykli pasażerowie stali w kolejce do kontroli. Zmęczone rodziny, studenci, biznesmeni zdejmujący paski, kobieta kłócąca się o butelkę perfum w bagażu podręcznym. Jelena minęła ich bez zatrzymania.
+
+To było przyjemne.
+
+I obrzydliwie proste.
+
+Wystarczyło, że ktoś wysoko postawiony wypowiedział jej nazwisko w odpowiednim pokoju, a system otwierał przejścia, które dla innych pozostawały zamknięte.
+
+Mężczyzna z kartką był wysoki, szczupły i zbyt starannie ubrany jak na lotniskowego kierowcę. Miał ciemny garnitur, jasny płaszcz przewieszony przez ramię i twarz człowieka, który zawodowo pamiętał nazwiska oraz zapominał pytania.
+
+— Doktor Ivanova? — zapytał.
+
+— Tak.
+
+— Daniel Mercer. Biuro pana Hewletta.
+
+Uścisnęła jego dłoń. Sucha, chłodna, pewna. Asystent, nie ochroniarz. Człowiek od miękkich drzwi.
+
+— Oczekiwano mnie? — zapytała.
+
+— Od kilku dni.
+
+— To brzmi groźniej niż „witamy w Ameryce”.
+
+Mercer uśmiechnął się uprzejmie.
+
+— W naszym imieniu jedno zwykle oznacza drugie.
+
+Za jego plecami młodszy pracownik odebrał jej bagaż od człowieka w mundurze. Jelena zauważyła, że nikt nie zapytał jej o paszport. Nikt nie otworzył walizki. Nikt nie przesunął wykrywaczem metalu po jej żakiecie, pończochach ani torebce.
+
+— Pan Paxton przysłał samochód? — spytała.
+
+— Pan Paxton przekazał rekomendację. Pan Hewlett zapewnia gościnę.
+
+— A profesor Hutchins?
+
+— Profesor Hutchins, z tego co wiem, nie został jeszcze poinformowany o pełnym składzie zespołu.
+
+Jelena uniosła brew.
+
+— To znaczy, że jadę pracować z człowiekiem, który nie wie, że istnieję.
+
+— Zdarza się najlepszym projektom.
+
+— Najlepszym czy najdroższym?
+
+Mercer nie odpowiedział od razu. Ruszyli ku wyjściu. Po obu stronach korytarza żołnierze patrzyli przed siebie tak nieruchomo, jakby ćwiczyli bycie elementem wystroju.
+
+— W tym przypadku — powiedział w końcu — mamy nadzieję, że różnica będzie czysto akademicka.
+
+Przed terminalem czekała czarna limuzyna. Nie Chevrolet, nie przypadkowy samochód z wypożyczalni, lecz miękkie, lśniące zwierzę z przyciemnianymi szybami. Mercer otworzył drzwi. Jelena wsiadła bez pośpiechu.
+
+W środku było chłodno i cicho. Nowy Jork za szybą wyglądał jak ruchoma projekcja: taksówki, neony, beton, twarze, których nikt nie zapamięta. Mercer usiadł naprzeciwko niej, a młodszy pracownik zajął miejsce przy kierowcy.
+
+— Wie pan, że to wszystko jest bardzo nieeleganckie? — powiedziała Jelena.
+
+— Limuzyna?
+
+— Nie. Limuzyna jest wygodna. Nieeleganckie jest to, że wszyscy udajecie, że to nie jest selekcja.
+
+Mercer spojrzał na nią z łagodną ciekawością.
+
+— A jest?
+
+— Oczywiście. Najpierw przepuścić kobietę bez kontroli, potem dać jej samochód, hotel i pieniądze. Sprawdzić, czy będzie wdzięczna, chciwa, przestraszona albo rozgadana. Bardzo prymitywne.
+
+— I działa?
+
+Jelena popatrzyła przez okno. W szybie odbijała się jej twarz: zmęczona, blada po locie, ale wciąż wystarczająco spokojna.
+
+— Jeszcze nie wiem.
+
+To było kłamstwo.
+
+Działało od chwili, gdy minęła kolejkę zwykłych pasażerów.
+
+Mercer wyjął z wewnętrznej kieszeni cienką kopertę i położył ją na stoliku między nimi.
+
+— Hotel Plaza. Trzy noce. Apartament jest opłacony. W kopercie znajduje się karta kredytowa na pani użytek. Limit: pięćdziesiąt tysięcy dolarów.
+
+Jelena nie dotknęła koperty.
+
+— To łapówka?
+
+— Zaliczka na komfort.
+
+— Amerykanie mają piękne słowa na stare rzeczy.
+
+— Rosjanie też.
+
+Tym razem się uśmiechnęła.
+
+Mercer nie był głupi. To dobrze. Głupi ludzie w eleganckich garniturach drażnili ją bardziej niż zwykli głupi ludzie, bo kosztowali więcej.
+
+— Pan Paxton mówił, że rozmawiali państwo pod Petersburgiem — powiedział.
+
+— Rozmawialiśmy.
+
+— I że była pani gotowa.
+
+Jelena przesunęła palcem po krawędzi koperty.
+
+Gotowa.
+
+Nie Paxton użył tego słowa pierwszy.
+
+Dwa dni przed spotkaniem w podmiejskim ośrodku pod Petersburgiem zadzwonił do niej numer bez nazwy. Mężczyzna po rosyjsku, z miękkim moskiewskim „o”, powiedział tylko, że służba ojczyźnie czasem polega na przyjmowaniu zaproszeń, a czasem na pamiętaniu szczegółów. Nie przedstawił się. Nie musiał.
+
+Odłożyła wtedy telefon i przez godzinę siedziała w kuchni, patrząc na czajnik, który zdążył wystygnąć.
+
+Teraz, w limuzynie, Mercer czekał na odpowiedź.
+
+— Pan Paxton usłyszał to, co chciał usłyszeć — powiedziała.
+
+— A ja?
+
+— Pan jest asystentem Hewletta. Pan słyszy tylko to, co warto zapisać.
+
+Mercer skinął głową, jakby uznał punkt.
+
+— W takim razie zapiszę, że doktor Ivanova jest ostrożna.
+
+— Proszę dopisać: ostrożna, ale ciekawa.
+
+Hotel Plaza był rodzajem bogactwa, które nie prosiło o podziw. Zakładało go z góry. Złoto, marmur, dywany, kwiaty, cisza obsługi. Jelena znała petersburskie pałace, moskiewskie gabinety i akademickie sale, w których stare drewno miało udawać tradycję. Tutaj przepych był inny. Mniej historyczny, bardziej bezwstydny. Jakby ktoś powiedział: tak, wszystko to kupiliśmy, i co z tego?
+
+Mercer odprowadził ją do recepcji, przekazał dokumenty i zniknął, zanim zdążyła zdecydować, czy go polubiła.
+
+W apartamencie boy hotelowy postawił jej walizki przy mahoniowej szafie i czekał przez sekundę na napiwek. Jelena uśmiechnęła się przepraszająco. Nie miała gotówki. Chłopak przyjął porażkę z godnością człowieka, który wielokrotnie widział bogactwo cudzych pokoi i biedę cudzych kieszeni.
+
+Kiedy drzwi się zamknęły, została sama.
+
+Łóżko było ogromne. Telefon na biurku wyglądał, jakby należał do filmu o starych milionerach i młodych sekretarkach. Na stoliku leżała karta menu. W kopercie — karta kredytowa, cięższa niż powinna.
+
+Telefon zadzwonił niemal natychmiast.
+
+Jelena podniosła słuchawkę.
+
+— Serdecznie witamy w hotelu Plaza — powiedział mechanicznie uprzejmy głos. — Prosimy o zapoznanie się z kartą menu pozostawioną na stoliku nocnym. Dzisiejsza kolacja może zostać przyniesiona do pani apartamentu. W razie pytań prosimy dzwonić pod numer sześć-siedem-cztery.
+
+— Dziękuję — powiedziała Jelena.
+
+Odłożyła słuchawkę.
+
+Przez chwilę patrzyła na telefon, po czym roześmiała się cicho.
+
+Podziękowała nagraniu.
+
+Wspaniale. Wystarczyły marmury i karta kredytowa, żeby doktor Jelena Ivanova z Petersburga zaczęła dziękować meblom.
+
+Zdjęła szpilki, przeszła boso po dywanie i położyła się na łóżku, rozkładając ręce. Przez kilka sekund pozwoliła sobie na głupią, dziecinną radość. Nie dlatego, że była kupiona. Była kupiona wcześniej: przez dostęp, przez ambicję, przez obietnicę pracy z Hutchinsem, przez możliwość dotknięcia problemu, o którym inni tylko publikowali ostrożne artykuły.
+
+To tutaj było czymś innym.
+
+To było potwierdzenie ceny.
+
+Leżała, patrząc w sufit, i uświadomiła sobie, że najbardziej drażni ją nie mechanizm uwodzenia, lecz to, jak dobrze został dopasowany.
+
 ***
-Kolejne dni Jelena spędzała ciesząc się samą swoją obecnością w Nowym Jorku. Korzystała z wystawnych posiłków. Rozmawiała w restauracji z innymi gośćmi hotelowymi. Między innymi z grupą tatarskich przedsiębiorców spod Kazania. Omawali współczesną politykę rosyjską, sztukę oraz współczesny balet, który w młodości trenowała. Pierwszego wieczoru, wraz z nimi, wybrali się na rosyjskie wykonanie "Jeziora łabędziego". Resztę dni spędzała na zakupach w modnych butikach, przechadzała się nowojorskimi bulwarami, ulicami. Spędziła sporo czasu w Central Parku, odwiedziła Broadway. Czuła się zupełnie wolna, udało jej się wyrzucić wszelkie zobowiązania daleko w tył głowy. Dodatkowo pięćdziesiąt tysięcy dolarów na karcie sprawiało, że była panią życia. Pozwalała sobie na wszystko co tylko wpadło jej do głowy.
-Po trzech dniach ponownie zjawił się Mark Shore, który polecił by się spakowała. Zjedli jeszcze wspólny obiad w hotelowej restauracji i, wraz z dwójką innych gości hotelowych, udali się do tej samej limuzyny, którą przyjechała do hotelu. Dobrze wspominała ten czas i sam hotel, wiedziąc, że z własnych pieniędzy zapewne nigdy tam nie wróci. Cieszyła się w duchu, że nie dostała w ręce kwoty do zarządzania, z której nadwyżkę mogła sobie pozostawić, bo wówczas napewno wzbraniałaby się przed wieloma zachciankami.
-Podróż jaką mieli do posiadłości Gregory'ego Hewletta była bardzo długa. Jechali przez wiele godzin na północ Stanów Zjednoczonych. Mijali kolejne stany. Pierwszą noc spędzili w motelu, którego komfort nie mógł się równać z hotelem Plaza. Niemniej, to miejsce również miało swój amerykański klimat. Jelena zjadła tam na kolację pyszne tosty na grubym chlebie, pograła w rzutki i wypiła piwo wraz z Markiem i towarzyszami. Byli to programiści z Brazylii oraz Niemiec - Rodrigo i Helga. Razem stanowili chyba komplet najbardziej charakterystycznych akcentów języka angielskiego. Rozumieli się całkiem dobrze, choć Jelena musiała przyznać, że jeśli chodzi o charakter i podejście do życia, programiści stanowią zupełnie inną parę kaloszy niż ktokolwiek inny. Gdy rano wsiedli w samochód, w końcu dojechali do hrabstwa Cook w Minnesocie. Zgodnie ze wskazaniem licznika, przejechali łącznie tysiąc trzysta pięćdziesiąt mil.
-- To właśnie to hrabstwo - odezwał się Mark, siedzący po lewej strony Jeleny - jest w zasadzie własnością pana Gregory'ego Hewletta. Jest właścicielem niemal wszystkiego co tutaj istnieje. Na przykład to centrum natury Sugarloaf Cove. Poza tym mały bank spółdzielczy. W przeszłości wszystko należało tutaj do niego i jego rodziny. Oczywiście teraz, gdy wybudował niewielkie centrum handlowe w największym lokalnym miasteczku Grand Marais. Jego przodkowie mieszkali tutaj od pokoleń. Ma tutaj bardzo ładną rezydencję, która z pewnością się wam spodoba. Została nam do niej godzina jazdy.
-Jelena rozglądała się zaciekawiona. Krajobraz przypominał w znacznym stopniu rosyjski. Nie była to może tundra, ale na tej szerokości geograficznej było tutaj bardzo dużo lasów, a klimat był stosunkowo chłodny. W dzień w którym jechali, niewiele słońca docierało na ziemię i, gdy przejeżdżali przez miasteczko Schroeder, ubiór mieszkańców wskazywał na to, że nie jest zbyt ciepło.
-- O! Teraz wjeżdżamy do lasu będącego częścią lasu narodowego. W jego głębi znajduje się posiadłość pana Hewletta, który lubi sobie tutaj często polować. - poinformował ich pan Shore.
-Jelena obserwowała z zachwytem mieszany las liściasty, z wielkimi drzewami liczącymi sobie po kilkaset lat. Wąska asfaltowa droga, która wiodła ich w stronę posiadłości również była kojąco spokojna. Wydawało się, że są na niej pierwszym autem od miesięcy.
-Gdy w końcu dotarli, zobaczyła piękną, zdobioną mosiężną bramę, wysoką na ponad dwa metry. Ogrodzony teren musiał być spory, gdyż po tym, gdy Mark wysiadł i przedstawił się do domofonu, wyposażonego w kamerę, brama otworzyła się a oni jechali do domostwa jeszcze przez niemal minutę. Sama posiadłość była ogromną, trzypiętrową willą, porównywalną gabarytowo z zamkiem. Znajdowała się na wzgórzu. Tuż za nią był spad, prowadzący do sporego w swoich rozmiarach jeziora. Wszystko było tutaj w idealnym porządku, zresztą widziała dwóch ogrodników strzyżących żywopłoty i drzewka, aby wszystko było w należytym porządku. Bruk, którym jechali był również wspaniale utrzymany i wbudowany w okoliczny krajobraz. Dopiero po chwili Jelena zorientowała się, że jej dolna szczęka bezwiednie opadła. W końcu auto się zatrzymało i pasażerowie z niego wysiedli.
+
+Trzy dni w Nowym Jorku minęły szybko i prawie bez znaczenia.
+
+Prawie.
+
+Jelena jadła śniadania, które kosztowały więcej niż miesięczny czynsz młodego badacza w Petersburgu. Kupiła dwie sukienki, których nie potrzebowała, i buty, które uznała za absolutnie konieczne dopiero po tym, jak zobaczyła ich cenę. Poszła na balet, wypiła szampana z tatarskimi przedsiębiorcami spod Kazania i przez pół wieczoru udawała, że polityka rosyjska jest czymś, o czym można rozmawiać bez ostrożności.
+
+Dwa razy dzwonił telefon w apartamencie.
+
+Za pierwszym razem odebrała i usłyszała tylko ciszę. Za drugim nie odebrała wcale.
+
+Nie wiedziała, czy to Mercer, hotel, Paxton, pomyłka, czy ktoś, kto chciał sprawdzić, czy nadal pamięta moskiewski głos z kuchni. Nie próbowała się dowiedzieć. Niektóre pytania traciły użyteczność w chwili, gdy zaczynało się je zadawać.
+
+Ostatniego poranka Mercer wrócił punktualnie o dziewiątej.
+
+— Proszę zabrać tylko rzeczy potrzebne na dwa dni — powiedział. — Reszta bagażu pojedzie osobno.
+
+— Dokąd?
+
+— Do Minnesoty.
+
+— Samochodem?
+
+— Samolotem do Duluth. Potem samochodem. Pan Hewlett lubi, gdy goście zobaczą drogę.
+
+— Do domu czy do władzy?
+
+Mercer uśmiechnął się.
+
+— W jego przypadku to ta sama trasa.
+
+Na prywatnym terminalu czekało już dwoje innych gości: Rodrigo Alvarez z Brazylii i Helga Weiss z Niemiec. Programiści. Oboje z tym samym spojrzeniem ludzi, którzy umieli rozmawiać z maszynami lepiej niż z obsługą lotniska. Rodrigo mówił szybko, Helga precyzyjnie, a ich angielski wspólnie brzmiał jak konferencja, której nikt nie zdążył przetłumaczyć.
+
+Jelena polubiła ich po dziesięciu minutach i zmęczyła się nimi po dwudziestu.
+
+Lot do Duluth był krótki. Dalsza podróż samochodem trwała dłużej, niż zapowiadał Mercer. Za szybami miasta ustąpiły drogom, drogi lasom, a lasy wodzie i skale. Północ Minnesoty nie przypominała Ameryki z hotelu Plaza. Przypominała coś starszego, chłodniejszego, prawie rosyjskiego — ale bez rosyjskiego poczucia klęski.
+
+Mercer siedział z przodu. Tym razem mówił mniej. Dopiero gdy minęli Grand Marais i droga zwęziła się między ścianami lasu, odwrócił się do pasażerów.
+
+— Formalnie pan Hewlett nie posiada hrabstwa — powiedział. — To byłoby niezgodne z amerykańskim duchem wolności.
+
+Rodrigo parsknął.
+
+— A nieformalnie?
+
+— Nieformalnie posiada bank, fundację przyrodniczą, dwa hotele, większość ziemi nad jeziorem, część lokalnej prasy i ludzi, którzy wygrywają tu wybory. Różnica jest bardziej prawna niż praktyczna.
+
+Helga zapisała coś w notesie.
+
+— To legalne?
+
+— W Stanach Zjednoczonych większość rzeczy jest legalna, jeśli robi się je wystarczająco długo i z odpowiednią fundacją.
+
+Jelena patrzyła na las. Wielkie drzewa stały po obu stronach drogi jak strażnicy. Zmęczenie po podróży zaczęło przechodzić w napięcie. Hotel, zakupy i szampan były już tylko pierwszą warstwą. Teraz wjeżdżali w głąb czyjegoś świata.
+
+Nie projektu.
+
+Władzy.
+
+Brama pojawiła się między drzewami nagle: mosiężna, wysoka, ozdobiona znakiem, którego Jelena nie rozpoznała od razu. Okrąg, linie, coś między herbem rodzinnym a symbolem organizacji, która nigdy nie używa słowa „organizacja”.
+
+Mercer wysiadł, powiedział coś do domofonu i spojrzał prosto w kamerę. Brama otworzyła się bezszelestnie.
+
+Jechali jeszcze minutę przez teren, który był zbyt starannie utrzymany, by można go nazwać lasem, i zbyt dziki, by nazwać parkiem. Ogrodnicy pracowali przy żywopłotach. Dwóch mężczyzn w ciemnych kurtkach stało przy bocznej ścieżce i nie udawało ogrodników.
+
+Posiadłość Hewletta wznosiła się na wzgórzu nad jeziorem.
+
+Nie była willą. Była komunikatem.
+
+Trzy piętra kamienia, szkła i ciemnego drewna. Tarasy schodzące ku wodzie. Dachy, wieże, miedziane rynny, ogromne okna odbijające szare niebo. Dom wyglądał, jakby ktoś połączył europejski zamek, amerykański klub myśliwski i bank, który postanowił zostać świątynią.
+
+Jelena zorientowała się, że patrzy z otwartymi ustami, i zamknęła je natychmiast.
+
+Mercer otworzył drzwi samochodu.
+
+— Witamy u pana Hewletta.
+
+Wysiadła. Chłodne powietrze pachniało lasem, jeziorem i dymem z kominka.
+
+Na schodach przed wejściem czekało kilka osób. Obsługa, dwóch ochroniarzy, wysoki mężczyzna w ciemnym garniturze, którego nie znała, i ktoś jeszcze, stojący w głębi, częściowo ukryty w cieniu drzwi.
+
+Jelena poprawiła żakiet.
+
+Nie była zachwycona.
+
+Nie wolno jej było być zachwyconą.
+
+Ale poczuła, że mechanizm zadziałał dokładnie tak, jak miał zadziałać. Nie dlatego, że dostała hotel, kartę i widok na jezioro. Dlatego, że na końcu tej drogi czekał pokój, w którym ludzie mówili o przyszłości tak, jak inni mówią o zakupie ziemi.
+
+A ona chciała wejść do tego pokoju.
+
+Najgorsze było to, że od początku to wiedziała.
