@@ -4,7 +4,7 @@
 
 ## Cel sceny
 
-Wprowadzenie Skyros i Skyropuli jako miejsca pozornie wakacyjnego, lecz od początku naznaczonego przemocą projektu. Przedstawienie doktora Henry’ego Marshalla jako niepewnego przewodnika po przedsięwzięciu oraz pokazanie pierwszego pęknięcia Stanleya: zmęczenie, samotność, napięcie i alkohol prowadzą go do kompromitacji, którą ktoś może później wykorzystać. Scena ma zachować czarny, ludzki humor wynikający z kontrastu między wakacyjną Grecją a tajnym projektem przekroczenia śmierci.
+Wprowadzenie Skyros i Skyropuli jako miejsca pozornie wakacyjnego, lecz od początku naznaczonego przemocą projektu. Przedstawienie doktora Henry’ego Marshalla jako niepewnego przewodnika po przedsięwzięciu oraz pokazanie pierwszego pęknięcia Stanleya: zmęczenie, samotność, napięcie i alkohol prowadzą go do kompromitacji, którą ktoś może później wykorzystać. Scena ma zachować czarny, ludzki humor wynikający z kontrastu między wakacyjną Grecją a tajnym projektem przekroczenia śmierci. Dodatkowo scena ma subtelnie zasiać motyw zagrożenia rekinami, aby późniejszy transfer Romana do rekina nie pojawił się znikąd.
 
 ## Treść sceny
 
@@ -136,21 +136,19 @@ Stanley odmówił ruchem dłoni.
 
 — W Grecji nigdy nie jest za wcześnie.
 
-— To brzmi jak dewiza kraju, który długo nie przetrwa.
-
-Marshall uśmiechnął się niepewnie. Stanley też. Tylko trochę.
+Stanley uśmiechnął się krótko. Tylko trochę.
 
 Przez szybę obserwował Cessnę. Dwóch mężczyzn odpychało schody, ktoś zamykał luk bagażowy. Samolot miał zaraz ruszyć po kolejnych ludzi. Kolejnych specjalistów, kolejne nazwiska, kolejne tryby w maszynie, którą sam pomógł uruchomić, zanim jeszcze zobaczył jej kształt.
 
-Limuzyna ruszyła.
+— Ochrona jest dyskretna — dodał Marshall, kiedy limuzyna ruszyła. — Kamery, kierowcy, ludzie w hotelu. Po kilku dniach człowiek prawie przestaje zauważać.
 
-Marshall mówił o okolicy: o porcie, drogach, hotelach, o tym, gdzie serwują przyzwoitą kawę, a gdzie lepiej nie zamawiać ryb, chyba że ktoś lubi rozmawiać z Bogiem przez kanalizację. Po kilku minutach jego głos zmienił się w brzęczenie owada uwięzionego pod szybą. Stanley patrzył na mijane uliczki i przytakiwał z grzeczności.
+— „Prawie” robi tu sporo pracy.
 
-Myślał o odpowiedzialności.
+— Tak to jest przy sponsorach.
 
-Nie o karze. Nie o senatorze. Nie o pieniądzach.
+Marshall mówił potem o okolicy: o porcie, drogach, hotelach, o tym, gdzie serwują przyzwoitą kawę, a gdzie lepiej nie zamawiać ryb. Po kilku minutach jego głos zmienił się w brzęczenie owada uwięzionego pod szybą. Stanley patrzył na mijane uliczki i przytakiwał z grzeczności.
 
-O odpowiedzialności za to, co się stanie, jeśli im się nie uda.
+Myślał o odpowiedzialności za to, co się stanie, jeśli im się nie uda.
 
 A potem o wiele gorszej rzeczy: o tym, co się stanie, jeśli im się uda.
 
@@ -164,9 +162,7 @@ Marshall wysiadł za nim i natychmiast zaczął się pocić.
 
 — Nie, nie. To bardzo dobry hotel.
 
-— Każdy hotel jest dobry, dopóki ma łóżko i nie pyta o sumienie.
-
-Marshall otworzył usta, po czym je zamknął. Stanley wiedział, że zmęczenie czyni go złośliwym, ale nie potrafił tego w sobie powstrzymać.
+Stanley wiedział, że zmęczenie czyni go złośliwym, ale nie potrafił tego w sobie powstrzymać.
 
 — Dziękuję, doktorze Marshall.
 
@@ -234,7 +230,19 @@ Tali nie było już za recepcją. Stała tam inna kobieta, wysoka brunetka z du�
 
 Za hotelem trwała impreza.
 
-Pod drewnianym daszkiem wspartym na kamiennych kolumnach ustawiono bar. Część ludzi pływała w basenie, część leżała na leżakach, większość piła. Mężczyźni w krótkich spodenkach i hawajskich koszulach, kobiety w bikini, śmiech, pochodnie, muzyka. Stanley w białej koszuli i spodniach od garnituru wyglądał jak człowiek, który pomylił pogrzeb z weselem.
+Pod drewnianym daszkiem wspartym na kamiennych kolumnach ustawiono bar. Część ludzi pływała w basenie, część leżała na leżakach, większość piła. Mężczyźni w krótkich spodenkach i hawajskich koszulach, kobiety w bikini, śmiech, pochodnie, muzyka.
+
+Stanley spojrzał ponad ogrodem w stronę morza. Plaża była niedaleko, wystarczająco blisko, by słyszeć szum fal. Mimo to nikt nie siedział przy wodzie. Na zejściu do piasku wisiała żółta taśma i tablica z greckim napisem, pod którym ktoś dopisał po angielsku: **BEACH CLOSED — SHARK RISK**.
+
+Stanley zmrużył oczy.
+
+— Rekiny? — mruknął.
+
+Brzmiało to jak turystyczny żart przygotowany przez kogoś, kto pomylił Morze Egejskie z Florydą. Albo jak wygodny pretekst, żeby trzymać ludzi bliżej hotelu, kamer i baru.
+
+Tak czy inaczej działało. Wszyscy bawili się przy basenie.
+
+Stanley w białej koszuli i spodniach od garnituru wyglądał pośród nich jak człowiek, który pomylił pogrzeb z weselem.
 
 Przez chwilę stał na progu.
 
@@ -336,9 +344,13 @@ Którzy kupili sąsiednią wyspę? Którzy wycięli jej środek? Którzy udają 
 
 — Którzy nie umieją pić — powiedział.
 
-Tala roześmiała się.
+Tala spojrzała w stronę morza. Uśmiech nie zniknął jej z twarzy, ale zrobił się cieńszy.
 
-— Niektórzy umieją. Pan jeszcze nie.
+— Ludzie z pieniędzmi zawsze mówią, że tylko przyjechali. Potem okazuje się, że zmienili mapę.
+
+Stanley zamilkł.
+
+— Niektórzy przynajmniej umieją pić — dodała po chwili. — Pan jeszcze nie.
 
 To powinno go rozbawić. Rozbawiło. Ale gdzieś pod śmiechem poczuł ukłucie upokorzenia.
 
