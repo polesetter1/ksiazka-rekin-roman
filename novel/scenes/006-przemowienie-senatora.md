@@ -4,10 +4,190 @@
 
 ## Cel sceny
 
-Oficjalna inauguracja projektu.
+Oficjalna inauguracja Projektu Matuzalem. Scena ma pokazać senatora Witchinsa jako człowieka, który potrafi nadać moralnie niebezpiecznemu przedsięwzięciu język misji cywilizacyjnej. Nie chodzi o podjęcie decyzji — te już zapadły — lecz o stworzenie wspólnego mitu, którym zespół będzie mógł się posługiwać. Nazwa „Projekt Matuzalem” pada tutaj po raz pierwszy jako oficjalna nazwa przedsięwzięcia. Scena ma być prowadzona przez punkt widzenia Jeleny: widzi ona, kto w co chce uwierzyć, kto klaszcze z przekonania, kto z obowiązku, a kto obserwuje reakcje innych.
 
 ## Treść sceny
 
-Kiedy w pomieszczeniu zaroiło się od osób, z którymi Jelena kolejno się witała, nie pamiętając za bardzo imion. Najbardziej w pamięć zapadło jej włoskie Vincenzo, jednak większość osób pracujących przy projekcie to byli Amerykanie lub przynajmniej Anglosasi, ze względu na mnogość angielskobrzmiących imion i nazwisk. W końcu, gdy zdawało się, że jest już komplet, wszyscy goście zostali zaproszeni do stołu. Na razie niczego jeszcze nie podano, choć zapachy, dobiegające z otwierających się co jakiś czas drzwi do kuchni, coraz bardziej przybierały na sile. Na samą myśl o tych zapachach Jelenie ciekła ślinka, ponieważ podczas tej długiej podróży z motelu do rezydencji pana Hewletta żywili się tylko na stacjach benzynowych. A ile można jeść hot dogów? Oczekiwanie się przeciągało, goście dyskutowali ze sobą, Jelena zdążyła wymienić parę zdań z profesorami Hutchinsem oraz Bale'm, z którymi rozmawiali o pracy tego pierwszego. Choć chyba bardziej zachwycony nią był ten drugi, który przyglądał się cały czas z zaciekawieniem, kiwał głową, wtrącał się podekscytowany. I to mimo swojego zaawansowanego wieku, przygarbionych pleców i rzadkich, siwych włosów, zdobiących w wątpliwy sposób białą skórę czaszki. Jego oczy były niebieskie, niemal blade, jednak głębia ich spojrzenia przenikała Jelenę do szpiku kości. Dopiero po jakimś czasie, gdy wszyscy wiercili się na swoich krzesłach, Jelena uświadomiła sobie, że jest obserwowana przez pana Hewletta. Patrzył teraz na nią i, z uśmiechem na ustach, robił młynek kciukami dłoni. Siedziała blisko szczytu stołu, u którego siedział on i lekko się zarumieniła. Naprzeciwko niej siedział profesor Stanley Hutchins, z jej prawej strony siedział Mark Shore, którego obecność dodawała jej otuchy. Mimo tego, że poznała  go zaledwie cztery dni wcześniej to musiała przyznać, że budził w niej znacznie większe zaufanie niż pan Paxton. Nie był, co prawda kimś, kto mógł się jej podobać. Nieco pucułowaty, o szerokiej budowie ciała, z tłuszczem odkładającym się na brzuchu i wokół bioder, z kręconymi blond włosami na głowie. Nie był stary, mógł być nawet młodszy od Jeleny, ale wyraźnie zaniedbywał sport. Niemniej, jego wyraz twarzy oraz sposób bycia budziły sympatię.
-W końcu, gdy tak wszyscy czekali przy stole, oglądając się przez lewe lub prawe ramię, obserwując innych gości i wytrój wnętrza, rozległ się brzdęk metalowego widelca o szkło kieliszka. W tym momencie, jak na komendę, wyszedł nienagannie ubrany kelner, który obsługiwał gości, napełniając ich kieliszki z wielkiej butelki szampana. W miejscu, z którego dobył się dźwięk, stał już wyprostowany sentaro Witchins z rękoma opartymi o blat stołu. Było to na przeciwległym szczycie stołu, naprzeciw pana Hewletta, który spokojnie siedział, oparty na całej długości o krzesło, z rękami wspartymi na podłokietnikach. Senator łypał co chwilę w kierunku kelnera, aby uchwycić chwilę, w której wszyscy goście będą mieli polane szampany. Senator podziękował mu skinieniem głowy, gdy ten dopełnił swego obowiązku, i zwróciwszy się do gości rozpoczął swoją przemowę.
-- Witam serdecznie wszystkich państwa! Zacznijmy oficjalnie nasz projekt. Umilę go niezbyt długim przemówieniem, ale myślę, że koniecznym, aby niejako przeciąć wstęgę. Abyśmy wszyscy się poznali i rozpoczęli pyszną kolację, którą przygotował nam nasz wspaniały gospodarz, pan Gregory Hewlett. Witamy, panie gospodarzu! - Wywołany wstał, skłonił się wszystkim obecnym w sposób, który Jelena nazwałaby majetatycznym, po czym, uśmiechając się w kierunku senatora, ponownie usadowił się na krześle. Senator perorował dalej: - Bez pana Hewletta, myślenie o rozpoczęciu tego projektu byłoby niemożliwe. Na szczęście zdarzają się dobrodzieje, którzy pchają ten świat na przód i nie obawiają się poświęcenia swojego majątku dla nauki. - Rozgległy się pojedyncze brawa. - Dziękujemy raz jeszcze! - krzyknął senator. - Jednak u samego źródła naszego projektu i myślę, że warto abyście wszyscy tego pana poznali, stoi szacowny profesor Christopher Bale! Witamy, panie profesorze! - Pan Bale nie wstał z krzesła, jego dłonie drżały na oparciach fotela, jednak uśmiechnął się nieco krzywym uśmiechem, zniekształconej przez bieg czasu twarzy. Goście, dając się ponieść przemówieniu, bili brawo. Tym razem już wszyscy. - To on bowiem - kontynuował senator - znalazł szansę powodzenia w tym co przeczytał, czytając pracę profesorską pana Stanleya Hutchinsa! Panie Stanley'u, proszę wstać! - Profesor nieco zakłopotany wstał i skinął głową, czemu odpowiedziały kolejne brawa towarzyszy. - Opracowana przez pana metoda, poparta wczęścniej badaniami nad anatomią ludzkiego mózgu i sposobem odczytywania zeń informacji... Pańska wielka praca przyczyniła się do tego, że jako ludzkość stoimy u progu nowej ery! - Brawa cały czas sypały się na głowę Hutchinsa, a senator wyćwiczonym, donośnym, aktorskim głosem przemawiał i porywał zgromadzonych. Wymieniał tak kolejne osoby tak, że każdy siedzący przy stole miał okazję wstać i pokłonić się wszystkim, przy akompaniamencie braw. Nie były to jednak tak znaczące postacie jak kilka pierwszych osób. Byli to geografowie, planiści, biolodzy, informatycy. Każdy miał duży dorobek i miał przewodniczyć poszczególnym działom. Były też osoby związane z energetyką jądrową, co najbardziej zdziwiło Jelenę. Na przykład pan Luke Dawson. - Jest z nami również Timothy Paxton! - odezwał się tubalnie senator. - Pan Paxton jest doskonałym organizatorem. Dowiódł tego podczas licznych przedsięwzięć pana Hewletta. On będzie nadzorował, nikomu niczego nie zarzucając, czy pieniądze są wydawane w należyty sposób oraz czy wszystko idzie w dobrym kierunku. Może sobie wykupić karnet na połączenie Nowy Jork-Ateny. On wybrał, po konsultacjach z naszymi specjalistami, dogodne miejsce na przeprowadzenie naszego projektu. Jest to wyspa Skyropula! Zaczynamy tam już intensywne prace i, jeśli wszystko pójdzie dobrze, w ciągu dwóch-trzech miesięcy się wprowadzimy, prawda panie Paxton? - Człowiek o szczurzej twarzy skwitował to uśmiechem i skinął głową. Rozległy się kolejne brawa. Kolejną osobą przedstawioną przez senatora był człowiek w mundurze. Generał armii amerykańskiej. - Bill Stathon! Witamy, panie generale! - Senator zasalutował dowódcy w stylu amerykańskim, a wojskowy z tęgą, surową miną odpowiedział na salut, po czym zluzował mięśnie twarzy i mrugnął do senatora. Były wymieniane kolejne osoby Mark Shore, jako logistyk. Wstał i uśmiechnął się do wszystkich. Przedstawianie dochodziło do końca stołu. - Witamy doktor Jelenę Ivanovą! - Jelena zauważyła, że jest jedną z trzech kobiet w pokoju. Wstała, dygnęła lekko, niczym dworka i uśmiechnęła się lekko do patrzących na nią ludzi. - Pani doktor pochodzi z uniwesytetu w Sankt Petersburgu. Jej artykuły naukowe stanowią znakomitą kontynuację wkładu, poczynionego przez profesora Hutchinsa. Prawda, panie profesorze? - W tym momencie wzrok senatora spadł na profesora Bale'a. Jelena spojrzała na niego, a on natychmiast uchwycił jej spojrzenie. Jego oczy były teraz surowe, on jednak przytaknął lekko i uśmiechnął się sztucznie. Zrozumiała, że to jemu zawdzięcza obecność w projekcie. Z jakiegoś powodu, na tę myśl przeszły ją ciarki. Oczy profesora świdrowały ją tak, że zdawała się, że obserwują wewnętrzną ścianę jej potylicy. Senator wymienił jeszcze dwie osoby siedzące po lewej od Jeleny, po czym w końcu przystąpił do podsumowania swojego przemówienia. - Proszę państwa, wszyscy stanowicie niezbędne ogniwa naszego przedsięwzięcia! Bez któregokolwiek z was nie miałby on sensu. Większość z was skompletowała swoją kadrę, część osób jest jeszcze w trakcie. Zazębiamy ten proces z etapem rozpoczynania projektu, ponieważ jak niektórzy z was wiedzą, bardzo zależy nam na czasie! - Senator łypnął na profesora Hutchinsa. - Zgromadziliśmy tutaj olbrzymią skarbnicę wiedzy. Proszę, poznajcie się dobrze, abyście mogli z niej wspólnie korzystać. Niech nić połączeń między waszymi umysłami utworzyła, niczym łączenia synaps, wielki mózg naszej organizacji! Niniejszym rozpoczynam "Projekt Matuzalem"! - Rozległy się brawa, senator się uśmiechnął. - Ku chwale nauki, ku chwale ludzkości, ku chwale Ameryki! - Uniósł w górę kieliszek z szampanem, zrobił nim lekkie półkole, by na ten znak wszyscy ujęli w dłonie swoje kieliszki. Senator uśmiechał się wciąż, sięgając kieliszkiem do ust i wychylając do końca jego zawartość. Jelena podążyła za jego przykładem, modyfikując w myślach końcówkę toastu. "Ku chwale matce Rosji."
+Przy stole miejsca nie były przypadkowe.
+
+Jelena Ivanova zrozumiała to, zanim jeszcze usiadła. Boyle nie musiał niczego wyjaśniać. Wystarczyło spojrzeć na układ krzeseł: on sam u szczytu, z laską opartą o poręcz fotela; naprzeciwko niego senator Witchins, swobodny, jasny, niemal gospodarski; po prawej Boyle’a Paxton, który siedział tak, jakby nawet podczas kolacji wykonywał obowiązki służbowe; bliżej środka Stanley Hutchins, a przy jego lewej ręce ona.
+
+Nie zaproponowano jej tego miejsca.
+
+Przydzielono je.
+
+Po obu stronach stołu rozsiedli się pozostali: Rodrigo Alvarez, Helga Weiss, dwaj ludzie z Animusa w ciemnych marynarkach, generał Bill Stathon o twarzy tak surowej, że nawet uśmiech wyglądałby na rozkaz, kilku biologów, dwóch specjalistów od infrastruktury, człowiek od energetyki jądrowej, którego nazwisko Jelena zapamiętała od razu — Luke Dawson — i kilkanaście osób, które miały zapewne własne doktoraty, patenty, zespoły badawcze oraz wystarczająco dużo pychy, by nie czuć się tu dekoracją.
+
+A jednak wszyscy byli dekoracją.
+
+Przynajmniej przez najbliższe kilka minut.
+
+Kelnerzy poruszali się cicho za plecami gości. Nalewali szampana z butelek owiniętych białymi serwetami, ustawiali wodę, poprawiali sztućce, odsuwali się bezszelestnie. Z kuchni dochodził zapach pieczonego mięsa, masła, ziół i czegoś słodkiego. Po podróży, po napięciu, po rozmowie z Mercerem i wejściu do salonu Boyle’a ciało Jeleny przypomniało sobie, że jest ciałem.
+
+Głód był nieelegancki.
+
+Tym bardziej że działał.
+
+Stanley siedział obok niej z dłonią opartą na nóżce kieliszka. Od chwili, gdy zajęli miejsca, odezwał się tylko raz, pytając, czy dobrze znosi podróż. Było to pytanie tak uprzejme, że prawie całkowicie pozbawione znaczenia.
+
+— Dobrze — odpowiedziała wtedy. — Ameryka jest mniej męcząca, kiedy nie trzeba przechodzić przez odprawę.
+
+Spojrzał na nią kątem oka.
+
+— To zdanie może panią zaprowadzić w bardzo ciekawe miejsca.
+
+— Już zaprowadziło.
+
+Uśmiechnął się, ale tylko na moment.
+
+Teraz milczał. Obserwował senatora, choć udawał, że patrzy na własny kieliszek. Jelena znała ten rodzaj udawania. Sama stosowała go od lat na zebraniach katedry, kiedy stary profesor próbował sprzedać brak pomysłu jako ostrożność metodologiczną.
+
+Przy końcu stołu Boyle poruszył lekko dłonią.
+
+Wystarczyło.
+
+Witchins podniósł się, zanim ktokolwiek zdążył pomyśleć, że powinien zamilknąć. Nie uderzył widelcem w kieliszek od razu. Najpierw rozejrzał się po twarzach, jak człowiek, który chce upewnić się, że wszyscy są w pokoju nie tylko ciałem, ale także własnym lękiem.
+
+Dopiero wtedy stuknął srebrną łyżeczką o szkło.
+
+Dźwięk był lekki. Prawie wesoły.
+
+Rozmowy ucichły.
+
+— Szanowni państwo — zaczął senator. — Nie będę państwa zanudzał długą przemową.
+
+Kilka osób uśmiechnęło się odruchowo. On również.
+
+— Wiem, że polityk wypowiadający te słowa brzmi mniej więcej tak wiarygodnie jak bankier obiecujący skromność albo generał obiecujący krótką wojnę. Dlatego powiem inaczej: będę mówił tylko tak długo, jak to konieczne, żebyśmy mogli uznać, że cywilizacja została należycie poinformowana o własnym przełomie.
+
+Cichy śmiech przeszedł wzdłuż stołu.
+
+Witchins miał swadę. Jelena musiała mu to przyznać. Nie mówił jak urzędnik. Nie mówił nawet jak człowiek, który chce przekonać salę. Mówił jak ktoś, kto wie, że większość obecnych już się zgodziła, ale potrzebuje jeszcze usłyszeć piękniejszą wersję własnej zgody.
+
+— Dzisiejszy wieczór bywa nazywany inauguracją — ciągnął senator. — To ładne słowo. Ma w sobie światło, nożyczki do wstęgi, uściski dłoni i fotografów ustawionych pod właściwym kątem. Ale nie będę państwa obrażał udawaniem, że coś dopiero zaczynamy. Kości zostały rzucone wcześniej. Poza tym domem. Bez kamer, bez fanfar, bez błogosławieństwa komisji bioetycznych, które i tak potrzebowałyby trzech lat, żeby ustalić, czy mają prawo się przestraszyć.
+
+Tym razem śmiech był głośniejszy.
+
+Jelena spojrzała na Stanleya. Nie śmiał się. Usta miał lekko zaciśnięte. Wystarczyło, by zrozumiała, że słowa o komisjach bioetycznych uderzyły bliżej, niż senator zamierzał pokazać.
+
+A może dokładnie tam, gdzie zamierzał.
+
+— Decyzje już mamy — powiedział Witchins. — Laboratoria są projektowane. Zespoły kompletowane. Wyspa została wybrana. Pieniądze zostały zabezpieczone. Ludzie, którzy powinni wiedzieć, wiedzą. Ludzie, którzy nie powinni wiedzieć, usłyszą w odpowiednim czasie coś znacznie mniej interesującego. Dzisiejszy wieczór jest pierwszym momentem, w którym wszyscy możemy usłyszeć stukot tych kości przy jednym stole.
+
+Paxton nie klasnął. Nie poruszył się nawet. Patrzył po twarzach.
+
+Jelena zapamiętała to. Senator mówił do sali, ale Paxton badał salę. Dwie różne funkcje tego samego mechanizmu.
+
+— Wypadałoby teraz podziękować naszemu gospodarzowi — powiedział Witchins, odwracając się lekko ku Boyle’owi. — I zrobię to, ponieważ jestem człowiekiem cywilizowanym, a cywilizacja polega głównie na tym, żeby rzeczy oczywiste wypowiadać z odpowiednią miną. Profesor Christopher Boyle dał temu przedsięwzięciu więcej niż pieniądze. Pieniądze są najłatwiejszą formą odwagi, choć oczywiście chętnie przyjmujemy także tę najłatwiejszą.
+
+Znów śmiech. Boyle nie uśmiechnął się, ale przez ułamek sekundy jego oczy złagodniały. Albo Jelena tylko chciała to zobaczyć.
+
+— Profesor Boyle dał nam narzędzia — mówił senator. — Infrastrukturę, której żadna publiczna uczelnia nie zbudowałaby bez dekady próśb i bez dwudziestu komitetów nadzorujących kolor klamek. Dał nam dostęp do technologii, o których gazety piszą z nabożeństwem, choć nie wiedzą, czego właściwie się boją. Dał nam też coś rzadszego: odmowę pogodzenia się z tym, że najstarszy monopol natury ma pozostać nienaruszony tylko dlatego, że trwa długo.
+
+Najstarszy monopol natury.
+
+Śmierć.
+
+Nie wypowiedział tego słowa. Nie musiał. Dzięki temu zabrzmiało mocniej.
+
+Jelena spojrzała na Boyle’a. Siedział nieruchomo. Jedna dłoń spoczywała na lasce, druga przy kieliszku. Skóra na palcach była cienka, niemal przezroczysta. Człowiek, który finansował bunt przeciwko śmierci, wyglądał jak jej najbardziej cierpliwy zakładnik.
+
+— Ale narzędzia bez języka są tylko drogim hałasem — powiedział Witchins. — Dlatego musimy wymienić nazwisko profesora Stanleya Hutchinsa.
+
+Stanley wyprostował się minimalnie.
+
+— Profesor Hutchins zrobił rzecz, której świat akademicki zazwyczaj nie wybacza przed upływem dwudziestu lat: sformułował pytanie zbyt wcześnie. W swoich pracach nad mapowaniem śladów pamięciowych, nad strukturą zapisu i odczytu informacji z mózgu, nad granicą między tkanką a osobą, wykazał brak podstawowej cnoty bezpiecznego uczonego.
+
+Senator zawiesił głos.
+
+— Nie poczekał, aż wszyscy będą gotowi.
+
+Tym razem brawa przyszły same. Najpierw z lewej strony stołu, potem z prawej, nierówno, ale szybko. Stanley wstał, choć wyglądał, jakby wolał tego nie robić. Skinął głową. Na jego twarzy nie było triumfu. Było raczej zakłopotanie człowieka, który nagle widzi własną myśl ubraną w mundur paradny.
+
+Jelena klaskała razem z innymi, ale obserwowała Boyle’a.
+
+Boyle nie klaskał. Patrzył na Stanleya z uwagą właściciela narzędzia, które dopiero trzeba skalibrować.
+
+— Niech pan nie wygląda tak skromnie, profesorze — powiedział Witchins. — Skromność jest piękną cechą, ale fatalnym paliwem dla historii.
+
+Kilka osób roześmiało się. Stanley usiadł.
+
+Witchins podniósł kieliszek, ale jeszcze nie pił.
+
+— Nie będę przedstawiał każdego z państwa z osobna. To byłoby niesprawiedliwe wobec kolacji i okrutne wobec kuchni. Powiem więc zbiorczo: są tu ludzie od mózgu, od maszyn, od ciała, od kodu, od prądu, od ścian, od bezpieczeństwa i od tych wszystkich form organizacyjnego cudu, dzięki którym wielkie idee nie kończą jako notatki w zamkniętej szufladzie.
+
+Rodrigo pochylił się do Helgi i szepnął coś, czego Jelena nie dosłyszała. Helga zapisała jedno słowo w notesie, nawet teraz. To było prawie komiczne. Albo bardzo niepokojące.
+
+— Mamy wśród nas specjalistów od architektury danych, systemów predykcyjnych i modelowania — kontynuował senator. — Mamy biologów, neurologów, lekarzy, inżynierów, ludzi od infrastruktury i energetyki. Tak, doktor Ivanova, widziałem pani spojrzenie przy nazwisku pana Dawsona. Energetyka jądrowa przy projekcie biologicznym brzmi jak początek złego żartu, ale zapewniam: to tylko początek bardzo drogiego żartu.
+
+Śmiech znów przeszedł po stole. Dawson, człowiek od reaktora, uniósł kieliszek w udawanej winie.
+
+Jelena uśmiechnęła się mimo woli. Senator zauważał więcej, niż powinien. Albo Paxton wcześniej przekazał mu wszystko, co warto było zauważyć.
+
+— Mamy również ludzi, którzy zadbają, aby świat zewnętrzny nie przeszkadzał nam swoją ciekawością — powiedział Witchins.
+
+Generał Stathon nie poruszył się, ale część spojrzeń sama przesunęła się w jego stronę.
+
+— Generale, proszę wybaczyć, że nie każę panu wstawać. Człowiek w mundurze przy stole naukowców działa na wyobraźnię wystarczająco silnie nawet na siedząco.
+
+Generał odpowiedział krótkim skinieniem głowy. Na jego twarzy pojawił się cień uśmiechu, który zniknął szybciej, niż zdążył stać się uprzejmy.
+
+— I wreszcie mamy tych, którzy będą pilnować, aby ten piękny chaos nie pomylił odwagi z bałaganem. Pan Paxton.
+
+Paxton nie wstał od razu. Dopiero po sekundzie uniósł się z krzesła, jakby zrobił to wyłącznie dlatego, że protokół wymagał ruchu. Oklaski były krótsze. Bardziej ostrożne.
+
+Witchins uśmiechnął się szerzej.
+
+— Nie bijcie państwo braw z takim lękiem. Timothy nie gryzie. Przynajmniej nie przy stole.
+
+Tym razem śmiech był prawdziwszy. Paxton również się uśmiechnął. Tylko jego oczy pozostały bez zmian.
+
+Jelena poczuła, że przemówienie działa. To było najgorsze. Witchins rozbrajał grozę żartem, przesuwał granice swobodą, robił z obecności generała anegdotę, z Paxtona — organizatora, z Boyle’a — dobroczyńcę, ze Stanleya — proroka, a z ich wspólnego milczenia — odwagę.
+
+Kłamał składniej niż ktokolwiek, kogo słyszała od lat.
+
+— Wiem, że część z państwa zastanawia się, gdzie kończy się nauka, a zaczyna pycha — powiedział nagle senator.
+
+W sali zrobiło się ciszej.
+
+— To zdrowe pytanie. Proszę go nie wyrzucać. Proszę je tylko zabrać ze sobą do pracy. Każdego ranka. Pycha, proszę państwa, nie zaczyna się tam, gdzie człowiek chce sięgnąć dalej niż poprzednicy. Pycha zaczyna się tam, gdzie człowiek przestaje rozumieć cenę. Dlatego nie będziemy udawać, że cena nie istnieje. Będziemy jedynie pilnować, by zapłacono ją za coś wartego rachunku.
+
+Stanley spuścił wzrok.
+
+Jelena to zobaczyła.
+
+Boyle też.
+
+— Dotąd używaliśmy nazw roboczych — powiedział Witchins ciszej. — Niektóre były tak brzydkie, że powinny pozostać w sejfach naszych prawników. Od dziś używamy jednej nazwy. Nazwy starej, aroganckiej, biblijnej i dzięki temu odpowiednio niewygodnej dla ludzi, którzy wolą, żeby wielkie zamiary udawały małe projekty grantowe.
+
+Odłożył kieliszek na stół.
+
+Nie pił. Jeszcze nie.
+
+— Od dziś to przedsięwzięcie nazywa się Projekt Matuzalem.
+
+Nazwa nie wybuchła. Nie przetoczyła się przez salę. Po prostu zapadła w ciszę, jak ciężki przedmiot w miękką ziemię.
+
+Projekt Matuzalem.
+
+Jelena powtórzyła ją w myślach. Pasowała. Była pompatyczna, niebezpieczna i odrobinę śmieszna. Dokładnie taka, jak ludzie, którzy chcieli pokonać śmierć przy stole nakrytym srebrem.
+
+Na środku stołu, między świecami, leżały ciemne karty z programem wieczoru. Dopiero teraz Jelena zauważyła, że na ich okładkach wytłoczono ten sam znak: meduzę, okrąg, nieskończoność. W świetle świec symbol poruszał się lekko, jakby zwierzę naprawdę dryfowało pod powierzchnią papieru.
+
+Witchins podniósł kieliszek.
+
+— Za naukę, która nie prosi o pozwolenie. Za ludzi, którzy nie mylą strachu z rozsądkiem. I za kraj, który nadal ma odwagę finansować przyszłość, zanim inni nauczą się ją regulować.
+
+Kieliszki uniosły się wokół stołu.
+
+— Za Projekt Matuzalem — powiedział senator.
+
+— Za Projekt Matuzalem — odpowiedziała sala.
+
+Jelena uniosła kieliszek razem z innymi. Wypiła tylko łyk. Szampan był zimny, drogi i lekko kwaśny.
+
+W myślach zmieniła jedynie adresata chwały.
+
+Stare nawyki nie znikały od jednej karty kredytowej.
+
+Po drugiej stronie stołu Boyle patrzył na nią przez moment tak spokojnie, jakby wiedział, że nawet niewypowiedziane toasty mają swoich świadków.
