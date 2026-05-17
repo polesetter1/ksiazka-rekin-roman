@@ -4,7 +4,7 @@
 
 ## Cel sceny
 
-Wprowadzenie Jeleny Ivanovej jako ambitnej, inteligentnej i świadomej własnej wartości neurolog, która przyjmuje zaproszenie do świata amerykańskich sponsorów Projektu Matuzalem. Scena ma działać jako wcześniejszy chronologicznie epizod: zanim Stanley zobaczy Skyropulę, Jelena zostaje wprowadzona w orbitę Hewletta, Paxtona i przyszłego projektu. Ma pokazać nie tyle „kupowanie” Jeleny, ile mechanizm potwierdzania jej wyboru: luksus, swoboda, karta kredytowa, izolacja i poczucie wejścia do elity. W tle należy zawiesić niejasny cień rosyjskich służb, bez rozstrzygania, czy Jelena jest wtyką, czy jedynie osobą obserwowaną przez FSB.
+Wprowadzenie Jeleny Ivanovej jako ambitnej, inteligentnej i świadomej własnej wartości neurolog, która przyjmuje zaproszenie do świata Boyle’a, Paxtona i Projektu Matuzalem. Scena działa jako wcześniejszy chronologicznie epizod: zanim Stanley zobaczy Skyropulę, Jelena zostaje wprowadzona w orbitę człowieka, który łączy prywatną technologię, Pentagon, kapitał i obsesję nieśmiertelności. Ma pokazać nie tyle „kupowanie” Jeleny, ile mechanizm potwierdzania jej wyboru: luksus, swoboda, karta kredytowa, izolacja i poczucie wejścia do elity. W tle należy zawiesić niejasny cień rosyjskich służb, bez rozstrzygania, czy Jelena jest wtyką, czy jedynie osobą obserwowaną przez FSB.
 
 ## Treść sceny
 
@@ -26,7 +26,7 @@ Mężczyzna z kartką był wysoki, szczupły i zbyt starannie ubrany jak na lotn
 
 — Tak.
 
-— Daniel Mercer. Biuro pana Hewletta.
+— Daniel Mercer. Biuro profesora Boyle’a.
 
 Uścisnęła jego dłoń. Sucha, chłodna, pewna. Asystent, nie ochroniarz. Człowiek od miękkich drzwi. Albo od tego, by za miękkimi drzwiami stali twardsi ludzie.
 
@@ -44,7 +44,7 @@ Za jego plecami młodszy pracownik odebrał jej bagaż od człowieka w mundurze.
 
 — Pan Paxton przysłał samochód? — spytała.
 
-— Pan Paxton przekazał rekomendację. Pan Hewlett zapewnia gościnę.
+— Pan Paxton przekazał rekomendację. Profesor Boyle zapewnia gościnę.
 
 — A profesor Hutchins?
 
@@ -128,7 +128,7 @@ Teraz, w limuzynie, Mercer czekał na odpowiedź.
 
 — A ja?
 
-— Pan jest asystentem Hewletta. Pan słyszy tylko to, co warto zapisać.
+— Pan jest asystentem Boyle’a. Pan słyszy tylko to, co warto zapisać.
 
 Mercer skinął głową, jakby uznał punkt.
 
@@ -152,7 +152,7 @@ Po oficjalnym panelu zadała pytanie. Za ostre, za długie, zbyt dobrze przygoto
 
 — Macie dostęp do materiałów, których nie ma w archiwum — powiedziała.
 
-— Pan Hewlett ma wielu przyjaciół.
+— Profesor Boyle ma wielu przyjaciół.
 
 — W hotelach? Na konferencjach? W Pentagonie?
 
@@ -164,7 +164,7 @@ Jelena cofnęła palec z koperty.
 
 — A gdybym miała własnych przyjaciół?
 
-— Wtedy radziłbym wybierać ich ostrożnie — powiedział Mercer łagodnie. — Pan Hewlett bardzo ceni lojalność. Zwłaszcza zanim zostanie zdefiniowana.
+— Wtedy radziłbym wybierać ich ostrożnie — powiedział Mercer łagodnie. — Profesor Boyle bardzo ceni lojalność. Zwłaszcza zanim zostanie zdefiniowana.
 
 Teraz już wiedziała.
 
@@ -218,7 +218,7 @@ Trzy dni w Nowym Jorku minęły szybko i prawie bez znaczenia.
 
 Prawie.
 
-Jelena jadła śniadania, które kosztowały więcej niż miesięczny czynsz młodego badacza w Petersburgu. Kupiła dwie sukienki, których nie potrzebowała, i buty, które uznała za absolutnie konieczne dopiero po tym, jak zobaczyła ich cenę. Poszła na balet, wypiła szampana z tatarskimi przedsiębiorcami spod Kazania i przez pół wieczoru udawała, że polityka rosyjska jest czymś, o czym można rozmawiać bez ostrożności.
+Jelena jadła śniadania, które kosztowały więcej niż miesięczny czynsz młodego badacza w Petersburgu. Kupiła dwie sukienki, których nie potrzebowała, i buty, które uznała za absolutnie konieczne dopiero po tym, jak zobaczyła ich cenę. Poszła na balet i przez pół wieczoru udawała przy barze, że polityka rosyjska jest czymś, o czym można rozmawiać bez ostrożności.
 
 Dwa razy dzwonił telefon w apartamencie.
 
@@ -236,7 +236,7 @@ Ostatniego poranka Mercer wrócił punktualnie o dziewiątej.
 
 — Samochodem?
 
-— Samolotem do Duluth. Potem samochodem. Pan Hewlett lubi, gdy goście zobaczą drogę.
+— Samolotem do Duluth. Potem samochodem. Profesor Boyle lubi, gdy goście zobaczą drogę.
 
 — Do domu czy do władzy?
 
@@ -252,13 +252,13 @@ Lot do Duluth był krótki. Dalsza podróż samochodem trwała dłużej, niż za
 
 Mercer siedział z przodu. Tym razem mówił mniej. Dopiero gdy minęli Grand Marais i droga zwęziła się między ścianami lasu, odwrócił się do pasażerów.
 
-— Formalnie pan Hewlett nie posiada hrabstwa — powiedział. — To byłoby niezgodne z amerykańskim duchem wolności.
+— Formalnie profesor Boyle nie posiada hrabstwa — powiedział. — To byłoby niezgodne z amerykańskim duchem wolności.
 
 Rodrigo parsknął.
 
 — A nieformalnie?
 
-— Nieformalnie posiada bank, fundację przyrodniczą, dwa hotele, większość ziemi nad jeziorem, część lokalnej prasy i ludzi, którzy wygrywają tu wybory. Różnica jest bardziej prawna niż praktyczna.
+— Nieformalnie posiada bank, fundację badawczą, fundację przyrodniczą, dwa hotele, większość ziemi nad jeziorem, część lokalnej prasy i ludzi, którzy wygrywają tu wybory. Różnica jest bardziej prawna niż praktyczna.
 
 Helga zapisała coś w notesie.
 
@@ -290,7 +290,7 @@ Mercer wysiadł, powiedział coś do domofonu i spojrzał prosto w kamerę. Bram
 
 Jechali jeszcze minutę przez teren, który był zbyt starannie utrzymany, by można go nazwać lasem, i zbyt dziki, by nazwać parkiem. Ogrodnicy pracowali przy żywopłotach. Dwóch mężczyzn w ciemnych kurtkach stało przy bocznej ścieżce i nie udawało ogrodników.
 
-Posiadłość Hewletta wznosiła się na wzgórzu nad jeziorem.
+Posiadłość Boyle’a wznosiła się na wzgórzu nad jeziorem.
 
 Nie była willą. Była komunikatem.
 
@@ -302,7 +302,7 @@ Jelena zorientowała się, że patrzy z otwartymi ustami, i zamknęła je natych
 
 Mercer otworzył drzwi samochodu.
 
-— Witamy u pana Hewletta.
+— Witamy u profesora Boyle’a.
 
 Wysiadła. Chłodne powietrze pachniało lasem, jeziorem i dymem z kominka.
 
