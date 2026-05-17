@@ -4,7 +4,7 @@
 
 ## Cel sceny
 
-Wprowadzenie Skyros i Skyropuli jako miejsca pozornie wakacyjnego, lecz od początku naznaczonego przemocą projektu. Przedstawienie doktora Henry’ego Marshalla jako niepewnego przewodnika po przedsięwzięciu oraz pokazanie pierwszego pęknięcia Stanleya: zmęczenie, samotność, napięcie i alkohol prowadzą go do kompromitacji, którą ktoś może później wykorzystać.
+Wprowadzenie Skyros i Skyropuli jako miejsca pozornie wakacyjnego, lecz od początku naznaczonego przemocą projektu. Przedstawienie doktora Henry’ego Marshalla jako niepewnego przewodnika po przedsięwzięciu oraz pokazanie pierwszego pęknięcia Stanleya: zmęczenie, samotność, napięcie i alkohol prowadzą go do kompromitacji, którą ktoś może później wykorzystać. Scena ma zachować czarny, ludzki humor wynikający z kontrastu między wakacyjną Grecją a tajnym projektem przekroczenia śmierci.
 
 ## Treść sceny
 
@@ -76,9 +76,11 @@ Stanley przez moment patrzył na niego bez słowa.
 
 — Nie cała wyspa. Tylko centralna część. Prawdopodobnie puste komory pod wapieniem albo stare wyrobiska. Nie jestem budowniczym, panie profesorze. Wiem tylko, że prace przerwano, potem zmieniono projekt wzmocnień, a senator nalegał, żeby nie tracić czasu.
 
-— Senator nalegał.
+— Naturalnie. Kiedy ziemia usuwa się spod nóg, najlepiej przyspieszyć.
 
-— Tak.
+Marshall wydał z siebie krótki, nerwowy śmiech, jakby nie był pewien, czy profesor żartuje.
+
+— Senator nalegał — powtórzył ciszej.
 
 Samolot zadrżał lekko. Marshall uchwycił się podłokietnika. Stanley nawet nie drgnął.
 
@@ -92,7 +94,13 @@ Marshall spojrzał na niego szybko, jakby nie wiedział, ile wolno powiedzieć c
 
 — Do pańskiej pracy.
 
-Wypowiedź przerwał wstrząs. Koła Cessny uderzyły o asfalt lądowiska. Samolot podskoczył raz, drugi, po czym potoczył się pasem. Z tyłu ktoś zaklął półgłosem. Jeden z inżynierów, których Stanley przedstawiono jeszcze w Atenach, obudził się z otwartymi ustami i rozejrzał z przerażeniem.
+— Zaczynam lubić tę pracę coraz mniej.
+
+— Jeszcze pan jej nie zaczął.
+
+— Właśnie.
+
+Wypowiedź przerwał wstrząs. Koła Cessny uderzyły o asfalt lądowiska. Samolot podskoczył raz, drugi, po czym potoczył się pasem. Z tyłu ktoś zaklął półgłosem. Jeden z inżynierów, których Stanleyowi przedstawiono jeszcze w Atenach, obudził się z otwartymi ustami i rozejrzał z przerażeniem.
 
 Lot się skończył.
 
@@ -100,9 +108,11 @@ Stanley rozpiął pasy i powoli wstał. Szczęka rozchyliła mu się w głęboki
 
 — Niech się pan niczym nie martwi — powiedział Marshall z przesadną troską. — Za moment zakwaterujemy pana w hotelu.
 
-Stanley skinął głową.
+— Znakomicie. Jeśli hotel się nie zapada, to już będzie postęp.
 
-Gdy przeciskał się między fotelami do wyjścia, stewardessa budziła pozostałych pracowników. Czterech inżynierów w granatowych marynarkach zbierało teczki i torby, jakby przylecieli na konferencję, a nie na wyspę, którą właśnie rozpruto od środka. Stanley nie zapamiętał ich nazwisk. Nie próbował. Mieli rozwiązać jednorazowe problemy, o których wspominał Marshall. W projekcie wszyscy mieli być od czegoś.
+Marshall znów nie wiedział, czy powinien się śmiać.
+
+Gdy Stanley przeciskał się między fotelami do wyjścia, stewardessa budziła pozostałych pracowników. Czterech inżynierów w granatowych marynarkach zbierało teczki i torby, jakby przylecieli na konferencję, a nie na wyspę, którą właśnie rozpruto od środka. Stanley nie zapamiętał ich nazwisk. Nie próbował. Mieli rozwiązać jednorazowe problemy, o których wspominał Marshall. W projekcie wszyscy mieli być od czegoś. Niektórzy od kabli, niektórzy od betonu, a niektórzy od późniejszego udawania, że nikt niczego nie przewidział.
 
 Drzwi otwarto. Uderzyło go światło.
 
@@ -122,11 +132,19 @@ Wnętrze mercedesa było ciemne jak pudełko na kosztowności. Czarna skóra, ma
 
 Stanley odmówił ruchem dłoni.
 
+— Jeszcze za wcześnie.
+
+— W Grecji nigdy nie jest za wcześnie.
+
+— To brzmi jak dewiza kraju, który długo nie przetrwa.
+
+Marshall uśmiechnął się niepewnie. Stanley też. Tylko trochę.
+
 Przez szybę obserwował Cessnę. Dwóch mężczyzn odpychało schody, ktoś zamykał luk bagażowy. Samolot miał zaraz ruszyć po kolejnych ludzi. Kolejnych specjalistów, kolejne nazwiska, kolejne tryby w maszynie, którą sam pomógł uruchomić, zanim jeszcze zobaczył jej kształt.
 
 Limuzyna ruszyła.
 
-Marshall mówił o okolicy: o porcie, drogach, hotelach, o tym, gdzie serwują przyzwoitą kawę, a gdzie lepiej nie zamawiać ryb. Po kilku minutach jego głos zmienił się w brzęczenie owada uwięzionego pod szybą. Stanley patrzył na mijane uliczki i przytakiwał z grzeczności.
+Marshall mówił o okolicy: o porcie, drogach, hotelach, o tym, gdzie serwują przyzwoitą kawę, a gdzie lepiej nie zamawiać ryb, chyba że ktoś lubi rozmawiać z Bogiem przez kanalizację. Po kilku minutach jego głos zmienił się w brzęczenie owada uwięzionego pod szybą. Stanley patrzył na mijane uliczki i przytakiwał z grzeczności.
 
 Myślał o odpowiedzialności.
 
@@ -142,7 +160,13 @@ Marshall wysiadł za nim i natychmiast zaczął się pocić.
 
 — To tutaj będzie pan zakwaterowany do czasu znalezienia odpowiedniejszej siedziby, panie profesorze.
 
-W jego głosie było coś służalczego. Stanley wiedział, że zmęczenie czyni go surowszym, ale nie potrafił tego w sobie powstrzymać.
+— Proszę tego nie mówić tak, jakby obecna siedziba miała się kiedyś zemścić.
+
+— Nie, nie. To bardzo dobry hotel.
+
+— Każdy hotel jest dobry, dopóki ma łóżko i nie pyta o sumienie.
+
+Marshall otworzył usta, po czym je zamknął. Stanley wiedział, że zmęczenie czyni go złośliwym, ale nie potrafił tego w sobie powstrzymać.
 
 — Dziękuję, doktorze Marshall.
 
@@ -168,7 +192,7 @@ Odwrócił wzrok pierwszy.
 
 Nie był z kobietą od bardzo dawna. Ta myśl przyszła nagle, brutalnie, bez związku z miejscem i natychmiast go zirytowała. Był profesorem, nie chłopcem na wakacjach. Przyjechał tu, żeby pracować nad czymś, czego inni bali się nazwać.
 
-A jednak ciało miało swoje małe, żałosne terminy ważności. Domagało się snu, alkoholu, dotyku, zapomnienia. Nawet teraz.
+A jednak ciało miało swoje małe, żałosne terminy ważności. Domagało się snu, alkoholu, dotyku, zapomnienia. Nawet teraz. Zwłaszcza teraz.
 
 Hol był chłodny, wyłożony jasnymi kafelkami. Dziewczyna, która przedstawiła się jako Tala, podała mu klucz do pokoju L113. Po drodze mówiła coś o częściach hotelu — Villas Lino, Villas Gyrismata — ale Stanley zapamiętał tylko kształt korytarza i przyjemny półmrok.
 
@@ -200,6 +224,10 @@ Wyglądał starzej niż rano.
 
 Nie staro. Gorzej: wyglądał jak człowiek, który bardzo długo udaje, że nie jest zmęczony.
 
+— Dobry wieczór, przyszłości ludzkości — powiedział do odbicia.
+
+Odbicie nie wyglądało na przekonane.
+
 Z kieszeni marynarki wyjął portfel i pięćdziesiąt euro. Potem zszedł na dół.
 
 Tali nie było już za recepcją. Stała tam inna kobieta, wysoka brunetka z dużym nosem i włosami przyklejonymi do czoła. Uśmiechnęła się uprzejmie. Stanley odniósł absurdalne wrażenie, że widzi jego pogniecioną koszulę, rozczochrane włosy i wszystkie podpisane w życiu dokumenty.
@@ -220,9 +248,21 @@ Barman miał rozpiętą koszulę, złoty łańcuszek ginący w czarnych włosach
 
 — Martini.
 
-Barman uniósł brew, jakby Stanley zamówił operę w tawernie, ale nalał. Oliwka wpadła do srebrzystego płynu z małym pluskiem.
+Barman uniósł brew, jakby Stanley zamówił operę w tawernie.
+
+— Martini? Tutaj?
+
+— Popełniłem dziś większe błędy.
+
+— W takim razie jedno więcej pana nie zabije.
+
+Nalał. Oliwka wpadła do srebrzystego płynu z małym pluskiem.
 
 Pierwszy łyk był za szybki. Stanley zakaszlał, ale zaraz poczuł, jak w gardle rozlewa się przyjemne ciepło. Nie ulga. Jeszcze nie. Obietnica ulgi.
+
+— Widzi pan? — powiedział barman. — Martini jest dla ludzi, którzy chcą cierpieć elegancko.
+
+— To akurat brzmi znajomo.
 
 Kiedy wrócił po drugi kieliszek, obok baru stała Tala.
 
@@ -242,7 +282,15 @@ Skinęła głową w stronę barmana.
 
 Barman usłyszał własne imię i wyprostował się z godnością człowieka przywołanego do ołtarza.
 
-— Dla pana profesora coś lepszego — powiedział.
+— Ja nie myślę — sprostował. — Ja wiem.
+
+— Skromność też pan sprzedaje? — spytał Stanley.
+
+— Nie. Nikt nie kupuje.
+
+Tala parsknęła śmiechem.
+
+— Dla pana profesora coś lepszego — powiedział Posejdon.
 
 Nalał do szklanki złocistego płynu, dolał czegoś mlecznego i podał Stanleyowi. Zapach był orzechowy, ciężki, słodki.
 
@@ -255,6 +303,12 @@ Było absurdalnie dobre. Słodkie, łagodne, zdradliwe. Nie jak alkohol, raczej 
 — Jeszcze raz to samo — powiedział.
 
 Posejdon uśmiechnął się szeroko.
+
+— Góra jest cierpliwa.
+
+— A człowiek głupi.
+
+— Dlatego góra ma klientów.
 
 Po drugiej szklance świat stracił krawędzie. Po trzeciej zrobił się przyjazny. Po czwartej Stanley poczuł, że od wielu miesięcy, może lat, nikt nie wymaga od niego natychmiastowej odpowiedzi. Muzyka zwolniła. Śmiech ludzi przestał drażnić. Pochodnie wokół basenu drżały na wietrze, a on siedział na leżaku obok Tali i patrzył, jak wieczór zmienia wodę w ciemne szkło.
 
@@ -296,6 +350,16 @@ To powinno go rozbawić. Rozbawiło. Ale gdzieś pod śmiechem poczuł ukłucie 
 
 — Pan też mógł ją zachować.
 
+— Niech pani nie mówi takich rzeczy naukowcowi. My zawodowo tracimy przewagi.
+
+— I co robicie potem?
+
+Stanley spojrzał na ciemną wodę basenu.
+
+— Udajemy, że to metoda.
+
+Tala zaśmiała się cicho. Przez chwilę było dobrze. Zwyczajnie. Prawie lekko.
+
 Powinien był na tym skończyć. Wstać, powiedzieć dobranoc, wrócić do pokoju. Zamiast tego pochylił się odrobinę za blisko.
 
 — A gdybym poprosił panią o pomoc w dotarciu na górę?
@@ -323,6 +387,8 @@ Przez sekundę nie wiedział, gdzie jest. Słyszał śmiech, krzyk, plusk i wła
 Na brzegu stał Posejdon. Nie śmiał się. Tylko patrzył.
 
 — Pan profesor powinien odpocząć — powiedział spokojnie.
+
+Ktoś z tyłu dodał po grecku coś, co rozśmieszyło połowę baru. Stanley nie znał języka, ale ton był uniwersalny. Prawdopodobnie właśnie zyskał na wyspie tytuł naukowy, którego nie przyznawano na Stanfordzie.
 
 Tala stała kilka kroków dalej. Miała zamkniętą twarz. Już nie była dziewczyną z recepcji, która się uśmiechała. Była osobą, której zachowanie obcego mężczyzny zepsuło wieczór.
 
