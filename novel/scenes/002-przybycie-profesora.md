@@ -4,72 +4,358 @@
 
 ## Cel sceny
 
-Wprowadzenie geografii miejsca rozgrywania akcji oraz postaci doktora Henry'ego Marshalla
+Wprowadzenie Skyros i Skyropuli jako miejsca pozornie wakacyjnego, lecz od początku naznaczonego przemocą projektu. Przedstawienie doktora Henry’ego Marshalla jako niepewnego przewodnika po przedsięwzięciu oraz pokazanie pierwszego pęknięcia Stanleya: zmęczenie, samotność, napięcie i alkohol prowadzą go do kompromitacji, którą ktoś może później wykorzystać.
 
 ## Treść sceny
 
-Baza była oddalona od Skyros o zaledwie 5 kilometrów drogą lądową i drugie tyle drogą morską. Wyspa miała powierzchnię zaledwie 500 hektarów i, jak powiedziano Stanley'owi, gdy przelatywali nad wyspą nie wydawało się, aby istniała tam jakakolwiek infrastruktura pozwalająca na zamieszkanie. Jedynym co do tej pory zrobiono było wykarczowanie lasu w centralnej części wyspy i wylanie pierwszych fundamentów dookoła wielkiego betonowego placu. Zgodnie z zaleceniami senatora główne centrum badawcze miało znajdować się pod ziemią, choć o jakichkolwiek postępach wykonanych w tym kierunku nikt nie informował.
--Na razie będzie pan mieszkał w Skyros. Klimat nie różni się znacznie od kalifornijskiego, więc powinien pan szybko przywyknąć - uśmiechnął się dr Marshall. Niski, łysawy grubasek był jednym z pierwszych naukowców na wyspie i brał udział w początkowej fazie przygotowań. To właśnie on składał raporty dotyczące budowy centrum.
--Codzienne podróże morskie mogą być dla mnie nieco uciążliwe…
--Rozumiem- Henry Marshall pogładził swego rdzawego wąsa- Do końca tego roku powinny powstać pierwsze prowizoryczne domki na Skyropuli. Oczywiście nie ma tyle miejsca, aby zamieszkała tam cała nasza kadra.
--A kiedy mogę się spodziewać rzeczywistego rozpoczęcia prac badawczych?- Stanley'a ta rozmowa szybko zaczęła nudzić. Po długim locie do Aten i stamtąd do Skyros marzył tylko o miękkim łóżku i kilkugodzinnym, spokojnym śnie.
--Zapewniano mnie, że jeszcze przed końcem roku. Pomieszczenia podziemne były już w części wykonane, gdy przejęliśmy wyspę. Stąd wielki betonowy plac na środku - Marshall wykonał w powietrzu okrężny ruch palcem. - jednak doktor King, podczas pierwszej wizytacji stwierdził, że nie jest to dostateczna przestrzeń i nakazał rozkopać wyspę jeszcze bardziej.
--Rozumiem, że wszystko jest pod kontrolą?
-Henry podrapał się po wydatnym czole, wykonując grymas zdradzający niepewność - zapewniają, że tak, ale prace musiały być na jakiś czas przerwane. Przy dalszym rozkopywaniu wszerz wyspa zaczęła się zapadać i zaszły jakieś zmiany w pierwotnych planach. Nie jestem budowniczym, więc nie mogę powiedzieć nic konkretnego.
-- A co jest jeszcze potrzebne, żebyśmy mogli zacząć?
-- Kilka pomieszczeń badawczych jest na wykończeniu w sensie wizualnym, ale trzeba jeszcze sprowadzić sprzęt i doprowadzić elektryczność. Na wyspę docierała linia wysokiego napięcia, ale to za mało…
-Wypowiedź Henry'ego Marschalla przerwał wstrząs wywołany uderzeniem kół samolotu o asfalt lądowiska. Oznaczało to, że lot z Aten, po kilkukrotnym kołowaniu nad lotniskiem, szczęśliwie się zakończył. Stanley rozpiął pasy i powoli wstał rozprostowując kończyny. Szczęka rozchyliła mu się w głębokim ziewnięciu. Nie umknęło to uwadze Marschalla, który natychmiast pospieszył z pocieszeniem:- Niech się pan niczym nie martwi. Za moment zakwaterujemy pana w hotelu.
-Stanley tylko skinął głową i udał się do wyjścia. W trakcie, gdy przeciskał się między fotelami do wyjścia stewardessa dobudzała przedstawionych mu wcześniej pracowników. Była to czwórka inżynierów, których nazwisk nawet nie starał się zapamiętać. Lecieli oni na wyspę tylko i wyłącznie w celu rozwiązania pewnych jednorazowych problemów, o których wspominał Marschall. Teraz dwóch z nich było już na nogach, a dwóch kolejnych ściągało swoje granatowe marynarki z wieszaków. Kiedy i oni zwlekli swoje siedzenia z jasnych skórzanych obić foteli, otwarto drzwi. Stanley uważnie postawił pierwszy krok, na świeżo dosuniętych schodach. Mimo bezchmurnego nieba i bezlitośnie grzejącego słońca, przywitał go przyjemny chłodny wietrzyk, niosący chwilowe ukojenie. Gdy stąpał niepewnie po kolejnych stopniach chwiejących się schodów, podjechała pod nie czarna limuzyna- Mercedes E klasy. Kilka metrów za nią podążał jej bliźniaczy odpowiednik. Marschall, schodzący 2 stopnie za Stanley'em, wykrzyknął coś o pierwszym mercedesie. Stąd, gdy tylko ich podeszwy odnalazły się na asfaltowej powierzchni lotniska, skierowali się w stronę pierwszego z samochodów. Obaj odprowadzili wzrokiem, oraz pożegnalnym gestem, grupkę inżynierów wsiadającą właśnie do drugiej limuzyny, która połyskiwała efektownie światłem, odbijanym od gładkiej jak lustro powierzchni. Wnętrze mercedesa było tak samo ciemne jak jego karoseria. Fotele były obite czarną skórą, a jedynym kolorem obecnych wstawek był ciemny mahoń. Wszystko to nadawało wnętrzu klasowy charakter. Stanley poczuł się tutaj jak sam prezydent. Marschall, który usiadł w fotelu naprzeciwko wskazał mu dłonią barek, który wysunął się spomiędzy siedzeń zwróconych tyłem do kierunku jazdy. Profesor jednak zbył go tylko ruchem dłoni, wpatrując się w Cessnę Citation, od której dwóch mężczyzn właśnie odpychało schody. Jak przypuszczał, wyrusza ona w kolejny lot, po kolejnych członków załogi. Gdy limuzyna ruszyła, Stanley spoglądał tylko spod ociężałych powiek, na mijany przez nią wyjazd z lotniska, oraz nieznane mu uliczki prowadzące do hotelu. Jego współpracownik, o rdzawym wąsie opowiadał w trakcie podróży o okolicy, a być może i o budowie bomby atomowej w swoim garażu. Dla Stanley'a oznaczało to i tak nie więcej niż bzyczenie muchy, która dostała się wraz z nimi przez otwarte drzwi. Nie słuchając go spoglądał w okno nieobecnym wzrokiem, co jakiś czas z grzeczności przytakując. Zastanawiał się nad odpowiedzialnością, jaką na siebie wziął. Z całych sił próbował odgonić wszelkie negatywne myśli, jednak i tak nie mógł się powstrzymać przed tworzeniem w głowie scenariuszy wydarzeń, w przypadku gdyby mu się nie powiodło. Mimo wszystko wolał to, niż myśleć o tym, co się stanie, jeśli mu się jednak uda…
-Szofer zatrzymał pojazd, a delikatne szarpnięcie w fotelu zasygnalizowało koniec podróży. Minęło około dwudziestu minut od wyjazdu z lotniska, gdy Stanley został wyrwany ze swoich rozważań. Marschall widząc brak zainteresowania na twarzy swojego przyszłego przełożonego, od dłuższego czasu milczał. W tym momencie, uznał jednak, że nastąpił moment, w którym wypada się odezwać:
-- To jest hotel Nefeli. To właśnie tutaj będzie pan zakwaterowany, do czasu znalezienia odpowiedniejszej siedziby, panie profesorze.
-Ton głosu oraz wyraz twarzy Henry'ego Marschall'a wydał się Stanleyowi aż nadto lizusowski. Podziękował mu chłodno, po czym wyszedł z samochodu. Jego oczom ukazał się śnieżnobiały budynek. Tynk wydawał się nie mieć żadnej skazy, toteż odbijający się od niego blask słońca niemal oślepiał obserwatora. Teren wokół hotelu stanowiła dość gęsta roślinność, co wydawało się nieprawdopodobne w takim upale. Tutaj, znacznie głębiej w wyspie od lotniska, wiatr wiał już znacznie słabiej, a wysoka temperatura odcisnęła już na skroni Marschalla piętno w postaci pierwszych kropelek potu. Stanął on przed Stanley'em i, widząc jak z hotelu wychodzi jakaś kobieta, uścisnął mu dłoń.
-- Na tym etapie muszę pana pożegnać, panie profesorze- zaczął znów tym swoim lizusowskim tonem. Choć może Stanley był zbyt surowy, ze względu na swoje zmęczenie - Zostałem wybrany do pełnienia roli kogoś w rodzaju przewodnika. Także do zobaczenia.
-- Cześć. Miłego dnia. - odparł zdawkowo profesor Hutchins.
-Gdy podbiegła dziewczyna z obsługi hotelu, Marschall jej się ukłonił i usadowił swoje ciało z powrotem na tylnym siedzeniu mercedesa.
-- Witamy pana w hotelu Nefeli! - przywitała Stanley'a młoda dziewczyna. Mówiła nieznacznie łamanym angielskim, co bardzo szybko jej wybaczył, ze względu na dziewczęcy wdzięk bijący z jej twarzy. Promienny uśmiech zdawał się być stałym gościem na ładnej i opalonej twarzy. Włosy miała zawiązane w pojedynczy warkocz z tyłu, a dwa cienkie kosmyki włosów opadały jej na czoło. Była raczej niska i szczupła. Trudno było ocenić jej wiek. Ze względu na dziewczęcy urok, wydawała się mieć sporo mniej niż dwadzieścia lat.
-- Witam, słonko.- odparł, mimowolnie odwzajemniając uśmiech. - Powiedz mi tylko gdzie będę spał, gdyż nie pragnę teraz niczego innego.
-Starał się mówić trochę wolniej niż zazwyczaj, aby jego rozmówczyni wszystko zrozumiała.
-- Proszę bardzo. Niech pan idzie za mną.
-Dziewczyna szybko odwróciła się na pięcie i ruszyła w stronę wejścia. Stanley rzucił jeszcze okiem, na zawracającego na dziedzińcu mercedesa, po czym udał się w krok za Greczynką. Złapał się na tym, że początkowo utkwił wzrok na tylnich kieszeniach jej dżinsowych spodenek, które falowały przed nim na przemian w górę i w dół. Potem przeniósł wzrok na kraciastą czerwoną koszulę zawiązaną na wysokości pępka i opadający na nią czarny warkocz. Musiała wyczuć to spojrzenie, gdyż odwróciła się do niego i uśmiechnęła. Ten uśmiech zdradzał jednak jej zakłopotanie. Stanley podjął, więc szybką próbę rozładowania tej atmosfery:- Jak masz na imię, dziecko?
-- Tala. I nie jestem dzieckiem- powiedziała na pozór buńczucznie, ale po chwili puściła mu oko.
-Podczas przeprowadzania go przez hol, zauważył, że miejsce za ladą recepcji jest puste, co wskazywało na profesję Tali. Podłoga w holu była wyłożona bladoszarymi kafelkami, podczas gdy ściany były równie białe jak na zewnątrz. Panował tu jednak przyjemny chłód, a wpadające do środka światło nie raziło w oczy. O tej porze połowa recepcji była spowita w cieniu.
-- To jest Villas Lino. Nieco w głębi schowany jest Villas Gyrismata. Pan będzie mieszkał tutaj - recepcjonistka zatoczyła ręką szeroki krąg i udała się w stronę schodów, wykonanych z ciemnego drewna.
-Stanley podążył za nią i wspólnie weszli na pierwsze piętro. Tala wyjęła z bocznej kieszeni spodni klucz i otworzyła drzwi, wykonane z tego samego drewna co schody. Gdy zamek cicho szczęknął, drzwi otworzyły się z miękkim pomrukiem. Dziewczyna wyjęła klucz i wręczyła go w ręce nowego gościa. Ująwszy niklowany, mosiężny klucz, Stanley podziękował Tali i wszedł do pomieszczenia oznaczonego literką „L" i numerem 113. Po prawej stronie znajdowały się otwarte drzwi do łazienki, natomiast naprzeciwko, na środku pomieszczenia znajdował się mały okrągły stolik, otoczony przez trzy drewniane krzesła, o wiklinowych siedzeniach. Z lewej strony, pod ścianą, stało łóżko o jasnozielonym materacu i ciemnozielonych poduszkach, rzuconych luźno w duecie na środku. Tala przez chwilę przypatrywała się, oglądającemu wystrój mężczyźnie, po czym grzecznie się ukłoniła i wyszła. Gdy Stanley został sam, rozsiadł się wygodnie na łóżku i lekko podskakując testował twardość materaca. Po chwili wstał i otworzył wielkie okiennice, znajdujące się po przeciwnej stronie drzwi. Wyszedł na balkon z którego rozciągał się widok, na najwyższe wzniesienie na całej wyspie. Rzucił jeszcze okiem na roślinność pod hotelem, ale upał zmusił go do wycofania się do pokoju i zamknięcia okiennic i zasunięcia oliwkowych zasłon. Zrobił to już mocna znużony. ściągnął marynarkę i odwiesił ją na wieszaku w kącie pod telewizorem. Miał on niecałe dwadzieścia cali i spoczywał pod samym sufitem. Stanley nie miał ochoty sprawdzać, czy on w ogóle działa po czym zdjął krawat i rzuciwszy go na stolik opadł bezwładnie na łóżko. Przyjemnie zawirowało mu w głowie, po czym zasnął…
-Gdy się obudził, wskazówki na zegarku wskazywały godzinę dwudziestą. Wynikało z tego, że Stanley przespał tylko cztery godziny. Ten czas jednak wystarczył, aby czuł się teraz jak nowo narodzony. Zmiana czasu z pewnością będzie mu jeszcze dawała w kość. Jest to jednak tylko kwestia kilku najbliższych dni. Czymże jest kilka dni w perspektywie wielu miesięcy, a może i lat, które tutaj spędzi. Zwlekł nogi z łóżka i przysiadł na brzegu. Przygarbiony popatrzył w okno i potarł rozespane oczy. W czerwcu o tej porze było tutaj jeszcze całkiem jasno. Podszedł do drzwi. Nacisnął klamkę i je uchylił, kiedy przypomniał sobie o portfelu. Wrócił do marynarki i wyjął z niej ów przedmiot. Z niego wydobył pięćdziesiąt euro i ponownie udał się do wyjścia. Zatrzasnąwszy drzwi zszedł na dół po schodach. W tym wieku, po każdym śnie, zmysły dość długo wracają już do stu procentowej sprawności. W dodatku mrowienie w lewej ręce wskazywało na to, że jego ciało przyjęło złą pozycję podczas snu. Na parterze zwrócił uwagę na recepcję. Tali już tam nie było. Stała za to wysoka brunetka o dość dużym nosie. Nieco tłuste włosy kleiły jej się do czoła. Uśmiechnęła się do Stanley'a, jednak on odniósł wrażenie, że jest to szyderczy śmiech. Zdawał sobie sprawę z pogniecionej koszuli i, jak można było się spodziewać, włosów odstających na wszystkie strony. Teraz miał to gdzieś. Przez okna widział, że za Villas Lino trwa całkiem niezła zabawa. Stwierdził, że sprawdzi co tam się dzieje. Wyszedł przez tylne drzwi o dużych oknach. Część ludzi spoczywała na leżakach, część pływała w basenie, ale większość była zgromadzona pod drewnianym daszkiem, który spoczywał na kamiennych kolumnach. Zauważył, że postawiono tam bar, który cieszył się wcale niezłym powodzeniem. Jego biała koszula, oraz spodnie od garnituru nie pasowały z obowiązującym tutaj strojem. Większość kobiet paradowała w bikini, podczas gdy mężczyźni gustowali w krótkich spodenkach i, ewentualnie, hawajskich koszulach. Stanley postanowił podjąć próbę przedarcia się do baru i wkroczył w tłum. Po kilku minutach przepychanek między facetami w koszulach i kobietami w strojach kąpielowych dopchał się do baru i stanął twarzą w twarz z barmanem. On również stał w rozpiętej koszuli, a na klatce piersiowej prezentował złoty łańcuszek błyskający spomiędzy czarnych kędziorków. Pod nosem wyhodował pokaźnego wąsa, a łysinę skrywał pod kapeluszem o czerwonej opasce. Miał dość okazałe kształty, które świadczyły o tym, że lubi alkohol oraz jedzenie.
-- Czego panu potrzeba?- zapytał uprzejmie.
-- Martini
-Barman uśmiechnął się i nalał kieliszek Martini. Po tym nadział jedną z oliwek na wykałaczkę i wrzucił ją do srebrzystego płynu. Stanley podniósł kieliszek, aby obejrzeć go ze wszystkich stron. W tym czasie tłum zepchnął już go nieco dalej od baru. Nie zważając na to wyjął wykałaczkę, zjadł oliwkę i popił ją zawartością trzymanego w ręku naczynia. Soczyście odkaszlnął, po czym ponowił próbę dotarcia do baru. Wsadzając łokcie między żebra kolejnych mężczyzn w koszulach, powoli płynął do upragnionego celu. Gdy znalazł się przy barze poczuł na sobie spojrzenie. Obrócił głowę w prawą stronę i zobaczył stojącą obok niego Talę. Uśmiechała się do niego, po czym zawołała do barmana po grecku.
-- Miłej wspinaczki- mrugnęła do niego i oddaliła się ze swoim drinkiem. Tymczasem barman spojrzał na niego rozbawiony i, nim Stanley zdążył cokolwiek powiedzieć, nalał mu do szklanki złocistego płynu. Spojrzał pytająco na rozlewającego, a ten wskazał skinieniem głowy Talę. Profesor wyciągnął rękę po napój, ale wąsaty operator butelek dyskretnie przysunął szklankę do swego brzucha i wlał do niej jeszcze sporo mleka. Początkowo zdawało się, że alkoholem było whisky, ale gdy Stanley zbliżył szklankę do nosa poczuł silny zapach orzechów. Przywarł ustami do brzegu i odchylił głowę. Pił miarowo, zbyt szybko jak na whisky, za wolno jak na wódkę. Jakby po prostu pił mleko. Od razu poczuł smak. Dobre. Smakowało jak Monte. Po kilkunastu sekundach strumień spływający do gardła został przerwany. Ukazało się dno szklanki, które po chwili z głośnym uderzeniem wylądowało na stole.
-- Jeszcze raz to samo, Herr Einstein!
-Barman z kwaśnym uśmiechem ponowił wykonywane przez siebie czynności. Tym razem Stanley spostrzegł, że bazę drinka stanowiła wódka orzechowa. Oparł się łokciami o blat i ujął szklankę, gdy ta została już napełniona. Ponowił wykonane wcześniej czynności, delektując się smakiem nowopoznanego eliksiru. Chryste, jakie to dobre! Po chwili wypił jeszcze jedną szklankę. Dopiero przy kolejnej próbie spotkał się z odmową. Teraz dał się już wyrzucić na obrzeża tłumu oblegającego bar. Zajął miejsce na leżaku obok Tali, splótł dłonie za głową i patrzył. W niebo na wodzie i niebo nad głową. Zamknął powieki i poczuł jak dryfuje. Fala alkoholu właśnie wdarła się do krwioobiegu i zawędrowała do mózgu. świat zwolnił. Może trzeba było wolniej pić… Obrócił głowę i oparł ją prawym policzkiem na deskach leżaka. Widział teraz Talę, która gawędziła z koleżanką śmiejąc się niemal bez przerwy. Byłoby już zupełnie ciemno, ale pochodnie dookoła basenu oraz światła baru skutecznie ją rozpraszały. Profesor przez jakiś czas obserwował migotanie płomieni okalających wodę. Po ustabilizowaniu się stanu upojenia zwrócił się do sąsiadki.
-- Droga pani, co do wspomnianej przez panią wspinaczki - zauważył, że język trochę mu przeszkadza. Sprawiał wrażenie jakby nieco spuchł i nie mieścił się między zębami. Wnosiło to do jego wypowiedzi niezamierzony, pijacki akcent. Mimo tego szelmowsko się uśmiechnął i siląc się na czystość wypowiadanych słów dodał - to chętnie bym się na panią wspiął.
-Sam był zaskoczony bezpośredniością swoich słów. Ech, alkohol… Tala jednak tylko zachichotała.
-- Nie o taką wspinaczkę mi chodziło. Miałam na myśli to, że ten drink jest nazywany Monte. Monte- góra.
-- Niech pani nie obraża mojej inteligencji - udał obruszenie. Choć wydawało mu się, że dziewczyna zdaje sobie sprawę z tego, że załapał i tylko się zgrywa - Wybaczę to pani, ale od teraz jest pani moją dłużniczką.
-- A pan jest coraz bardziej nachalny. Radzę uważać, bo Posejdon może się zrobić bardzo zły.
-- Posejdon?
-- To ten pan, który zaserwował panu wspinaczkę.
-- Ach. - Stanley się zaśmiał - to pewnie przez te jego trzy zęby!
-Obie koleżanki wybuchły śmiechem. Tala przyłożyła wierzch dłoni do kącika ust i odpowiedziała udawanym szeptem:
-- On myśli, że jest panem tego morza alkoholu, w którym wszyscy pływają. Zresztą… Rzeczywiście nim jest.
-Hutchins spojrzał za plecy i rzucił okiem na pulchnego barmana w kapeluszu, który gryzł teraz w ustach jakąś wykałaczkę i pracowicie mieszał oraz rozlewał drinki. Czy mógł dodać czegoś do alkoholu? Nie. Na pewno nie. Ciemność basenu została już zmącona przez kilka osób, które postanowiły sobie popływać. Gdy Stanley oparł głowę na oparciu i raz jeszcze popatrzeć w gwiazdy poczuł, że jego głowa zrobiła się ciężka jak ołów. „Wielka niedźwiedzicaaa…" Złapał się na tym, że leży z wyciągniętym palcem łącząc gwiazdy składające się na wielki wóz. Przez jakiś czas leżał bez celu. „Chyba czas do łóżka, Stanley'u". Z wysiłkiem uniósł się z leżaka odpychając się dłońmi od podłokietników. Gdy stanął w pionie poczuł się, jakby pokład zaczął tańczyć pod stopami. Alkohol skutecznie sabotował funkcje błędnika.
-- Niech pan się tak nie kołysze, bo pan wpadnie do basenu!
-Chwilę po wypowiedzeniu tych słów Tala popchnęła go w stronę atramentowej tafli wody. Próbował zareagować stawiając szerzej lewą nogę, ale nie znalazła ona oparcia i naukowiec runął do wody, zahaczając boleśnie prawym kolanem o brzeg basenu. Usłyszał nad głową śmiech dwóch koleżanek. Nie trzeba było opuszczać leżaka. Hutchins niezgrabnie podpłynął do brzegu i porozglądał się w prawo i w lewo w poszukiwaniu drabinki. Ktoś młodszy i trzeźwy może by jej nie potrzebował, ale w tej sytuacji nie było sensu ryzykować upokorzenia. Jakby kąpiel w ubraniu go nie stanowiła. Na wpół płynął, a na wpół podciągał się po brzegu. Gdy dotarł do drabinki odetchnął z niewypowiedzianą ulgą i wspiął się po niej na zewnątrz. Całej tej podróży towarzyszyły drwiny ze strony Tali, ale nie zwracał na nią uwagi. Odpowiedź zostawił sobie na moment, w którym wygramolił się z basenu. Chryste, jak zimno! Trochę otrzeźwiał, ale zęby zaczęły wystukiwać nerwowy rytm- „tatataj-tatataj".- Młoda damo… tatataj-tatataj… może i jestem trochę pijany… tatataj-tatataj… ale nie znamy się na tyle dobrze… tatataj-tatataj… żeby mogła sobie pani pozwalać na takie żarciki… tatataj-tatataj.
-Tala spojrzała na niego po części zdziwionym, a po części oburzonym wzrokiem, pociągnęła łyk drinka przez słomkę, obróciła się i odeszła w stronę baru. A Stanley właśnie zaczął sobie zdawać sprawę, że wiatr wiał jednak całkiem mocno. I o ile nie odczuwał tego pijąc Monte firmy Posejdon i leżąc na leżaku, to podczas stania przy basenie, w przemoczonej koszuli, zdawał sobie z tego sprawę aż za dobrze. To był już dla niego koniec imprezy i czym prędzej udał się do hotelu. I mimo, że jakiś niewidzialny, nowoutworzony, trzeci biegun, co chwila przyciągał go w prawo, albo odpychał w lewo, udało mu się sinusoidalnym torem znaleźć w hotelu. Tam już przynajmniej nie wiało. Przeszedł obok pustej recepcji, wspiął się po schodach i z radością odnalazł swój pokój. L114. Pomacał kieszenie w koszuli i spodniach. Klucz! Mimo tego, w warunkowym odruchu nacisnął klamkę. Drzwi ustąpiły z cichym jęknięciem. Nie zakluczył ich… „Dobry ze mnie materiał, do tajnych badań rządowych". Klucz cały czas tkwił w zamku od wewnątrz i Stanley przekręcił go w prawo. Ciche szczęknięcie potwierdziło, że drzwi są już zamknięte. To oznaczało spokój. Aż do jutrzejszego południa. Podszedł jeszcze do wieszaka i wymacał portfel. Był. Wszystko na swoim miejscu. Teraz mógł już udać się do łazienki, osuszyć, przebrać w piżamę, znajdującą się w przyniesionych bagażach i zasnąć. Tym razem wygodnie, pod kołdrą.
-	Trzask! Moja głowa!
-- Panie profesorze…
-Twarz Stanleya wykrzywiła się w grymasie oszołomienia, niezadowolenia i… bólu. Cholera, co jest? Trzask!- Panie profesorze…
-Tym razem profesor zareagował bardziej. Podwinął nogi pod kołdrą, zasłonił twarz ręką i spróbował schować głowę między barki. Jak żółw.
-- Do jasnej cholery! Człowieku! Nie bij mnie!
-- Spóźni się pan na prom.
-- Jaki prom?...
-Stanley uchylił nieco powieki. Wlało się przez nie zbyt wiele światła, które sprawiło ból. Miał wrażenie, że czaszka zaraz mu eksploduje. Do tego drętwota ust i gęsta ślina w gardle. Niech szlag trafi to całe Monte i tego nienormalnego barmana. Całe życie pił Martini, whisky i wina. Wszystko było dobrze.
-- Na Skyropulę.
-Wzrok zaczął przyzwyczajać się do światła. Hutchins zlokalizował już swoją poranną niespodziankę. Nie zamawiał budzenia. Mimo tego teraz on tu stał. Czerwony z gorąca, zroszony potem, niczym trawa poranną rosą. Nie wiedział czy ciemnoczerwone plamy na policzkach świadczą o zdenerwowaniu czy o zbyt wysokiej temperaturze.
-- Która godzina?
-- Jedenasta, panie profesorze. - służalczy ton był jedyną nutą dobywającą się z ust Marshalla.
-- Dziękuję, Henry. Dasz mi minutkę? Chciałbym się ubrać.
-Człowiek odpowiedzialny za zrujnowanie humoru Stanley'owi niespiesznie opuścił pokój zamykając za sobą drzwi. Odgłos uderzenia drzwi o framugę był jak sygnał do startu. Hutchins wyskoczył z łóżka. Oczywiście, na ile można to nazwać wyskokiem. W obecnym stanie nie mógł szybko wykonywać zbyt złożonych czynności. Udał się do łazienki i spojrzał w lustro. Jak ja wyglądam! Opłukał twarz wodą, po czym podetknął usta pod kran i upił kilka łyków lodowato zimnego płynu. Umył zęby i szybko ubrał się w złożone w kosteczkę ubranie. Wyglądał dość elegancko. Przynajmniej poniżej szyi. Twarz głosiła historię poprzedniej nocy. Ech, trzeba było zająć się zwalczaniem kaca. W ten sposób bardziej przydałby się światu, niż poprzez rządowe projekty rodem z filmów science-fiction. Puk, puk. Czego ten człowiek chce? Dlaczego on mnie tak prześladuje? Zza drzwi dobiegał stłumiony głos Marshalla:
-- Mamy naprawdę mało czasu, profesorze.
-Dobra, już dobra. Stanley poprawił kołnierzyk i wyszedł z łazienki. Nie rozglądając się wiele chwycił klucz, wyjął go z zamka i gdy znalazł się w korytarzu zakluczył nim drzwi. Włożywszy go do kieszeni białej koszuli odwrócił się do swojego kompana.- świetnie pan wygląda, profesorze.
-- Dziękuję - "wiem jak wyglądam, a czuję się jeszcze gorzej, więc bądź przeklęty, pieprzony lizusie" pomyślał Stanley.
+Z góry Skyropula wyglądała jak zielony kamień wrzucony w Morze Egejskie.
+
+Dopiero gdy Cessna obniżyła lot, Stanley Hutchins zobaczył ranę pośrodku wyspy: wykarczowany krąg lasu, betonowy plac i kilka dróg tymczasowych, które przecinały zieleń jak świeże szwy. Dalej były tylko skały, karłowate drzewa, strome brzegi i woda tak niebieska, że przez chwilę wydawała się nierealna.
+
+— Pięć kilometrów drogą morską od Skyros — powiedział doktor Henry Marshall, pochylając się do okna z miną człowieka, który bardzo chciał być pomocny. — Drogą lądową podobnie, jeśli liczyć od hotelu do przystani. Sama Skyropula ma około pięciuset hektarów. Niewiele, ale wystarczy.
+
+Stanley nie odpowiedział od razu.
+
+Wystarczy na co? Na laboratorium? Na bazę? Na więzienie?
+
+Wyspa przesunęła się pod nimi powoli, jak eksponat na stole sekcyjnym. Z tej wysokości nie było widać ludzi. To go uspokoiło bardziej, niż powinno.
+
+— Nie wygląda na zamieszkaną — powiedział.
+
+Marshall poprawił okulary. Był niski, łysiejący, miękki w sylwetce, z rudawym wąsem, który nie pasował do jego twarzy tak wyraźnie, jakby został doklejony po namyśle.
+
+— Teraz już nie.
+
+Stanley odwrócił głowę od okna.
+
+— Teraz?
+
+Marshall zamrugał.
+
+— To znaczy… nie w sensie stałej infrastruktury. Miejscowi korzystali z wyspy raczej sezonowo. Pastwiska, małe gospodarstwa, kaplica, podobno kilka magazynów rybackich. Rząd grecki uregulował sprawę.
+
+„Uregulował” — pomyślał Stanley. Słowo czyste jak rękawiczka.
+
+— Rozumiem.
+
+Nie rozumiał. Albo rozumiał aż za dobrze.
+
+Cessna zatoczyła szeroki łuk nad morzem i skierowała się ku Skyros. W oddali, przy większej wyspie, widać było pas startowy, biały pas zabudowań i góry wypalone słońcem. Skyros wyglądała normalnie. Hotele, drogi, łodzie, ludzie, którzy żyli swoje małe, skończone życia. Skyropula, przed chwilą pod nimi, wyglądała jak miejsce już wyjęte z tego porządku.
+
+— Na razie będzie pan mieszkał w Skyros — odezwał się Marshall. — Klimat nie różni się bardzo od kalifornijskiego. Powinien pan szybko przywyknąć.
+
+— Codzienne podróże mogą być uciążliwe.
+
+— Rozumiem. — Marshall pogładził wąsa. — Do końca roku powinny powstać pierwsze prowizoryczne domki na Skyropuli. Oczywiście nie ma tyle miejsca, aby zamieszkała tam cała kadra. Zresztą… — zawahał się — część osób uważa, że lepiej, żeby kadra nie mieszkała tam stale.
+
+— Dlaczego?
+
+— Izolacja źle wpływa na ludzi.
+
+Stanley spojrzał na niego uważniej.
+
+Marshall natychmiast się speszył.
+
+— Tak mówią. Ja tylko powtarzam.
+
+— A kiedy zaczniemy właściwe prace?
+
+Zapytał ostrzej, niż zamierzał. Był zmęczony. Po locie z Waszyngtonu do Aten, potem po przesiadce, po bezsennej nocy i po dwóch tygodniach udawania na Stanfordzie, że bierze urlop naukowy z powodów, które nie powinny nikogo interesować, miał ochotę spać. Miał też ochotę zobaczyć laboratorium. Jedno i drugie gryzło się w nim od rana.
+
+— Zapewniano mnie, że przed końcem roku — powiedział Marshall. — Część pomieszczeń podziemnych istniała już wcześniej. Stąd ten betonowy plac. Ale doktor King stwierdził podczas pierwszej wizytacji, że przestrzeń jest niewystarczająca. Kazał rozkopać wyspę bardziej.
+
+— I?
+
+Marshall podrapał się po czole.
+
+— I wyspa zaczęła się zapadać.
+
+Stanley przez moment patrzył na niego bez słowa.
+
+— Proszę powtórzyć.
+
+— Nie cała wyspa. Tylko centralna część. Prawdopodobnie puste komory pod wapieniem albo stare wyrobiska. Nie jestem budowniczym, panie profesorze. Wiem tylko, że prace przerwano, potem zmieniono projekt wzmocnień, a senator nalegał, żeby nie tracić czasu.
+
+— Senator nalegał.
+
+— Tak.
+
+Samolot zadrżał lekko. Marshall uchwycił się podłokietnika. Stanley nawet nie drgnął.
+
+— Co jest jeszcze potrzebne? — zapytał.
+
+— Sprzęt, pełne zasilanie, zabezpieczenia, systemy podtrzymania funkcji życiowych. Kilka sal wygląda już prawie gotowo, ale to tylko powierzchnia. Elektryczność jest problemem. Na wyspę dociera linia wysokiego napięcia, ale to za mało.
+
+— Do czego?
+
+Marshall spojrzał na niego szybko, jakby nie wiedział, ile wolno powiedzieć człowiekowi, który przecież miał tym wszystkim kierować.
+
+— Do pańskiej pracy.
+
+Wypowiedź przerwał wstrząs. Koła Cessny uderzyły o asfalt lądowiska. Samolot podskoczył raz, drugi, po czym potoczył się pasem. Z tyłu ktoś zaklął półgłosem. Jeden z inżynierów, których Stanley przedstawiono jeszcze w Atenach, obudził się z otwartymi ustami i rozejrzał z przerażeniem.
+
+Lot się skończył.
+
+Stanley rozpiął pasy i powoli wstał. Szczęka rozchyliła mu się w głębokim ziewnięciu.
+
+— Niech się pan niczym nie martwi — powiedział Marshall z przesadną troską. — Za moment zakwaterujemy pana w hotelu.
+
+Stanley skinął głową.
+
+Gdy przeciskał się między fotelami do wyjścia, stewardessa budziła pozostałych pracowników. Czterech inżynierów w granatowych marynarkach zbierało teczki i torby, jakby przylecieli na konferencję, a nie na wyspę, którą właśnie rozpruto od środka. Stanley nie zapamiętał ich nazwisk. Nie próbował. Mieli rozwiązać jednorazowe problemy, o których wspominał Marshall. W projekcie wszyscy mieli być od czegoś.
+
+Drzwi otwarto. Uderzyło go światło.
+
+Słońce było ostre, białe, bezlitosne. Na pierwszym stopniu schodków Stanley poczuł jednak wiatr od morza — chłodny, słony, niespodziewanie przyjemny. Na kilka sekund wakacyjny anturaż wygrał z tajemnicą. Było ciepło, jasno, pachniało asfaltem, kurzem i wodą. Nie gabinetem senatora. Nie whisky wypitą przy podpisywaniu dokumentu. Nie papierem, na którym jego nazwisko wyglądało jak etykieta na próbce.
+
+Na płycie czekały dwie czarne limuzyny. Mercedesy klasy E, lśniące tak mocno, że odbijały niebo. Marshall zawołał coś o pierwszym samochodzie i ruszył za Stanleyem.
+
+— To trochę przesada — mruknął Stanley.
+
+— Sponsorzy lubią, kiedy wszystko wygląda, jakby było pod kontrolą.
+
+Marshall powiedział to lekko, ale zaraz potem spuścił wzrok, jakby zorientował się, że powiedział za dużo.
+
+Wnętrze mercedesa było ciemne jak pudełko na kosztowności. Czarna skóra, mahoń, chłód klimatyzacji. Marshall usiadł naprzeciwko i wskazał barek wysuwający się spomiędzy siedzeń.
+
+— Może coś zimnego?
+
+Stanley odmówił ruchem dłoni.
+
+Przez szybę obserwował Cessnę. Dwóch mężczyzn odpychało schody, ktoś zamykał luk bagażowy. Samolot miał zaraz ruszyć po kolejnych ludzi. Kolejnych specjalistów, kolejne nazwiska, kolejne tryby w maszynie, którą sam pomógł uruchomić, zanim jeszcze zobaczył jej kształt.
+
+Limuzyna ruszyła.
+
+Marshall mówił o okolicy: o porcie, drogach, hotelach, o tym, gdzie serwują przyzwoitą kawę, a gdzie lepiej nie zamawiać ryb. Po kilku minutach jego głos zmienił się w brzęczenie owada uwięzionego pod szybą. Stanley patrzył na mijane uliczki i przytakiwał z grzeczności.
+
+Myślał o odpowiedzialności.
+
+Nie o karze. Nie o senatorze. Nie o pieniądzach.
+
+O odpowiedzialności za to, co się stanie, jeśli im się nie uda.
+
+A potem o wiele gorszej rzeczy: o tym, co się stanie, jeśli im się uda.
+
+Hotel Nefeli był śnieżnobiały. Tak biały, że kiedy Stanley wysiadł z samochodu, musiał zmrużyć oczy. Budynek stał wśród gęstej roślinności, która w tym upale wyglądała prawie nieprawdopodobnie. Dalej, za nim, widać było fragment morza i zbocze najwyższego wzgórza wyspy.
+
+Marshall wysiadł za nim i natychmiast zaczął się pocić.
+
+— To tutaj będzie pan zakwaterowany do czasu znalezienia odpowiedniejszej siedziby, panie profesorze.
+
+W jego głosie było coś służalczego. Stanley wiedział, że zmęczenie czyni go surowszym, ale nie potrafił tego w sobie powstrzymać.
+
+— Dziękuję, doktorze Marshall.
+
+— Zostałem wybrany do pełnienia roli czegoś w rodzaju przewodnika. Także… do zobaczenia.
+
+— Do zobaczenia.
+
+Marshall uścisnął mu dłoń, ukłonił się młodej kobiecie z obsługi, która właśnie wyszła z hotelu, po czym wrócił do mercedesa.
+
+— Witamy w hotelu Nefeli — powiedziała dziewczyna po angielsku z lekkim akcentem.
+
+Miała ciemne włosy splecione w warkocz, opaloną twarz i uśmiech osoby, która od dawna wie, że turyści lubią być witani tak, jakby naprawdę na nich czekano.
+
+Stanley odwzajemnił uśmiech odruchowo.
+
+— Dziękuję. Chciałbym tylko dostać klucz i przespać kilka godzin.
+
+— Oczywiście. Proszę za mną.
+
+Ruszyła w stronę wejścia. Stanley poszedł za nią, czując nagle całą ciężkość własnego ciała: loty, brak snu, koszulę przyklejoną do pleców, głowę pełną myśli, których nie dało się odsunąć. Przez moment zauważył jej nagie nogi, krótkie dżinsowe spodenki, warkocz opadający na zawiązaną w pasie koszulę. Zauważył też własne spojrzenie — zbyt długie, niepotrzebne.
+
+Odwrócił wzrok pierwszy.
+
+Nie był z kobietą od bardzo dawna. Ta myśl przyszła nagle, brutalnie, bez związku z miejscem i natychmiast go zirytowała. Był profesorem, nie chłopcem na wakacjach. Przyjechał tu, żeby pracować nad czymś, czego inni bali się nazwać.
+
+A jednak ciało miało swoje małe, żałosne terminy ważności. Domagało się snu, alkoholu, dotyku, zapomnienia. Nawet teraz.
+
+Hol był chłodny, wyłożony jasnymi kafelkami. Dziewczyna, która przedstawiła się jako Tala, podała mu klucz do pokoju L113. Po drodze mówiła coś o częściach hotelu — Villas Lino, Villas Gyrismata — ale Stanley zapamiętał tylko kształt korytarza i przyjemny półmrok.
+
+Pokój był prosty: łóżko z jasnozielonym materacem, dwa krzesła o wiklinowych siedzeniach, okrągły stolik, telewizor pod sufitem i balkon z widokiem na wzgórze.
+
+— Gdyby czegoś pan potrzebował, recepcja jest na dole — powiedziała Tala.
+
+— Dziękuję.
+
+Ukłoniła się lekko i wyszła.
+
+Kiedy został sam, zdjął marynarkę, rozluźnił krawat i usiadł na łóżku. Materac był twardszy, niż wyglądał. Otworzył okiennice. Z balkonu zobaczył białe ściany hotelu, korony drzew, skrawek basenu i za nim wzgórze, na którym światło południa leżało jak kurz.
+
+Skyros była piękna.
+
+Skyropula była raną.
+
+Ta różnica będzie mu towarzyszyć, pomyślał, po czym zamknął okiennice, zasunął oliwkowe zasłony i położył się w ubraniu.
+
+Zasnął, zanim zdążył zdjąć buty.
+
+Kiedy się obudził, zegarek wskazywał dwudziestą. Spał tylko cztery godziny, ale ciało uznało to za dar. Przez chwilę siedział na brzegu łóżka, rozcierając zdrętwiałą lewą rękę. Czerwcowy wieczór wciąż był jasny. Za oknem słychać było śmiech, plusk wody i muzykę.
+
+Mógł zostać w pokoju. Powinien zostać w pokoju. Zamówić herbatę, przeczytać notatki Marshalla, przejrzeć manuskrypt, położyć się znowu.
+
+Zamiast tego poszedł do łazienki, obmył twarz zimną wodą i spojrzał w lustro.
+
+Wyglądał starzej niż rano.
+
+Nie staro. Gorzej: wyglądał jak człowiek, który bardzo długo udaje, że nie jest zmęczony.
+
+Z kieszeni marynarki wyjął portfel i pięćdziesiąt euro. Potem zszedł na dół.
+
+Tali nie było już za recepcją. Stała tam inna kobieta, wysoka brunetka z dużym nosem i włosami przyklejonymi do czoła. Uśmiechnęła się uprzejmie. Stanley odniósł absurdalne wrażenie, że widzi jego pogniecioną koszulę, rozczochrane włosy i wszystkie podpisane w życiu dokumenty.
+
+Za hotelem trwała impreza.
+
+Pod drewnianym daszkiem wspartym na kamiennych kolumnach ustawiono bar. Część ludzi pływała w basenie, część leżała na leżakach, większość piła. Mężczyźni w krótkich spodenkach i hawajskich koszulach, kobiety w bikini, śmiech, pochodnie, muzyka. Stanley w białej koszuli i spodniach od garnituru wyglądał jak człowiek, który pomylił pogrzeb z weselem.
+
+Przez chwilę stał na progu.
+
+To było głupie miejsce na człowieka, który podpisał zgodę na własną egzekucję w razie zdrady.
+
+Dlatego właśnie wszedł.
+
+Barman miał rozpiętą koszulę, złoty łańcuszek ginący w czarnych włosach na piersi, pokaźny wąs, kapelusz z czerwoną opaską i brzuch człowieka, który od lat prowadził pokój negocjacyjny między alkoholem a jedzeniem.
+
+— Czego panu potrzeba? — zapytał po angielsku.
+
+— Martini.
+
+Barman uniósł brew, jakby Stanley zamówił operę w tawernie, ale nalał. Oliwka wpadła do srebrzystego płynu z małym pluskiem.
+
+Pierwszy łyk był za szybki. Stanley zakaszlał, ale zaraz poczuł, jak w gardle rozlewa się przyjemne ciepło. Nie ulga. Jeszcze nie. Obietnica ulgi.
+
+Kiedy wrócił po drugi kieliszek, obok baru stała Tala.
+
+— Pan już nie śpi — powiedziała.
+
+— Najwyraźniej tylko częściowo.
+
+Uśmiechnęła się. Tym razem nie służbowo.
+
+— To źle pić martini tutaj. Posejdon będzie obrażony.
+
+— Posejdon?
+
+Skinęła głową w stronę barmana.
+
+— On myśli, że jest panem tego morza alkoholu, w którym wszyscy pływają.
+
+Barman usłyszał własne imię i wyprostował się z godnością człowieka przywołanego do ołtarza.
+
+— Dla pana profesora coś lepszego — powiedział.
+
+Nalał do szklanki złocistego płynu, dolał czegoś mlecznego i podał Stanleyowi. Zapach był orzechowy, ciężki, słodki.
+
+— Monte — wyjaśniła Tala. — Góra. Miłej wspinaczki.
+
+Stanley wypił.
+
+Było absurdalnie dobre. Słodkie, łagodne, zdradliwe. Nie jak alkohol, raczej jak deser, który ktoś nauczył kłamać.
+
+— Jeszcze raz to samo — powiedział.
+
+Posejdon uśmiechnął się szeroko.
+
+Po drugiej szklance świat stracił krawędzie. Po trzeciej zrobił się przyjazny. Po czwartej Stanley poczuł, że od wielu miesięcy, może lat, nikt nie wymaga od niego natychmiastowej odpowiedzi. Muzyka zwolniła. Śmiech ludzi przestał drażnić. Pochodnie wokół basenu drżały na wietrze, a on siedział na leżaku obok Tali i patrzył, jak wieczór zmienia wodę w ciemne szkło.
+
+Gdzieś wysoko, na rogu budynku, zauważył małą czarną kopułkę kamery.
+
+Przez chwilę patrzył na nią bezmyślnie.
+
+Hotel. Ochrona. Nic więcej.
+
+A potem alkohol łagodnie popchnął tę myśl w bok.
+
+— Długo pani tu pracuje? — zapytał.
+
+— Od początku sezonu.
+
+— A wcześniej?
+
+— W innych miejscach. Wyspy są małe, praca jest sezonowa.
+
+— I nie przeszkadza pani, że teraz mieszkają tu ludzie, którzy… — urwał.
+
+— Którzy co?
+
+Którzy kupili sąsiednią wyspę? Którzy wycięli jej środek? Którzy udają turystów, zanim zejdą pod ziemię robić rzeczy, o których nie wolno mówić?
+
+— Którzy nie umieją pić — powiedział.
+
+Tala roześmiała się.
+
+— Niektórzy umieją. Pan jeszcze nie.
+
+To powinno go rozbawić. Rozbawiło. Ale gdzieś pod śmiechem poczuł ukłucie upokorzenia.
+
+— Jest pani bardzo surowa.
+
+— Jestem trzeźwa.
+
+— To niesprawiedliwa przewaga.
+
+— Pan też mógł ją zachować.
+
+Powinien był na tym skończyć. Wstać, powiedzieć dobranoc, wrócić do pokoju. Zamiast tego pochylił się odrobinę za blisko.
+
+— A gdybym poprosił panią o pomoc w dotarciu na górę?
+
+Tala przestała się uśmiechać.
+
+— Do pokoju?
+
+Usłyszał własne zdanie sekundę za późno. Zabrzmiało gorzej, niż chciał. Brudniej. Nie jak żart zmęczonego człowieka, tylko jak coś, czego sam nie chciałby usłyszeć od obcego mężczyzny.
+
+— Przepraszam — powiedział natychmiast. — To było… niezręczne.
+
+— Tak.
+
+Wstała.
+
+Stanley również spróbował wstać, z zamiarem przeproszenia raz jeszcze, ale leżak podsunął mu się pod kolana, ziemia odpłynęła w bok, a basen nagle znalazł się w miejscu, w którym przed chwilą była przestrzeń.
+
+Poczuł tylko krótkie szarpnięcie w ramieniu — czyjaś dłoń, może Posejdona, może kogoś innego — i stracił równowagę.
+
+Woda zamknęła się nad nim z zimnym trzaskiem.
+
+Przez sekundę nie wiedział, gdzie jest. Słyszał śmiech, krzyk, plusk i własne serce. Potem wynurzył się, parskając, w koszuli przyklejonej do ciała i krawacie ciężkim jak mokry wąż.
+
+Na brzegu stał Posejdon. Nie śmiał się. Tylko patrzył.
+
+— Pan profesor powinien odpocząć — powiedział spokojnie.
+
+Tala stała kilka kroków dalej. Miała zamkniętą twarz. Już nie była dziewczyną z recepcji, która się uśmiechała. Była osobą, której zachowanie obcego mężczyzny zepsuło wieczór.
+
+To zabolało bardziej niż uderzone kolano.
+
+Stanley dopłynął do drabinki i wygramolił się niezgrabnie. Woda kapała z niego na kamienne płyty.
+
+— Przepraszam — powiedział do Tali.
+
+Nie wiedział, czy usłyszała. Odwróciła się i odeszła w stronę baru.
+
+Wiatr nagle zrobił się zimny.
+
+Stanley stał przez chwilę przy basenie, mokry, pijany i śmieszny. Ludzie udawali, że już na niego nie patrzą, co było gorsze, niż gdyby patrzyli otwarcie. Podniósł wzrok ku czarnej kopułce kamery na rogu budynku.
+
+Tym razem myśl nie odpłynęła.
+
+Ktoś to zobaczy.
+
+A jeśli nie teraz, to jutro.
+
+Ruszył do hotelu. Szedł nierówno, ale już bez śmiechu. Przy recepcji nie było nikogo. Wspiął się po schodach, zostawiając za sobą mokre ślady.
+
+Pod drzwiami pokoju długo szukał klucza.
+
+L113.
+
+Udało się za trzecim razem.
+
+Wszedł do środka, zamknął drzwi i oparł się o nie plecami. Woda ściekała z koszuli na podłogę. Z lustra w łazience patrzył na niego człowiek, który jeszcze rano widział z góry okaleczoną wyspę i pomyślał, że brak ludzi jest uspokajający.
+
+Teraz sam nie był pewien, która część tego dnia powinna go zawstydzić najbardziej.
+
+Powoli zdjął mokry krawat.
+
+Gdzieś za ścianą muzyka grała dalej.
