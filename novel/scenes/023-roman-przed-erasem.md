@@ -1,32 +1,77 @@
 # 023. Roman przed erasem
 
-**Rozdział:** Eskperyment
+**Rozdział:** Eksperyment
 
 ## Cel sceny
 
-_TODO: opisz cel dramaturgiczny sceny._
+Pokazanie ostatnich minut Romana przed transferem: jego strachu, udawanej brawury, świadomości ryzyka i decyzji, że mimo wszystko nie wycofa się z eksperymentu.
 
 ## Treść sceny
 
-Fullerenowe akumulatory zape?nione w sze??dziesi?ciu procentach! Fullerenowe akumulatory… Zape?nienie wodorem, sze??dziesi?t procent. Masa, jedna tona. Czyli trzy tysi?ce sze??set kilowatogodzin energii. Dobrze. ?y?. By? sob?. Co wi?cej, dalej by? w stanie wykonywa? proste kalkulacje matematyczne. „Budzi si?!" us?ysza? z oddali.
-- Roman, co jest? Jak si? czujesz?
-Otworzy? oczy. Zza przymru?onych powiek dojrza? ludzk? sylwetk?. Po chwili obraz si? wyostrzy? i pozna? w niej profesora.
-- I co, Stanley? ?yjemy? - Wymamrota? do?? niewyra?nie Bagrowski.
-- No, ja na pewno. A ty? Jak si? czujesz?
-- Dobrze, troch?… Aaargh… - Roman si? poruszy?. - Troch? mnie stawy bol?. Za mocno ?ci?gn?li?cie pasy. Ile to trwa?o?
-- Ponad godzin?.
-- ?a?… - Roman gwizdn?? z podziwu.
-- Jeste? gotowy? Na pewno?
-Skin?? g?ow?, cho? w ?adnym wypadku nie by? gotowy.
-- Dobra, le? spokojnie.
-Na sal? wbieg?o kilku ludzi w bia?ych, lekarskich kitlach i poczu? szarpni?cie. ?ó?ko na którym le?a?, wraz z nim zacz??o si? przesuwa? w kierunku wyj?cia. Czu? si? jak w drodze na operacj?. By? mo?e ostatni?. Mo?na to by?o nawet tak nazwa?. Wyjechali z pokoju i przez jaki? czas kó?ka ?ó?ka stukota?y o wg??bienia w fugach mi?dzy p?ytkami, którymi ob?o?ony by? korytarz. Tuk-tuk-tuk-tuk. „Troch? jakbym jecha? poci?giem" pomy?la?. „Ach, absurd."
-Stanley mia? racj?. Móg? si? nie zgodzi?. Mia? szans? jeszcze si? z tego wykr?ci?. Wyszed?by na tchórza, którym by? mo?e by?. Czu? ochot?, aby wsta? i krzykn?? „Dobra, mi?o by?o! Róbcie co chcecie, ale ja spadam!" Jednak zaraz potem sam siebie karci?. „Nie, nie jeste? taki. Jeste? m??czyzn?, cholera jasna! We? si? w gar??… Cholera, mam paranoj?. Mo?e to G?upi Ja??" ?ó?ko wjecha?o do sali, otoczonej ze wszech stron morzem. Widzia? to? morza Egejskiego przez grube szk?o, oddzielaj?ce t? przestrze? od niego. Mechanicy zacz?li demontowa? jego ?ó?ko. Wiedzia?, ?e to samo ma miejsce w drugiej, bli?niaczej sali. Tam na podobnym do jego ?ó?ku le?a? doktor Marshall. Blat jego ?ó?ka, wraz z materacem, zosta? zamontowany na wysi?gniku znajduj?cym si? w centralnej cz??ci sali. Widzia? wszechmiar przewodów, przygotowanych do po??czenia z jego cia?em. Jeden z lekarzy zak?ada? mu ju? na twarz mask?, odpowiedzialn? za podtrzymanie podstawowych funkcji ?yciowych od chwili, gdy wyma?? mu mózg, do chwili w której jego cia?o stanie si? gospodarzem dla umys?u Marshalla. „Stój!" us?ysza? zza sali. Wiedzia?, ?e b?dzie ca?y czas obserwowany przez wizjer znajduj?cy si? w pokoju, s?siaduj?cym z jego sal?.
-- Ostatnia szansa, Roman. Wymi?kasz?
-Stanley tym razem wysili? si? na ?art. Wida? by?o, ?e zjada? go stres. Stru?ki potu sp?ywa?y mu po policzkach.
-- Nie wymi?kam! Jestem twardy ch?opak.
-Profesor westchn??.
-- Chcesz si? po?egna?, wezwa? kogo?, zadzwoni?? Chcesz co? powiedzie??
-Roman spojrza? w pustk?. Nie wiedzia? co ma powiedzie?. Zastanowia? si? przez chwil?, u?miechn?? w duchu, po?o?y? na ?ó?ku i krzykn?? z ca?ych si?.
-- FREEEEEEDOOOOOOOOOOOOOOOOOM!
-Przypomnia? sobie ostatni? scen? filmu Braveheart z Melem Gibsonem. Zobaczy?, ?e profesor pokr?ci? z politowaniem g?ow?, machn?? r?k? i odszed?. Tymczasem, kto? sprawi?, ?e twarz Romana zanurkowa?a w masce wspomagaj?cej oddychanie.
-Rozgl?da? si? powoli, ale po u?amku sekundy zorientowa? si?, ?e w podawanym mu w masce powietrzu znajdowa? si? ?rodek znieczulaj?cy. Powoli ?ciany zacz??y si? rozmazywa?, poczu? lekkie szarpni?cie skóry na czubku g?owy, gdzie chyba co? wbito. Pó?niej obserwowa? jak cel? zalewa b?oga ciemno??.
+Fullerenowe akumulatory zapełnione w sześćdziesięciu procentach! Fullerenowe akumulatory… Zapełnienie wodorem, sześćdziesiąt procent. Masa, jedna tona. Czyli trzy tysiące sześćset kilowatogodzin energii. Dobrze. Żył. Był sobą. Co więcej, dalej był w stanie wykonywać proste kalkulacje matematyczne.
+
+— Budzi się! — usłyszał z oddali.
+
+— Roman, co jest? Jak się czujesz?
+
+Otworzył oczy. Zza przymrużonych powiek dojrzał ludzką sylwetkę. Po chwili obraz się wyostrzył i poznał w niej profesora.
+
+— I co, Stanley? Żyjemy? — wymamrotał dość niewyraźnie Bagrowski.
+
+— No, ja na pewno. A ty? Jak się czujesz?
+
+— Dobrze, trochę… Aaargh… — Roman się poruszył. — Trochę mnie stawy bolą. Za mocno ściągnęliście pasy. Ile to trwało?
+
+— Ponad godzinę.
+
+— Łał… — Roman gwizdnął z podziwu.
+
+— Jesteś gotowy? Na pewno?
+
+Skinął głową, choć w żadnym wypadku nie był gotowy.
+
+— Dobra, leż spokojnie.
+
+Na salę wbiegło kilku ludzi w białych, lekarskich kitlach i poczuł szarpnięcie. Łóżko, na którym leżał, wraz z nim zaczęło się przesuwać w kierunku wyjścia. Czuł się jak w drodze na operację. Być może ostatnią. Można to było nawet tak nazwać.
+
+Wyjechali z pokoju i przez jakiś czas kółka łóżka stukotały o wgłębienia w fugach między płytkami, którymi obłożony był korytarz.
+
+Tuk-tuk-tuk-tuk.
+
+„Trochę jakbym jechał pociągiem” — pomyślał. „Ach, absurd”.
+
+Stanley miał rację. Mógł się nie zgodzić. Miał szansę jeszcze się z tego wykręcić. Wyszedłby na tchórza, którym być może był. Czuł ochotę, aby wstać i krzyknąć: „Dobra, miło było! Róbcie co chcecie, ale ja spadam!”.
+
+Jednak zaraz potem sam siebie karcił.
+
+„Nie, nie jesteś taki. Jesteś mężczyzną, cholera jasna. Weź się w garść… Cholera, mam paranoję. Może to Głupi Jaś?”.
+
+Łóżko wjechało do sali otoczonej ze wszech stron morzem. Widział toń Morza Egejskiego przez grube szkło oddzielające tę przestrzeń od niego. Mechanicy zaczęli demontować jego łóżko. Wiedział, że to samo ma miejsce w drugiej, bliźniaczej sali. Tam na podobnym do jego łóżku leżał doktor Marshall.
+
+Blat jego łóżka, wraz z materacem, został zamontowany na wysięgniku znajdującym się w centralnej części sali. Widział wszechmiar przewodów przygotowanych do połączenia z jego ciałem. Jeden z lekarzy zakładał mu już na twarz maskę odpowiedzialną za podtrzymanie podstawowych funkcji życiowych od chwili, gdy wymażą mu mózg, do chwili, w której jego ciało stanie się gospodarzem dla umysłu Marshalla.
+
+— Stój! — usłyszał zza sali.
+
+Wiedział, że będzie cały czas obserwowany przez wizjer znajdujący się w pokoju sąsiadującym z jego salą.
+
+— Ostatnia szansa, Roman. Wymiękasz?
+
+Stanley tym razem wysilił się na żart. Widać było, że zjadał go stres. Strużki potu spływały mu po policzkach.
+
+— Nie wymiękam. Jestem twardy chłopak.
+
+Profesor westchnął.
+
+— Chcesz się pożegnać, wezwać kogoś, zadzwonić? Chcesz coś powiedzieć?
+
+Roman spojrzał w pustkę. Nie wiedział, co ma powiedzieć. Zastanawiał się przez chwilę, uśmiechnął w duchu, położył na łóżku i krzyknął z całych sił:
+
+— FREEEEEEDOOOOOOOOOOOOOOOOOM!
+
+Przypomniał sobie ostatnią scenę filmu *Braveheart* z Melem Gibsonem. Zobaczył, że profesor pokręcił z politowaniem głową, machnął ręką i odszedł.
+
+Tymczasem ktoś sprawił, że twarz Romana zanurkowała w masce wspomagającej oddychanie.
+
+Rozglądał się powoli, ale po ułamku sekundy zorientował się, że w podawanym mu powietrzu znajduje się środek znieczulający. Powoli ściany zaczęły się rozmazywać. Poczuł lekkie szarpnięcie skóry na czubku głowy, gdzie chyba coś wbito.
+
+Później obserwował, jak celę zalewa błoga ciemność.
