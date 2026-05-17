@@ -4,13 +4,13 @@
 
 ## Cel sceny
 
-Pokazanie Skyropuli jako miejsca, które z zewnątrz wygląda na małą grecką wyspę, ale w rzeczywistości zostaje przekształcone w zamknięty, monitorowany kompleks badawczo-wojskowy. Scena ma przedstawić fizyczną skalę projektu: stare centrum meteorologiczne, podziemia, monitoring, planowaną elektrownię SMR, centrum danych oraz pierwsze ślady obecności firmy Animus — technologicznego imperium profesora Boyle’a. Stanley nie rozumie jeszcze, po co projektowi tak ogromna moc obliczeniowa, ale ma poczuć, że pod powierzchnią działa drugi, nieujawniony jeszcze system.
+Pokazanie Skyropuli jako miejsca, które z zewnątrz wygląda na małą grecką wyspę, ale w rzeczywistości zostaje przekształcone w zamknięty, monitorowany kompleks badawczo-wojskowy. Scena ma przedstawić fizyczną skalę projektu: stare centrum meteorologiczne, podziemia, monitoring, planowaną elektrownię SMR, centrum danych oraz pierwsze ślady obecności firmy Animus — technologicznego imperium profesora Boyle’a. Stanley nie rozumie jeszcze, po co projektowi tak ogromna moc obliczeniowa, ale ma poczuć, że pod powierzchnią działa drugi, nieujawniony system.
 
 ## Treść sceny
 
 Następnego ranka morze było zbyt jasne, wiatr zbyt głośny, a światło zbyt bezlitosne.
 
-Stanley Hutchins stał na przystani w Skyros, z dłonią zaciśniętą na poręczy niewielkiego motorowego kutra, i udawał, że nie boli go głowa. Słona bryza wciskała się pod kołnierz koszuli. W żołądku czuł pustkę, która nie była głodem. W ustach miał smak wody z basenu, martini i wstydu.
+Stanley Hutchins stał na przystani w Skyros, z dłonią zaciśniętą na poręczy niewielkiego motorowego kutra, i udawał, że nie boli go głowa. Słona bryza wciskała się pod kołnierz koszuli. W ustach miał smak wody z basenu, martini i wstydu.
 
 Doktor Henry Marshall mówił już od pięciu minut.
 
@@ -24,19 +24,13 @@ Marshall uśmiechnął się nerwowo.
 
 — Grecy. Oni udają, że nic ich nie obchodzi. To dużo zdrowsze.
 
-Kuter odbił od przystani. Hotel Nefeli został za nimi, biały, schludny i niewinny w sposób, który po poprzednim wieczorze wydawał się Stanleyowi osobistą zniewagą. Przez chwilę widział jeszcze ogród, basen i żółtą taśmę przy zejściu na plażę.
-
-**BEACH CLOSED — SHARK RISK**.
-
-Rekiny w Morzu Egejskim. Dobre sobie.
-
-Albo bardzo kiepski żart. Albo bardzo wygodny powód, by trzymać ludzi z dala od wody.
+Kuter odbił od przystani. Hotel Nefeli został za nimi, biały, schludny i niewinny w sposób, który po poprzednim wieczorze wydawał się Stanleyowi osobistą zniewagą. Przez chwilę widział jeszcze ogród i basen. Wystarczyło, by żołądek zacisnął mu się mocniej.
 
 Odwrócił wzrok.
 
 Skyropula rosła przed nimi powoli. Z poziomu morza nie wyglądała już jak zielony kamień, ale jak niewielka twierdza natury: strome brzegi, poszarpane skały, kępy drzew i wąska przystań, przy której stało kilka łodzi roboczych. Nad wszystkim dominował niski, szary budynek starego centrum meteorologicznego. Na dachu sterczały anteny, jak połamane palce.
 
-Dalej, za nim, w głębi wyspy, słychać było piły.
+Dalej, w głębi wyspy, słychać było piły.
 
 Nie było to głośne. Wystarczyło.
 
@@ -106,7 +100,7 @@ Stanley parsknął krótko. Bolało go to w skroniach.
 
 Ruszyli lewym korytarzem. Podłoga była nierówna. W kilku miejscach kafelki odchodziły od podłoża, a kable przeciągnięto tymczasowo pod sufitem, w metalowych korytkach, które nie pasowały do starego budynku. Z otwartych drzwi dochodziły głosy informatyków, dźwięk wiertarki i jednostajne buczenie klimatyzatorów.
 
-— Parter jest w zasadzie użytkowy — mówił Marshall. — Ochrona, dyżurka, kilka sal konferencyjnych, laboratorium chemiczne, magazyn materiałów, kuchnia, toalety. Na piętrze zostało trochę starej aparatury meteorologicznej, ale większość pomieszczeń przejmą systemy łączności i nadzoru.
+— Parter jest w zasadzie użytkowy — mówił Marshall. — Ochrona, dyżurka, sale konferencyjne, laboratorium chemiczne, magazyn materiałów, kuchnia, toalety. Na piętrze zostało trochę starej aparatury meteorologicznej, ale większość pomieszczeń przejmą systemy łączności i nadzoru.
 
 — A właściwa praca?
 
@@ -118,7 +112,7 @@ Stanley zwolnił.
 
 Animus.
 
-Nazwa była mu znana aż za dobrze. Trudno, żeby nie była. Firma Christophera Boyle’a. Najgłośniejsza technologiczna gwiazda ostatnich lat, ulubieniec giełdy, święty Graal inwestorów i powód, dla którego połowa Doliny Krzemowej nagle odkryła, że klasyczne modele sztucznej inteligencji są „ślepą uliczką”.
+Nazwa była mu znana aż za dobrze. Firma Christophera Boyle’a. Najgłośniejsza technologiczna gwiazda ostatnich lat, ulubieniec giełdy, święty Graal inwestorów i powód, dla którego połowa Doliny Krzemowej nagle odkryła, że klasyczne modele sztucznej inteligencji są „ślepą uliczką”.
 
 Animus nie sprzedawał dostępu publicznie. Nie pokazywał demonstracji na konferencjach. Nie wypuszczał produktów dla studentów, copywriterów i kancelarii prawnych. O Animusie mówiło się szeptem albo na rynkach finansowych z nabożeństwem. Pentagon miał mieć dostęp do jednej instancji. Kilku ludzi na planecie — do kolejnych.
 
@@ -164,7 +158,7 @@ Nic ciekawego — pomyślał Stanley — to zdanie, które ludzie wypowiadają, 
 
 Wyszli na korytarz prowadzący do tylnego wyjścia. Po drodze minęli stróżówkę. Dwóch ochroniarzy siedziało przed monitorami. Jeden jadł kanapkę. Drugi odwrócił głowę i obserwował Stanleya bez uśmiechu.
 
-Na jednym z ekranów widać było pomost. Na drugim — ogrodzony skrawek plaży przy hotelu.
+Na jednym z ekranów widać było pomost. Na drugim — wejście do hotelu.
 
 Stanley przyspieszył.
 
@@ -204,7 +198,7 @@ Stanley spojrzał na niego.
 
 Stanley odwrócił wzrok ku placowi.
 
-SMR na wyspie tej wielkości. Centrum danych Animusa. Podziemia. Monitoring. Zamknięty korytarz powietrzny. Plaża zamknięta z powodu rzekomych rekinów.
+SMR na wyspie tej wielkości. Centrum danych Animusa. Podziemia. Monitoring. Zamknięty korytarz powietrzny.
 
 Każdy element osobno dało się wytłumaczyć.
 
@@ -260,17 +254,11 @@ Przez chwilę stali w milczeniu. Wiatr poruszał krzakami, a z dołu dochodziły
 
 Marshall rozpromienił się z ulgą, jakby wreszcie trafił na temat bezpieczny.
 
-— Mamy stół do ping-ponga. Ma być siłownia. W dokach stoją łódki i kajaki, chociaż po ostatnim ostrzeżeniu z plażami chyba nikt nie naciska na pływanie. Stare kajaki kazałem wyrzucić.
+— Mamy stół do ping-ponga. Ma być siłownia. W dokach stoją łódki i kajaki, chociaż ochrona nie przepada za spontanicznym wypływaniem gdziekolwiek. Stare kajaki kazałem wyrzucić.
 
-— Rekiny też pan wyrzucił?
+— Kajaki też były objęte klauzulą poufności?
 
-— To nie moja działka.
-
-Stanley spojrzał na niego.
-
-Marshall uniósł dłonie.
-
-— Żartuję. Chyba.
+— Nie. Po prostu tonęły.
 
 Po raz pierwszy tego dnia Stanley naprawdę się uśmiechnął.
 
