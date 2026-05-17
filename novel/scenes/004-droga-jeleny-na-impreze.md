@@ -28,7 +28,7 @@ Mężczyzna z kartką był wysoki, szczupły i zbyt starannie ubrany jak na lotn
 
 — Daniel Mercer. Biuro pana Hewletta.
 
-Uścisnęła jego dłoń. Sucha, chłodna, pewna. Asystent, nie ochroniarz. Człowiek od miękkich drzwi.
+Uścisnęła jego dłoń. Sucha, chłodna, pewna. Asystent, nie ochroniarz. Człowiek od miękkich drzwi. Albo od tego, by za miękkimi drzwiami stali twardsi ludzie.
 
 — Oczekiwano mnie? — zapytała.
 
@@ -136,9 +136,51 @@ Mercer skinął głową, jakby uznał punkt.
 
 — Proszę dopisać: ostrożna, ale ciekawa.
 
+— To już mamy w notatkach — powiedział Mercer. — Obok pani wystąpienia po singapurskim panelu o pamięci proceduralnej. Tego, którego gospodarze konferencji nie umieścili w oficjalnym nagraniu.
+
+Jelena przez ułamek sekundy nie poruszyła się.
+
+Singapur.
+
+Wilgotna noc, sala zbyt mocno schłodzona klimatyzacją i Stanley Hutchins na podium — zbyt młody jak na własną legendę, zbyt nerwowy jak na proroka. Środowisko przyjęło go wtedy jak atrakcyjnego wariata: kilka uśmiechów, parę pytań zadanych tonem uprzejmego odstrzału, potem kolacja, podczas której starsi profesorowie zgodnie stwierdzili, że chłopak ma talent, ale powinien jeszcze długo popracować nad kontaktem z rzeczywistością.
+
+Jelena zapamiętała co innego.
+
+Nie jego pewność. Nie miał jej wcale. Zapamiętała sposób, w jaki mówił o świadomości: jakby inni badali tylko cień rzeczy, której on dotknął palcami.
+
+Po oficjalnym panelu zadała pytanie. Za ostre, za długie, zbyt dobrze przygotowane. Organizatorzy wycięli je z nagrania, bo rozmowa zeszła w rejony, których sponsorzy konferencji najwyraźniej nie uznali za edukacyjne.
+
+— Macie dostęp do materiałów, których nie ma w archiwum — powiedziała.
+
+— Pan Hewlett ma wielu przyjaciół.
+
+— W hotelach? Na konferencjach? W Pentagonie?
+
+Mercer uśmiechnął się tak, jakby w pytaniu odnalazł komplement.
+
+— Przyjaciele są najpraktyczniejsi, kiedy nie trzeba ich wymieniać.
+
+Jelena cofnęła palec z koperty.
+
+— A gdybym miała własnych przyjaciół?
+
+— Wtedy radziłbym wybierać ich ostrożnie — powiedział Mercer łagodnie. — Pan Hewlett bardzo ceni lojalność. Zwłaszcza zanim zostanie zdefiniowana.
+
+Teraz już wiedziała.
+
+Nie wiedziała, czy Mercer wie o moskiewskim telefonie. To byłoby zbyt proste. Wiedziała coś gorszego: chciał, żeby uznała, że może wiedzieć.
+
+— To ostrzeżenie?
+
+— To informacja organizacyjna.
+
+— Macie piękne słowa na stare rzeczy — powtórzyła.
+
+— Uczymy się od najlepszych.
+
 Hotel Plaza był rodzajem bogactwa, które nie prosiło o podziw. Zakładało go z góry. Złoto, marmur, dywany, kwiaty, cisza obsługi. Jelena znała petersburskie pałace, moskiewskie gabinety i akademickie sale, w których stare drewno miało udawać tradycję. Tutaj przepych był inny. Mniej historyczny, bardziej bezwstydny. Jakby ktoś powiedział: tak, wszystko to kupiliśmy, i co z tego?
 
-Mercer odprowadził ją do recepcji, przekazał dokumenty i zniknął, zanim zdążyła zdecydować, czy go polubiła.
+Mercer odprowadził ją do recepcji, przekazał dokumenty i zniknął, zanim zdążyła zdecydować, czy go polubiła, czy powinna zacząć się go bać.
 
 W apartamencie boy hotelowy postawił jej walizki przy mahoniowej szafie i czekał przez sekundę na napiwek. Jelena uśmiechnęła się przepraszająco. Nie miała gotówki. Chłopak przyjął porażkę z godnością człowieka, który wielokrotnie widział bogactwo cudzych pokoi i biedę cudzych kieszeni.
 
@@ -230,7 +272,19 @@ Nie projektu.
 
 Władzy.
 
-Brama pojawiła się między drzewami nagle: mosiężna, wysoka, ozdobiona znakiem, którego Jelena nie rozpoznała od razu. Okrąg, linie, coś między herbem rodzinnym a symbolem organizacji, która nigdy nie używa słowa „organizacja”.
+Brama pojawiła się między drzewami nagle: mosiężna, wysoka, ozdobiona symbolem, który z daleka przypominał herb, a z bliska coś znacznie bardziej niepokojącego. Była to meduza: delikatny parasol ciała otoczony okręgiem, spod którego zwisały cienkie macki układające się w znak nieskończoności.
+
+Nie Gorgona. Nie potwór z włosami z węży.
+
+Coś biologicznego.
+
+Coś miękkiego, kruchego i niemożliwie starego.
+
+Jelena znała ten obraz z artykułów, które czytało się raczej z ciekawości niż z zawodowej potrzeby. *Turritopsis dohrnii*. Nieśmiertelna meduza. Stworzenie, które w odpowiednich warunkach potrafi cofnąć własny cykl życia, wrócić do wcześniejszej formy i zacząć od nowa.
+
+Bardzo subtelne — pomyślała.
+
+To znaczy: wcale.
 
 Mercer wysiadł, powiedział coś do domofonu i spojrzał prosto w kamerę. Brama otworzyła się bezszelestnie.
 
@@ -242,6 +296,8 @@ Nie była willą. Była komunikatem.
 
 Trzy piętra kamienia, szkła i ciemnego drewna. Tarasy schodzące ku wodzie. Dachy, wieże, miedziane rynny, ogromne okna odbijające szare niebo. Dom wyglądał, jakby ktoś połączył europejski zamek, amerykański klub myśliwski i bank, który postanowił zostać świątynią.
 
+Nad głównymi drzwiami meduza pojawiała się znowu, tym razem wyryta w ciemnym metalu. Jej macki układały się w podwójną pętlę, jakby zwierzę nie wisiało w wodzie, lecz samo zapętlało czas.
+
 Jelena zorientowała się, że patrzy z otwartymi ustami, i zamknęła je natychmiast.
 
 Mercer otworzył drzwi samochodu.
@@ -251,6 +307,12 @@ Mercer otworzył drzwi samochodu.
 Wysiadła. Chłodne powietrze pachniało lasem, jeziorem i dymem z kominka.
 
 Na schodach przed wejściem czekało kilka osób. Obsługa, dwóch ochroniarzy, wysoki mężczyzna w ciemnym garniturze, którego nie znała, i ktoś jeszcze, stojący w głębi, częściowo ukryty w cieniu drzwi.
+
+Na dłoni tego ostatniego, gdy poprawiał mankiet, błysnął sygnet.
+
+Ten sam znak.
+
+Meduza. Okrąg. Nieskończoność.
 
 Jelena poprawiła żakiet.
 
