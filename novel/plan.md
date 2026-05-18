@@ -18,6 +18,7 @@ Plan powieści:
 17. Powtórzenie eksperymentu
 18. Duchy
 19. Ucieczka
+20. Ciało dla Boyle’a
 
 Sceny:
 1. Biuro senatora (Prolog)
@@ -87,3 +88,9 @@ Sceny:
 65. Dotarcie do Skyros (Ucieczka)
 66. Ucieczka Cessną (Ucieczka)
 67. Jelena ujawnia prawdę, zabija profesora, Roman wypada z samolotu (Ucieczka)
+68. Szturm na rezydencję Kima (Ciało dla Boyle’a)
+69. Oddelegowanie McIntyre’a (Ciało dla Boyle’a)
+70. Badania pooperacyjne (Ciało dla Boyle’a)
+71. Powrót do domu McIntyre’a (Ciało dla Boyle’a)
+72. Zamach na dom McIntyre’a (Ciało dla Boyle’a)
+73. Obława na McIntyre’a (Ciało dla Boyle’a)
