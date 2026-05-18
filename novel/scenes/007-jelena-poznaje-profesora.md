@@ -8,9 +8,9 @@ Pogłębienie relacji Jeleny Ivanovej i Stanleya Hutchinsa po oficjalnej inaugur
 
 ## Treść sceny
 
-Kolacja nie była kolacją. Była dalszym ciągiem przemówienia, tylko prowadzonym sztućcami, winem i uprzejmym śmiechem.
+Kolacja była dalszym ciągiem przemówienia, tylko prowadzonym sztućcami, winem i uprzejmym śmiechem.
 
-Na stole pojawiła się dziczyzna, ryby, sałatki, kawior i pieczywo tak lekkie, jakby ktoś uznał, że nawet mąka powinna znać swoje miejsce w hierarchii. Jelena jadła mniej, niż chciała, i więcej, niż planowała. Po lewej stronie Stanley prawie nie dotykał talerza. Po prawej Rodrigo Alvarez mówił za dużo o systemach predykcyjnych, aż Helga Weiss położyła mu dwa palce na przedramieniu i powiedziała cicho:
+Na stole pojawiła się dziczyzna, ryby, sałatki, kawior i pieczywo. Jelena jadła mniej, niż by chciała, i więcej, niż planowała. Po lewej stronie Stanley prawie nie dotykał talerza. Po prawej Rodrigo Alvarez mówił za dużo o systemach predykcyjnych, aż Helga Weiss położyła mu dwa palce na przedramieniu i powiedziała cicho:
 
 — Już.
 
@@ -26,7 +26,7 @@ Przy drugim końcu stołu Witchins rozmawiał z Boyle’em i generałem Stathone
 
 — ...tego akurat nie wpiszemy do programu wyborczego...
 
-Witchins roześmiał się wtedy tak serdecznie, że kilka osób odpowiedziało mu uśmiechem, choć nie słyszało żartu. Boyle nie śmiał się wcale. Siedział przy szczycie stołu, blady, nieruchomy, z dłonią opartą o laskę. Od czasu do czasu nachylał głowę ku rozmówcy, a wtedy wszyscy wokół również pochylali się odrobinę, jakby grawitacja w tym domu miała swoje prywatne centrum.
+Witchins roześmiał się wtedy tak serdecznie, że kilka osób odpowiedziało mu uśmiechem, choć nie słyszało żartu. Boyle nie śmiał się wcale. Siedział przy szczycie stołu, blady, nieruchomy, z dłonią opartą o laskę. Od czasu do czasu nachylał głowę ku rozmówcy, a wtedy wszyscy wokół również pochylali się odrobinę, jakby wszystko w tym domu ciążyło do gospodarza.
 
 Po deserze ludzie zaczęli rozchodzić się po salonie i tarasie. Kelnerzy otworzyli przeszklone drzwi. Do środka wpłynęło chłodne powietrze znad jeziora, dym cygar i zapach mokrych igieł. Kominek, który wcześniej wyglądał tylko teatralnie, nagle zaczął grzać za mocno.
 
@@ -38,7 +38,7 @@ Stanley stał kilka kroków dalej, sam, z cygarem w jednej dłoni i nietkniętym
 
 Jelena przez chwilę obserwowała go bez słowa.
 
-W Singapurze mówił szybko. Za szybko, według sali. Wtedy jego myśli wyprzedzały slajdy, pytania i cierpliwość starszych profesorów. Teraz był spokojniejszy. Nie dlatego, że odnalazł pewność. Raczej dlatego, że ktoś wziął jego niepokój i zrobił z niego nazwę projektu.
+W Singapurze mówił szybko. Za szybko, według sali. Wtedy jego myśli wyprzedzały slajdy, pytania i cierpliwość starszych profesorów. Teraz był spokojniejszy. Nie dlatego, że odnalazł pewność. Raczej dlatego, że ktoś postanowił odpowiednio skanalizować jej brak.
 
 Podeszła.
 
@@ -62,7 +62,7 @@ Tym razem spojrzał na nią naprawdę.
 
 — W pańskim przypadku zaczynam podejrzewać, że nie da się ich rozdzielić.
 
-Przez chwilę milczeli. Z wnętrza domu dochodziły śmiechy, dźwięk szkła i głos Witchinsa, który opowiadał coś tak, jakby każda anegdota była ustawą czekającą na podpis.
+Przez chwilę milczeli. Z wnętrza domu dochodziły śmiechy, dźwięk szkła i głos Witchinsa, który opowiadał coś tak, jakby każda anegdota miała dać mu dodatkowy punkt procentowy w wyborach.
 
 — Przyszedłem tu dla nauki — powiedział Stanley w końcu.
 
@@ -78,7 +78,7 @@ To zdanie mogło zabrzmieć kokieteryjnie. Nie tak je pomyślała. Stanley chyba
 
 — Nie. Tylko mniej przyzwyczajona do waszych amerykańskich rytuałów rozgrzeszania.
 
-— Witchins nie rozgrzesza. Witchins nadaje słowom immunitet.
+— Witchins nie rozgrzesza. On tworzy całą otoczkę propagandową, która ma uczynić z naszej pracy wyższą konieczność.
 
 Jelena uniosła kieliszek w niemym uznaniu.
 
@@ -92,7 +92,7 @@ Stanley zaciągnął się cygarem, ale zrobił to niepewnie, jak człowiek, któ
 
 — To po co pan je pali?
 
-— Żeby ludzie rzadziej podchodzili.
+— Nikt nie domaga się rozmowy od człowieka z dymem w ustach... Bez obrazy.
 
 — Skuteczna metoda.
 
@@ -108,21 +108,21 @@ Jelena oparła się biodrem o balustradę.
 
 — Słuchali.
 
-— Nie. Czekali, aż skończę, żeby zdecydować, czy jestem wariatem, czy tylko człowiekiem z niebezpiecznie dobrą prezentacją.
+— Nie. Czekali, aż skończę, żeby wspólnie ustalić czy jestem wariatem.
 
-— A co pan sam zdecydował?
+— Jest pan?
 
 Stanley spojrzał znów na jezioro.
 
-— Że obie odpowiedzi nie muszą się wykluczać.
+— Sam się teraz nad tym zastanawiam.
 
 To była pierwsza rzecz tego wieczoru, która naprawdę jej się w nim spodobała.
 
 — Pańskie wystąpienie było źle przyjęte — powiedziała. — Ale nie było głupie.
 
-— To brzmi jak najczulsza recenzja rosyjskiej neurologii.
+— Bardzo nobilitująca recenzja.
 
-— Proszę jej nie marnować. Rzadko je piszemy.
+— Proszę nią nie wzgardzać. Rzadko je piszę.
 
 Dym z cygara unosił się między nimi i rozpraszał na wietrze.
 
@@ -150,13 +150,13 @@ Stanley spojrzał na nią z ukosa.
 
 — Były niestabilne.
 
-— To brzmi gorzej.
+— To chyba jeszcze gorzej.
 
-— Bo jest bardziej naukowe.
+— Niekoniecznie.
 
-Przez moment rozmowa stała się łatwa. Nie lekka, ale równa. Jelena poczuła to wyraźnie: nie próbowała mu imponować, a on nie próbował jej przekonać. Oboje badali grunt.
+Przez moment rozmowa stała się łatwa. Nie lekka, ale równa. Jelena poczuła to wyraźnie: nie próbowała mu imponować, a on nie próbował jej do siebie przekonać. Oboje badali grunt.
 
-— Zadała pani w Singapurze dobre pytanie — powiedział Stanley. — O granicę między zapisem a osobą.
+— Zadała pani w Singapurze dobre pytanie — powiedział Stanley. — O granicę między zapisem a osobą, jeśli dobrze pamiętam.
 
 — Nie odpowiedział pan.
 
@@ -190,7 +190,7 @@ Wtedy pomyślała, że być może właśnie dlatego Boyle go potrzebował. Nie d
 
 Za ich plecami odezwał się głos senatora.
 
-— Jeśli państwo właśnie ustaliliście, czy dusza ma numer katalogowy, to proszę pamiętać, że przy kolacji obowiązuje wersja krótka. Długa odstrasza inwestorów.
+— Jeśli państwo właśnie ustaliliście listę potrzebnego oprzyrządowania i inwestycji, to proszę pamiętać, że przy kolacji obowiązuje wersja krótka. Długa odstrasza inwestorów.
 
 Witchins wyszedł na taras z dwoma szklankami whisky. Jedną trzymał dla siebie, drugą podał Stanleyowi, jakby wręczał mu kontynuację rozmowy, a nie alkohol.
 
@@ -216,7 +216,7 @@ Jelena parsknęła cicho, choć nie chciała. Senator był irytujący właśnie 
 
 — Brzmi jak styl zarządzania — powiedział Stanley.
 
-— Och, nie. Styl zarządzania ma wykresy. To jest filozofia.
+— Och, nie. To jest filozofia.
 
 Witchins upił łyk whisky i spojrzał w stronę salonu.
 
@@ -228,7 +228,7 @@ Przy drzwiach tarasu stał Mercer. Nie wszedł na zewnątrz. Nie musiał. Skiną
 
 — Oboje? — zapytała Jelena.
 
-— Oboje — powiedział Witchins. — Proszę się nie martwić. Biblioteka profesora Boyle’a jest bardzo bezpieczna. Przynajmniej dla książek.
+— Oboje — powiedział Witchins. — Proszę się nie martwić. Biblioteka profesora Boyle’a jest bardzo bezpieczna. Żadna książka w niej nie ucierpiała.
 
 Stanley zgasił cygaro w popielnicy. Prawie nie było spalone.
 
@@ -236,4 +236,4 @@ Szklankę whisky zabrał ze sobą.
 
 Jelena zauważyła to również.
 
-Ruszyli za Mercerem w stronę światła salonu. Za nimi jezioro pozostało ciemne i spokojne, jakby nic z tego, co mówiono przy stole, nie było warte najmniejszej fali.
+Ruszyli za Mercerem w stronę światła salonu. Za nimi jezioro pozostało ciemne i spokojne, jakby nic z tego, co mówiono przy stole, go nie wzburzyło.
