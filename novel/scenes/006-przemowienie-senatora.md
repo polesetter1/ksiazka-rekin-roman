@@ -16,27 +16,25 @@ Nie zaproponowano jej tego miejsca.
 
 Przydzielono je.
 
-Po obu stronach stołu rozsiedli się pozostali: Rodrigo Alvarez, Helga Weiss, dwaj ludzie z Animusa w ciemnych marynarkach, generał Bill Stathon o twarzy tak surowej, że nawet uśmiech wyglądałby na rozkaz, kilku biologów, dwóch specjalistów od infrastruktury, człowiek od energetyki jądrowej, którego nazwisko Jelena zapamiętała od razu — Luke Dawson — i kilkanaście osób, które miały zapewne własne doktoraty, patenty, zespoły badawcze oraz wystarczająco dużo pychy, by nie czuć się tu dekoracją.
+Po obu stronach stołu rozsiedli się pozostali: Rodrigo Alvarez, Helga Weiss, dwaj ludzie z Animusa w ciemnych marynarkach, generał Bill Stathon o twarzy tak surowej, że nawet uśmiech wyglądałby na rozkaz, dwóch specjalistów od infrastruktury, człowiek od energetyki jądrowej, którego nazwisko Jelena zapamiętała od razu — Luke Dawson — i kilka kolejnych osób, które miały zapewne własne doktoraty, patenty, zespoły badawcze oraz wystarczająco dużo pychy, by nie czuć się tu dekoracją.
 
-A jednak wszyscy byli dekoracją.
+A jednak nią byli.
 
 Przynajmniej przez najbliższe kilka minut.
 
 Kelnerzy poruszali się cicho za plecami gości. Nalewali szampana z butelek owiniętych białymi serwetami, ustawiali wodę, poprawiali sztućce, odsuwali się bezszelestnie. Z kuchni dochodził zapach pieczonego mięsa, masła, ziół i czegoś słodkiego. Po podróży, po napięciu, po rozmowie z Mercerem i wejściu do salonu Boyle’a ciało Jeleny przypomniało sobie, że jest ciałem.
 
-Głód był nieelegancki.
-
-Tym bardziej że działał.
+Głód potrafił być użyteczny. Wyostrzał zmysły i przyspieszał mózg, toteż lubiła go sobie świadomie dawkować. Niestety, w obliczu zapachu dobrze przygotowanego posiłku te same zmysły odciągały jej umysł od wszelkich potrzeb wyższego rządu.
 
 Stanley siedział obok niej z dłonią opartą na nóżce kieliszka. Od chwili, gdy zajęli miejsca, odezwał się tylko raz, pytając, czy dobrze znosi podróż. Było to pytanie tak uprzejme, że prawie całkowicie pozbawione znaczenia.
 
-— Dobrze — odpowiedziała wtedy. — Ameryka jest mniej męcząca, kiedy nie trzeba przechodzić przez odprawę.
+— Dobrze — odpowiedziała wtedy. — Ameryka jest mniej męcząca, kiedy ma się ludzi od rozwiązywania twoich problemów.
 
 Spojrzał na nią kątem oka.
 
-— To zdanie może panią zaprowadzić w bardzo ciekawe miejsca.
+— Naszym problemem jest to, że jesteśmy teraz właśnie tymi ludźmi.
 
-— Już zaprowadziło.
+— Och, nie. To problem przyszłych nas.
 
 Uśmiechnął się, ale tylko na moment.
 
@@ -46,7 +44,7 @@ Przy końcu stołu Boyle poruszył lekko dłonią.
 
 Wystarczyło.
 
-Witchins podniósł się, zanim ktokolwiek zdążył pomyśleć, że powinien zamilknąć. Nie uderzył widelcem w kieliszek od razu. Najpierw rozejrzał się po twarzach, jak człowiek, który chce upewnić się, że wszyscy są w pokoju nie tylko ciałem, ale także własnym lękiem.
+Witchins podniósł się, zanim ktokolwiek zdążył pomyśleć, że powinien zamilknąć. Nie uderzył widelcem w kieliszek od razu. Najpierw rozejrzał się po twarzach, jak człowiek, który chce upewnić się, że wszyscy są w pokoju nie tylko ciałem.
 
 Dopiero wtedy stuknął srebrną łyżeczką o szkło.
 
@@ -58,31 +56,31 @@ Rozmowy ucichły.
 
 Kilka osób uśmiechnęło się odruchowo. On również.
 
-— Wiem, że polityk wypowiadający te słowa brzmi mniej więcej tak wiarygodnie jak bankier obiecujący skromność albo generał obiecujący krótką wojnę. Dlatego powiem inaczej: będę mówił tylko tak długo, jak to konieczne, żebyśmy mogli uznać, że cywilizacja została należycie poinformowana o własnym przełomie.
+— Wiem, że polityk wypowiadający te słowa brzmi mniej więcej tak wiarygodnie jak bankier obiecujący korzystny kredyt albo generał obiecujący krótką wojnę. Dlatego powiem inaczej: będę mówił tylko tak długo, jak to konieczne, żebyśmy mogli uznać, że ludzkość została należycie poinformowana o nadchodzącym przełomie.
 
 Cichy śmiech przeszedł wzdłuż stołu.
 
-Witchins miał swadę. Jelena musiała mu to przyznać. Nie mówił jak urzędnik. Nie mówił nawet jak człowiek, który chce przekonać salę. Mówił jak ktoś, kto wie, że większość obecnych już się zgodziła, ale potrzebuje jeszcze usłyszeć piękniejszą wersję własnej zgody.
+Witchins miał swadę. Jelena musiała mu to przyznać. Nie mówił jak urzędnik. Nie mówił nawet jak człowiek, który chce przekonać salę. Mówił jak ktoś, kto wie, że większość obecnych już się sprzedała, ale potrzebuje jeszcze usłyszeć piękniejszą wersję reklamy.
 
-— Dzisiejszy wieczór bywa nazywany inauguracją — ciągnął senator. — To ładne słowo. Ma w sobie światło, nożyczki do wstęgi, uściski dłoni i fotografów ustawionych pod właściwym kątem. Ale nie będę państwa obrażał udawaniem, że coś dopiero zaczynamy. Kości zostały rzucone wcześniej. Poza tym domem. Bez kamer, bez fanfar, bez błogosławieństwa komisji bioetycznych, które i tak potrzebowałyby trzech lat, żeby ustalić, czy mają prawo się przestraszyć.
+— Dzisiejszy wieczór można nazwać inauguracją — ciągnął senator. — To ładne słowo. Ma w sobie światło, nożyczki do wstęgi, uściski dłoni i fotografów ustawionych pod właściwym kątem. Ale nie będę państwa obrażał udawaniem, że coś dopiero zaczynamy. Kości zostały rzucone wcześniej. Poza tym domem. Bez kamer, bez fanfar, bez błogosławieństwa komisji bioetycznych, które i tak potrzebowałyby trzech lat, żeby ustalić, czy mamy prawo marzyć.
 
 Tym razem śmiech był głośniejszy.
 
-Jelena spojrzała na Stanleya. Nie śmiał się. Usta miał lekko zaciśnięte. Wystarczyło, by zrozumiała, że słowa o komisjach bioetycznych uderzyły bliżej, niż senator zamierzał pokazać.
+Jelena spojrzała na Stanleya. Nie śmiał się. Usta miał lekko zaciśnięte. Wystarczyło, by zrozumiała, że słowa o komisjach bioetycznych uderzyły bliżej, niż senator zamierzał.
 
 A może dokładnie tam, gdzie zamierzał.
 
-— Decyzje już mamy — powiedział Witchins. — Laboratoria są projektowane. Zespoły kompletowane. Wyspa została wybrana. Pieniądze zostały zabezpieczone. Ludzie, którzy powinni wiedzieć, wiedzą. Ludzie, którzy nie powinni wiedzieć, usłyszą w odpowiednim czasie coś znacznie mniej interesującego. Dzisiejszy wieczór jest pierwszym momentem, w którym wszyscy możemy usłyszeć stukot tych kości przy jednym stole.
+— Decyzje już mamy — powiedział Witchins. — Laboratoria są projektowane. Zespoły kompletowane. Wyspa została wybrana. Pieniądze zostały zabezpieczone. Ludzie, którzy powinni wiedzieć, wiedzą. Ludzie, którzy nie powinni wiedzieć, usłyszą w odpowiednim czasie coś znacznie mniej interesującego. Dzisiejszy wieczór jest pierwszym momentem, w którym wszyscy możemy usłyszeć serce zaczyna bić.
 
 Paxton nie klasnął. Nie poruszył się nawet. Patrzył po twarzach.
 
-Jelena zapamiętała to. Senator mówił do sali, ale Paxton badał salę. Dwie różne funkcje tego samego mechanizmu.
+Jelena zapamiętała to. Senator mówił do sali, ale Paxton ją badał. Dwie różne funkcje tego samego mechanizmu.
 
-— Wypadałoby teraz podziękować naszemu gospodarzowi — powiedział Witchins, odwracając się lekko ku Boyle’owi. — I zrobię to, ponieważ jestem człowiekiem cywilizowanym, a cywilizacja polega głównie na tym, żeby rzeczy oczywiste wypowiadać z odpowiednią miną. Profesor Christopher Boyle dał temu przedsięwzięciu więcej niż pieniądze. Pieniądze są najłatwiejszą formą odwagi, choć oczywiście chętnie przyjmujemy także tę najłatwiejszą.
+— Wypadałoby teraz podziękować naszemu gospodarzowi — powiedział Witchins, odwracając się lekko ku Boyle’owi. — I zrobię to, ponieważ jestem człowiekiem cywilizowanym, a cywilizacja polega głównie na tym, żeby rzeczy oczywiste wypowiadać z odpowiednią miną. Profesor Christopher Boyle dał temu przedsięwzięciu więcej niż pieniądze. Pieniądze są najłatwiejszą formą wsparcia, choć oczywiście chętnie przyjmujemy także tę najłatwiejszą.
 
-Znów śmiech. Boyle nie uśmiechnął się, ale przez ułamek sekundy jego oczy złagodniały. Albo Jelena tylko chciała to zobaczyć.
+Znów śmiech. Boyle nie uśmiechnął się, ale przez ułamek sekundy jego oczy złagodniały. Albo Jelena tylko chciała to tak zobaczyć.
 
-— Profesor Boyle dał nam narzędzia — mówił senator. — Infrastrukturę, której żadna publiczna uczelnia nie zbudowałaby bez dekady próśb i bez dwudziestu komitetów nadzorujących kolor klamek. Dał nam dostęp do technologii, o których gazety piszą z nabożeństwem, choć nie wiedzą, czego właściwie się boją. Dał nam też coś rzadszego: odmowę pogodzenia się z tym, że najstarszy monopol natury ma pozostać nienaruszony tylko dlatego, że trwa długo.
+— Profesor Boyle dał nam narzędzia — mówił senator. — Infrastrukturę, której żadna publiczna uczelnia nie zbudowałaby bez dekady próśb i bez dwudziestu komitetów nadzorujących kolor klamek. Dał nam dostęp do technologii, o których gazety piszą ze strachem, choć nie wiedzą, czego właściwie się boją. Dał nam też coś rzadszego: odmowę pogodzenia się z tym, że najstarszy monopol natury ma pozostać nienaruszony tylko dlatego, że trwa długo.
 
 Najstarszy monopol natury.
 
@@ -90,7 +88,7 @@ Najstarszy monopol natury.
 
 Nie wypowiedział tego słowa. Nie musiał. Dzięki temu zabrzmiało mocniej.
 
-Jelena spojrzała na Boyle’a. Siedział nieruchomo. Jedna dłoń spoczywała na lasce, druga przy kieliszku. Skóra na palcach była cienka, niemal przezroczysta. Człowiek, który finansował bunt przeciwko śmierci, wyglądał jak jej najbardziej cierpliwy zakładnik.
+Jelena spojrzała na Boyle’a. Siedział nieruchomo. Jedna dłoń spoczywała na lasce, druga przy kieliszku. Skóra na palcach była cienka, niemal przezroczysta. Człowiek, który finansował bunt przeciwko śmierci, wyglądał jak jej zakładnik.
 
 — Ale narzędzia bez języka są tylko drogim hałasem — powiedział Witchins. — Dlatego musimy wymienić nazwisko profesora Stanleya Hutchinsa.
 
@@ -102,37 +100,37 @@ Senator zawiesił głos.
 
 — Nie poczekał, aż wszyscy będą gotowi.
 
-Tym razem brawa przyszły same. Najpierw z lewej strony stołu, potem z prawej, nierówno, ale szybko. Stanley wstał, choć wyglądał, jakby wolał tego nie robić. Skinął głową. Na jego twarzy nie było triumfu. Było raczej zakłopotanie człowieka, który nagle widzi własną myśl ubraną w mundur paradny.
+Tym razem brawa przyszły same. Najpierw z lewej strony stołu, potem z prawej, nierówno, ale szybko. Stanley wstał, choć wyglądał, jakby wolał tego nie robić. Skinął głową. Na jego twarzy nie było triumfu. Było raczej zakłopotanie człowieka, który nagle widzi własną myśl ubraną w paradny mundur.
 
 Jelena klaskała razem z innymi, ale obserwowała Boyle’a.
 
-Boyle nie klaskał. Patrzył na Stanleya z uwagą właściciela narzędzia, które dopiero trzeba skalibrować.
+Boyle nie klaskał. Patrzył na Stanleya z uwagą właściciela stajni, który zastanawia się na co stać jego nowego konia.
 
-— Niech pan nie wygląda tak skromnie, profesorze — powiedział Witchins. — Skromność jest piękną cechą, ale fatalnym paliwem dla historii.
+— Niech pan nie wygląda tak skromnie, profesorze — powiedział Witchins. — Skromność jest piękną cechą w oczach boga, ale fatalnym paliwem sukcesu.
 
 Kilka osób roześmiało się. Stanley usiadł.
 
 Witchins podniósł kieliszek, ale jeszcze nie pił.
 
-— Nie będę przedstawiał każdego z państwa z osobna. To byłoby niesprawiedliwe wobec kolacji i okrutne wobec kuchni. Powiem więc zbiorczo: są tu ludzie od mózgu, od maszyn, od ciała, od kodu, od prądu, od ścian, od bezpieczeństwa i od tych wszystkich form organizacyjnego cudu, dzięki którym wielkie idee nie kończą jako notatki w zamkniętej szufladzie.
+— Nie będę przedstawiał każdego z państwa z osobna. To byłoby niesprawiedliwe wobec kucharza i okrutne dla naszych żołądków. Powiem więc zbiorczo: są tu ludzie od mózgu, od maszyn, od ciała, od kodu, od prądu, od ścian, od bezpieczeństwa i od tych wszystkich form organizacyjnego cudu, dzięki którym wielkie idee nie kończą jako notatki w zamkniętej szufladzie.
 
 Rodrigo pochylił się do Helgi i szepnął coś, czego Jelena nie dosłyszała. Helga zapisała jedno słowo w notesie, nawet teraz. To było prawie komiczne. Albo bardzo niepokojące.
 
-— Mamy wśród nas specjalistów od architektury danych, systemów predykcyjnych i modelowania — kontynuował senator. — Mamy biologów, neurologów, lekarzy, inżynierów, ludzi od infrastruktury i energetyki. Tak, doktor Ivanova, widziałem pani spojrzenie przy nazwisku pana Dawsona. Energetyka jądrowa przy projekcie biologicznym brzmi jak początek złego żartu, ale zapewniam: to tylko początek bardzo drogiego żartu.
+— Mamy wśród nas specjalistów od architektury danych, systemów predykcyjnych i modelowania — kontynuował senator. — Mamy biologów, neurologów, lekarzy, inżynierów, ludzi od infrastruktury i energetyki. Tak, doktor Ivanova, widziałem pani spojrzenie przy nazwisku pana Dawsona. Energetyka jądrowa przy projekcie biologicznym brzmi jak początek kiepskiego żartu, ale zapewniam: to tylko początek pięknej historii.
 
 Śmiech znów przeszedł po stole. Dawson, człowiek od reaktora, uniósł kieliszek w udawanej winie.
 
-Jelena uśmiechnęła się mimo woli. Senator zauważał więcej, niż powinien. Albo Paxton wcześniej przekazał mu wszystko, co warto było zauważyć.
+Jelena uśmiechnęła się mimo woli. Senator zauważał więcej, niż powinien.
 
-— Mamy również ludzi, którzy zadbają, aby świat zewnętrzny nie przeszkadzał nam swoją ciekawością — powiedział Witchins.
+— Mamy również ludzi, którzy zadbają, aby świat zewnętrzny nie przeszkadzał nam swoją ciekawością — powiedział Witchins. — wszak ciekawość to pierwszy stopień do piekła.
 
 Generał Stathon nie poruszył się, ale część spojrzeń sama przesunęła się w jego stronę.
 
-— Generale, proszę wybaczyć, że nie każę panu wstawać. Człowiek w mundurze przy stole naukowców działa na wyobraźnię wystarczająco silnie nawet na siedząco.
+— Generale, proszę wybaczyć, że nie każę panu wstawać. Człowiek w mundurze przy stole działa na wyobraźnię wystarczająco silnie nawet siedząc.
 
 Generał odpowiedział krótkim skinieniem głowy. Na jego twarzy pojawił się cień uśmiechu, który zniknął szybciej, niż zdążył stać się uprzejmy.
 
-— I wreszcie mamy tych, którzy będą pilnować, aby ten piękny chaos nie pomylił odwagi z bałaganem. Pan Paxton.
+— I wreszcie mamy tych, którzy będą pilnować, aby ten piękny chaos nie pomylił odwagi z odważnikiem. Pan Paxton.
 
 Paxton nie wstał od razu. Dopiero po sekundzie uniósł się z krzesła, jakby zrobił to wyłącznie dlatego, że protokół wymagał ruchu. Oklaski były krótsze. Bardziej ostrożne.
 
@@ -142,7 +140,7 @@ Witchins uśmiechnął się szerzej.
 
 Tym razem śmiech był prawdziwszy. Paxton również się uśmiechnął. Tylko jego oczy pozostały bez zmian.
 
-Jelena poczuła, że przemówienie działa. To było najgorsze. Witchins rozbrajał grozę żartem, przesuwał granice swobodą, robił z obecności generała anegdotę, z Paxtona — organizatora, z Boyle’a — dobroczyńcę, ze Stanleya — proroka, a z ich wspólnego milczenia — odwagę.
+Jelena poczuła, że przemówienie działa. To było najgorsze. Witchins rozbrajał grozę żartem, przesuwał granice ze swobodą stand-uppera.
 
 Kłamał składniej niż ktokolwiek, kogo słyszała od lat.
 
@@ -150,7 +148,7 @@ Kłamał składniej niż ktokolwiek, kogo słyszała od lat.
 
 W sali zrobiło się ciszej.
 
-— To zdrowe pytanie. Proszę go nie wyrzucać. Proszę je tylko zabrać ze sobą do pracy. Każdego ranka. Pycha, proszę państwa, nie zaczyna się tam, gdzie człowiek chce sięgnąć dalej niż poprzednicy. Pycha zaczyna się tam, gdzie człowiek przestaje rozumieć cenę. Dlatego nie będziemy udawać, że cena nie istnieje. Będziemy jedynie pilnować, by zapłacono ją za coś wartego rachunku.
+— To zdrowe pytanie. Proszę go nie wyrzucać. Proszę je tylko zabrać ze sobą do pracy. Każdego ranka. Pycha, proszę państwa, nie zaczyna się tam, gdzie człowiek chce sięgnąć dalej niż poprzednicy. Pycha zaczyna się tam, gdzie człowiek przestaje rozumieć cenę. Dlatego nie będziemy udawać, że cena nie istnieje. Będziemy jedynie pilnować, by zapłacono ją za coś jej wartego.
 
 Stanley spuścił wzrok.
 
@@ -176,7 +174,7 @@ Na środku stołu, między świecami, leżały ciemne karty z programem wieczoru
 
 Witchins podniósł kieliszek.
 
-— Za naukę, która nie prosi o pozwolenie. Za ludzi, którzy nie mylą strachu z rozsądkiem. I za kraj, który nadal ma odwagę finansować przyszłość, zanim inni nauczą się ją regulować.
+— Za naukę i przyszłość.
 
 Kieliszki uniosły się wokół stołu.
 
