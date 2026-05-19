@@ -10,7 +10,7 @@ Pogłębienie relacji Jeleny Ivanovej i Stanleya Hutchinsa po oficjalnej inaugur
 
 Kolacja przeciągnęła się dłużej, niż Jelena zakładała.
 
-Jedzenie było znakomite, ale po przemówieniu senatora trudno było traktować je jak zwykły posiłek. Przy stole wciąż trwała ta sama gra: uprzejme pytania, ostrożne odpowiedzi, śmiech w odpowiednich momentach. Wszyscy zachowywali się swobodnie, jakby nie usłyszeli przed chwilą, że zostali włączeni w projekt, z którego nie będzie łatwego wyjścia.
+Jedzenie było znakomite, ale po przemówieniu senatora trudno było traktować je jak zwykły posiłek. Przy stole wciąż trwała ta sama gra: uprzejme pytania, ostrożne odpowiedzi, śmiech w odpowiednich momentach. Wszyscy zachowywali się z pozoru swobodnie, jakby nie usłyszeli przed chwilą, że zostali włączeni w projekt, z którego nie będzie łatwego wyjścia.
 
 Jelena jadła mało. Nie dlatego, że nie była głodna. Była. Po prostu nie chciała wyglądać na kogoś, komu łatwo poprawić nastrój dobrym winem i dziczyzną.
 
@@ -30,7 +30,7 @@ Przy drugim końcu stołu Witchins rozmawiał z Boylem i generałem Stathonem. J
 
 — ...ludzie nie muszą rozumieć technologii, żeby się jej bać...
 
-— ...najpierw damy im poczucie bezpieczeństwa, potem definicję bezpieczeństwa...
+— ...dlatego poczucie bezpieczeństwa jest ważniejsze niż samo bezpieczeństwo...
 
 Witchins śmiał się głośniej niż inni. Boyle nie śmiał się wcale. Siedział nieruchomo, z dłonią opartą na lasce. Gdy ktoś mówił do niego zbyt długo, wystarczało jedno spojrzenie, by skrócić wypowiedź.
 
