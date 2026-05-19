@@ -8,232 +8,254 @@ Pogłębienie relacji Jeleny Ivanovej i Stanleya Hutchinsa po oficjalnej inaugur
 
 ## Treść sceny
 
-Kolacja była dalszym ciągiem przemówienia, tylko prowadzonym sztućcami, winem i uprzejmym śmiechem.
+Kolacja przeciągnęła się dłużej, niż Jelena zakładała.
 
-Na stole pojawiła się dziczyzna, ryby, sałatki, kawior i pieczywo. Jelena jadła mniej, niż by chciała, i więcej, niż planowała. Po lewej stronie Stanley prawie nie dotykał talerza. Po prawej Rodrigo Alvarez mówił za dużo o systemach predykcyjnych, aż Helga Weiss położyła mu dwa palce na przedramieniu i powiedziała cicho:
+Jedzenie było znakomite, ale po przemówieniu senatora trudno było traktować je jak zwykły posiłek. Przy stole wciąż trwała ta sama gra: uprzejme pytania, ostrożne odpowiedzi, śmiech w odpowiednich momentach. Wszyscy zachowywali się swobodnie, jakby nie usłyszeli przed chwilą, że zostali włączeni w projekt, z którego nie będzie łatwego wyjścia.
 
-— Już.
+Jelena jadła mało. Nie dlatego, że nie była głodna. Była. Po prostu nie chciała wyglądać na kogoś, komu łatwo poprawić nastrój dobrym winem i dziczyzną.
 
-Rodrigo natychmiast zamilkł.
+Po lewej stronie Stanley prawie nie dotykał talerza. Siedział prosto, z dłonią przy kieliszku, ale nie pił. Od czasu do czasu odpowiadał na pytania krótko, rzeczowo, bez widocznej chęci podtrzymywania rozmowy.
 
-To była najbardziej udana procedura kontroli ryzyka, jaką Jelena widziała tego wieczoru.
+Po prawej Rodrigo Alvarez opowiadał Heldze Weiss o modelach predykcyjnych. Mówił coraz szybciej, aż Helga położyła mu dwa palce na przedramieniu.
 
-Przy drugim końcu stołu Witchins rozmawiał z Boyle’em i generałem Stathonem. Nie podnosił głosu, a mimo to co jakiś czas do Jeleny docierały pojedyncze zdania, oderwane od reszty jak kawałki szkła.
+— Już — powiedziała.
 
-— ...wyborca nie boi się automatyzacji, senatorze, bo jej nie rozumie. Boi się rachunku za prąd...
+Rodrigo urwał w pół zdania.
 
-— ...masy zawsze potrzebują zajęcia. Jeśli nie pracy, to przynajmniej poczucia, że praca może wrócić...
+Jelena uśmiechnęła się pod nosem. W świecie pełnym ludzi, którzy nie potrafili się zatrzymać, Helga miała przynajmniej prostą metodę.
+
+Przy drugim końcu stołu Witchins rozmawiał z Boylem i generałem Stathonem. Jelena słyszała tylko fragmenty.
 
 — ...tego akurat nie wpiszemy do programu wyborczego...
 
-Witchins roześmiał się wtedy tak serdecznie, że kilka osób odpowiedziało mu uśmiechem, choć nie słyszało żartu. Boyle nie śmiał się wcale. Siedział przy szczycie stołu, blady, nieruchomy, z dłonią opartą o laskę. Od czasu do czasu nachylał głowę ku rozmówcy, a wtedy wszyscy wokół również pochylali się odrobinę, jakby wszystko w tym domu ciążyło do gospodarza.
+— ...ludzie nie muszą rozumieć technologii, żeby się jej bać...
 
-Po deserze ludzie zaczęli rozchodzić się po salonie i tarasie. Kelnerzy otworzyli przeszklone drzwi. Do środka wpłynęło chłodne powietrze znad jeziora, dym cygar i zapach mokrych igieł. Kominek, który wcześniej wyglądał tylko teatralnie, nagle zaczął grzać za mocno.
+— ...najpierw damy im poczucie bezpieczeństwa, potem definicję bezpieczeństwa...
 
-Jelena wyszła na taras z kieliszkiem czerwonego wina, którego nazwy nie zamierzała zapamiętywać. Lubiła dobre rzeczy, ale nie lubiła, gdy wymagały od niej wdzięczności.
+Witchins śmiał się głośniej niż inni. Boyle nie śmiał się wcale. Siedział nieruchomo, z dłonią opartą na lasce. Gdy ktoś mówił do niego zbyt długo, wystarczało jedno spojrzenie, by skrócić wypowiedź.
 
-Na kamiennej balustradzie ktoś postawił popielnicę. Dalej, za tarasem, jezioro było ciemne i spokojne. Na jego powierzchni odbijały się okna domu Boyle’a: prostokąty światła, zawieszone nad czernią.
+Po deserze goście zaczęli rozchodzić się po salonie. Część wyszła na taras. Kelnerzy otworzyli przeszklone drzwi i do środka napłynęło chłodne powietrze znad jeziora. W salonie zrobiło się za ciepło od kominka, cygar i rozmów, które udawały lżejsze, niż były.
 
-Stanley stał kilka kroków dalej, sam, z cygarem w jednej dłoni i nietkniętym kieliszkiem w drugiej. Patrzył na wodę tak, jakby próbował odczytać z niej tekst, którego nikt inny nie widział.
+Jelena wzięła kieliszek czerwonego wina i wyszła na zewnątrz.
 
-Jelena przez chwilę obserwowała go bez słowa.
+Taras był szeroki, kamienny, osłonięty od wiatru. Za balustradą ciemniało jezioro. Światła domu odbijały się w wodzie i drżały przy każdym podmuchu.
 
-W Singapurze mówił szybko. Za szybko, według sali. Wtedy jego myśli wyprzedzały slajdy, pytania i cierpliwość starszych profesorów. Teraz był spokojniejszy. Nie dlatego, że odnalazł pewność. Raczej dlatego, że ktoś postanowił odpowiednio skanalizować jej brak.
+Stanley stał kilka kroków dalej. Miał w jednej dłoni cygaro, w drugiej kieliszek, którego prawie nie ruszył. Patrzył na jezioro. Nie wyglądał na człowieka, który odpoczywa. Raczej na kogoś, kto wyszedł tylko dlatego, że w środku było za dużo głosów.
 
-Podeszła.
+Jelena podeszła.
 
-— Senator ma talent — powiedziała.
+— Senator dobrze pana sprzedał — powiedziała.
 
-Stanley nie odwrócił od razu głowy.
+Stanley odwrócił głowę.
 
-— Do czego?
-
-— Do robienia religii z cudzych notatek.
-
-Kącik jego ust drgnął.
-
-— W takim razie powinienem pisać mniej czytelnie.
-
-— Albo bardziej odpowiedzialnie.
-
-Tym razem spojrzał na nią naprawdę.
-
-— To była uwaga naukowa czy moralna?
-
-— W pańskim przypadku zaczynam podejrzewać, że nie da się ich rozdzielić.
-
-Przez chwilę milczeli. Z wnętrza domu dochodziły śmiechy, dźwięk szkła i głos Witchinsa, który opowiadał coś tak, jakby każda anegdota miała dać mu dodatkowy punkt procentowy w wyborach.
-
-— Przyszedłem tu dla nauki — powiedział Stanley w końcu.
-
-— Nikt przy takim stole nie przychodzi tylko dla nauki.
-
-— Pani również?
-
-— Ja przynajmniej nie udaję przed sobą, że jestem niewinna.
-
-To zdanie mogło zabrzmieć kokieteryjnie. Nie tak je pomyślała. Stanley chyba to zrozumiał, bo nie uśmiechnął się.
-
-— W takim razie jest pani uczciwsza od większości obecnych.
-
-— Nie. Tylko mniej przyzwyczajona do waszych amerykańskich rytuałów rozgrzeszania.
-
-— Witchins nie rozgrzesza. On tworzy całą otoczkę propagandową, która ma uczynić z naszej pracy wyższą konieczność.
-
-Jelena uniosła kieliszek w niemym uznaniu.
-
-— To akurat dobre.
-
-Stanley zaciągnął się cygarem, ale zrobił to niepewnie, jak człowiek, który nie pali często i wybrał ten gest bardziej dla samotności niż dla smaku. Dym podrażnił mu gardło. Zaklął cicho pod nosem.
-
-— Nie wygląda pan na człowieka, który lubi cygara — powiedziała.
-
-— Nie lubię.
-
-— To po co pan je pali?
-
-— Nikt nie domaga się rozmowy od człowieka z dymem w ustach... Bez obrazy.
-
-— Skuteczna metoda.
-
-— Jak widać, nie w pełni.
-
-Tym razem uśmiechnęli się oboje.
-
-Jelena oparła się biodrem o balustradę.
-
-— W Singapurze nie palił pan cygar.
-
-— W Singapurze miałem jeszcze złudzenie, że jeśli będę mówił wystarczająco precyzyjnie, ludzie będą słuchać treści.
-
-— Słuchali.
-
-— Nie. Czekali, aż skończę, żeby wspólnie ustalić czy jestem wariatem.
-
-— Jest pan?
-
-Stanley spojrzał znów na jezioro.
-
-— Sam się teraz nad tym zastanawiam.
-
-To była pierwsza rzecz tego wieczoru, która naprawdę jej się w nim spodobała.
-
-— Pańskie wystąpienie było źle przyjęte — powiedziała. — Ale nie było głupie.
-
-— Bardzo nobilitująca recenzja.
-
-— Proszę nią nie wzgardzać. Rzadko je piszę.
-
-Dym z cygara unosił się między nimi i rozpraszał na wietrze.
-
-— Czytałem pani artykuł — powiedział po chwili Stanley.
-
-Nie zdołała ukryć zaskoczenia.
-
-— Który?
-
-— O różnicach w reakcjach neurochemicznych przy utrwalaniu śladów pamięciowych u ludzi i zwierząt. Petersburg, potem przedruk w „Journal of Neural Engineering”. Miała pani niezły fragment o tym, że podobieństwo reakcji nie oznacza podobieństwa doświadczenia.
-
-— „Niezły fragment”.
-
-— Bardzo dobry fragment, jeśli mamy zachować dyplomację.
-
-— Nie wiedziałam, że pan to czytał.
-
-— Nie wiedziałem, że będę musiał się z tego tłumaczyć.
-
-— Nie musi się pan tłumaczyć. Po prostu poprawia pan swoje notowania.
-
-Stanley spojrzał na nią z ukosa.
-
-— Były złe?
-
-— Były niestabilne.
-
-— To chyba jeszcze gorzej.
-
-— Niekoniecznie.
-
-Przez moment rozmowa stała się łatwa. Nie lekka, ale równa. Jelena poczuła to wyraźnie: nie próbowała mu imponować, a on nie próbował jej do siebie przekonać. Oboje badali grunt.
-
-— Zadała pani w Singapurze dobre pytanie — powiedział Stanley. — O granicę między zapisem a osobą, jeśli dobrze pamiętam.
-
-— Nie odpowiedział pan.
-
-— Odpowiedziałem tak dobrze, jak potrafiłem.
-
-— To nie to samo.
+— To miał być komplement?
 
 — Nie.
 
-To było krótkie „nie” i właśnie dlatego zabrzmiało poważnie.
+Przyjął to spokojnie.
 
-Jelena przestała się uśmiechać.
+— W takim razie dziękuję za jasność.
 
-— Wie pan, że jeśli ta granica nie istnieje tam, gdzie chcecie ją postawić, cały projekt będzie tylko bardzo elegancką formą morderstwa.
+— Nie przeszkadza panu to?
 
-Stanley zamarł z cygarem przy palcach.
+— Co dokładnie?
 
-Nie obraził się. To było najciekawsze. Nie wszedł w ton obrony, nie sięgnął po wykład, nie zrobił z niej ignorantki. Po prostu przyjął zdanie tak, jak przyjmuje się dobrze wymierzony cios: najpierw nieruchomość, potem oddech.
+— Że przed chwilą zrobiono z pańskiej pracy część większej opowieści. Takiej, w której wszyscy jesteśmy odważni, potrzebni i historycznie nieuniknieni.
 
-— Wiem — powiedział.
+Stanley przez chwilę patrzył na nią bez odpowiedzi.
 
-Z wnętrza salonu dobiegł śmiech Witchinsa.
+— Przeszkadza — powiedział w końcu. — Ale to nie znaczy, że ta opowieść jest całkiem fałszywa.
 
-Był teraz nie na miejscu.
+— Wygodna odpowiedź.
 
-— To mnie nie uspokaja — powiedziała Jelena.
+— Uczciwa. Przynajmniej w tej chwili.
 
-— Mnie też nie.
+Jelena oparła się o balustradę.
 
-Wtedy pomyślała, że być może właśnie dlatego Boyle go potrzebował. Nie dlatego, że Stanley nie widział przepaści. Dlatego, że widział ją dokładniej niż inni i mimo to nadal szedł.
+— W Singapurze mówił pan inaczej.
 
-Za ich plecami odezwał się głos senatora.
+— W Singapurze nie siedział obok mnie senator.
 
-— Jeśli państwo właśnie ustaliliście listę potrzebnego oprzyrządowania i inwestycji, to proszę pamiętać, że przy kolacji obowiązuje wersja krótka. Długa odstrasza inwestorów.
+— Ani Boyle.
 
-Witchins wyszedł na taras z dwoma szklankami whisky. Jedną trzymał dla siebie, drugą podał Stanleyowi, jakby wręczał mu kontynuację rozmowy, a nie alkohol.
+— Ani Boyle.
 
-Stanley zawahał się tylko sekundę.
+Przez moment milczeli. Z salonu dochodził śmiech, stłumiony przez szkło i odległość.
 
-Jelena to zauważyła.
+— Wtedy miał pan więcej złości — powiedziała.
 
-Wziął szklankę.
+— Możliwe.
 
-— Senatorze — powiedział — pańska troska o inwestorów jest poruszająca.
+— Teraz ma pan więcej ostrożności.
 
-— Ktoś musi myśleć o ludziach wrażliwych. Mają jachty, fundacje i bardzo delikatne sumienia.
+— To przychodzi z umowami, których nie można pokazywać prawnikom.
 
-— A myślałam, że sumienie jest warunkiem wejścia do projektu — powiedziała Jelena.
+To zabrzmiało jak żart, ale Jelena nie była pewna, czy nim było.
 
-Witchins uniósł brwi.
+— Czytałam pańskie prace — powiedziała.
 
-— Nie, droga pani. Sumienie jest jak płaszcz. Dobrze wygląda przy wejściu, ale w środku robi się w nim nieznośnie gorąco.
+— Domyślam się. Inaczej nie zadawałaby pani tamtego pytania.
 
-Jelena parsknęła cicho, choć nie chciała. Senator był irytujący właśnie dlatego, że bywał zabawny.
+— W Singapurze?
 
-— Widzę, że nauka znalazła wspólny język — powiedział Witchins, patrząc to na nią, to na Stanleya. — To dobrze. Profesor Boyle lubi, kiedy ludzie dochodzą do porozumienia, zanim sam musi im wyjaśnić, dlaczego nie mają wyboru.
+— Tak.
 
-— Brzmi jak styl zarządzania — powiedział Stanley.
+— Pamięta je pan?
 
-— Och, nie. To jest filozofia.
+— Pamiętam pytania, które psują mi tydzień.
 
-Witchins upił łyk whisky i spojrzał w stronę salonu.
+Tym razem uśmiechnęła się wyraźniej.
 
-— A skoro o filozofii mowa, profesor Boyle prosi państwa do biblioteki.
+— A odpowiedzi?
 
-Jelena odwróciła głowę.
+— Te zwykle pamiętam gorzej.
 
-Przy drzwiach tarasu stał Mercer. Nie wszedł na zewnątrz. Nie musiał. Skinął tylko lekko, potwierdzając słowa senatora. Za jego plecami, w głębi salonu, Paxton rozmawiał z jednym z ludzi Animusa, ale patrzył w ich stronę.
+Było w tym mniej pozy niż się spodziewała. Stanley nie próbował wyglądać na pewniejszego, niż był. To ją zaskoczyło. Większość ludzi przy tym stole robiła coś odwrotnego.
 
-— Oboje? — zapytała Jelena.
+— Pytałam o granicę między zapisem pamięci a osobą — przypomniała.
 
-— Oboje — powiedział Witchins. — Proszę się nie martwić. Biblioteka profesora Boyle’a jest bardzo bezpieczna. Żadna książka w niej nie ucierpiała.
+— Pamiętam.
 
-Stanley zgasił cygaro w popielnicy. Prawie nie było spalone.
+— Nie odpowiedział pan.
+
+— Odpowiedziałem najbezpieczniej, jak umiałem.
+
+— To nie to samo.
+
+— Wiem.
+
+Krótka odpowiedź wytrąciła ją z przygotowanego tonu. Spodziewała się obrony, wykładu, może ironii. Nie zgody.
+
+Stanley odłożył cygaro na brzeg popielnicy. Prawie się nie paliło.
+
+— Problem polega na tym — powiedział — że jeśli odpowiem za ostrożnie, nie ruszymy z miejsca. Jeśli odpowiem zbyt śmiało, ktoś przerobi to na hasło reklamowe albo rozkaz.
+
+— Już przerobiono.
+
+— Wiem.
+
+— I mimo to pan tu jest.
+
+— Pani też.
+
+— Ja nie twierdzę, że jestem ofiarą własnych idei.
+
+Stanley spojrzał na nią uważniej.
+
+— A ja twierdzę?
+
+— Jeszcze nie wiem.
+
+Przez chwilę słyszeli tylko wiatr i rozmowy z salonu. Jelena upiła niewielki łyk wina. Było bardzo dobre. Zbyt dobre jak na rozmowę, którą prowadzili.
+
+— Czytałem pani artykuł — powiedział Stanley.
+
+— Który?
+
+— O różnicach między reakcjami neurochemicznymi u ludzi i zwierząt przy utrwalaniu pamięci. Petersburski zespół, potem przedruk w „Journal of Neural Engineering”.
+
+Nie zdołała ukryć zaskoczenia.
+
+— Naprawdę pan czytał?
+
+— Tak.
+
+— I?
+
+— Był dobry. Zwłaszcza fragment o tym, że podobieństwo procesu nie oznacza jeszcze podobieństwa doświadczenia.
+
+— To był najważniejszy fragment.
+
+— Wiem.
+
+Powiedział to bez kokieterii. Po prostu wiedział.
+
+Jelena poczuła, że rozmowa zmienia ton. Nie była już próbą uprzejmego ustawienia pozycji. Przynajmniej na chwilę.
+
+— W takim razie rozumie pan, czego się boję — powiedziała.
+
+— Nie wiem, czy rozumiem. Ale potrafię zgadnąć.
+
+— Jeżeli uznacie, że wystarczy odtworzyć zapis, żeby ocalić człowieka, możecie po prostu nauczyć się produkować bardzo przekonujące trupy.
+
+Stanley nie odpowiedział od razu.
+
+Wziął cygaro, ale nie podniósł go do ust.
+
+— Tak — powiedział.
+
+Jedno słowo. Bez ucieczki.
+
+Jelena poczuła chłód na karku, choć na tarasie nie było aż tak zimno.
+
+— I to panu nie przeszkadza?
+
+— Przeszkadza mi każdego dnia.
+
+— Ale pan dalej idzie.
+
+— Bo druga możliwość jest taka, że jesteśmy bliżej, niż ktokolwiek miał odwagę przyznać. I jeśli teraz się cofniemy, ktoś inny zrobi to gorzej.
+
+— To bardzo popularne usprawiedliwienie.
+
+— Nie powiedziałem, że jest dobre.
+
+Spojrzała na niego dłużej. W salonie senator zaśmiał się z czegoś głośno. Ktoś mu zawtórował. Ten śmiech zabrzmiał nagle nieprzyzwoicie.
+
+— Jest pan bardziej szczery, niż myślałam — powiedziała.
+
+— Niech pani poczeka. To zwykle mija.
+
+Wtedy na taras wszedł Witchins.
+
+Niósł dwie szklanki whisky. Jedną trzymał dla siebie, drugą podał Stanleyowi.
+
+— Profesorze, Boyle zaczyna tracić cierpliwość do rozmów, w których nie uczestniczy — powiedział. — To u niego stan przewlekły, ale dzisiaj wyjątkowo widoczny.
+
+Stanley spojrzał na szklankę. Zawahał się krótko, po czym ją przyjął.
+
+Jelena zauważyła to. Nie skomentowała.
+
+— Przeszkadzam? — zapytał Witchins, choć było jasne, że nie zależy mu na odpowiedzi.
+
+— Tak — powiedziała Jelena.
+
+Senator uśmiechnął się z uznaniem.
+
+— Doskonale. Najgorsze są rozmowy, którym nikt nie przeszkadza. Zaczynają wtedy udawać, że prowadzą do prawdy.
+
+— A pan woli rozmowy, które prowadzą do decyzji? — spytała.
+
+— Nie. Decyzje zapadają wcześniej. Rozmowy służą temu, żeby ludzie mogli z nimi później żyć.
+
+To było proste. I dlatego lepsze niż większość jego żartów.
+
+Stanley upił mały łyk whisky.
+
+— Profesor Boyle nas wzywa? — zapytał.
+
+— Do biblioteki — potwierdził Witchins. — Oboje.
+
+Jelena odwróciła głowę. Przy drzwiach tarasu stał Mercer. Nie wchodził na zewnątrz. Czekał. Za nim, w głębi salonu, Paxton rozmawiał z jednym z ludzi Animusa, ale patrzył w ich stronę.
+
+— Teraz? — zapytała.
+
+— Boyle nie lubi odkładać rzeczy, które już uznał za rozpoczęte.
+
+— A jeśli ktoś nie ma ochoty?
+
+— Wtedy zwykle odkrywa, że pomylił ochotę z możliwością wyboru.
+
+Jelena spojrzała na Stanleya.
+
+Nie wyglądał na zaskoczonego. Bardziej na zmęczonego człowieka, który usłyszał spodziewane wezwanie.
+
+Zgasił cygaro w popielnicy. Prawie nie było spalone.
 
 Szklankę whisky zabrał ze sobą.
 
-Jelena zauważyła to również.
+Jelena zapamiętała ten drobiazg.
 
-Ruszyli za Mercerem w stronę światła salonu. Za nimi jezioro pozostało ciemne i spokojne, jakby nic z tego, co mówiono przy stole, go nie wzburzyło.
+Ruszyli za Mercerem w stronę salonu. Za nimi jezioro zostało ciemne i spokojne. W domu Boyle’a znów zrobiło się ciepło, jasno i duszno.
+
+Przed wejściem do biblioteki Jelena pomyślała, że właściwa kolacja dopiero się zaczyna.
