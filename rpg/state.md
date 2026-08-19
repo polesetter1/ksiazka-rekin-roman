@@ -1,69 +1,68 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–005 zakończone i zapisane; scena 006 rozpoczęta i trwa.
-- Ostatnia sfinalizowana scena: `rpg/scenes/005-jelena-oprowadzenie-po-gosciach.md`.
-- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 6, **Przemówienie senatora**.
+- Status: sceny RPG 001–006 zakończone i zapisane; scena 007 rozpoczęta i trwa.
+- Ostatnia sfinalizowana scena: `rpg/scenes/006-jelena-przemowienie-senatora.md`.
+- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 7, **Jelena poznaje Profesora**.
 - Perspektywa: Jelena Ivanova.
 - Chronologia: około trzy tygodnie przed przylotem Stanleya Hutchinsa na Skyropulę.
-- Miejsce: posiadłość Christophera Boyle’a w Minnesocie, jadalnia podczas inauguracyjnej kolacji.
+- Miejsce bieżące: posiadłość Christophera Boyle’a w Minnesocie, taras nad jeziorem po inauguracyjnej kolacji.
 
 ## Stanley Hutchins
-- Na swoim późniejszym punkcie chronologii ma za sobą sceny 001–003: podpisał porozumienie, przybył na Skyros i obejrzał Skyropulę.
-- W bieżącej, wcześniejszej chronologicznie scenie 006 siedzi przy stole podczas inauguracji projektu.
-- Jelena zna go z wystąpienia w Singapurze; Stanley przypomniał sobie jej pytanie z panelu i ich pierwsza rozmowa zbudowała wzajemny szacunek.
+- W bieżącej chronologicznie scenie 007 uczestniczy w inauguracji Projektu Matuzalem przed wyjazdem do Grecji.
+- Jelena zna go z panelu w Singapurze; Stanley przypomniał sobie jej trudne pytanie i ich relacja zaczyna opierać się na wzajemnym szacunku intelektualnym.
+- Po przemówieniu Witchinsa Stanley jest wyraźnie niekomfortowy wobec politycznego zawłaszczenia jego pracy.
+- Przyznaje Jelenie, że obawia się pomylenia odtworzenia zapisu z ocaleniem osoby; uznaje ryzyko stworzenia „bardzo przekonującego trupa”.
+- Mimo tego kontynuuje projekt, częściowo racjonalizując to przekonaniem, że jeśli oni się cofną, ktoś inny może przeprowadzić podobne badania gorzej.
 
 ## Jelena Ivanova
-- Zdrowie: bez obrażeń; zmęczona podróżą, ale skupiona i ostrożna.
-- Pozycja: neurolog z Petersburga rekrutowana do tajnego przedsięwzięcia Boyle’a, Paxtona, Witchinsa i Stanleya.
+- Zdrowie: bez obrażeń; skupiona, ostrożna, pod wpływem niewielkiej ilości alkoholu wyłącznie ceremonialnie.
+- Pozycja: neurolog z Petersburga włączana do ścisłego zespołu Projektu Matuzalem.
 - Decyzje RPG:
   - po anonimowym rosyjskim telefonie początkowo zachowała milczenie i nie kontaktowała się z numerem;
-  - podczas rozmowy z Paxtonem przyznała, że Rosja już się nią interesowała, lecz nie ujawniła szczegółów kontaktu. Odpowiedziała: „Oczywiście, że zapytała. Moja ojczyzna jest bardzo ciekawska. Podobnie jak pańska, ale proszę się nie martwić. Nie jestem szczególnie wylewna.”
+  - Paxtonowi przyznała, że Rosja już się nią interesowała, ale nie ujawniła szczegółów;
+  - podczas oficjalnego toastu za Projekt Matuzalem **wzniosła kieliszek ceremonialnie**, bez osobistej deklaracji lojalności.
 - Wiedza:
-  - zna prace Stanleya i pamięta panel w Singapurze;
-  - wie, że Boyle dysponuje rozległą prywatną infrastrukturą, informacjami i wpływami;
-  - z rozmowy z Paxtonem wie, że jej rosyjskie pochodzenie nie było przeszkodą w rekrutacji; liczą się jej kompetencje i doświadczenie w systemie traktującym naukę jako narzędzie siły;
-  - Paxton spodziewał się zainteresowania rosyjskich służb jej osobą;
-  - nie wie, czy ludzie Boyle’a znają szczegóły anonimowego telefonu;
-  - rozpoznaje symbol `Turritopsis dohrnii` w posiadłości Boyle’a jako odniesienie do nieśmiertelności;
-  - poznała Daniela Mercera, Rodrigo Alvareza, Helgę Weiss, Boyle’a, Witchinsa, Paxtona i Stanleya.
+  - zna oficjalną nazwę **Projekt Matuzalem**;
+  - rozumie, że przedsięwzięcie dotyczy przekroczenia biologicznej śmierci, a nie tylko badań nad pamięcią;
+  - widzi chorobę Boyle’a jako istotny kontekst całego projektu, choć nie zna jeszcze pełni jego osobistego celu;
+  - wie, że Stanley nie jest bezkrytyczny wobec politycznej narracji projektu ani wobec problemu tożsamości po transferze;
+  - Stanley czytał jej artykuł o różnicach między reakcjami neurochemicznymi u ludzi i zwierząt przy utrwalaniu pamięci i poprawnie zrozumiał jego główną tezę.
 - Relacje:
-  - Jonathan Paxton: wzajemna ostrożność i początek respektu; Paxton widzi, że Jelena świadomie dawkuje informacje;
-  - Christopher Boyle: silny autorytet i gospodarz projektu; Jelena dostrzega jego chorobę oraz dominującą pozycję;
-  - Stanley Hutchins: pierwsza nić intelektualnego szacunku i zainteresowania;
-  - Randyll Witchins: polityczny operator projektu, którego Jelena uważa za człowieka potrafiącego ubierać niebezpieczne decyzje w atrakcyjny język.
-- Nastawienie: Jelena chce wejść głębiej w projekt i rozpoznać układ sił, nie deklarując jeszcze pełnej lojalności żadnej stronie.
+  - Jonathan Paxton: wzajemna ostrożność; wie o rosyjskim zainteresowaniu, ale nie zna szczegółów;
+  - Christopher Boyle: autorytet i właściciel infrastruktury; Jelena dostrzega jego chorobę i obsesyjną symbolikę nieśmiertelności;
+  - Stanley Hutchins: rosnący szacunek intelektualny; rozmowa na tarasie staje się pierwszą szczerą wymianą o moralnym i naukowym ryzyku projektu;
+  - Randyll Witchins: Jelena widzi go jako człowieka zdolnego ubrać ryzykowne przedsięwzięcie w atrakcyjny język misji.
 
 ## Roman Bagrowski
 - Bez zmian RPG; na tym punkcie chronologii nie uczestniczy w scenie.
 
-## Ważni NPC w bieżącej scenie
-- Christopher Boyle — gospodarz i technologiczny magnat, fizycznie osłabiony chorobą, intelektualnie dominujący.
-- Jonathan Paxton — wojskowo-polityczny nadzorca i człowiek bezpieczeństwa.
-- Randyll Witchins — senator i polityczny operator, który za chwilę wygłasza inauguracyjne przemówienie.
+## Ważni NPC
+- Christopher Boyle — gospodarz, technologiczny magnat, fizycznie osłabiony chorobą.
+- Jonathan Paxton — człowiek bezpieczeństwa i nacisku.
+- Randyll Witchins — polityczny operator i autor oficjalnego mitu Projektu Matuzalem.
 - Daniel Mercer — asystent Boyle’a.
 - Rodrigo Alvarez i Helga Weiss — specjaliści systemów i danych.
-- Stanley Hutchins — autor teorii stanowiącej rdzeń przedsięwzięcia.
 
-## Bieżąca sytuacja sceny 006
-- Goście przeszli z salonu do jadalni.
-- Miejsca są świadomie rozplanowane przez Boyle’a: Jelena siedzi po lewej stronie Stanleya, Paxton blisko Boyle’a, Witchins naprzeciw gospodarza.
-- Rozmowa Jeleny z Paxtonem została zakończona bez otwartego konfliktu; Paxton wie już o rosyjskim zainteresowaniu, ale nie zna szczegółów.
-- Kolacja ma pełnić rolę oficjalnej inauguracji i wspólnego rytuału projektu.
-- Witchins przygotowuje się do przemówienia, które ma nadać przedsięwzięciu nazwę i wspólny mit.
+## Bieżąca sytuacja sceny 007
+- Po kolacji Jelena i Stanley wyszli na taras nad jeziorem.
+- Jelena zarzuciła Stanleyowi, że Witchins „sprzedał” jego pracę jako część większego mitu.
+- Stanley przyznał, że mu to przeszkadza, ale nie uważa całej narracji za fałszywą.
+- Stanley pamięta singapurskie pytanie Jeleny o granicę między zapisem pamięci a osobą.
+- Jelena wskazała ryzyko, że odtworzenie zapisu może stworzyć jedynie przekonującą kopię martwego człowieka.
+- Stanley odpowiedział, że to ryzyko przeszkadza mu każdego dnia, ale mimo to idzie dalej, bo uważa, że zaniechanie może tylko oddać badania komuś mniej ostrożnemu.
+- Następny wybór Jeleny dotyczy tego, jak zareaguje na tę racjonalizację i jak głęboko wejdzie w osobiste motywacje Stanleya.
 
 ## Aktywne wątki
-- Oficjalna inauguracja projektu i ujawnienie jego nazwy.
-- Rosyjskie zainteresowanie Jeleną oraz przyszły monitoring ze strony Paxtona.
-- Relacja Jelena–Stanley.
-- Prawdziwy osobisty cel Boyle’a i skala jego technologicznej kontroli.
-- Moralny i polityczny język, którym Witchins osłania przedsięwzięcie.
+- Rosyjskie zainteresowanie Jeleną.
+- Relacja Jelena–Stanley i ich spór o tożsamość, pamięć i granice moralne projektu.
+- Choroba Boyle’a i prawdziwy osobisty cel Projektu Matuzalem.
+- Polityczne przejęcie języka nauki przez Witchinsa.
 
 ## Rozbieżności względem powieści
 - Aktywna rozbieżność ze sceny 002 pozostaje: Stanley nie uczestniczył w imprezie na Skyros i nie skompromitował się przy basenie.
-- Sceny 003–005 nie tworzą nowych istotnych rozbieżności względem głównego biegu kanonu.
+- Sceny 003–006 nie tworzą nowych istotnych rozbieżności względem głównego biegu kanonu.
 
 ## Oczekujące konsekwencje
-- Paxton może zwiększyć dyskretny monitoring Jeleny.
-- Jelena nadal może później ujawnić lub zatajać szczegóły rosyjskiego telefonu.
-- Inauguracja ma zdefiniować oficjalną tożsamość przedsięwzięcia oraz pozycje ludzi wokół stołu.
+- Paxton może dyskretnie monitorować Jelenę ze względu na jawne rosyjskie zainteresowanie.
+- Sposób, w jaki Jelena zareaguje na moralną racjonalizację Stanleya, może wpłynąć na poziom zaufania i charakter ich relacji.
