@@ -1,68 +1,66 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–013 zakończone i zapisane; scena 014 rozpoczęta i trwa.
-- Ostatnia sfinalizowana scena: `rpg/scenes/013-roman-pierwsze-uruchomienie-elektrowni.md`.
-- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 14, **Opracowywanie warunków eksperymentu**.
-- Perspektywa: Roman Bagrowski w bieżącym punkcie decyzyjnym, przy zachowaniu odrębnej wiedzy Jeleny i Stanleya.
-- Chronologia: początek wiosny po zimie intensywnej budowy; reaktor Skyropuli przeszedł pierwszy udany rozruch i wygaszenie.
-- Miejsce bieżące: Skyropula, gabinet Stanleya / pomieszczenia projektowe centrum transferowego.
+- Status: sceny RPG 001–014 zakończone i zapisane; scena 015 rozpoczęta i trwa.
+- Ostatnia sfinalizowana scena: `rpg/scenes/014-roman-opracowywanie-warunkow-eksperymentu.md`.
+- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 15, **Stawianie urządzeń**.
+- Perspektywa: Jelena Ivanova.
+- Chronologia: początek wiosny; po pierwszym udanym rozruchu reaktora i naradzie dotyczącej architektury eksperymentu.
+- Miejsce bieżące: Skyropula, podziemne centrum transferowe i dwie kopuły wychodzące w stronę morza.
 
 ## Stanley Hutchins
 - Prowadzi stronę naukową Projektu Matuzalem.
-- Wraz z Jeleną uzyskał powtarzalny odczyt szczątkowych informacji z wybranych obszarów mózgu psa, ale nadal rozwija kontrolowany zapis i pełny transfer.
-- Rozwija koncepcję wykorzystania słonej wody jako medium dla tzw. inteligentnej informacji, co może ograniczyć liczbę elektrod i uprościć kierowanie zapisu do właściwych regionów mózgu.
-- Nadal reaguje źle na presję Paxtona, zwłaszcza na żądania szybkiej próby na ludziach.
+- Zespół potrafi już wykonywać powtarzalny częściowy odczyt informacji z mózgu psa; rozwijany jest pełny zapis i transfer.
+- Stanley zaakceptował równoległe przygotowanie dwóch wariantów wymazywania: osobny eraser pozostaje wariantem referencyjnym, ale zbiornik ze słoną wodą ma zostać przygotowany do kontrolowanych testów zintegrowanego wymazywania według pomysłu Romana.
+- Nie rozstrzygnął sporu Roman–Jelena autorytetem; chce danych z testów zakłóceń.
 - Wcześniej przyznał Jelenie, że nie zna pewnego testu odróżniającego ciągłość osoby od doskonałej kopii i nie potrafi jasno wyznaczyć nieprzekraczalnej granicy moralnej; Roman tej rozmowy nie zna.
 
 ## Jelena Ivanova
 - Formalnie związana kontraktem z Projektem Matuzalem.
-- Pracuje ze Stanleyem nad odczytem i zapisem informacji neurologicznej.
-- W rozmowie z Paxtonem wyjaśnia mechanikę projektu: odczyt danych, możliwe wymazanie danych z ośrodka źródłowego oraz zapis w ośrodku docelowym.
-- Deeskaluje konflikt Stanley–Paxton i deklaruje, że pierwsza próba na zwierzętach jest planowana w ciągu około dwóch tygodni.
-- W bieżącej naradzie technicznej jest sceptyczna wobec pomysłu Romana, aby etap wymazywania realizować już w zbiorniku ze słoną wodą, ponieważ sól i woda mogą zakłócać eraser.
+- Pracuje ze Stanleyem nad odczytem, zapisem i neurologiczną stroną transferu.
+- Była sceptyczna wobec pomysłu Romana, aby eraser działał bezpośrednio w zbiorniku ze słoną wodą, wskazując na ryzyko zakłóceń pola i brak danych.
+- Nie zablokowała jednak testów; zaakceptowała równoległe przygotowanie rozwiązania Romana pod warunkiem walidacji pomiarowej.
+- Relacja z Romanem pozostaje mieszaniną zawodowego szacunku, irytacji i rosnącej fascynacji.
+- Paxton wie ogólnie, że Rosja już się nią interesowała, ale nie zna szczegółów anonimowego telefonu.
 
 ## Roman Bagrowski
-- Faktycznie organizuje techniczną i logistyczną stronę Projektu Matuzalem na Skyropuli.
-- Po domknięciu pierwszego etapu budowy dotrzymał obietnicy i zorganizował zespołowi niedzielny dzień wolny / integrację w Nefeli na własny koszt.
-- Podczas imprezy Moore zapytał, czy Roman jest z kimś. Roman odpowiedział tylko: **„Nie.”** Nie ujawnił historii Oliwii.
-- Pytanie uruchomiło silne wspomnienia po Oliwii, wypadku i pierścionku zaręczynowym, którego nigdy nie zdążył jej dać. Roman opuścił imprezę, by ukryć emocje.
-- Następnego dnia mimo kaca wrócił do treningu i pracy. Rygor nadal pełni u niego funkcję ochrony przed żałobą.
-- Coraz głębiej angażuje się w naukową stronę projektu Stanleya, nie tylko w budowę. Pomaga rozwiązywać problemy z mocą obliczeniową, infrastrukturą i koncepcją stanowisk.
-- Zgodził się organizować pozyskanie materiału biologicznego / mózgów dawców do badań przez szpitale, kostnice i uniwersytety.
-- Przez późną jesień i zimę prowadził budowę wraz z Dawsonem i Moore’em. Blok elektrowni został zamknięty do końca listopada, a wiosną reaktor był gotowy do pierwszego uruchomienia.
-- Pierwszy rozruch reaktora zakończył się sukcesem: reakcję ustabilizowano przy ok. 3 MW, a następnie skutecznie wygaszono po pełnym zanurzeniu prętów sterujących. Przy wygaszaniu moc spadała wolniej niż zakładano, co wywołało krótki moment realnego niepokoju, ale procedura zakończyła się zerową mocą.
-- Roman ufa doświadczeniu Moore’a, ale nadal traktuje bezpieczeństwo proceduralne bardzo poważnie.
+- Faktycznie organizuje techniczną i logistyczną stronę Projektu Matuzalem na Skyropuli i coraz głębiej wchodzi w merytoryczną stronę eksperymentu.
+- Po domknięciu pierwszego etapu budowy dotrzymał obietnicy i zorganizował zespołowi niedzielny dzień wolny / integrację w Nefeli.
+- Na pytanie Moore’a o związek odpowiedział tylko: „Nie.” Nie ujawnił historii Oliwii.
+- Pytanie uruchomiło silne wspomnienia po Oliwii; rygor pracy i treningu nadal pełni u niego funkcję ochrony przed żałobą.
+- Pierwszy rozruch reaktora zakończył się sukcesem: reakcję ustabilizowano przy ok. 3 MW i skutecznie wygaszono.
+- W scenie 014 mocno forsował pomysł zintegrowania erasera ze zbiornikiem ze słoną wodą.
+- Nie przeforsował natychmiastowego przyjęcia rozwiązania jako bazowego. Wywalczył jednak równoległe przygotowanie i testy swojego wariantu; ostateczna decyzja zależy od wyników.
 
 ## Ważni NPC
-- Luke Dawson — kieruje szeroką częścią infrastruktury, rozwija się pod okiem Moore’a i utrzymał pozycję po początkowym kryzysie kompetencyjnym.
-- Michael Moore — główny praktyk części jądrowej, współodpowiedzialny za udany pierwszy rozruch i wygaszenie reaktora.
-- Jonathan Paxton — naciska na szybki wynik, żąda jasnego planu i terminu pierwszej zamiany. Po ostatniej rozmowie wie, że zespół planuje pierwszą próbę na zwierzętach w ciągu około dwóch tygodni.
+- Luke Dawson — kieruje szeroką częścią infrastruktury, rozwija się pod okiem Moore’a.
+- Michael Moore — główny praktyk części jądrowej, współodpowiedzialny za bezpieczny rozruch reaktora.
+- Jonathan Paxton — naciska na szybki wynik; wie, że pierwsza próba na zwierzętach ma nastąpić w ciągu około dwóch tygodni.
 - Christopher Boyle / Hewlett — sponsorzy pozostają zainteresowani tempem i demonstracją działającego transferu.
 
-## Bieżąca sytuacja sceny 014
-- Po uruchomieniu reaktora presja przesunęła się z budowy na sam eksperyment.
-- Paxton odwiedził gabinet Stanleya i ostro naciskał na konkretny termin. Stanley był poirytowany; Jelena i Roman tłumaczyli postęp.
-- Zespół potrafi już wykonywać powtarzalny częściowy odczyt z mózgu psa. Problemem pozostaje kontrolowany pełny zapis / transfer.
-- Paxton usłyszał deklarację, że pierwsza próba na zwierzętach ma nastąpić w ciągu ok. dwóch tygodni.
-- Po jego wyjściu Stanley, Jelena i Roman przeszli do właściwej narady projektowej.
-- Roman zaproponował, by **wymazywanie danych z mózgu źródłowego odbywało się już w zbiorniku ze słoną wodą**, zamiast przewozić ciało między oddzielnym eraserem a stanowiskiem zapisu. Argument: mniej transportu, mniejsze ryzyko przerwania podtrzymania życia, prostsza sekwencja procesu.
-- Jelena wskazuje na ryzyko zakłóceń działania erasera przez wodę i sól. Stanley widzi zalety obu podejść.
+## Bieżąca sytuacja sceny 015
+- Instalowane są systemy podtrzymywania życia i aparatura w dwóch bliźniaczych kopułach / salach połączonych z morzem.
+- Pomieszczenia mogą zostać szybko zalane słoną wodą i mają służyć przyszłym etapom zapisu oraz potencjalnie wymazywania.
+- Ze względu na spór z poprzedniej sceny instalacja ma zachować możliwość pracy w dwóch konfiguracjach: konserwatywnej z osobnym eraserem oraz testowej z eraserem działającym przy zbiorniku ze słoną wodą.
+- Stary pomysł tysięcy elektrod jest stopniowo porzucany na rzecz rozwijanej „inteligentnej informacji”, choć pełne działanie nie zostało jeszcze potwierdzone w próbie generalnej.
+- Roman bardzo aktywnie nadzoruje montaż i organizację prac.
+- Jelena coraz wyraźniej zwraca uwagę na Romana nie tylko jako współpracownika.
 
 ## Aktywne wątki
-- Pierwsza próba transferu na zwierzętach.
-- Wybór architektury procesu: oddzielny eraser i transport ciała versus integracja wymazywania w zbiorniku ze słoną wodą.
-- Presja Paxtona na szybkie wyniki i późniejszą próbę na ludziach.
-- Coraz głębsze wejście Romana w merytoryczną stronę eksperymentu.
+- Walidacja wariantu Romana z eraserem w słonej wodzie.
+- Przygotowanie pierwszej pełnej próby na zwierzętach.
+- Relacja i napięcie Jelena–Roman.
+- Presja Paxtona na szybkie przejście od zwierząt do ludzi.
 - Nieprzepracowana żałoba Romana po Oliwii.
-- Relacja Roman–Stanley–Jelena jako trójki coraz mocniej współtworzącej procedurę.
+- Rosyjskie zainteresowanie Jeleną pozostaje poza wiedzą Romana.
 
 ## Rozbieżności względem powieści
 - Aktywna rozbieżność ze sceny 002 pozostaje: Stanley nie uczestniczył w imprezie na Skyros i nie skompromitował się przy basenie.
-- Decyzja Romana, by przesunąć odpoczynek do zakończenia pierwszego etapu, była niewielkim przesunięciem akcentu, ale po osiągnięciu kamienia milowego integracja odbyła się zgodnie z bazowym kierunkiem sceny 011.
-- Odpowiedź Romana „Nie” na pytanie o związek jest zgodna z bazowym kierunkiem i nie ujawnia NPC-om historii Oliwii.
-- Sceny 012–013 przebiegły bez znaczącej rozbieżności od głównego kanonu.
+- Decyzja Romana, by przesunąć odpoczynek do zakończenia pierwszego etapu, była niewielkim przesunięciem akcentu; integracja odbyła się później zgodnie z bazowym kierunkiem.
+- Sceny 012–013 przebiegły bez znaczącej rozbieżności.
+- W scenie 014 zamiast natychmiastowego rozstrzygnięcia architektury zespół przygotowuje oba warianty i ma zdecydować po testach. Jest to niewielka modyfikacja techniczna, nie zmieniająca jeszcze głównego biegu fabuły.
 
-## Nierozwiązany punkt decyzyjny
-- Roman musi zdecydować, jak mocno forsować integrację erasera ze zbiornikiem ze słoną wodą.
-- Może naciskać na zintegrowany proces i zlecić testy zakłóceń, poprzeć bardziej konserwatywne pozostawienie osobnego erasera, zaproponować równoległe przygotowanie obu wariantów albo zaproponować inny układ procesu.
+## Oczekujące konsekwencje
+- Wyniki testów zakłóceń zdecydują, czy zintegrowany eraser Romana stanie się rozwiązaniem bazowym.
+- Pierwsza próba na zwierzętach ma ujawnić, czy inteligentna informacja działa poza symulacją.
+- Narastające zainteresowanie Jeleny Romanem może wpłynąć na ich współpracę i przyszłe decyzje.
