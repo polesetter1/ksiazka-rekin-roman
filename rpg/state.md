@@ -1,68 +1,79 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–006 zakończone i zapisane; scena 007 rozpoczęta i trwa.
-- Ostatnia sfinalizowana scena: `rpg/scenes/006-jelena-przemowienie-senatora.md`.
-- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 7, **Jelena poznaje Profesora**.
+- Status: sceny RPG 001–007 zakończone i zapisane; scena 008 rozpoczęta i trwa.
+- Ostatnia sfinalizowana scena: `rpg/scenes/007-jelena-poznaje-profesora.md`.
+- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 8, **Narada w gabinecie prof. Boyle’a**.
 - Perspektywa: Jelena Ivanova.
 - Chronologia: około trzy tygodnie przed przylotem Stanleya Hutchinsa na Skyropulę.
-- Miejsce bieżące: posiadłość Christophera Boyle’a w Minnesocie, taras nad jeziorem po inauguracyjnej kolacji.
+- Miejsce bieżące: prywatna biblioteka / gabinet w posiadłości Christophera Boyle’a w Minnesocie.
 
 ## Stanley Hutchins
-- W bieżącej chronologicznie scenie 007 uczestniczy w inauguracji Projektu Matuzalem przed wyjazdem do Grecji.
-- Jelena zna go z panelu w Singapurze; Stanley przypomniał sobie jej trudne pytanie i ich relacja zaczyna opierać się na wzajemnym szacunku intelektualnym.
-- Po przemówieniu Witchinsa Stanley jest wyraźnie niekomfortowy wobec politycznego zawłaszczenia jego pracy.
-- Przyznaje Jelenie, że obawia się pomylenia odtworzenia zapisu z ocaleniem osoby; uznaje ryzyko stworzenia „bardzo przekonującego trupa”.
-- Mimo tego kontynuuje projekt, częściowo racjonalizując to przekonaniem, że jeśli oni się cofną, ktoś inny może przeprowadzić podobne badania gorzej.
+- Jest już po rekrutacji przez Witchinsa, ale przed wyjazdem do Grecji.
+- Relacja z Jeleną: rosnący wzajemny szacunek intelektualny po długiej rozmowie na tarasie.
+- Przyznał Jelenie, że nie zna pewnego testu pozwalającego odróżnić rzeczywistą ciągłość osoby od doskonałej kopii. Możliwe kryteria techniczne pozostają wskaźnikami, nie dowodem.
+- Na pytanie o granicę moralną miał duży problem z odpowiedzią i nie potrafił wskazać jednej zasady, której na pewno nigdy nie przekroczy.
+- Na osobiste pytanie o motywację nie opowiedział o ojcu, ale ujawnił silne cierpienie związane z obrazem ciała, które zdradza człowieka wcześniej niż jego umysł jest gotów odejść.
+- Historia ojca pozostaje prywatną wiedzą Stanleya.
 
 ## Jelena Ivanova
-- Zdrowie: bez obrażeń; skupiona, ostrożna, pod wpływem niewielkiej ilości alkoholu wyłącznie ceremonialnie.
+- Zdrowie: bez obrażeń; skupiona i ostrożna, po niewielkiej ilości alkoholu.
 - Pozycja: neurolog z Petersburga włączana do ścisłego zespołu Projektu Matuzalem.
 - Decyzje RPG:
-  - po anonimowym rosyjskim telefonie początkowo zachowała milczenie i nie kontaktowała się z numerem;
-  - Paxtonowi przyznała, że Rosja już się nią interesowała, ale nie ujawniła szczegółów;
-  - podczas oficjalnego toastu za Projekt Matuzalem **wzniosła kieliszek ceremonialnie**, bez osobistej deklaracji lojalności.
+  - nie skontaktowała się ponownie z rosyjskim numerem;
+  - Paxtonowi ujawniła jedynie ogólnie, że Rosja już się nią interesowała, bez szczegółów;
+  - toast za Projekt Matuzalem wzniosła wyłącznie ceremonialnie;
+  - na tarasie świadomie pogłębiła rozmowę ze Stanleyem kolejno o problem tożsamości, granice moralne i osobistą motywację.
 - Wiedza:
-  - zna oficjalną nazwę **Projekt Matuzalem**;
-  - rozumie, że przedsięwzięcie dotyczy przekroczenia biologicznej śmierci, a nie tylko badań nad pamięcią;
-  - widzi chorobę Boyle’a jako istotny kontekst całego projektu, choć nie zna jeszcze pełni jego osobistego celu;
-  - wie, że Stanley nie jest bezkrytyczny wobec politycznej narracji projektu ani wobec problemu tożsamości po transferze;
-  - Stanley czytał jej artykuł o różnicach między reakcjami neurochemicznymi u ludzi i zwierząt przy utrwalaniu pamięci i poprawnie zrozumiał jego główną tezę.
+  - zna oficjalną nazwę Projekt Matuzalem i jego deklarowany cel przekroczenia biologicznej śmierci;
+  - wie, że Stanley sam dostrzega problem możliwej kopii zamiast ciągłości osoby;
+  - wie, że Stanley nie ma jasno określonej nieprzekraczalnej granicy moralnej;
+  - wie, że źródło jego obsesji jest osobiste i bolesne, lecz nie zna szczegółów;
+  - dostrzega chorobę Boyle’a i podejrzewa, że jego osobista stawka w projekcie jest duża;
+  - wie, że Paxton spodziewał się zainteresowania rosyjskich służb jej osobą.
 - Relacje:
+  - Stanley Hutchins: silniejszy szacunek intelektualny, ale Jelena dostrzega jego podatność na racjonalizację i brak twardej granicy moralnej;
   - Jonathan Paxton: wzajemna ostrożność; wie o rosyjskim zainteresowaniu, ale nie zna szczegółów;
-  - Christopher Boyle: autorytet i właściciel infrastruktury; Jelena dostrzega jego chorobę i obsesyjną symbolikę nieśmiertelności;
-  - Stanley Hutchins: rosnący szacunek intelektualny; rozmowa na tarasie staje się pierwszą szczerą wymianą o moralnym i naukowym ryzyku projektu;
-  - Randyll Witchins: Jelena widzi go jako człowieka zdolnego ubrać ryzykowne przedsięwzięcie w atrakcyjny język misji.
+  - Christopher Boyle: autorytet i właściciel infrastruktury; jego choroba staje się coraz bardziej znaczącym kontekstem;
+  - Randyll Witchins: polityczny operator zdolny nadać ryzykownym działaniom język misji.
 
 ## Roman Bagrowski
-- Bez zmian RPG; na tym punkcie chronologii nie uczestniczy w scenie.
+- Nie uczestniczy jeszcze osobiście w bieżącej chronologii.
+- W scenie 008 Stanley wskazuje go jako potencjalnego człowieka zdolnego przejąć organizację techniczną projektu. Ludzie projektu mają spróbować go odnaleźć.
 
-## Ważni NPC
-- Christopher Boyle — gospodarz, technologiczny magnat, fizycznie osłabiony chorobą.
-- Jonathan Paxton — człowiek bezpieczeństwa i nacisku.
-- Randyll Witchins — polityczny operator i autor oficjalnego mitu Projektu Matuzalem.
-- Daniel Mercer — asystent Boyle’a.
-- Rodrigo Alvarez i Helga Weiss — specjaliści systemów i danych.
+## Ważni NPC w scenie 008
+- Christopher Boyle — gospodarz, technologiczny magnat, obserwuje naradę z pozycji faktycznego właściciela zasobów.
+- Randyll Witchins — senator, pomaga formalizować zobowiązania i kontrakty.
+- Jonathan Paxton — nadzór bezpieczeństwa i operacyjna kontrola.
+- generał Stathon — wojskowy komponent osłony projektu.
+- Hewlett — jeden ze sponsorów / biznesowych organizatorów przedsięwzięcia; prowadzi zamkniętą naradę zgodnie z bazową sceną.
+- Luke Dawson — specjalista związany z energetyką / planowanym reaktorem.
 
-## Bieżąca sytuacja sceny 007
-- Po kolacji Jelena i Stanley wyszli na taras nad jeziorem.
-- Jelena zarzuciła Stanleyowi, że Witchins „sprzedał” jego pracę jako część większego mitu.
-- Stanley przyznał, że mu to przeszkadza, ale nie uważa całej narracji za fałszywą.
-- Stanley pamięta singapurskie pytanie Jeleny o granicę między zapisem pamięci a osobą.
-- Jelena wskazała ryzyko, że odtworzenie zapisu może stworzyć jedynie przekonującą kopię martwego człowieka.
-- Stanley odpowiedział, że to ryzyko przeszkadza mu każdego dnia, ale mimo to idzie dalej, bo uważa, że zaniechanie może tylko oddać badania komuś mniej ostrożnemu.
-- Następny wybór Jeleny dotyczy tego, jak zareaguje na tę racjonalizację i jak głęboko wejdzie w osobiste motywacje Stanleya.
+## Bieżąca sytuacja sceny 008
+- Po rozmowie na tarasie Jelena i Stanley zostali wezwani do zamkniętej biblioteki / gabinetu.
+- Hewlett przedstawia uczestnikom warunki bezpieczeństwa i organizacji projektu:
+  - oficjalne życiorysy uczestników mają zostać zmienione tak, by ich rzeczywista działalność w czasie projektu była ukryta;
+  - przedsięwzięcie jest objęte tajemnicą wojskową;
+  - każdy uczestnik ma zostać wyposażony w trudny do usunięcia implant lokalizacyjny umieszczony wewnątrz ciała;
+  - ujawnienie informacji osobom trzecim ma skutkować skrajnie surową odpowiedzialnością, włącznie z karą śmierci według przedstawionych warunków kontraktu;
+  - w zamian uczestnicy otrzymują bardzo wysokie wynagrodzenie oraz zabezpieczenie finansowe po projekcie;
+  - prace mają odbywać się na Skyropuli, w odizolowanym podziemnym kompleksie z własnym źródłem energii.
+- Stanley przyznaje, że nie uważa się za właściwego człowieka do pełnej organizacji technicznej i wskazuje Romana Bagrowskiego jako osobę, która wcześniej wydatnie pomagała mu w pracy i mogłaby poprowadzić ten obszar.
+- Jelena zwraca uwagę na konieczność zapewnienia wysokiej klasy lekarzy.
+- Na końcu Witchins wykłada krótkie kontrakty do podpisu. Jelena ma przed sobą dokument obejmujący warunki tajności, kontroli i sankcji.
 
 ## Aktywne wątki
-- Rosyjskie zainteresowanie Jeleną.
-- Relacja Jelena–Stanley i ich spór o tożsamość, pamięć i granice moralne projektu.
-- Choroba Boyle’a i prawdziwy osobisty cel Projektu Matuzalem.
-- Polityczne przejęcie języka nauki przez Witchinsa.
+- Decyzja Jeleny, czy podpisać kontrakt na przedstawionych warunkach.
+- Rosyjskie zainteresowanie i przyszły monitoring ze strony Paxtona.
+- Rekrutacja Romana Bagrowskiego.
+- Relacja Jelena–Stanley po rozmowie o tożsamości i moralności.
+- Choroba Boyle’a i jego faktyczny osobisty cel.
 
 ## Rozbieżności względem powieści
 - Aktywna rozbieżność ze sceny 002 pozostaje: Stanley nie uczestniczył w imprezie na Skyros i nie skompromitował się przy basenie.
-- Sceny 003–006 nie tworzą nowych istotnych rozbieżności względem głównego biegu kanonu.
+- Sceny 003–007 nie tworzą nowej istotnej rozbieżności względem głównego biegu kanonu.
 
 ## Oczekujące konsekwencje
-- Paxton może dyskretnie monitorować Jelenę ze względu na jawne rosyjskie zainteresowanie.
-- Sposób, w jaki Jelena zareaguje na moralną racjonalizację Stanleya, może wpłynąć na poziom zaufania i charakter ich relacji.
+- Podpisanie lub odmowa podpisania kontraktu może zasadniczo zmienić pozycję Jeleny w projekcie.
+- Ujawnienie przez Stanleya nazwiska Romana uruchamia wątek jego rekrutacji.
+- Brak jasno określonej granicy moralnej Stanleya może mieć konsekwencje przy późniejszej presji na eksperymenty na ludziach.
