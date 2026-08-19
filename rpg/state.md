@@ -1,86 +1,64 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: scena RPG 002 zakończona i zapisana.
+- Status: scena RPG 002 zakończona i zapisana; scena 003 rozpoczęta i trwa.
 - Ostatnia sfinalizowana scena: `rpg/scenes/002-stanley-przybycie-na-skyros.md`.
-- Następny bazowy punkt kanonu: `novel/plan.md` — scena 3, **Oględziny Skyropuli**.
+- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 3, **Oględziny Skyropuli**.
 - Perspektywa: Stanley Hutchins.
-- Miejsce startowe kolejnej sceny: Skyros / przeprawa na Skyropulę.
-- Pora: następny poranek po przylocie.
+- Miejsce: Skyropula, stare centrum meteorologiczne, okolice windy prowadzącej do części podziemnej.
+- Pora: poranek następnego dnia po przylocie.
 
 ## Stanley Hutchins
-- Zdrowie: bez obrażeń; po przylocie odpoczął, uniknął alkoholu i nocnej imprezy, dzięki czemu jest wyraźnie bardziej wypoczęty niż w wariancie bazowym.
+- Zdrowie: bez obrażeń; wypoczęty po spokojnej nocy, bez kaca i skutków alkoholu.
 - Pozycja: młody profesor ze Stanforda; autor nieopublikowanego manuskryptu dotyczącego transferu świadomości; członek tajnego projektu.
 - Wiedza:
-  - wie, że Christopher Boyle przeczytał jego manuskrypt i stoi za przedsięwzięciem;
-  - zna Skyropulę jako miejsce badań;
-  - widział z powietrza rozkopaną centralną część wyspy i budowaną infrastrukturę;
-  - od Henry’ego Marshalla dowiedział się, że Skyropula ma około 500 hektarów i leży około 5 km drogą morską od Skyros;
-  - wie, że miejscowi wcześniej korzystali z wyspy sezonowo, a rząd grecki „uregulował” ich usunięcie;
-  - wie, że podziemna infrastruktura okazała się za mała, a dodatkowe wykopy doprowadziły do problemów z osiadaniem centralnej części wyspy;
-  - wie, że zwykła linia energetyczna nie wystarczy do potrzeb projektu;
-  - wie, że właściwe prace mają ruszyć po ukończeniu infrastruktury, a harmonogram jest agresywny;
-  - wie, że projekt nie ma wiarygodnie określonej daty końcowej i może potrwać wiele lat, jeśli będzie przynosił wyniki;
-  - wie, że naruszenie poufności może skutkować natychmiastowymi sankcjami poza zwykłym postępowaniem sądowym.
+  - wszystkie informacje z poprzednich scen pozostają aktualne;
+  - po raz pierwszy dotarł fizycznie na Skyropulę;
+  - zobaczył, że wyspa jest silnie monitorowana i chroniona; monitoring obejmuje także wybrane miejsca na Skyros, w tym wejście do hotelu Nefeli;
+  - dowiedział się od Marshalla, że ruch lotniczy i morski wokół wyspy jest nieoficjalnie kontrolowany przy udziale wojska;
+  - zobaczył stare centrum meteorologiczne przekształcane w zaplecze ochrony, laboratoriów, łączności i nadzoru;
+  - zauważył personel firmy Animus Christophera Boyle’a przy windzie prowadzącej do części podziemnej;
+  - wie, że Animus buduje na wyspie własne centrum danych, którego wymagania energetyczne są bardzo duże;
+  - widział skrzynie oznaczone `CRYOGENIC HANDLING` i `NEURAL ARRAY COMPONENTS`;
+  - Henry Marshall twierdzi, że podziemia są jeszcze w stanie roboczym i odradza schodzenie tam podczas obecnych oględzin.
 - Relacje:
-  - Randyll Witchins: patron, rekruter i polityczny zwierzchnik; Stanley rozpoznaje jego manipulacje, ale przyjął ofertę.
-  - Christopher Boyle: autorytet naukowy i jeden z głównych sponsorów; Stanley oczekuje bliższego kontaktu.
-  - Henry Marshall: świeżo poznany członek projektu i niepewny przewodnik; sprawia wrażenie pomocnego, nerwowego i ostrożnego w słowach.
-  - Tala: pracownica hotelu Nefeli; relacja neutralna, ograniczona do zakwaterowania. Nie doszło do incydentu z pierwszego wieczoru znanego z powieści.
-- Majątek / zobowiązania:
-  - 500 000 USD zaliczki;
-  - ustalone wynagrodzenie: 6 mln USD rocznie, dopóki prace postępują zgodnie z oczekiwaniami;
-  - pełne zobowiązanie do poufności;
-  - projekt zapewnia laboratorium, sprzęt, ochronę, transport, zakwaterowanie i personel techniczny;
-  - nie ma prawa do swobodnej publikacji wyników.
-- Zakwaterowanie: hotel Nefeli na Skyros, pokój L113.
-- Plan przygotowany wieczorem:
-  - obejrzeć faktyczny stan ośrodka;
-  - ustalić główne ograniczenia infrastrukturalne;
-  - sprawdzić problem zasilania;
-  - oddzielić rzeczywiste problemy techniczne od uspokajających komunikatów sponsorów.
+  - Henry Marshall: pomocny, nerwowy i wyraźnie nie zna wszystkich informacji albo nie chce ich przekazywać; Stanley coraz mocniej zauważa jego uniki.
+  - Christopher Boyle: jego faktyczna infrastruktura technologiczna na wyspie okazuje się większa, niż Stanley zakładał.
+  - Tala: relacja neutralna; brak incydentu z poprzedniej nocy.
+- Majątek / zobowiązania: bez zmian.
+- Zakwaterowanie: hotel Nefeli, pokój L113.
+- Nastawienie: Stanley realizuje przygotowany poprzedniego wieczoru plan i aktywnie szuka konkretnych danych zamiast biernie przyjmować oficjalne zapewnienia.
 
 ## Roman Bagrowski
-- Zdrowie: bez zmian względem stanu początkowego kanonu.
-- Pozycja: przyszły kierownik projektu na Skyropuli; Stanley go jeszcze nie zna.
-- Wiedza gracza nie jest wiedzą Stanleya.
-- Stan wiedzy Romana: brak zdarzeń RPG.
-- Relacje / zobowiązania / majątek: brak zmian RPG.
+- Bez zmian RPG; Stanley go jeszcze nie zna.
 
 ## Jelena Ivanova
-- Zdrowie: bez zmian względem stanu początkowego kanonu.
-- Pozycja: neurolog związana z projektem; Stanley jej jeszcze nie zna.
-- Wiedza gracza nie jest wiedzą Stanleya.
-- Stan wiedzy Jeleny: brak zdarzeń RPG.
-- Relacje / zobowiązania / majątek: brak zmian RPG.
+- Bez zmian RPG; Stanley jej jeszcze nie zna.
 
 ## Ważni NPC
-- Randyll Witchins — senator, polityczny operator i jeden ze zwierzchników przedsięwzięcia.
-- Christopher Boyle — naukowiec i magnat technologiczny, jeden z głównych ludzi stojących za projektem.
-- Henry Marshall — członek projektu i pierwszy przewodnik Stanleya po Skyros/Skyropuli.
-- Tala — pracownica hotelu Nefeli; kontakt ze Stanleyem pozostaje neutralny.
+- Henry Marshall — obecny przy oględzinach Skyropuli.
+- Christopher Boyle — nieobecny fizycznie, ale jego firma Animus ma na wyspie własny personel i infrastrukturę.
 
 ## Aktywne wątki
-- Pierwsze oględziny Skyropuli i rzeczywistego stanu ośrodka.
-- Budowa i problemy infrastrukturalne na wyspie.
-- Prawdziwy zakres projektu nadal nie jest Stanleyowi w pełni znany.
-- Rola infrastruktury Boyle’a i skala wymaganej mocy obliczeniowej pozostają do odkrycia.
+- Pierwsze oględziny Skyropuli.
+- Ukryty zakres infrastruktury Animusa i centrum danych.
+- Podziemna część ośrodka, do której Marshall obecnie odradza wejście.
+- Pytanie, dlaczego przedsięwzięcie wymaga tak dużej mocy obliczeniowej i infrastruktury kriogenicznej / neuronowej.
+- Problem zasilania; dalsza część oględzin ma ujawnić plan własnej elektrowni.
 
 ## Nierozwiązane problemy
-- Jak wygląda faktyczny stan podziemnego ośrodka?
-- Jak zostanie rozwiązany problem zasilania i budowy?
-- Kim są pozostali członkowie zespołu i sponsorzy?
-- Dlaczego projekt wymaga infrastruktury wykraczającej poza typowe laboratorium badawcze?
+- Czy Stanley zaakceptuje zalecenie Marshalla i ominie podziemia podczas pierwszych oględzin, czy zażąda natychmiastowego dostępu?
+- Co dokładnie znajduje się w podziemiach?
+- Jaka jest rzeczywista skala centrum danych Animusa?
+- Jaką rolę w projekcie ma infrastruktura Boyle’a niezależna od prac Stanleya?
 
-## Ważne przedmioty
-- Teczka Stanleya z kopią manuskryptu.
-- Czek / zaliczka 500 000 USD związana z przystąpieniem do projektu.
-- Klucz do pokoju L113 w hotelu Nefeli.
-- Notatki Stanleya z planem pierwszych oględzin ośrodka.
+## Ważne przedmioty / obserwacje
+- Teczka z manuskryptem i notatki Stanleya.
+- Skrzynie z oznaczeniami `CRYOGENIC HANDLING` oraz `NEURAL ARRAY COMPONENTS` widziane przy podziemiach.
 
 ## Rozbieżności względem powieści
-- Scena 002: Stanley nie zszedł na hotelową imprezę, nie upił się, nie zachował się niezręcznie wobec Tali i nie wpadł do basenu. Szczegóły zapisano w `rpg/divergences.md`.
+- Aktywna rozbieżność ze sceny 002 pozostaje: Stanley nie uczestniczył w imprezie i nie skompromitował się przy basenie.
+- W scenie 003 skutkuje to brakiem kaca, wstydu i osobistej reakcji na hotelowy monitoring; Stanley interpretuje monitoring przede wszystkim jako element systemu kontroli projektu.
 
 ## Oczekujące konsekwencje
-- Stanley rozpocznie oględziny Skyropuli wypoczęty i bardziej skupiony.
-- Nie istnieje kompromitujące nagranie z pierwszej nocy, które mogłoby wpłynąć na jego reputację albo zostać później użyte przeciwko niemu.
+- Decyzja Stanleya dotycząca podziemi może wpłynąć na tempo zdobywania informacji, stosunek Marshalla i ochrony oraz zakres wiedzy Stanleya o infrastrukturze Boyle’a.
