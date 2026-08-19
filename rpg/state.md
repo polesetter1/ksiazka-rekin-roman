@@ -1,62 +1,64 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–008 zakończone i zapisane; kolejny bazowy punkt kanonu: scena 009.
+- Status: sceny RPG 001–008 zakończone i zapisane; scena 009 rozpoczęta i trwa.
 - Ostatnia sfinalizowana scena: `rpg/scenes/008-jelena-narada-u-boyle-a.md`.
 - Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 9, **Spotkanie konstrukcyjne**.
-- Perspektywa: do ustalenia zgodnie ze sceną bazową i chronologią.
-- Chronologia: po zamkniętej naradzie w posiadłości Boyle’a, przed właściwą fazą budowy / organizacji projektu na Skyropuli.
+- Perspektywa: Roman Bagrowski.
+- Chronologia: właściwa oś wydarzeń wraca na Skyros / Skyropulę po wcześniejszych scenach retrospekcyjnych Jeleny; Roman został odnaleziony i zrekrutowany po wskazaniu go przez Stanleya.
+- Miejsce bieżące: Skyropula, sala konferencyjna w działającym już fragmencie starego ośrodka meteorologicznego.
 
 ## Stanley Hutchins
-- Formalnie związany z projektem i przed wyjazdem do Grecji.
-- Przyznał Jelenie, że nie zna pewnego testu odróżniającego rzeczywistą ciągłość osoby od doskonałej kopii.
-- Nie potrafił wyznaczyć jednej jasnej granicy moralnej, której na pewno nigdy nie przekroczy.
-- Nie ujawnił Jelenie historii ojca, ale zdradził silne osobiste cierpienie związane z ciałem, które może odebrać człowiekowi kontrolę wcześniej niż umysł jest gotów odejść.
-- Na naradzie przyznał, że nie jest właściwym człowiekiem do pełnej organizacji technicznej projektu i wskazał Romana Bagrowskiego.
+- Jest już na Skyros i uczestniczy w organizacji projektu.
+- To on wskazał Romana jako osobę właściwą do organizacji technicznej i logistycznej.
+- W rozmowie konstrukcyjnej przyznaje, że do działania stanowiska transferowego potrzebuje m.in. bardzo dużej infrastruktury obliczeniowej, wysokiej klasy programistów, około 150 000 elektrod, generatora fal, robotów i mocy liczonej w megawatach.
+- Szacuje, że od strony badawczej i laboratoryjnej potrzebuje około pół roku, jeśli infrastruktura będzie dostępna.
 
 ## Jelena Ivanova
-- Zdrowie: bez obrażeń.
-- Formalnie dołączyła do Projektu Matuzalem.
-- Podpisała właściwy kontrakt **z obawą, ale bez negocjacji**.
-- Akceptowane warunki obejmują pełną tajność, oficjalną przykrywkę / alternatywny życiorys, stały monitoring poprzez implant lokalizacyjny oraz skrajne sankcje za ujawnienie projektu.
-- Nie interpretuje podpisu jako pełnej osobistej lojalności wobec Boyle’a, Paxtona ani USA; podpisała, ponieważ ambicja, ciekawość i dostęp do badań przeważyły nad obawami.
-- Paxton wie ogólnie, że Rosja już się nią interesowała, lecz nie zna szczegółów anonimowego telefonu.
-- Po rozmowie ze Stanleyem wie, że jego teoria ma nierozwiązany problem tożsamości i że Stanley jest podatny na moralną racjonalizację.
-- Zasugerowała konieczność zapewnienia wysokiej klasy lekarzy: anestezjologii, chirurgii i intensywnej terapii.
+- Formalnie związana kontraktem z Projektem Matuzalem.
+- Nie uczestniczy w bieżącej scenie Romana i jej prywatna wiedza nie jest dostępna Romanowi.
 
 ## Roman Bagrowski
-- Nie uczestniczył jeszcze osobiście w bieżącej chronologii RPG.
-- Stanley wskazał go jako dawnego doktoranta / współpracownika po fizyce technicznej, sprawnego organizacyjnie i technicznie.
-- Ludzie projektu mają go odnaleźć i spróbować zrekrutować do organizacji technicznej przedsięwzięcia.
+- Został odnaleziony podczas pobytu w Polsce i zrekrutowany po wskazaniu przez Stanleya Hutchinsa.
+- Ma wykształcenie / kompetencje z fizyki technicznej i bioneurologii oraz silne zainteresowanie transhumanizmem.
+- Ma niespełna trzydzieści lat; jest bardzo zdyscyplinowany, kontrolujący, pracowity i wymagający wobec siebie i innych.
+- Przybył na Skyros, zamieszkał w hotelu Nefeli (pokój 108), szybko podporządkował sobie codzienną rutynę pracy i treningu.
+- Podczas pierwszych oględzin budowy Skyropuli stwierdził, że rzeczywisty postęp prac jest wyraźnie gorszy niż przedstawiono mu w dokumentach i podczas wcześniejszej wideokonferencji.
+- Dostrzegł za małą liczbę ciężkich maszyn, problemy gruntowe, niedokończone fundamenty, trudności z budową basenu / zbiornika i ryzyko niewyrobienia się przed zimą.
+- Zareagował ostro na Luke’a Dawsona, ale po chwili złagodził ton i jasno ustalił zasadę stuprocentowej szczerości oraz natychmiastowego raportowania problemów.
+- Roman nie chce oszczędzać dziesiątek tysięcy dolarów kosztem terminów, ponieważ budżet projektu jest praktycznie nieograniczony.
+- W sali konferencyjnej wraz ze Stanleyem i Dawsonem ustalił, że potrzebna moc może sięgać megawatów, co praktycznie wymusza własne źródło energii.
+- Dawson przyznał, że nigdy wcześniej nie budował elektrowni jądrowej.
+- Roman rozumie, że termin oczekiwany przez inwestorów jest skrajnie agresywny, a obecny zespół i sprzęt nie gwarantują jego dotrzymania.
 
 ## Ważni NPC
-- Christopher Boyle — gospodarz i właściciel kluczowej technologii oraz infrastruktury; jego choroba jest coraz bardziej widoczna.
-- Randyll Witchins — polityczny operator projektu.
-- Jonathan Paxton — bezpieczeństwo, nadzór i presja operacyjna.
-- generał Stathon — wojskowy komponent osłony projektu.
-- Hewlett — biznesowy organizator / sponsor, prowadził zamkniętą naradę.
-- Luke Dawson — specjalista energetyczny związany z planowanym reaktorem.
+- Luke Dawson — kierownik / inżynier budowy; kompetentny w części obszarów, ale ostrożny finansowo i bez doświadczenia w budowie elektrowni jądrowej. Roman właśnie ustalił z nim zasady współpracy oparte na pełnej szczerości.
+- Steven Kirgamosz — inżynier uczestniczący w pierwszym objeździe budowy.
+- Mark Shore — sternik / człowiek transportu między Skyros i Skyropulą.
+- Jonathan Paxton / sponsorzy — oczekują bardzo szybkiego postępu i zapewniają praktycznie nieograniczony budżet oraz kontakty.
 
-## Stan projektu po scenie 008
-- Projekt Matuzalem jest formalnie zainaugurowany.
-- Kluczowi uczestnicy są wiązani kontraktami i systemem bezpieczeństwa.
-- Skyropula jest miejscem operacji; infrastruktura ma być w dużej mierze podziemna i odizolowana elektromagnetycznie.
-- Planowane jest własne źródło energii / reaktor.
-- Potrzebne są dalsze osoby do organizacji technicznej oraz zaplecza medycznego.
-- Rekrutacja Romana Bagrowskiego staje się jednym z najbliższych zadań.
+## Bieżąca sytuacja sceny 009
+- Roman ma za sobą pierwszy dzień na Skyros i pierwsze oględziny Skyropuli.
+- Odkrył rozjazd między raportowanym a rzeczywistym stanem budowy.
+- Wymusił na Dawsonie otwarte raportowanie problemów i dał mu jeszcze szansę.
+- Stanley podał wymagania dla przyszłego stanowiska transferowego oraz orientacyjny horyzont około pół roku.
+- Zasilanie może wymagać mocy liczonej w megawatach.
+- Roman doszedł do wniosku, że własna elektrownia / reaktor jest konieczna.
+- Dawson przyznał, że nigdy wcześniej nie budował elektrowni jądrowej.
+- Roman stoi przed pierwszą realną decyzją kierowniczą: jak potraktować brak doświadczenia Dawsona i nierealistyczny harmonogram budowy reaktora oraz centrum.
 
 ## Aktywne wątki
-- Rekrutacja i wejście Romana Bagrowskiego do projektu.
-- Organizacja techniczna oraz budowa centrum na Skyropuli.
-- Rosyjskie zainteresowanie Jeleną i monitoring ze strony Paxtona.
-- Relacja Jelena–Stanley po szczerej rozmowie o tożsamości, moralności i osobistej motywacji.
-- Choroba Boyle’a i jego faktyczny osobisty cel.
+- Organizacja budowy centrum i elektrowni na Skyropuli.
+- Zbudowanie przez Romana zespołu zdolnego dowieźć termin.
+- Relacja Roman–Dawson: wymagający przełożony kontra inżynier obawiający się kosztów i ryzyka.
+- Relacja Roman–Stanley: szacunek i przyjaźń robocza, ale Roman przejmuje ciężar praktycznej realizacji teorii Stanleya.
+- Rosnąca presja terminów i sponsorów.
 
 ## Rozbieżności względem powieści
 - Aktywna rozbieżność ze sceny 002 pozostaje: Stanley nie uczestniczył w imprezie na Skyros i nie skompromitował się przy basenie.
 - Sceny 003–008 nie tworzą nowej istotnej rozbieżności względem głównego biegu kanonu.
+- Scena 009 jak dotąd przebiega zgodnie z głównym kierunkiem bazowym.
 
-## Oczekujące konsekwencje
-- Podpis Jeleny wiąże ją formalnie i operacyjnie z projektem.
-- Brak jasno określonej granicy moralnej Stanleya może mieć znaczenie przy późniejszej presji na eksperymenty na ludziach.
-- Rekrutacja Romana może znacząco zmienić zdolność zespołu do organizacji budowy i eksperymentów.
+## Nierozwiązany punkt decyzyjny
+- Roman musi zdecydować, jak zareagować na fakt, że Dawson nie ma doświadczenia w budowie elektrowni jądrowej, choć termin wymaga natychmiastowego rozpoczęcia prac.
+- Możliwe kierunki obejmują: pozostawienie Dawsona i sprowadzenie obok niego doświadczonego eksperta / kierownika reaktora; odsunięcie Dawsona od części energetycznej; eskalację do Paxtona / sponsorów po natychmiastowe sprowadzenie kompletnego zespołu; próbę przebudowy harmonogramu lub inny plan Romana.
