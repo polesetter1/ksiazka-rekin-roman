@@ -1,61 +1,68 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–010 zakończone i zapisane; scena 011 rozpoczęta i trwa.
-- Ostatnia sfinalizowana scena: `rpg/scenes/010-roman-plac-budowy-elektrowni.md`.
-- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 11, **Życie na wyspie**.
-- Perspektywa: Roman Bagrowski.
-- Chronologia: po pierwszym miesiącu intensywnej budowy; pierwszy etap zbliża się do domknięcia.
-- Miejsce bieżące: Skyropula / Skyros.
+- Status: sceny RPG 001–013 zakończone i zapisane; scena 014 rozpoczęta i trwa.
+- Ostatnia sfinalizowana scena: `rpg/scenes/013-roman-pierwsze-uruchomienie-elektrowni.md`.
+- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 14, **Opracowywanie warunków eksperymentu**.
+- Perspektywa: Roman Bagrowski w bieżącym punkcie decyzyjnym, przy zachowaniu odrębnej wiedzy Jeleny i Stanleya.
+- Chronologia: początek wiosny po zimie intensywnej budowy; reaktor Skyropuli przeszedł pierwszy udany rozruch i wygaszenie.
+- Miejsce bieżące: Skyropula, gabinet Stanleya / pomieszczenia projektowe centrum transferowego.
 
 ## Stanley Hutchins
-- Prowadzi stronę naukową Projektu Matuzalem i stale doprecyzowuje wymagania techniczne stanowiska transferowego.
-- Potrzebuje dużej mocy obliczeniowej, wysokiej klasy programistów, aparatury neurologicznej i mocy liczonej w megawatach.
-- Jego zmiany koncepcyjne wpływają bezpośrednio na zakres budowy podziemnego centrum.
-- Roman traktuje Stanleya jako naukowy autorytet, ale coraz wyraźniej widzi, że praktyczne skutki jego pomysłów spadają na organizację techniczną.
+- Prowadzi stronę naukową Projektu Matuzalem.
+- Wraz z Jeleną uzyskał powtarzalny odczyt szczątkowych informacji z wybranych obszarów mózgu psa, ale nadal rozwija kontrolowany zapis i pełny transfer.
+- Rozwija koncepcję wykorzystania słonej wody jako medium dla tzw. inteligentnej informacji, co może ograniczyć liczbę elektrod i uprościć kierowanie zapisu do właściwych regionów mózgu.
+- Nadal reaguje źle na presję Paxtona, zwłaszcza na żądania szybkiej próby na ludziach.
+- Wcześniej przyznał Jelenie, że nie zna pewnego testu odróżniającego ciągłość osoby od doskonałej kopii i nie potrafi jasno wyznaczyć nieprzekraczalnej granicy moralnej; Roman tej rozmowy nie zna.
 
 ## Jelena Ivanova
 - Formalnie związana kontraktem z Projektem Matuzalem.
-- Nie uczestniczy w bieżącej scenie Romana; jej prywatna wiedza i wątek rosyjski pozostają oddzielone od wiedzy Romana.
+- Pracuje ze Stanleyem nad odczytem i zapisem informacji neurologicznej.
+- W rozmowie z Paxtonem wyjaśnia mechanikę projektu: odczyt danych, możliwe wymazanie danych z ośrodka źródłowego oraz zapis w ośrodku docelowym.
+- Deeskaluje konflikt Stanley–Paxton i deklaruje, że pierwsza próba na zwierzętach jest planowana w ciągu około dwóch tygodni.
+- W bieżącej naradzie technicznej jest sceptyczna wobec pomysłu Romana, aby etap wymazywania realizować już w zbiorniku ze słoną wodą, ponieważ sól i woda mogą zakłócać eraser.
 
 ## Roman Bagrowski
-- Faktycznie organizuje techniczną i logistyczną stronę budowy Skyropuli.
-- Po ujawnieniu braku doświadczenia Luke’a Dawsona przy elektrowniach jądrowych pozostawił go w projekcie, traktując sytuację jako szansę rozwojową, ale zażądał doświadczonego wsparcia.
-- Wspólnie ze Stanleyem zadzwonił do Paxtona; do projektu dołączył Michael Moore oraz dodatkowi ludzie z praktyką energetyki jądrowej.
-- Roman rozdzielił odpowiedzialność: Dawson prowadzi szeroką infrastrukturę, Moore część jądrową i bezpieczeństwo reaktora.
-- Budowa wyraźnie przyspieszyła; Roman coraz realniej wierzy w zamknięcie kluczowych prac przed zimą.
-- Duży zbiornik / basen ma zostać prefabrykowany i dostarczony drogą morską.
-- Podziemne pomieszczenia — skanownia, eraser, drukownia i transferownia — są rozwijane; dodatkowe tunele i dostęp do słonej wody komplikują projekt.
-- Roman wymaga podpisanych opinii geologicznych i nie akceptuje nieformalnych zapewnień przy sprawach bezpieczeństwa.
-- Zespół jest wyraźnie przemęczony. Moore ostrzegł, że dalsze zmęczenie może generować błędy.
-- Roman **nie dał wolnego od razu**. Ustalił zasadę: najpierw bezpieczne domknięcie pierwszego etapu, potem nagroda w postaci dnia wolnego, najlepiej w niedzielę, przy pozostawieniu niezbędnych dyżurów.
+- Faktycznie organizuje techniczną i logistyczną stronę Projektu Matuzalem na Skyropuli.
+- Po domknięciu pierwszego etapu budowy dotrzymał obietnicy i zorganizował zespołowi niedzielny dzień wolny / integrację w Nefeli na własny koszt.
+- Podczas imprezy Moore zapytał, czy Roman jest z kimś. Roman odpowiedział tylko: **„Nie.”** Nie ujawnił historii Oliwii.
+- Pytanie uruchomiło silne wspomnienia po Oliwii, wypadku i pierścionku zaręczynowym, którego nigdy nie zdążył jej dać. Roman opuścił imprezę, by ukryć emocje.
+- Następnego dnia mimo kaca wrócił do treningu i pracy. Rygor nadal pełni u niego funkcję ochrony przed żałobą.
+- Coraz głębiej angażuje się w naukową stronę projektu Stanleya, nie tylko w budowę. Pomaga rozwiązywać problemy z mocą obliczeniową, infrastrukturą i koncepcją stanowisk.
+- Zgodził się organizować pozyskanie materiału biologicznego / mózgów dawców do badań przez szpitale, kostnice i uniwersytety.
+- Przez późną jesień i zimę prowadził budowę wraz z Dawsonem i Moore’em. Blok elektrowni został zamknięty do końca listopada, a wiosną reaktor był gotowy do pierwszego uruchomienia.
+- Pierwszy rozruch reaktora zakończył się sukcesem: reakcję ustabilizowano przy ok. 3 MW, a następnie skutecznie wygaszono po pełnym zanurzeniu prętów sterujących. Przy wygaszaniu moc spadała wolniej niż zakładano, co wywołało krótki moment realnego niepokoju, ale procedura zakończyła się zerową mocą.
+- Roman ufa doświadczeniu Moore’a, ale nadal traktuje bezpieczeństwo proceduralne bardzo poważnie.
 
 ## Ważni NPC
-- Luke Dawson — pozostaje kierownikiem szerokiej części infrastruktury; rozwija kompetencje pod okiem Moore’a.
-- Michael Moore — doświadczony praktyk energetyki jądrowej, ważny dla bezpieczeństwa i rozruchu reaktora; otwarcie zwraca Romanowi uwagę na ryzyko przemęczenia zespołu.
-- Jonathan Paxton — zapewnił wzmocnienie kadry po eskalacji Romana; nadal oczekuje tempa i skuteczności.
-- Mark Shore — transport między Skyros a Skyropulą.
+- Luke Dawson — kieruje szeroką częścią infrastruktury, rozwija się pod okiem Moore’a i utrzymał pozycję po początkowym kryzysie kompetencyjnym.
+- Michael Moore — główny praktyk części jądrowej, współodpowiedzialny za udany pierwszy rozruch i wygaszenie reaktora.
+- Jonathan Paxton — naciska na szybki wynik, żąda jasnego planu i terminu pierwszej zamiany. Po ostatniej rozmowie wie, że zespół planuje pierwszą próbę na zwierzętach w ciągu około dwóch tygodni.
+- Christopher Boyle / Hewlett — sponsorzy pozostają zainteresowani tempem i demonstracją działającego transferu.
 
-## Bieżąca sytuacja sceny 011
-- Pierwszy etap budowy jest bliski ukończenia, ale zespół pracuje pod dużą presją.
-- Roman obiecał ludziom realny odpoczynek dopiero po osiągnięciu ustalonego kamienia milowego.
-- Kiedy pierwszy etap zostanie bezpiecznie domknięty, najbliższa odpowiednia niedziela ma zostać przeznaczona na wolne / integrację na Skyros, z pozostawieniem tylko koniecznych dyżurów.
-- W bazowym kierunku sceny 011 taki odpoczynek staje się okazją do pokazania codziennego życia zespołu, relacji Roman–Dawson–Moore i prywatnej rany Romana związanej z Oliwią.
+## Bieżąca sytuacja sceny 014
+- Po uruchomieniu reaktora presja przesunęła się z budowy na sam eksperyment.
+- Paxton odwiedził gabinet Stanleya i ostro naciskał na konkretny termin. Stanley był poirytowany; Jelena i Roman tłumaczyli postęp.
+- Zespół potrafi już wykonywać powtarzalny częściowy odczyt z mózgu psa. Problemem pozostaje kontrolowany pełny zapis / transfer.
+- Paxton usłyszał deklarację, że pierwsza próba na zwierzętach ma nastąpić w ciągu ok. dwóch tygodni.
+- Po jego wyjściu Stanley, Jelena i Roman przeszli do właściwej narady projektowej.
+- Roman zaproponował, by **wymazywanie danych z mózgu źródłowego odbywało się już w zbiorniku ze słoną wodą**, zamiast przewozić ciało między oddzielnym eraserem a stanowiskiem zapisu. Argument: mniej transportu, mniejsze ryzyko przerwania podtrzymania życia, prostsza sekwencja procesu.
+- Jelena wskazuje na ryzyko zakłóceń działania erasera przez wodę i sól. Stanley widzi zalety obu podejść.
 
 ## Aktywne wątki
-- Domknięcie pierwszego etapu budowy i wpływ przemęczenia na zespół.
-- Pierwszy realny odpoczynek / integracja zespołu po osiągnięciu wyniku.
-- Relacja Roman–Dawson–Moore.
-- Coraz głębsze zaangażowanie Romana w naukową stronę projektu Stanleya.
+- Pierwsza próba transferu na zwierzętach.
+- Wybór architektury procesu: oddzielny eraser i transport ciała versus integracja wymazywania w zbiorniku ze słoną wodą.
+- Presja Paxtona na szybkie wyniki i późniejszą próbę na ludziach.
+- Coraz głębsze wejście Romana w merytoryczną stronę eksperymentu.
 - Nieprzepracowana żałoba Romana po Oliwii.
-- Presja terminów sponsorów i Paxtona.
+- Relacja Roman–Stanley–Jelena jako trójki coraz mocniej współtworzącej procedurę.
 
 ## Rozbieżności względem powieści
 - Aktywna rozbieżność ze sceny 002 pozostaje: Stanley nie uczestniczył w imprezie na Skyros i nie skompromitował się przy basenie.
-- Sceny 003–009 nie tworzą nowej istotnej rozbieżności względem głównego biegu kanonu.
-- W scenie 010 Roman odkłada odpoczynek zespołu do momentu faktycznego domknięcia pierwszego etapu. Jest to niewielkie przesunięcie akcentu wobec bazowej sceny, nie zmieniające głównego kierunku fabuły.
+- Decyzja Romana, by przesunąć odpoczynek do zakończenia pierwszego etapu, była niewielkim przesunięciem akcentu, ale po osiągnięciu kamienia milowego integracja odbyła się zgodnie z bazowym kierunkiem sceny 011.
+- Odpowiedź Romana „Nie” na pytanie o związek jest zgodna z bazowym kierunkiem i nie ujawnia NPC-om historii Oliwii.
+- Sceny 012–013 przebiegły bez znaczącej rozbieżności od głównego kanonu.
 
-## Oczekujące konsekwencje
-- Odkładanie odpoczynku utrzymuje wysokie tempo, ale zwiększa krótkoterminowe ryzyko błędów wynikających ze zmęczenia.
-- Jeśli pierwszy etap zostanie domknięty, niedzielny dzień wolny ma pełnić funkcję zarówno nagrody, jak i odbudowy morale.
-- Relacja Romana z zespołem będzie zależeć od tego, czy ludzie uznają jego zasadę „najpierw wynik, potem nagroda” za uczciwą czy nadmiernie twardą.
+## Nierozwiązany punkt decyzyjny
+- Roman musi zdecydować, jak mocno forsować integrację erasera ze zbiornikiem ze słoną wodą.
+- Może naciskać na zintegrowany proces i zlecić testy zakłóceń, poprzeć bardziej konserwatywne pozostawienie osobnego erasera, zaproponować równoległe przygotowanie obu wariantów albo zaproponować inny układ procesu.
