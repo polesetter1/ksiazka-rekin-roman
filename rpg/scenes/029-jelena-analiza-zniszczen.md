@@ -10,8 +10,8 @@ Opisał poczucie oddzielenia od własnego ciała i rozmycia w przestrzeni. Twier
 
 Następnie jego wspomnienie miało się gwałtownie zmienić. Opisał ciemność przypominającą kurtynę i obecność czegoś po drugiej stronie. Nie potrafił tego opisać w języku technicznym i nazwał widziane / odczuwane byty „duchami”. Samo wspomnienie wywołało u niego napad paniki i płaczu.
 
-Jelena próbowała utrzymać rozmowę w ramach neurologii i znanych relacji pacjentów po śmierci klinicznej, ale Henry upierał się, że doświadczenie nie przypominało zwykłego snu. Nie przedstawił dowodu, który mógłby obiektywnie potwierdzić jego interpretację.
+Jelena zakończyła nacisk, gdy stan Henry’ego wyraźnie się pogorszył. Nie przyjęła jego metafizycznej interpretacji. Uznała relację za subiektywne doświadczenie pacjenta po skrajnie nietypowym stanie neurologicznym, które może wynikać z anestetyków, zaburzeń integracji sensorycznej, rekonstrukcji pamięci po ponownym zapisie, reakcji zbliżonej do doświadczeń śmierci klinicznej albo ostrej traumy.
 
-Dla Jeleny pozostaje otwarte pytanie, czy Henry opisuje halucynację / reakcję mózgu na skrajne warunki transferu, czy zjawisko faktycznie związane z samą procedurą. Henry jest obecnie zbyt roztrzęsiony, by bezpiecznie prowadzić agresywne przesłuchanie.
+Jako naukowiec nie dopuściła „duchów” do hipotezy roboczej. W dokumentacji rozdzieliła obserwowalne fakty od interpretacji Henry’ego i postanowiła skonfrontować jego relację z logami czasowymi procedury: momentem wymazania, stanem EEG, telemetrią pola, poborem energii, wstrząsami oraz fazą ponownego zapisu. Nie zamierza przedstawiać sponsorom metafizycznej interpretacji Henry’ego bez jakiegokolwiek obiektywnego dowodu.
 
-Scena kończy się decyzją Jeleny, co zrobić z tą relacją: natychmiast przekazać ją Stanleyowi, zachować jako prywatną obserwację i najpierw skonfrontować z logami, czy nadal naciskać Henry’ego na bardziej szczegółowy opis mimo jego stanu.
+Scena kończy się powrotem Jeleny do pracy: priorytetem pozostają fizyka procesu, neurologia, telemetria, awaria reaktora oraz odzyskanie Romana.
