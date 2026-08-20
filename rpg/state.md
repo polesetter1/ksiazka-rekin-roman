@@ -1,87 +1,81 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–020 zakończone i zapisane; scena 021 rozpoczęta i trwa.
-- Ostatnia sfinalizowana scena: `rpg/scenes/020-roman-przemowienie-senatora.md`.
-- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 21, **Wybór transferowanych**.
+- Status: sceny RPG 001–021 zakończone i zapisane; scena 022 rozpoczęta.
+- Ostatnia sfinalizowana scena: `rpg/scenes/021-roman-wybor-transferowanych.md`.
+- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 22, **Przygotowanie Romana do transferu**.
 - Perspektywa: Roman Bagrowski.
-- Chronologia: bezpośrednio po pierwszym udanym pełnym transferze świadomości między psami i przybyciu Paxtona oraz senatora Witchinsa na Skyropulę.
-- Miejsce bieżące: Skyropula, duża sala konferencyjna po przemówieniu senatora.
+- Chronologia: po udanym transferze psów i po wymuszeniu przez Paxtona/Witchinsa przygotowania pierwszego pełnego transferu między ludźmi.
+- Miejsce bieżące: Skyropula; okres przygotowań przed eksperymentem Roman–Henry Marshall.
 
 ## Stanley Hutchins
-- Prowadzi naukową stronę Projektu Matuzalem i pozostaje głównym „kapitanem” eksperymentu na mostku.
-- Nie został pierwszym człowiekiem poddanym odczytowi; Jelena zatrzymała go na mostku, a ochotnikiem został Phil.
-- Odczyt Phila potwierdził zasadę działania, ale został przerwany z powodów termicznych.
-- Po korektach parametrów Stanley kierował pełnym transferem między psami.
-- Podczas procedury był skrajnie napięty; po zakończeniu transferu zasłabł i uderzył głową o stanowisko, ale nie zmieniło to wyniku eksperymentu.
-- Po sukcesie psów analizuje telemetrię z Jeleną.
-- Jest wściekły na publiczną deklarację Witchinsa, że w tym tygodniu ma dojść do pierwszego transferu między ludźmi; nie uzgadniał takiego terminu.
+- Prowadzi naukową stronę Projektu Matuzalem i pozostaje głównym „kapitanem” eksperymentu.
+- Po sukcesie transferu psów sprzeciwił się publicznie narzuconemu przez Witchinsa terminowi próby ludzkiej.
+- Sarkastycznie rzucił kandydaturę Romana jako argument przeciwko presji sponsorów, ale Roman potraktował pytanie serio.
+- Jest wyraźnie poruszony decyzją Romana i czuje osobistą odpowiedzialność za jego bezpieczeństwo.
+- Wie, że Roman ufa mu na tyle, by oddać mu kontrolę nad własnym mózgiem podczas pierwszej pełnej ludzkiej próby.
 
 ## Jelena Ivanova
 - Odpowiada za medyczną i neurologiczną stronę procedury.
-- Zablokowała użycie Stanleya jako pierwszego ludzkiego obiektu odczytu („kapitan musi być na mostku”).
-- Dopuściła Phila do kontrolowanego odczytu i przerwała próbę przy niebezpiecznym trendzie termicznym.
-- Po korektach parametrów zgodziła się przejść do pełnego transferu między psami zamiast narażać kolejnego człowieka wyłącznie dla dodatkowej walidacji.
-- Podczas transferu Singla i Amber świadomie zatwierdziła nieodwracalny etap kasowania wzorców źródłowych.
-- Krzyżowy zapis zakończył się technicznie prawidłowo.
-- Reakcja bernardyna na Henry’ego po wybudzeniu dostarczyła silnego dowodu behawioralnego, że wzorzec Singla znalazł się w ciele Amber.
-- Jelena nadal nie zna historii Oliwii. Relacja z Romanem pozostaje mieszaniną fascynacji, irytacji i zawodowego szacunku.
+- Zablokowała wcześniej użycie Stanleya do testowego odczytu, dzięki czemu pozostał on na mostku podczas próby Phila.
+- Zatwierdziła nieodwracalny etap kasowania podczas transferu Singla i Amber; eksperyment zakończył się sukcesem.
+- Nadal nie zna historii Oliwii.
+- Jej relacja z Romanem pozostaje mieszaniną fascynacji, irytacji i zawodowego szacunku; wcześniej powiedziała mu w kontekście rodziny: „Jeszcze nie jest za późno”, na co Roman odpowiedział, że nie wszystko od tego zależy.
+- Decyzja Romana o wejściu do pełnego transferu jako ochotnik dotyka jej również osobiście, choć nie ma pełnej wiedzy o jego motywacji.
 
 ## Roman Bagrowski
-- Nadzoruje energetykę, infrastrukturę i bezpieczeństwo techniczne projektu.
-- Po próbie Phila ostro sprzeciwił się dalszemu narażaniu ludzi przy jednoczesnym odsuwaniu planowanych prób na psach; jego argument przyspieszył przejście do etapu zwierzęcego po korektach bezpieczeństwa.
-- Podczas transferu psów nadzorował stronę energetyczną z mostka elektrowni i pilnował stanu akumulatorów oraz poboru mocy.
-- Transfer psów zakończył się sukcesem.
-- Po eksperymencie został wysłany z Michaelem Moore’em na lotnisko po Jonathana Paxtona i senatora Randylla Witchinsa.
-- W rozmowie podczas przejazdu sprzeciwił się sugestii natychmiastowego przejścia do ludzi, wskazując różnicę złożoności między psim i ludzkim mózgiem.
-- Zauważył, że Paxton wygląda coraz gorzej i systematycznie traci na wadze; nie wie dlaczego.
-- Zapytał o nieobecność Gregorego Hewletta; Witchins odpowiedział wymijająco, że sponsor zajmuje się ważnymi sprawami związanymi z projektem.
-- Na polecenie Paxtona zebrał wszystkich pracowników w sali konferencyjnej.
-- Podczas przemówienia Witchins bez wcześniejszego uzgodnienia ogłosił, że pierwszy transfer między ludźmi ma odbyć się **w tym tygodniu**.
+- Nadzorował infrastrukturę, energetykę i przygotowania techniczne Projektu Matuzalem.
+- Po częściowo udanym odczycie Phila przeforsował przejście do planowanych prób na psach zamiast narażania kolejnego człowieka wyłącznie dla dodatkowej walidacji.
+- Transfer Singla i Amber zakończył się sukcesem.
+- Podczas wizyty Paxtona i Witchinsa sprzeciwił się twierdzeniu, że sukces na psach automatycznie oznacza gotowość do próby na ludziach.
+- Po przemówieniu senatora i sporze o wybór uczestników Stanley sarkastycznie zapytał Romana, czy może on powinien wziąć udział w pierwszym pełnym transferze człowiek–człowiek.
+- **Roman potraktował propozycję serio i zgłosił się dobrowolnie.**
+- Główna motywacja wyrażona w kampanii: ufa Stanleyowi i uważa, że jeśli twórcy projektu mają ryzykować ludzkim życiem, ktoś z nich powinien przyjąć to ryzyko na siebie zamiast przerzucać je na przypadkowego człowieka.
+- Decyzja współgra z jego autodestrukcyjnym heroizmem i potrzebą dotrzymywania słowa, ale Roman sam nie nazywa jej w ten sposób.
+- Historia Oliwii, wypadku i pierścionka pozostaje prywatną wiedzą Romana.
+
+## Henry Marshall
+- Silnie emocjonalnie związany z Singlem; ciężko przeżył eksperyment na psach.
+- Po zgłoszeniu Romana wystąpił jako drugi ochotnik do pełnego transferu człowiek–człowiek.
+- Jego ciało i decyzja zdradzają strach, ale mimo tego świadomie chce uczestniczyć jako obiekt badawczy, a nie tylko naukowiec obsługujący procedurę.
 
 ## Phil
-- Jest pierwszym człowiekiem w kampanii RPG poddanym odczytowi żywego mózgu.
-- Próba została przerwana przed pełnym zakończeniem przez wzrost temperatury mózgu.
-- Nie stwierdzono trwałych następstw neurologicznych; jego dane pozwoliły poprawić model cieplny i profil impulsów przed eksperymentem na psach.
-
-## Henry Marshall i Singiel
-- Henry jest silnie emocjonalnie związany z jack russellem Singlem i bardzo ciężko przeżył udział psa w pełnym transferze.
-- Po wybudzeniu bernardyn, do którego zapisano wzorzec Singla, zignorował Marka i gwałtownie zareagował na wołanie Henry’ego, przewracając go i liżąc po twarzy.
-- Reakcja ta stanowi pierwszy silny behawioralny dowód sukcesu transferu.
-
-## Mark Shore i Amber
-- Mark reagował spokojniej niż Henry i ufał procedurze, choć udział Amber również był dla niego osobisty.
-- Wzorzec Amber został krzyżowo zapisany do mózgu Singla; zespół prowadzi dalsze obserwacje i analizę zachowania obu psów.
+- Pierwszy człowiek w kampanii RPG poddany odczytowi żywego mózgu.
+- Próba została przerwana z powodów termicznych i nie wywołała trwałych następstw.
+- Jego dane pozwoliły poprawić model cieplny przed dalszymi testami.
 
 ## Jonathan Paxton i senator Randyll Witchins
-- Przybyli na Skyros / Skyropulę po otrzymaniu nagrań i informacji o sukcesie transferu psów.
-- Paxton od razu naciska na przejście do próby na ludziach.
-- Witchins publicznie ogłosił zespołowi, że pierwszy transfer świadomości między ludźmi ma odbyć się w tym tygodniu.
-- Sponsorzy przedstawiają sukces jako historyczny przełom i argument za przyspieszeniem, a nie za ostrożnością.
+- Po sukcesie psów natychmiast wymusili przejście do pierwszej próby ludzkiej.
+- Witchins publicznie ogłosił termin bez wcześniejszego uzgodnienia z naukowcami.
+- Paxton uznał, że eksperyment ma się odbyć nawet za cenę pierwszej nieudanej próby.
+- Po zgłoszeniu Romana i Henry’ego sponsorzy uznali problem doboru uczestników za rozwiązany.
 
-## Bieżąca sytuacja sceny 021
-- Po przemówieniu zwykli pracownicy opuszczają salę; pozostaje wąska grupa najważniejszych osób projektu.
-- Stanley jest wściekły na Witchinsa i Paxtona za narzucenie terminu ludzkiego eksperymentu.
-- Paxton twierdzi, że doświadczenie musi się odbyć nawet za cenę pierwszej nieudanej próby i że nie ma już czasu na dalsze symulacje.
-- Najważniejszym nierozwiązanym problemem staje się wybór **dwóch ludzi**, których świadomości miałyby zostać zamienione.
-- Roman wcześniej wielokrotnie zastanawiał się, kto pierwszy podejmie takie ryzyko, ale nie podjął jeszcze decyzji w kampanii RPG.
+## Bieżąca sytuacja sceny 022
+- Rozpoczynają się właściwe przygotowania Romana i Henry’ego do pierwszego pełnego transferu świadomości między ludźmi.
+- Stanley próbuje odwieść Romana od udziału, ponieważ uważa go za potrzebnego projektowi i czuje odpowiedzialność za sarkastyczne pytanie, które uruchomiło tę decyzję.
+- Roman nie traktuje swojej zgody jako pustego gestu i nie zamierza łatwo się wycofać.
+- Przed procedurą trzeba przygotować dwa ciała, wykonać pełny odczyt, a następnie przejść do nieodwracalnego etapu erasera i zapisu krzyżowego.
+- Energia ma być wspierana przez pełerenowo-wodorowe akumulatory, ponieważ sam reaktor może nie pokryć szczytowego zapotrzebowania.
 
 ## Aktywne wątki
-- Wybór pierwszych ludzi do pełnego transferu świadomości.
-- Konflikt naukowe bezpieczeństwo vs. polityczna presja sponsorów.
-- Możliwe zgłoszenie się ochotników i ich motywacje.
-- Relacja Roman–Stanley–Jelena pod presją przejścia do prób ludzkich.
+- Pierwszy pełny transfer świadomości między ludźmi: Roman Bagrowski ↔ Henry Marshall.
+- Osobista odpowiedzialność Stanleya za Romana.
+- Strach i motywacja Romana przed nieodwracalnym etapem wymazywania.
+- Henry jako drugi ochotnik mimo silnego lęku.
+- Relacja Jelena–Roman przed eksperymentem.
+- Pytanie o ciągłość osoby po wymazaniu i ponownym zapisie.
 - Nieprzepracowana żałoba Romana po Oliwii i jego skłonność do autodestrukcyjnego heroizmu.
-- Coraz gorszy wygląd Paxtona i niejasna nieobecność Hewletta.
-- Walidacja techniczna procesu po sukcesie na psach.
+- Presja sponsorów i Paxtona.
 
 ## Rozbieżności względem powieści
 - Aktywna rozbieżność ze sceny 002 pozostaje: Stanley nie uczestniczył w imprezie na Skyros i nie skompromitował się przy basenie.
-- W scenie 014 oba warianty erasera były przygotowywane równolegle zamiast natychmiastowego wyboru jednego.
+- W scenie 014 oba warianty erasera były przygotowywane równolegle.
 - W scenie 015 dodatkowy dialog Jeleny i Romana pogłębił ich relację bez ujawnienia historii Oliwii.
-- Istotna rozbieżność sceny 016 pozostaje: pierwszym ludzkim obiektem odczytu był Phil, nie Stanley. Stanley został na mostku.
-- Sceny 017–020 wróciły do głównego kierunku kanonu: transfer psów zakończył się sukcesem, a Paxton i Witchins przybyli, by wymusić szybkie przejście do eksperymentu na ludziach.
+- Istotna rozbieżność sceny 016 pozostaje: pierwszym ludzkim obiektem odczytu był Phil, nie Stanley; Stanley został na mostku.
+- Sceny 017–021 wróciły do głównego kierunku kanonu.
+- Zgłoszenie się Romana i Henry’ego w scenie 021 jest zgodne z bazowym torem powieści, ale w RPG motywacja Romana została doprecyzowana przez gracza: **ufa Stanleyowi** i dlatego traktuje sarkastyczną propozycję serio.
 
-## Nierozwiązany punkt decyzyjny
-- W wąskim gronie po przemówieniu musi paść decyzja, kto weźmie udział w pierwszym pełnym transferze między ludźmi.
-- W bazowym kanonie Stanley, zirytowany naciskiem sponsorów, sarkastycznie kieruje pytanie do Romana. Odpowiedź Romana w kampanii RPG nie jest jeszcze ustalona i należy do gracza.
+## Oczekujące konsekwencje
+- Stanley będzie próbował odwieść Romana od udziału i może obwiniać się za jego decyzję.
+- Jelena może reagować silniej emocjonalnie na ryzyko Romana.
+- Roman przed eraserem będzie musiał skonfrontować się nie tylko z ryzykiem śmierci, ale także z pytaniem, czy zapisany w ciele Henry’ego człowiek nadal będzie nim samym.
