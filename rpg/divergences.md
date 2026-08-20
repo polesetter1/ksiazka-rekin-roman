@@ -17,6 +17,6 @@
 ## 025 — Rekin zostaje oznaczony nadajnikiem
 - **Miejsce w chronologii:** bezpośrednio po nieudanym zapisie Romana do ciała Henry’ego i rozszczelnieniu kopuły.
 - **Wydarzenie kanoniczne:** rekin opuszcza uszkodzony ośrodek bez trwałego oznaczenia, co później wymusza szeroką akcję poszukiwawczą.
-- **Wydarzenie RPG:** Stanley odwołuje nurków, najpierw chroni Henry’ego i energetykę, przywraca wzorzec Henry’ego do jego własnego ciała, a następnie każe zdalnie wszczepić rekinowi nadajnik telemetryczny. Zwierzę opuszcza kopułę przez wyrwę, a zespół zachowuje jego sygnał.
+- **Wydarzenie RPG:** Stanley natychmiast odwołuje nurków i rezygnuje z sedacji rekina. Najpierw zespół zdalnie wszczepia rekinowi nadajnik telemetryczny i wypłasza go z zalanej kopuły przez istniejącą wyrwę. Dopiero po potwierdzeniu, że rekin opuścił ośrodek, Stanley stabilizuje zasilanie na potrzeby kolejnego etapu i przywraca wzorzec Henry’ego do jego własnego mózgu.
 - **Przyczyna rozbieżności:** decyzja gracza.
-- **Konsekwencje:** zespół może śledzić konkretnego rekina, którego Stanley podejrzewa o noszenie wzorca Romana. Hipoteza nadal nie jest potwierdzona. Poszukiwania Romana mogą przez to przebiegać znacznie szybciej i precyzyjniej niż w powieści.
+- **Konsekwencje:** zespół może śledzić konkretnego rekina, którego Stanley podejrzewa o noszenie wzorca Romana. Hipoteza nadal nie jest potwierdzona. Poszukiwania Romana mogą przez to przebiegać znacznie szybciej i precyzyjniej niż w powieści. Jednocześnie Henry nie jest narażony na procedurę zapisu, dopóki rekin pozostaje obok jego ciała w uszkodzonej kopule.
