@@ -1,31 +1,31 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–028 zakończone i zapisane; scena 029 rozpoczyna się.
+- Status: sceny RPG 001–028 zakończone i zapisane; scena 029 trwa.
 - Ostatnia sfinalizowana scena: `rpg/scenes/028-jelena-ewakuacja.md`.
 - Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 29, **Analiza zniszczeń**.
-- Perspektywa: Jelena Ivanova / Stanley Hutchins zgodnie z przebiegiem sceny źródłowej.
-- Miejsce: centrum meteorologiczne / zaplecze Skyropuli po ewakuacji.
+- Perspektywa: Jelena Ivanova.
+- Miejsce: centrum meteorologiczne / zaplecze Skyropuli, następny dzień po katastrofie.
 
 ## Stanley Hutchins
 - Podczas awarii reaktora usłyszał od Moore’a i Dawsona o rosnącym ciśnieniu i problemie z pełnym awaryjnym zrzutem prętów sterujących.
 - Po silnym huku i utracie zasilania stracił równowagę, uderzył głową o framugę i stracił przytomność.
-- Po odzyskaniu świadomości świadomie zboczył do stanowiska telemetrycznego, aby zabezpieczyć ostatnie dane oznaczonego rekina.
-- Zgrał na niezależny nośnik i telefon identyfikator znacznika, ostatnią pozycję, czas i kierunek ruchu rekina tuż przed utratą zasilania stanowiska.
-- Następnie dotarł do ewakuującej się grupy w ciężkim stanie i został przewieziony do centrum meteorologicznego.
-- Pozostaje pod opieką medyczną po urazie głowy.
+- Po odzyskaniu świadomości zabezpieczył ostatnie dane oznaczonego rekina na niezależnym nośniku i telefonie.
+- Dotarł do ewakuującej się grupy w ciężkim stanie i otrzymał pomoc medyczną.
+- Następnego dnia ma zabandażowaną głowę, jest drażliwy, niewyspany i obciążony poczuciem winy za Romana oraz katastrofę.
+- Zwołał spotkanie z Jeleną, Moore’em, Dawsonem i Henrym, by ustalić przyczyny awarii i dalsze działania.
 
 ## Roman Bagrowski
 - Jego wzorzec źródłowy został wymazany z własnego mózgu.
 - System raportował pełny transfer, lecz nie potwierdzono zapisu do mózgu Henry’ego.
 - Stanley podejrzewa, że wzorzec Romana mógł trafić do oznaczonego rekina.
-- Ciało Romana pozostaje biologicznie żywe i zostało bezpiecznie przetransportowane do centrum meteorologicznego na niezależnym podtrzymaniu życia.
-- Ciało jest traktowane jako potencjalny przyszły gospodarz dla odzyskanej świadomości.
+- Ciało Romana pozostaje biologicznie żywe i jest utrzymywane na niezależnym podtrzymaniu życia w centrum meteorologicznym jako potencjalny przyszły gospodarz dla odzyskanej świadomości.
 
 ## Henry Marshall
 - Jego wzorzec został przywrócony do własnego mózgu po oznaczeniu i wypłoszeniu rekina.
 - Zapis zakończył się pełnym potwierdzeniem na mapie mózgu.
-- Henry pozostaje pod obserwacją po procedurze i katastrofie.
+- Fizycznie przeżył procedurę, ale następnego dnia zachowuje się wyraźnie nieswojo: jest milczący, nerwowy, unika kontaktu i sprawia wrażenie silnie straumatyzowanego.
+- Jelena jeszcze nie wie, co pamięta z czasu, gdy jego wzorzec był poza ciałem / zapisany w systemie.
 
 ## Rekin
 - Został oznaczony nadajnikiem telemetrycznym i wypłoszony z kopuły przed przywróceniem Henry’ego.
@@ -34,24 +34,23 @@
 - Nadajnik pozostaje kluczowym tropem w sprawie możliwego losu Romana.
 
 ## Reaktor i zasilanie
-- Podczas końcowej fazy katastrofy poziom medium spadał wskutek parowania, a mechanizm sterowania / awaryjnego zrzutu prętów nie zadziałał w pełni.
-- Ciśnienie wzrosło do poziomu prowadzącego do silnego huku / uszkodzenia części reaktorowej i całkowitego zaniku zasilania centrum.
-- Zespół ewakuował się przez zaciemnione korytarze przy użyciu latarek i telefonów.
-- Pełna diagnoza techniczna i środowiskowa ma zostać ustalona w kolejnej scenie.
+- W czasie katastrofy temperatura i parowanie wzrosły, poziom medium spadł i odsłaniał część prętów, co pogłębiało reakcję.
+- Mechanizm pełnego awaryjnego zrzutu prętów nie zadziałał prawidłowo.
+- Ciśnienie wzrosło do poziomu, który rozerwał / uszkodził kopułę zabezpieczającą części reaktorowej i spowodował utratę zasilania centrum.
+- Do atmosfery wydostała się radioaktywna para; skala skażenia i konsekwencje polityczne nie są jeszcze w pełni znane.
 
 ## Jelena Ivanova
-- Nadzorowała ewakuację ciała Romana do centrum meteorologicznego.
-- Po odnalezieniu Stanleya zauważyła, że liczba ludzi w grupie jest o jedną osobę za duża.
-- Przeprowadziła kontrolę plakietek / kart dostępu i nazwisk.
-- Wykryła jednego mężczyznę bez karty, którego nie było na aktywnej liście personelu ani na dostępnej liście podwykonawców i którego nikt z zespołu nie rozpoznawał.
-- Nieznajomy miał dołączyć do grupy gdzieś podczas ewakuacji przez ciemne korytarze i na moment spojrzał w stronę sali z ciałem Romana.
-- Jelena nie wie, kim był ani skąd się wziął.
+- Następnego dnia uczestniczy w spotkaniu analizującym katastrofę.
+- Widzi, że Stanley jest bardziej agresywny i rozchwiany niż wcześniej.
+- Zwraca uwagę na bardzo nietypowe zachowanie Henry’ego po udanym przywróceniu jego wzorca.
+- Nadal nie zna historii Oliwii.
+- Ma świadomość, że ciało Romana jest utrzymywane przy życiu, a trop rekina istnieje dzięki nadajnikowi.
 
-## Jonathan Paxton
-- Po ujawnieniu nieznajomego natychmiast przejął sprawę jako naruszenie bezpieczeństwa.
-- Wezwał dwóch ochroniarzy i powiedział im o zatrzymanym: „Wiecie co z nim zrobić.”
-- Ochrona zabrała nieznajomego; jego dalszy los nie jest znany Jelenie.
-- Paxton nie wyjaśnił zespołowi, co dokładnie oznaczał jego rozkaz.
+## Jonathan Paxton i nieznajomy
+- Po ujawnieniu nieznajomego bez plakietki Paxton wezwał ochronę i powiedział: „Wiecie co z nim zrobić.”
+- Ochrona zabrała mężczyznę; jego dalszy los nie jest znany Jelenie.
+- Paxton nie wyjaśnił zespołowi, co dokładnie oznaczał rozkaz.
+- Jelena nie wie, czy reakcja Paxtona wynikała wyłącznie z procedur bezpieczeństwa, czy z dodatkowej wiedzy.
 
 ## Rozbieżności względem powieści
 - Scena 002: brak kompromitacji Stanleya przy basenie.
@@ -60,11 +59,11 @@
 - Scena 027: Stanley wykonał niekanoniczny objazd do stanowiska telemetrycznego i zabezpieczył ostatnią znaną pozycję oznaczonego rekina przed utratą zasilania.
 - Scena 028: Jelena wykryła nadmiarową osobę przez formalną kontrolę kart dostępu; Paxton przejął nieznajomego przez ochronę. Jego dalszy los pozostaje nieznany.
 
-## Aktywne wątki
-- Stan Stanleya po urazie głowy.
-- Stan Henry’ego po przywróceniu wzorca.
-- Utrzymanie przy życiu ciała Romana.
-- Śledzenie oznaczonego rekina i weryfikacja hipotezy o Romanie.
-- Pełna analiza awarii reaktora i szkód w Skyropuli.
-- Tożsamość i los nieznajomego wyprowadzonego przez ludzi Paxtona.
-- Niepokojące zjawiska w zaciemnionych korytarzach, których postacie nie rozumieją.
+## Bieżąca sytuacja sceny 029
+- Zespół odbył pierwszą analizę techniczną: awaria reaktora wynikała z przegrzania, parowania, spadku poziomu medium i niesprawnego awaryjnego zrzutu prętów; doszło do uwolnienia radioaktywnej pary.
+- Stanley planuje rozmowę z wyższymi sponsorami zamiast polegać na Paxtonie.
+- Po spotkaniu zarządził około pół godziny przerwy przed dalszymi rozmowami.
+- Henry wychodzi ze spotkania wyraźnie roztrzęsiony; Stanley zostaje sam i wygląda na bliskiego załamania; sprawa nieznajomego zabrana przez Paxtona pozostaje nierozwiązana.
+
+## Nierozwiązany punkt decyzyjny
+- Jelena ma około pół godziny przed dalszymi rozmowami i trzy pilne tropy: może pójść za Henrym i spróbować dowiedzieć się, co pamięta z transferu; może spróbować ustalić u Paxtona, kim był dodatkowy człowiek i co oznaczało „Wiecie co z nim zrobić”; może zostać przy Stanleyu, którego stan psychiczny i fizyczny jest wyraźnie zły; albo podjąć inne działanie.
