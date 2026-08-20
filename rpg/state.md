@@ -13,12 +13,13 @@
 - Po zakończeniu transferu mózg Henry’ego nie zawierał potwierdzonego wzorca Romana.
 - Stanley stworzył roboczą hipotezę, że wzorzec Romana mógł zostać zapisany do mózgu rekina, który znalazł się w uszkodzonej zalanej kopule.
 - Po zobaczeniu rekina natychmiast odwołał nurków, nie chcąc ryzykować ich życia ani ciała Henry’ego.
-- Odrzucił sedację rekina jako zbyt ryzykowną przy nieznanej masie i bliskości Henry’ego.
-- Priorytety ustalił następująco: stabilizacja reaktora, przywrócenie Henry’ego do jego ciała, następnie oznaczenie i wypłoszenie rekina.
+- Odrzucił sedację rekina jako zbyt ryzykowną.
+- **Prawidłowa kolejność działań w scenie 025:** najpierw zdalne oznaczenie rekina i wypłoszenie go z kopuły, następnie stabilizacja zasilania i przywrócenie Henry’ego do jego własnego mózgu.
+- Stanley chce zachować ciało Romana przy życiu i przenieść je na niezależne podtrzymanie.
 
 ## Henry Marshall
 - Jego wzorzec pozostawał bezpiecznie zapisany w systemie po zatrzymaniu drugiego kierunku transferu.
-- Po ustabilizowaniu zasilania zespół zdalnie przywrócił wzorzec Henry’ego do jego własnego mózgu.
+- Dopiero po opuszczeniu kopuły przez oznaczonego rekina i odzyskaniu zapasu energii zespół przywrócił wzorzec Henry’ego do jego własnego mózgu.
 - Zapis zakończył się pełnym potwierdzeniem na mapie mózgu.
 - Henry nadal pozostaje pod sedacją / podtrzymaniem życia do czasu bezpiecznego wydobycia go z uszkodzonej kopuły.
 
@@ -26,22 +27,24 @@
 - Jego źródłowy wzorzec został wymazany z własnego mózgu.
 - System raportował 100% transferu, lecz mózg Henry’ego nie potwierdził zapisu.
 - Nie ma go w znanym buforze ani na docelowej mapie mózgu.
-- Stanley podejrzewa, że wzorzec Romana mógł trafić do rekina obecnego w polu działania instalacji podczas awarii.
-- Ciało Romana nadal żyje wyłącznie dzięki aparaturze i ma pusty mózg; może być potrzebne, jeśli uda się odnaleźć i odzyskać Romana.
+- Stanley podejrzewa, że wzorzec Romana mógł trafić do oznaczonego rekina.
+- Ciało Romana nadal żyje dzięki aparaturze i ma pusty mózg.
+- **Decyzja Stanleya:** ciało Romana ma zostać zachowane przy życiu i przeniesione na niezależny system podtrzymywania życia, ponieważ może być potrzebne do przyszłego przywrócenia Romana.
 
 ## Rekin
 - Duży rekin pojawił się w zalanej, rozszczelnionej kopule Henry’ego podczas katastrofy.
 - Nie zaatakował wycofujących się nurków.
-- Stanley zaczął traktować go jako potencjalnego nosiciela wzorca Romana, choć nie ma jeszcze dowodu.
-- Technicy zdalnie wszczepili mu znacznik telemetryczny bez środka uspokajającego.
+- Stanley zaczął traktować go jako potencjalnego nosiciela wzorca Romana, choć nie ma dowodu.
+- Technicy zdalnie wszczepili mu znacznik telemetryczny bez sedacji.
 - Zwierzę zareagowało gwałtownie, po czym opuściło kopułę przez wyrwę do morza.
 - Nadajnik działa i daje zespołowi możliwość śledzenia konkretnego rekina.
+- Oznaczenie i wypłoszenie rekina nastąpiło **przed** przywróceniem Henry’ego do jego ciała.
 
 ## Reaktor i zasilanie
 - Po transferze reaktor był przegrzany i akumulatory niemal puste.
-- Na polecenie Stanleya Moore i Dawson zeszli z obciążeniem i ustabilizowali temperaturę bez natychmiastowej katastrofy.
-- Akumulatory zaczęły ponownie się ładować i zapewniły energię do przywrócenia Henry’ego.
-- Sytuacja jest chwilowo opanowana, ale infrastruktura pozostaje przeciążona i uszkodzona.
+- Moore i Dawson zeszli z obciążeniem i zatrzymali wzrost temperatury.
+- Po opuszczeniu kopuły przez rekina akumulatory odzyskały wystarczający zapas energii, by przeprowadzić zapis Henry’ego do własnego mózgu.
+- Infrastruktura nadal pozostaje uszkodzona i wymaga dalszej stabilizacji.
 
 ## Jelena Ivanova
 - Wspiera Stanleya w medycznej i neurologicznej części kryzysu.
@@ -61,4 +64,4 @@
 - Scena 025: rekin został oznaczony nadajnikiem telemetrycznym przed opuszczeniem ośrodka, co może znacznie zmienić późniejszą akcję poszukiwawczą.
 
 ## Następny problem
-- Ciało Romana nadal znajduje się w instalacji transferowej i jest podtrzymywane sztucznie. Stanley musi zabezpieczyć je przed awarią zasilania i uszkodzeniami ośrodka, jeśli chce zachować szansę na przyszłe przywrócenie Romana.
+- Ciało Romana nadal znajduje się w instalacji transferowej. Stanley nakazał zachować je przy życiu i przenieść na niezależne zasilanie / podtrzymanie, zanim stan ośrodka ponownie się pogorszy.
