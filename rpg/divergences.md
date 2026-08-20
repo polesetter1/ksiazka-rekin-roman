@@ -27,3 +27,10 @@
 - **Wydarzenie RPG:** po spakowaniu biura Romana i własnej dokumentacji Jelena wykorzystuje pozostały czas na zabezpieczenie pomocniczego węzła z niesynchronizowanymi, surowymi logami transferu. Wykonuje dwie kopie danych przed dalszą utratą zasilania.
 - **Przyczyna rozbieżności:** decyzja gracza.
 - **Konsekwencje:** zespół dysponuje dodatkową telemetrią pokazującą w krytycznej fazie jednoczesną utratę potwierdzenia zapisu do mózgu Henry’ego, zmianę impedancji w zalanej komorze, korektę pola i wzrost poboru energii. Dane nie dowodzą, że wzorzec Romana trafił do rekina, ale dają wcześniejszy i mocniejszy fizyczny trop techniczny niż w powieści oraz mogą wpłynąć na projekt zabezpieczeń i tempo wyjaśniania awarii.
+
+## 031d — Urlop i zmiana obowiązków Henry’ego
+- **Miejsce w chronologii:** okres odbudowy po kontrolowanym wywiadzie Henry’ego, przed pełnym powrotem zespołu do podziemnego ośrodka.
+- **Wydarzenie kanoniczne:** Henry odrzuca propozycję odpoczynku w Stanach i kontynuuje pracę przy analizie problemu razem z Jeleną.
+- **Wydarzenie RPG:** Jelena i Peterson kierują Henry’ego na krótki, pięciodniowy urlop bez kontaktu z pracą. Po powrocie Henry pozostaje w projekcie, lecz tymczasowo przechodzi na lżejsze zadania: intranet, sprzęt, kopie zapasowe, katalogowanie dokumentacji i infrastruktura pomocnicza. Nie uczestniczy bezpośrednio w planowaniu kolejnego transferu ani pracy przy komorze.
+- **Przyczyna rozbieżności:** decyzja gracza.
+- **Konsekwencje:** Henry zachowuje poczucie roli w zespole, ale otrzymuje okres regeneracji i ograniczenie ekspozycji na bodźce związane z traumą. Jego relacja z zespołem może przez to rozwijać się inaczej niż przy natychmiastowym powrocie do pełnych obowiązków.
