@@ -1,4 +1,4 @@
-# 031. Biuro Romana
+# 031. Biuro Romana i lokalne logi
 
 Podczas pierwszego ograniczonego wejścia do administracyjnej części Skyropuli Jelena zdecydowała, że nie będzie tracić czasu na własne biuro. Swoją dokumentację neurologiczną znała i mogła po prostu spakować ją przy wyjściu oraz zabrać do hotelu na Skyros. Najpierw poszła bezpośrednio do biura Romana Bagrowskiego.
 
@@ -14,4 +14,18 @@ Na końcu jednego z segregatorów znalazła prostą, odręczną uwagę: „spraw
 
 Po spakowaniu materiałów Romana Jelena wróciła do własnego biura. Nie analizowała niczego na miejscu. Zebrała swoje notatki neurologiczne, wydruki z kalibracji, kopie EEG, nośniki i dokumentację wcześniejszych prób do osobnych pudeł z zamiarem zabrania ich do hotelu na Skyros.
 
-Pozostał jej jeszcze ograniczony czas na wyspie. Miała teraz przy sobie dokumentację Romana wskazującą na kilka potencjalnie ważnych rozbieżności wykonawczych. Mogła od razu spróbować znaleźć Moore’a i Dawsona, którzy pracowali przy zabezpieczaniu części technicznej, albo wykorzystać resztę czasu na próbę zabezpieczenia lokalnych logów centrum transferowego i skonfrontować wszystko dopiero później na Skyros.
+Zamiast od razu szukać Moore'a i Dawsona, Jelena wykorzystała pozostały czas na próbę zabezpieczenia lokalnych logów centrum transferowego. Uznała, że rozmowę z inżynierami będzie mogła przeprowadzić już na Skyros, natomiast dane pozostawione w uszkodzonym ośrodku mogą zostać nadpisane, utracone podczas odbudowy albo zniknąć razem z kolejnym zanikiem zasilania.
+
+Nie weszła do zamkniętej strefy laboratoryjnej. Skorzystała z pomocniczej serwerowni administracyjnej, w której znajdował się lokalny węzeł buforujący część danych przed synchronizacją z głównym systemem. Węzeł nadal pracował na zasilaniu awaryjnym. Kopia była częściowo uszkodzona i zawierała luki, ale nie została jeszcze automatycznie wyczyszczona.
+
+Jelena zgrała na niezależny nośnik surową telemetrię z krytycznego okresu transferu Romana: pomiary pola, obciążenia energetycznego, diagnostykę toru zapisu, dane z czujników komory Henry'ego i część niesynchronizowanych komunikatów błędów. Dla bezpieczeństwa wykonała drugą kopię i oznaczyła oba nośniki czasem oraz źródłem.
+
+Już pobieżny podgląd pokazał coś, czego brakowało w raporcie centralnym. W czasie, gdy mózg Henry'ego przestał potwierdzać narastanie zapisu, układ pola odnotował nagłą zmianę impedancji w zalanej komorze oraz korektę rozkładu energii. Jednocześnie wzrósł pobór mocy. System nadal raportował postęp transferu, lecz surowa diagnostyka docelowego mózgu pozostawała bliska zeru.
+
+Dane nie wskazywały wprost, gdzie trafił wzorzec Romana. Nie zawierały żadnego komunikatu identyfikującego rekina jako cel. Pokazywały jednak, że podczas transferu w obszarze pola pojawiło się dodatkowe, nieprzewidziane obciążenie przewodzące / biologiczne, a automatyka próbowała kompensować zmianę warunków zamiast natychmiast zatrzymać procedurę. Czasowo zjawisko pokrywało się z krytycznym etapem, po którym Henry nadal nie przyjmował wzorca.
+
+Dla Jeleny był to pierwszy twardy, fizyczny ślad łączący anomalię transferu z warunkami w zalanej komorze. Nadal nie dowodził, że Roman znalazł się w rekinie, ale wzmacniał hipotezę, że błąd nie polegał wyłącznie na utracie danych.
+
+Kilka minut po zakończeniu kopii węzeł przeszedł w stan oszczędzania energii i część interfejsów przestała odpowiadać. Jelena miała już oba nośniki, dokumentację Romana i własne materiały przygotowane do wywiezienia.
+
+Opuszczając Skyropulę, zabrała wszystko na Skyros. Planowała tam skonfrontować szkice Romana i świeżo zabezpieczone logi z Moore'em i Dawsonem, zamiast marnować resztę dopuszczalnego czasu na wyspie na rozmowę, którą można było przeprowadzić później.
