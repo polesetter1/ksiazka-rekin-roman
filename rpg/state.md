@@ -1,9 +1,9 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–031d zakończone i zapisane; scena 032 trwa.
-- Ostatnia sfinalizowana scena: `rpg/scenes/031d-jelena-urlop-henry.md`.
-- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 32, **Powrotne wprowadzenie do podziemnego ośrodka**.
+- Status: sceny RPG 001–032 zakończone i zapisane; scena 032 kończy się nowym punktem decyzyjnym Stanleya.
+- Ostatnia sfinalizowana scena: `rpg/scenes/032-stanley-notatki-13-kwietnia.md`.
+- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 32, **Powrotne wprowadzenie do podziemnego ośrodka**, przed przejściem do sceny 33.
 - Perspektywa bieżąca: Stanley Hutchins.
 - Miejsce: częściowo ponownie uruchomiony podziemny ośrodek na Skyropuli, kilka tygodni po katastrofie i w trakcie odbudowy.
 
@@ -14,14 +14,18 @@
 
 ## Stanley Hutchins
 - Przeżył uraz głowy podczas awarii reaktora i zabezpieczył ostatnie dane oznaczonego rekina.
-- Jest obciążony poczuciem winy za Romana, ale terapia z profesorem Petersonem oraz praca przy odbudowie pozwalają mu stopniowo odzyskiwać funkcjonalność.
-- Poznał fizyczny ślad wzmacniający hipotezę dodatkowego żywego obciążenia w polu podczas błędnego transferu Romana.
-- Poznał też niewyjaśnioną anomalię `COMMON-MODE SATURATION` z powrotnego zapisu Henry’ego, ale Jelena nie powiedziała mu o swoim skojarzeniu ze słowem „kurtyna”.
-- Zaakceptował, że kontrolowany wywiad Henry’ego odbędzie się bez niego. Wywiad nie przyniósł obiektywnego potwierdzenia relacji Henry’ego.
-- Po częściowym ponownym otwarciu ośrodka wrócił do swojego biura i rozpakowuje sprzęt oraz literaturę.
-- Henry po urlopie pomaga mu przy przenoszeniu sprzętu i odtwarzaniu intranetu.
-- Podczas porządkowania książek Stanley znalazł w otrzymanej od Romana powieści `Samozwaniec` kartkę z odręczną wiadomością Romana: „Gdyby coś poszło nie tak, zajrzyj do moich notatek z trzynastego kwietnia. Ufam, że zrozumiesz.”
-- Stanley jeszcze nie zdecydował, czy natychmiast sam szukać notatek z 13 kwietnia, najpierw pokazać wiadomość Jelenie, czy włączyć do sprawy także Moore’a / Dawsona.
+- Terapia z profesorem Petersonem oraz praca przy odbudowie pozwalają mu stopniowo odzyskiwać funkcjonalność, choć nadal jest obciążony losem Romana.
+- Zna fizyczny ślad wzmacniający hipotezę dodatkowego żywego obciążenia w polu podczas błędnego transferu Romana.
+- Zna niewyjaśnioną anomalię `COMMON-MODE SATURATION — SOURCE UNKNOWN` z powrotnego zapisu Henry’ego, ale Jelena nie powiedziała mu o swoim skojarzeniu tej anomalii ze słowem „kurtyna”.
+- Po częściowym ponownym otwarciu ośrodka wrócił do swojego biura.
+- W otrzymanej od Romana powieści `Samozwaniec` znalazł kartkę: „Gdyby coś poszło nie tak, zajrzyj do moich notatek z trzynastego kwietnia. Ufam, że zrozumiesz.”
+- Stanley zdecydował, że najpierw sam odnajdzie wskazane notatki.
+- Odnalazł chronologiczny zeszyt Romana z 13 kwietnia. Roman opisał w nim wcześniejszy, krótki test diagnostyczny układu pola przy pustej komorze / bez ludzkiego celu, podczas którego wiele niezależnych kanałów przez około dwie sekundy raportowało niemal identyczny wspólny przebieg.
+- Roman podejrzewał problem z masą, sprzężeniem lub elektroniką; zjawisko nie powtórzyło się w kolejnej próbie.
+- W tym samym przedziale Roman zanotował krótkie ściemnienie / utratę kontrastu w centralnej części obrazu z dwóch kamer obserwujących komorę, bez zaniku zasilania i bez oczywistej awarii oświetlenia. Traktował to jako możliwy błąd ekspozycji / elektroniki.
+- Dla Stanleya podobieństwo do późniejszego `COMMON-MODE SATURATION` Henry’ego jest niepokojące, ale nie stanowi dowodu na nic poza powtarzającą się anomalią techniczną.
+- Roman wskazał ścieżkę do surowego pliku z testu 13 kwietnia. Stanley znalazł tylko uszkodzoną / niekompletną kopię; metadane potwierdzają, że test się odbył, ale nie pozwalają obecnie niezależnie zweryfikować całego przebiegu.
+- Wpis Romana kończy się uwagą, że gdyby podobne zjawisko wystąpiło kiedykolwiek przy realnym transferze, nie należy automatycznie uznawać go za zwykły błąd pomiarowy bez sprawdzenia, co naprawdę rejestruje układ.
 
 ## Roman Bagrowski
 - Jego wzorzec źródłowy został wymazany z własnego mózgu.
@@ -29,27 +33,26 @@
 - Ciało Romana pozostaje biologicznie żywe i jest utrzymywane na niezależnym podtrzymaniu życia w centrum meteorologicznym.
 - Zespół traktuje oznaczonego rekina jako potencjalnego nosiciela wzorca Romana, ale hipoteza pozostaje niepotwierdzona.
 - Jelena zabezpieczyła jego dokumentację techniczną i odręczne segregatory.
-- Nowo odnaleziona kartka w książce wskazuje Stanleyowi szczególnie na notatki Romana z 13 kwietnia. Znaczenie tej wskazówki nie jest jeszcze znane.
+- Kartka ukryta w książce doprowadziła Stanleya do notatki z 13 kwietnia opisującej wcześniejszą anomalię common-mode i równoczesne zakłócenie obrazu kamer podczas testu bez ludzkiego celu.
+- Roman nie pozostawił metafizycznej interpretacji zjawiska; traktował je jako niewyjaśniony problem techniczny wymagający ponownej weryfikacji, jeśli kiedykolwiek powróci.
 
 ## Henry Marshall
 - Jego wzorzec został przywrócony do własnego mózgu po katastrofie.
 - Opisał Jelenie subiektywne doświadczenie oddzielenia od ciała, panoramicznej percepcji oraz późniejszej ciemnej „kurtyny” i obecności bytów, które nazwał „duchami”.
-- Surowe logi powrotnego zapisu zawierają osobną anomalię: przez około dwie sekundy niezależne kanały neuralne raportowały niemal identyczny przebieg mimo stabilnego zasilania, prawidłowych znaczników czasu i poprawnych sum kontrolnych. Zjawisko jest oznaczone jako `COMMON-MODE SATURATION — SOURCE UNKNOWN`; nie ma dowodu, że odpowiada doświadczeniu „kurtyny”.
-- Kontrolowany, zaślepiony wywiad z Jeleną i Petersonem nie dostarczył nowych obiektywnie weryfikowalnych informacji. Henry sam przerwał rozmowę przy pytaniach o okres po utracie normalnej percepcji ciała.
-- Po decyzji Jeleny i Petersona dostał pięciodniowy urlop bez kontaktu ze służbową pracą. Nie został przymusowo odesłany do Stanów.
-- Po powrocie nadal pracuje w projekcie, ale tymczasowo na lżejszych zadaniach: odtwarzanie intranetu, sprzęt, kopie zapasowe, katalogowanie dokumentacji i infrastruktura pomocnicza.
-- Na razie nie uczestniczy bezpośrednio w projektowaniu kolejnego pełnego transferu ani w pracy przy komorze transferowej.
-- Krótki odpoczynek poprawił jego funkcjonowanie, lecz nadal nie chce wracać do szczegółowego opisu doświadczenia.
+- Surowe logi powrotnego zapisu zawierają osobną anomalię: przez około dwie sekundy niezależne kanały neuralne raportowały niemal identyczny przebieg mimo stabilnego zasilania, prawidłowych znaczników czasu i poprawnych sum kontrolnych. Zjawisko jest oznaczone jako `COMMON-MODE SATURATION — SOURCE UNKNOWN`.
+- Kontrolowany, zaślepiony wywiad z Jeleną i Petersonem nie dostarczył nowych obiektywnie weryfikowalnych informacji i został przerwany przez Henry’ego.
+- Dostał pięciodniowy urlop, po którym wrócił do projektu na lżejsze zadania: intranet, sprzęt, kopie zapasowe, katalogowanie dokumentacji i infrastruktura pomocnicza.
+- Nie uczestniczy obecnie bezpośrednio w planowaniu kolejnego pełnego transferu ani w pracy przy komorze.
 
 ## Jelena Ivanova
 - Odrzuca metafizyczne wyjaśnienia jako hipotezę roboczą i skupia się na danych obserwowalnych.
 - Zabezpieczyła dokumentację Romana, własne materiały neurologiczne oraz dwie kopie niesynchronizowanych lokalnych logów transferu.
 - W logach znalazła korelację: utrata potwierdzenia zapisu do Henry’ego, zmiana impedancji w zalanej komorze, korekta pola i wzrost poboru mocy.
 - Znalazła również osobną anomalię common-mode podczas późniejszego przywracania Henry’ego.
-- Nie ujawniła zespołowi skojarzenia anomalii ze słowem „kurtyna”.
+- Nie ujawniła zespołowi swojego skojarzenia tej anomalii ze słowem „kurtyna”.
 - Zgodziła się na dalsze przygotowania do pełnego transferu po odbudowie pod warunkiem nowych zabezpieczeń i wyjaśnienia mechanizmu awarii.
-- Zdecydowała, że Henry dostanie krótki urlop, a po nim zachowa rolę w zespole przy lżejszych zadaniach.
 - Nadal nie zna historii Oliwii.
+- Nie wie jeszcze, że Stanley odnalazł kartkę Romana ani notatkę z 13 kwietnia.
 
 ## Rekin
 - Został oznaczony nadajnikiem telemetrycznym przed opuszczeniem kopuły i odpłynął na otwarte morze.
@@ -79,10 +82,12 @@
 - Scena 031: Jelena zabezpieczyła dokumentację Romana i niesynchronizowane lokalne logi transferu.
 - Scena 031b: Jelena odkryła niewyjaśnioną anomalię common-mode podczas przywracania Henry’ego.
 - Scena 031c: kontrolowany wywiad Henry’ego odbył się wcześniej, z Petersonem i bez Stanleya; nie dał obiektywnego potwierdzenia relacji.
-- Scena 031d: Henry dostał pięciodniowy urlop i po powrocie pracuje czasowo przy lżejszych zadaniach, zamiast natychmiast wracać do pełnego zakresu prac nad transferem.
+- Scena 031d: Henry dostał pięciodniowy urlop i po powrocie pracuje czasowo przy lżejszych zadaniach.
+- Scena 032 rozwija kanoniczną wskazówkę Romana z 13 kwietnia: Stanley odnajduje wcześniejszą techniczną anomalię podobną do późniejszego common-mode Henry’ego, ale bez surowych danych pozwalających ją obecnie zweryfikować.
 
 ## Aktywne wątki
-- Znaczenie kartki Romana i jego notatek z 13 kwietnia.
+- Co Stanley zrobi z notatką Romana z 13 kwietnia i czy pokaże ją Jelenie.
+- Próba odzyskania / odtworzenia surowego pliku diagnostycznego z 13 kwietnia.
 - Odtworzenie pełnego modelu wykonawczego z Moore’em i Dawsonem.
 - Sprawdzenie, czy dodatkowy żywy układ nerwowy w zalanej komorze wyjaśnia skok poboru mocy i zmianę pola.
 - Wyjaśnienie źródła `COMMON-MODE SATURATION` podczas przywracania Henry’ego.
@@ -93,5 +98,7 @@
 - Tożsamość i los nieznajomego przejętego przez Paxtona.
 
 ## Nierozwiązany punkt decyzyjny sceny 032
-- Stanley znalazł odręczną kartkę Romana ukrytą w książce `Samozwaniec`: „Gdyby coś poszło nie tak, zajrzyj do moich notatek z trzynastego kwietnia. Ufam, że zrozumiesz.”
-- Może natychmiast sam odszukać notatki z 13 kwietnia, najpierw pokazać wiadomość Jelenie albo od razu włączyć do sprawy także Moore’a / Dawsona.
+- Stanley sam odnalazł notatkę Romana z 13 kwietnia.
+- Wcześniejszy test przy pustej komorze zawiera opis krótkiego common-mode na wielu niezależnych kanałach oraz równoczesne krótkie zakłócenie obrazu kamer; Roman nie znał przyczyny i nie przypisywał temu znaczenia pozatechnicznego.
+- Surowy plik wskazany przez Romana jest uszkodzony / niekompletny, więc Stanley nie może jeszcze zweryfikować zapisu bezpośrednio.
+- Stanley musi zdecydować, czy natychmiast pokazać notatkę Jelenie i zestawić oba zdarzenia, czy najpierw sam spróbować odzyskać brakujące dane / znaleźć starszą kopię i dopiero wtedy ujawnić sprawę.
