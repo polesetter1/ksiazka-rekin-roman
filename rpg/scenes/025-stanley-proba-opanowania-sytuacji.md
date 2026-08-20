@@ -2,40 +2,38 @@
 
 Stanley natychmiast odwołał nurków z zalanej kopuły, kiedy wraz z Jeleną zobaczył dużego rekina pływającego obok ciała Henry’ego Marshalla. Nie pozwolił nikomu wracać do wody.
 
-Gdy obaj nurkowie znaleźli się bezpiecznie w śluzie, Stanley odrzucił pomysł natychmiastowej sedacji zwierzęcia. Nie chciał ryzykować przypadkowego zatrucia lub gwałtownej reakcji rekina, dopóki ciało Henry’ego pozostawało w tej samej przestrzeni.
+Obaj nurkowie zdołali wycofać się do śluzy. Rekin nie zaatakował ich mimo dogodnej okazji, co Stanley uznał za dziwne, choć jeszcze nie za dowód czegokolwiek.
 
-Podzielił kryzys na trzy zadania: ustabilizować reaktor i odzyskać zapas energii, przywrócić Henry’ego do jego własnego ciała, a dopiero potem oznaczyć rekina nadajnikiem i wypłoszyć go do morza.
+Stanley odrzucił pomysł sedacji zwierzęcia. Nie znał jego masy, gatunku ani reakcji na dostępne środki, a gwałtownie miotający się rekin mógł uszkodzić aparaturę i ciało Henry’ego.
 
-Moore i Dawson otrzymali polecenie zejścia z obciążeniem i ustabilizowania rdzenia. Reaktor nie uspokoił się od razu, ale udało się zatrzymać dalszy wzrost temperatury bez natychmiastowej katastrofy. Pełerenowo-wodorowe akumulatory zaczęły się ponownie ładować, choć wolniej niż Stanley chciał.
+W głowie Stanleya pojawiła się skrajnie niepewna hipoteza: system raportował 100% transferu Romana, ale mózg Henry’ego pozostał pusty, a w czasie awarii w obszarze działania urządzenia pojawił się żywy mózg rekina. Stanley zaczął dopuszczać możliwość, że wzorzec Romana mógł trafić właśnie tam.
 
-Zespół wykonał zdalną diagnostykę aparatury przy Henrym. Część czujników dawała błędy wskutek zalania i uszkodzeń, ale zasadnicze obwody podtrzymywania życia oraz interfejs zapisu nadal odpowiadały. Stanley uznał, że nie może czekać na idealne warunki.
+Priorytetem stało się więc usunięcie rekina z kopuły bez zabijania go oraz bez dalszego narażania Henry’ego.
 
-Po odzyskaniu wystarczającego zapasu energii rozpoczął zapis wzorca Henry’ego z powrotem do jego własnego mózgu. Procedura przebiegała pod ogromnym napięciem. Reaktor utrzymywano na możliwie bezpiecznym poziomie, a resztę chwilowego zapotrzebowania pokrywały akumulatory.
+Technicy przygotowali improwizowany znacznik telemetryczny z niewielkim grotem wszczepiającym. Nie zastosowano środka uspokajającego. System wystrzału zamontowano przy technicznym porcie kopuły, tak aby nikt nie musiał wchodzić do wody.
 
-Tym razem mapa mózgu zaczęła się rzeczywiście zapełniać. Kolejne obszary potwierdzały zapis. Zespół nie wybudzał jednak Henry’ego — pozostawiono go pod kontrolą aparatury, dopóki rekin znajdował się w zalanej kopule.
+Kiedy rekin podpłynął wystarczająco blisko, technik oddał strzał. Znacznik wszedł w mięśnie grzbietu i nadajnik podjął pracę. Zwierzę zareagowało gwałtownie, uderzyło w element oświetlenia i przez kilka sekund miotało się po zalanej sali, ale nie zaatakowało ciała Henry’ego.
 
-Po zakończeniu zapisu system potwierdził pełne przywrócenie wzorca Henry’ego do jego własnego ciała. Stanley po raz pierwszy od początku katastrofy miał pewność, że przynajmniej jednego człowieka nie zgubił.
+Stanley wstrzymał wszelkie dalsze działania. Po chwili rekin odnalazł szeroką wyrwę w uszkodzonej osłonie kopuły i odpłynął na otwarte morze.
 
-Dopiero wtedy wrócił do rekina.
+Na odbiorniku pozostał sygnał telemetryczny.
 
-Hipoteza, która wcześniej wydawała się czystym absurdem, nie dawała mu spokoju. Roman zniknął z systemu. Mózg Henry’ego pozostał pusty. W czasie transferu doszło do rozszczelnienia sali, a w polu działania urządzenia znalazł się żywy mózg rekina. Stanley nie miał dowodu, ale zaczął traktować zwierzę jak potencjalnego nosiciela wzorca Romana.
+Dopiero po potwierdzeniu, że rekin opuścił kopułę i oddala się od ośrodka, Stanley wrócił do ratowania Henry’ego.
 
-Technicy przygotowali improwizowany znacznik telemetryczny z niewielkim grotem wszczepiającym. Zamiast środka uspokajającego użyto samego nadajnika, aby nie ryzykować życia zwierzęcia. System wystrzału zamontowano przy technicznym porcie kopuły, tak aby nikt nie musiał wchodzić do wody.
+Równolegle polecił Moore’owi i Dawsonowi zejść z obciążeniem reaktora, zatrzymać wzrost temperatury i rozpocząć ponowne ładowanie pełerenowo-wodorowych akumulatorów. Reaktor nie uspokoił się od razu, ale udało się zahamować wzrost temperatury bez natychmiastowej katastrofy. Akumulatory zaczęły odzyskiwać energię.
 
-Kiedy rekin podpłynął wystarczająco blisko, technik oddał strzał. Znacznik wszedł w mięśnie grzbietu i nadajnik podjął pracę. Zwierzę zareagowało gwałtownie: rzuciło się w bok, uderzyło w element oświetlenia i przez kilka sekund miotało się po zalanej sali.
+Zespół wykonał zdalną diagnostykę aparatury przy Henrym. Część czujników dawała błędy wskutek zalania i uszkodzeń, ale zasadnicze obwody podtrzymywania życia oraz interfejs zapisu nadal odpowiadały.
 
-Stanley wstrzymał wszelkie dalsze działania, by nie sprowokować ataku na ciało Henry’ego. Po chwili rekin odnalazł szeroką wyrwę w uszkodzonej osłonie kopuły i odpłynął na otwarte morze.
+Po odzyskaniu wystarczającego zapasu energii Stanley zdecydował się przywrócić wzorzec Henry’ego z dysku do jego własnego mózgu. Nie było już rekina w kopule, więc ryzyko gwałtownego uszkodzenia aparatury podczas procedury znacząco spadło.
 
-Na odbiorniku pozostał sygnał.
+Zapis rozpoczął się pod pełnym nadzorem Jeleny i Stanleya. Tym razem, w przeciwieństwie do próby z Romanem, mapa mózgu Henry’ego zaczęła się rzeczywiście zapełniać. Kolejne obszary potwierdzały zapis wzorca.
 
-Słaby, ale wyraźny.
+Proces zakończył się pełnym potwierdzeniem. Henry Marshall ponownie znajdował się we własnym mózgu, choć nadal pozostawał pod sedacją i podtrzymaniem życia do czasu bezpiecznego wydobycia z uszkodzonej kopuły.
 
-Rekin był już poza ośrodkiem, a zespół znał jego pozycję.
+Stanley miał pewność, że przynajmniej jednego człowieka nie zgubił.
 
-Stanley nie powiedział jeszcze głośno, że uważa go za Romana. Ale od tej chwili nie traktował zwierzęcia jak przypadkowego intruza.
+Pozostawał drugi.
 
-Henry nadal pozostawał pod sedacją i podtrzymaniem życia. Jego wzorzec znajdował się z powrotem w jego własnym mózgu. Reaktor został chwilowo ustabilizowany, a akumulatory odzyskiwały energię.
+Ciało Romana nadal znajdowało się w drugiej sali transferowej. Biologicznie żyło, ale jego mózg pozostawał pozbawiony znanego wzorca świadomości. Jeśli hipoteza o rekinie była prawdziwa, ciało mogło jeszcze kiedyś być Romanowi potrzebne.
 
-Pozostawał jeszcze drugi problem.
-
-Ciało Romana nadal leżało w drugim stanowisku transferowym, z pustym mózgiem i podtrzymywanymi sztucznie funkcjami życiowymi. Jeśli hipoteza Stanleya była prawdziwa, to ciało mogło jeszcze kiedyś być potrzebne Romanowi.
+Stanley nakazał nie odłączać go pod żadnym pozorem i rozpocząć przygotowania do przeniesienia na niezależny system podtrzymywania życia.
