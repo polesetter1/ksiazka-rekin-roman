@@ -35,9 +35,9 @@
 - **Przyczyna rozbieżności:** decyzja gracza.
 - **Konsekwencje:** Henry zachowuje poczucie roli w zespole, ale otrzymuje okres regeneracji i ograniczenie ekspozycji na bodźce związane z traumą. Jego relacja z zespołem może przez to rozwijać się inaczej niż przy natychmiastowym powrocie do pełnych obowiązków.
 
-## 034 — Wczesne odnalezienie i próba przechwycenia rekina
+## 034 — Wczesne odnalezienie i skuteczne przechwycenie rekina
 - **Miejsce w chronologii:** początek wojskowej akcji poszukiwawczej, odpowiadający bazowej scenie 034.
 - **Wydarzenie kanoniczne:** źródłowo poszukiwania są szerokie i rekina podejrzewanego o noszenie Romana udaje się odnaleźć dopiero później, około sceny 037.
-- **Wydarzenie RPG:** dzięki nadajnikowi wszczepionemu podczas katastrofy, ostatnim zabezpieczonym danym oraz mobilnym odbiornikom pierwsza operacja ponownie przechwytuje sygnał oznaczonego rekina. Henry i załoga uzyskują wizualny kontakt. Stanley najpierw nakazuje jedynie podążać za zwierzęciem, a po przybyciu pełnej ekipy podejmuje próbę nocnego przechwycenia.
-- **Przyczyna rozbieżności:** konsekwencja wcześniejszej decyzji gracza o oznaczeniu rekina oraz bieżące decyzje o natychmiastowym rozpoczęciu operacji i nocnej próbie przechwycenia.
-- **Konsekwencje:** konkretne zwierzę zostaje odnalezione kilka scen wcześniej niż w bazowej chronologii. Próba przechwycenia trwa; rekin znajduje się częściowo uspokojony wewnątrz półzanurzalnej ramy, ale tylna brama zablokowała się i nie jest jeszcze bezpiecznie domknięta. Dalszy wynik zależy od kolejnej decyzji Stanleya.
+- **Wydarzenie RPG:** dzięki nadajnikowi wszczepionemu podczas katastrofy, ostatnim zabezpieczonym danym oraz mobilnym odbiornikom pierwsza operacja ponownie przechwytuje sygnał oznaczonego rekina. Henry i załoga uzyskują wizualny kontakt. Stanley najpierw nakazuje podążać za zwierzęciem, potem podejmuje nocną próbę przechwycenia. Gdy tylna brama ramy blokuje się, Stanley zgadza się na ręczną interwencję wyszkolonego nurka, wierząc również, że jeśli Roman znajduje się w rekinie, nie skrzywdzi człowieka próbującego go uratować.
+- **Przyczyna rozbieżności:** konsekwencja wcześniejszego oznaczenia rekina oraz kolejnych decyzji gracza o szybkim rozpoczęciu operacji, nocnym przechwyceniu i ręcznym odblokowaniu bramy.
+- **Konsekwencje:** nurek bezpiecznie odblokowuje prowadnicę, rekin nie atakuje go, brama zostaje domknięta, a oznaczone zwierzę zostaje przechwycone żywe znacznie wcześniej niż w powieści. Zachowanie rekina nie stanowi dowodu obecności Romana, ale emocjonalnie wzmacnia przekonanie Stanleya. Kampania musi od tej chwili uwzględniać, że zespół ma fizyczny dostęp do konkretnego zwierzęcia jeszcze w trakcie odbudowy ośrodka.
