@@ -1,61 +1,70 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–027 zakończone i zapisane; scena 028 rozpoczyna się.
-- Ostatnia sfinalizowana scena: `rpg/scenes/027-stanley-ewakuacja-profesor.md`.
-- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 28, **Ewakuacja — Jelena**.
-- Perspektywa: Jelena Ivanova.
-- Miejsce: korytarze ewakuacyjne Skyropuli prowadzące do centrum meteorologicznego.
+- Status: sceny RPG 001–028 zakończone i zapisane; scena 029 rozpoczyna się.
+- Ostatnia sfinalizowana scena: `rpg/scenes/028-jelena-ewakuacja.md`.
+- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 29, **Analiza zniszczeń**.
+- Perspektywa: Jelena Ivanova / Stanley Hutchins zgodnie z przebiegiem sceny źródłowej.
+- Miejsce: centrum meteorologiczne / zaplecze Skyropuli po ewakuacji.
 
 ## Stanley Hutchins
-- Po katastrofie transferu i utracie zasilania uderzył głową o framugę i stracił przytomność.
-- Po odzyskaniu świadomości był oszołomiony, krwawił i miał nasilające się objawy urazu głowy.
-- Zamiast od razu iść do centrum meteorologicznego, świadomie zboczył do stanowiska telemetrycznego, aby zabezpieczyć ostatnie dane oznaczonego rekina.
-- Udało mu się zgrać na niezależny nośnik oraz telefon identyfikator znacznika, ostatnią znaną pozycję, czas odebrania pakietu i kierunek ruchu rekina.
-- Chwilę po wykonaniu kopii stanowisko telemetryczne straciło zasilanie.
-- Następnie Stanley ruszył w stronę centrum meteorologicznego, ale jego stan fizyczny szybko się pogarszał.
-- W końcu dotarł w pobliże ewakuującej się grupy i osunął się na kolana; zabezpieczone dane telemetryczne nadal ma przy sobie.
+- Podczas awarii reaktora usłyszał od Moore’a i Dawsona o rosnącym ciśnieniu i problemie z pełnym awaryjnym zrzutem prętów sterujących.
+- Po silnym huku i utracie zasilania stracił równowagę, uderzył głową o framugę i stracił przytomność.
+- Po odzyskaniu świadomości świadomie zboczył do stanowiska telemetrycznego, aby zabezpieczyć ostatnie dane oznaczonego rekina.
+- Zgrał na niezależny nośnik i telefon identyfikator znacznika, ostatnią pozycję, czas i kierunek ruchu rekina tuż przed utratą zasilania stanowiska.
+- Następnie dotarł do ewakuującej się grupy w ciężkim stanie i został przewieziony do centrum meteorologicznego.
+- Pozostaje pod opieką medyczną po urazie głowy.
 
 ## Roman Bagrowski
 - Jego wzorzec źródłowy został wymazany z własnego mózgu.
 - System raportował pełny transfer, lecz nie potwierdzono zapisu do mózgu Henry’ego.
 - Stanley podejrzewa, że wzorzec Romana mógł trafić do oznaczonego rekina.
-- Ciało Romana pozostaje biologicznie żywe i zostało przełączone na mobilny system podtrzymywania życia.
-- Łóżko z ciałem Romana jest ewakuowane do centrum meteorologicznego jako potencjalny przyszły gospodarz dla odzyskanej świadomości.
+- Ciało Romana pozostaje biologicznie żywe i zostało bezpiecznie przetransportowane do centrum meteorologicznego na niezależnym podtrzymaniu życia.
+- Ciało jest traktowane jako potencjalny przyszły gospodarz dla odzyskanej świadomości.
 
 ## Henry Marshall
 - Jego wzorzec został przywrócony do własnego mózgu po oznaczeniu i wypłoszeniu rekina.
 - Zapis zakończył się pełnym potwierdzeniem na mapie mózgu.
-- Henry jest ewakuowany razem z zespołem i pozostaje pod opieką medyczną po procedurze.
+- Henry pozostaje pod obserwacją po procedurze i katastrofie.
 
 ## Rekin
 - Został oznaczony nadajnikiem telemetrycznym i wypłoszony z kopuły przed przywróceniem Henry’ego.
 - Odpłynął na otwarte morze.
-- Stanley zabezpieczył poza głównym systemem ostatnią znaną pozycję, czas, kierunek ruchu i identyfikator nadajnika tuż przed utratą zasilania stanowiska telemetrycznego.
+- Stanley zabezpieczył poza głównym systemem ostatnią znaną pozycję, czas, kierunek ruchu i identyfikator nadajnika.
 - Nadajnik pozostaje kluczowym tropem w sprawie możliwego losu Romana.
 
 ## Reaktor i zasilanie
-- Reaktor został częściowo ustabilizowany po katastrofie, a akumulatory umożliwiły przywrócenie Henry’ego.
-- Główne centrum doznało dalszego zaniku zasilania i silnych wstrząsów.
-- Ewakuacja do centrum meteorologicznego trwa.
+- Podczas końcowej fazy katastrofy poziom medium spadał wskutek parowania, a mechanizm sterowania / awaryjnego zrzutu prętów nie zadziałał w pełni.
+- Ciśnienie wzrosło do poziomu prowadzącego do silnego huku / uszkodzenia części reaktorowej i całkowitego zaniku zasilania centrum.
+- Zespół ewakuował się przez zaciemnione korytarze przy użyciu latarek i telefonów.
+- Pełna diagnoza techniczna i środowiskowa ma zostać ustalona w kolejnej scenie.
 
 ## Jelena Ivanova
-- Nadzorowała medyczne przełączenie ciała Romana na mobilne podtrzymanie życia.
-- Ewakuuje się wraz z zespołem i łóżkiem Romana w stronę centrum meteorologicznego.
-- Nadal nie zna historii Oliwii.
-- Zna roboczą hipotezę Stanleya, że Roman mógł trafić do rekina, ale uważa ją za skrajnie niepewną.
-- Nie wie jeszcze, dlaczego Stanley nie szedł razem z główną grupą ani że zabezpieczał telemetrię rekina.
+- Nadzorowała ewakuację ciała Romana do centrum meteorologicznego.
+- Po odnalezieniu Stanleya zauważyła, że liczba ludzi w grupie jest o jedną osobę za duża.
+- Przeprowadziła kontrolę plakietek / kart dostępu i nazwisk.
+- Wykryła jednego mężczyznę bez karty, którego nie było na aktywnej liście personelu ani na dostępnej liście podwykonawców i którego nikt z zespołu nie rozpoznawał.
+- Nieznajomy miał dołączyć do grupy gdzieś podczas ewakuacji przez ciemne korytarze i na moment spojrzał w stronę sali z ciałem Romana.
+- Jelena nie wie, kim był ani skąd się wziął.
+
+## Jonathan Paxton
+- Po ujawnieniu nieznajomego natychmiast przejął sprawę jako naruszenie bezpieczeństwa.
+- Wezwał dwóch ochroniarzy i powiedział im o zatrzymanym: „Wiecie co z nim zrobić.”
+- Ochrona zabrała nieznajomego; jego dalszy los nie jest znany Jelenie.
+- Paxton nie wyjaśnił zespołowi, co dokładnie oznaczał jego rozkaz.
 
 ## Rozbieżności względem powieści
 - Scena 002: brak kompromitacji Stanleya przy basenie.
 - Scena 016: pierwszym żywym ludzkim obiektem odczytu był Phil, nie Stanley.
 - Scena 025: rekin został oznaczony nadajnikiem telemetrycznym przed opuszczeniem ośrodka; oznaczenie nastąpiło przed przywróceniem Henry’ego do jego ciała.
 - Scena 027: Stanley wykonał niekanoniczny objazd do stanowiska telemetrycznego i zabezpieczył ostatnią znaną pozycję oznaczonego rekina przed utratą zasilania.
+- Scena 028: Jelena wykryła nadmiarową osobę przez formalną kontrolę kart dostępu; Paxton przejął nieznajomego przez ochronę. Jego dalszy los pozostaje nieznany.
 
 ## Aktywne wątki
 - Stan Stanleya po urazie głowy.
-- Bezpieczne dotarcie ciała Romana do centrum meteorologicznego.
 - Stan Henry’ego po przywróceniu wzorca.
-- Utrzymanie tropu oznaczonego rekina dzięki zabezpieczonej telemetrii.
-- Dalsze skutki katastrofy i ewakuacja zespołu.
+- Utrzymanie przy życiu ciała Romana.
+- Śledzenie oznaczonego rekina i weryfikacja hipotezy o Romanie.
+- Pełna analiza awarii reaktora i szkód w Skyropuli.
+- Tożsamość i los nieznajomego wyprowadzonego przez ludzi Paxtona.
 - Niepokojące zjawiska w zaciemnionych korytarzach, których postacie nie rozumieją.
