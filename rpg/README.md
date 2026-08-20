@@ -23,6 +23,7 @@ Perspektywa przełącza się zgodnie z chronologią i centrum danej sceny. Wiedz
 
 - Narracja: bliska trzecia osoba.
 - Styl: literacki, konkretny, energiczny, ironiczny, z naturalnym dialogiem i moralną niejednoznacznością; `STYLE.md` oraz napisane sceny są wzorcem głosu.
+- Ton od katastrofy transferu ma stopniowo stawać się coraz mroczniejszy. Narastanie ma być powolne: najpierw drobne, racjonalizowalne anomalie i niepokojące zbieżności, później coraz trudniejsze do zignorowania wydarzenia. Nie wolno nagle przeskakiwać w pełny horror ani ujawniać postaciom metafizycznej prawdy bez dowodów dostępnych z ich perspektywy.
 - Długość segmentów: długa; decyzja gracza pojawia się dopiero w istotnym punkcie decyzyjnym.
 - Brak plot armoru i deus ex machina.
 - Ryzykowne działania o nieoczywistym wyniku są rozstrzygane niezależnym, ukrytym losowaniem, jeśli jest technicznie dostępne.
