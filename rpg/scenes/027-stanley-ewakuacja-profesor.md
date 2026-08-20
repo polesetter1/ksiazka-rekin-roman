@@ -1,6 +1,18 @@
 # 027. Ewakuacja — Profesor
 
-Stanley odzyskał przytomność w zaciemnionym centrum transferowym po uderzeniu głową o framugę. Był oszołomiony, krwawił z lewej strony głowy i miał objawy sugerujące co najmniej wstrząśnienie mózgu. Telefon miał niewiele baterii, ale dawał mu światło.
+Po zabezpieczeniu ciała Romana na mobilnym podtrzymaniu życia i wysłaniu go w stronę centrum meteorologicznego Stanley został jeszcze chwilę na mostku. Chciał upewnić się, że Henry pozostaje stabilny po przywróceniu wzorca, nadajnik rekina nadal odpowiada, a Moore i Dawson rzeczywiście opanowali reaktor.
+
+Wtedy sytuacja energetyczna ponownie gwałtownie się pogorszyła.
+
+Przez radio Dawson zgłosił, że poziom medium w reaktorze spada wskutek intensywnego parowania. Mechanizm zanurzania prętów sterujących nie działał prawidłowo, a przy próbie awaryjnego zrzutu część prętów nie opadła. Temperatura i ciśnienie zaczęły ponownie rosnąć. Moore i Dawson kazali wszystkim odejść od części reaktorowej i przygotować się do ewakuacji.
+
+Oświetlenie centrum transferowego przeszło na pulsujące czerwone światło awaryjne. Chwilę później rozległ się potężny huk z kierunku reaktora. Stanley nie znał wtedy dokładnej przyczyny, ale późniejsza analiza wykazała, że nadmierne ciśnienie rozsadziło kopułę / zabezpieczenie części reaktorowej i uwolniło radioaktywną parę. W tym samym momencie główne zasilanie ośrodka załamało się.
+
+Podłoga zakołysała się. Stanley, próbując wyjść z mostka w całkowitej ciemności, stracił równowagę i uderzył lewą stroną głowy o metalową framugę. Upadł i na pewien czas stracił przytomność.
+
+Pozostała część zespołu rozpoczęła ewakuację do centrum meteorologicznego, korzystając z latarek i mobilnego zasilania aparatury medycznej. Ciało Romana transportowano na łóżku z niezależnym respiratorem i podtrzymaniem krążenia; Henry również pozostawał pod opieką medyczną. W chaosie nikt od razu nie zauważył, że Stanley został z tyłu.
+
+Stanley odzyskał przytomność w zaciemnionym centrum transferowym. Był oszołomiony, krwawił z lewej strony głowy i miał objawy sugerujące co najmniej wstrząśnienie mózgu. Telefon miał niewiele baterii, ale dawał mu światło.
 
 Zamiast od razu iść do centrum meteorologicznego, gdzie ewakuowano ciało Romana, Stanley uznał, że musi zabezpieczyć ostatnie dane telemetryczne oznaczonego rekina. Bał się, że awaria zasilania skasuje bieżący zapis lub pozostawi zespół bez punktu odniesienia do późniejszych poszukiwań.
 
