@@ -1,11 +1,11 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–034b zapisane; rekin został przechwycony i przewieziony na Skyropulę.
-- Ostatnia sfinalizowana scena: `rpg/scenes/034b-stanley-transport-rekina-na-skyropule.md`.
-- Bieżący bazowy punkt kanonu: przejście od sceny 34 do 35 w `novel/plan.md`; wskutek wcześniejszego oznaczenia rekina kampania znacząco przyspieszyła odnalezienie i fizyczne zabezpieczenie konkretnego zwierzęcia względem źródła.
+- Status: sceny RPG 001–035 zapisane; scena 036 rozpoczyna się.
+- Ostatnia sfinalizowana scena: `rpg/scenes/035-stanley-stabilizacja-rekina-i-protokol.md`.
+- Bieżący bazowy punkt kanonu: scena 36 w `novel/plan.md`, **Ostrzeżenie żebraczki**. Wskutek wcześniejszego oznaczenia rekina kampania znacząco przyspieszyła jego odnalezienie i fizyczne zabezpieczenie względem źródła.
 - Perspektywa bieżąca: Stanley Hutchins.
-- Miejsce: Skyropula; przechwycony oznaczony rekin znajduje się w prowizorycznym dużym zbiorniku obiegowym.
+- Miejsce: Skyropula / później Skyros; przechwycony oznaczony rekin pozostaje w prowizorycznym dużym zbiorniku obiegowym na Skyropuli.
 
 ## Zasada tonu
 - Atmosfera kampanii ma stopniowo stawać się coraz mroczniejsza.
@@ -19,10 +19,12 @@
 - Sam odnalazł ukrytą wiadomość Romana i notatki z 13 kwietnia opisujące wcześniejszy około dwusekundowy common-mode przy pustej komorze oraz równoczesne zakłócenie obrazu kamer. Surowy plik jest uszkodzony / niekompletny.
 - Świadomie zachowuje kartkę i znaczenie notatki z 13 kwietnia wyłącznie dla siebie.
 - Pozwolił Henry’emu dołączyć do pierwszej ekipy poszukiwawczej mimo sprzeciwu Jeleny.
-- Po odnalezieniu rekina najpierw nakazał shadowing, potem nocną próbę przechwycenia.
-- Gdy tylna brama ramy zablokowała się, zgodził się, aby wyszkolony nurek ręcznie odblokował prowadnicę. Stanley uzasadniał decyzję także osobistą wiarą, że jeśli Roman rzeczywiście znajduje się w rekinie, nie skrzywdzi człowieka próbującego go uratować.
-- Nurek odniósł sukces i nie został zaatakowany. Stanley może to odbierać jako emocjonalnie znaczące, ale obiektywnie zachowanie rekina ma naturalne wyjaśnienia i nie potwierdza obecności Romana.
-- Po przechwyceniu Stanley wybrał transport bezpośrednio na Skyropulę zamiast Skyros, preferując tajność mimo prowizorycznej infrastruktury.
+- Po odnalezieniu rekina nakazał najpierw shadowing, potem nocną próbę przechwycenia.
+- Gdy tylna brama ramy zablokowała się, zgodził się, aby wyszkolony nurek ręcznie odblokował prowadnicę, wierząc także, że jeśli Roman rzeczywiście znajduje się w rekinie, nie skrzywdzi człowieka próbującego go uratować.
+- Nurek odniósł sukces i nie został zaatakowany; Stanley traktuje to emocjonalnie jako znaczące, ale wie, że nie jest to dowód.
+- Po przechwyceniu wybrał transport bezpośrednio na Skyropulę zamiast Skyros, preferując tajność mimo prowizorycznej infrastruktury.
+- Po umieszczeniu rekina w zbiorniku zdecydował, że zwierzę ma dostać czas na stabilizację. Nie będzie naciskał na natychmiastowy odczyt, zwłaszcza że reaktor nie jest jeszcze gotowy.
+- Zgodził się na przygotowanie zaślepionego, nieinwazyjnego protokołu behawioralnego i bezpieczniejszej architektury przyszłego odczytu/transferu.
 
 ## Roman Bagrowski
 - Jego wzorzec źródłowy został wymazany z własnego mózgu.
@@ -36,38 +38,36 @@
 - Jego wzorzec został przywrócony do własnego mózgu po katastrofie.
 - Opisał Jelenie subiektywne doświadczenie oddzielenia od ciała, panoramicznej percepcji oraz późniejszej ciemnej „kurtyny” i obecności bytów nazwanych przez niego „duchami”.
 - Surowe logi powrotnego zapisu zawierają anomalię `COMMON-MODE SATURATION — SOURCE UNKNOWN`.
-- Po pięciodniowym urlopie wrócił do lżejszych obowiązków, ale sam zgłosił się do pierwszej ekipy poszukiwawczej jako specjalista od telemetrii.
-- Podczas operacji funkcjonuje dobrze technicznie mimo stresu i skojarzeń morza z zalaną komorą.
+- Po pięciodniowym urlopie wrócił do lżejszych obowiązków, a później sam zgłosił się do pierwszej ekipy poszukiwawczej jako specjalista od telemetrii.
+- Podczas operacji funkcjonował dobrze technicznie mimo stresu i skojarzeń morza z zalaną komorą.
 - Pierwszy potwierdził silny sygnał i wizualnie rozpoznał właściwego oznaczonego rekina.
-- Wrócił na Skyropulę wraz z ekipą i rekinem; nadal nie wie o wcześniejszej anomalii z 13 kwietnia.
+- Wrócił na Skyropulę wraz z ekipą i rekinem.
+- Przy przygotowaniu badań może pomagać przy kamerach, telemetrii i automatycznej rejestracji, ale Jelena i Stanley nie chcą używać go jako emocjonalnego bodźca w pierwszym zaślepionym teście.
+- Nadal nie wie o wcześniejszej anomalii z 13 kwietnia.
 
 ## Jelena Ivanova
 - Nadal odrzuca metafizyczne wyjaśnienia jako hipotezę roboczą i skupia się na danych obserwowalnych.
 - Ma lokalne logi katastrofy i zna anomalię common-mode podczas przywracania Henry’ego.
 - Nie ujawniła zespołowi swojego skojarzenia tej anomalii ze słowem „kurtyna”.
 - Nadal nie zna historii Oliwii ani sekretu Stanleya z 13 kwietnia.
-- Była przeciwna wysłaniu Henry’ego na morze, lecz Stanley podjął przeciwną decyzję.
 - Po odnalezieniu i przechwyceniu zwierzęcia nadal podkreśla, że potwierdzono właściwego rekina, lecz nie obecność Romana w jego mózgu.
+- Popiera stabilizację rekina przed jakimkolwiek odczytem i przygotowuje zaślepiony protokół zachowania oraz kryteria przyszłego read-only.
 
-## Rekin i operacja poszukiwawcza
-- Rekin został oznaczony nadajnikiem telemetrycznym podczas katastrofy, odnaleziony podczas pierwszej operacji i wizualnie potwierdzony.
-- Przez dłuższy czas płynął w pobliżu pierwszego patrolowca i kilkukrotnie dostosowywał kurs po zmianach kursu jednostki; biologowie wskazują naturalne wyjaśnienia.
-- Stanley zdecydował o nocnym przechwyceniu.
-- Rekin wszedł do półzanurzalnej ramy i otrzymał lekką sedację.
-- Tylna brama zablokowała się po uderzeniu zwierzęcia. Stanley zgodził się na ręczne odblokowanie prowadnicy przez wyszkolonego nurka.
-- Nurek bezpiecznie podszedł od zewnętrznej strony ramy, odblokował prowadnicę i brama została domknięta; rekin nie zaatakował.
-- Po przechwyceniu Stanley skierował jednostkę bezpośrednio na Skyropulę.
-- Transport zakończył się bez utraty zwierzęcia. Krótką niestabilność jednej pompy skompensował układ zapasowy.
-- Moore i Dawson przygotowali prowizoryczny duży zbiornik obiegowy z wymuszonym przepływem natlenionej wody, filtrowaniem i awaryjnym zasilaniem pomp.
-- Rekin został przeniesiony z ramy do zbiornika bez widocznych urazów i po ustąpieniu sedacji regularnie krąży po basenie. Weterynarz ocenia go jako zmęczonego, ale obecnie stabilnego.
-- Rozwiązanie nie nadaje się do długotrwałego utrzymania żarłacza białego; zespół ma ograniczone okno na ocenę zwierzęcia i zaplanowanie dalszych działań.
+## Rekin
+- Został oznaczony nadajnikiem telemetrycznym podczas katastrofy, odnaleziony podczas pierwszej operacji i wizualnie potwierdzony.
+- Przez dłuższy czas płynął w pobliżu patrolowca i kilkukrotnie dostosowywał kurs po zmianach kursu jednostki; istnieją naturalne wyjaśnienia tego zachowania.
+- Został skutecznie przechwycony żywy w półzanurzalnej ramie. Podczas awarii bramy wyszkolony nurek ręcznie odblokował prowadnicę i nie został zaatakowany.
+- Po transporcie na Skyropulę został przeniesiony do prowizorycznego dużego obiegu z wymuszonym przepływem natlenionej wody, filtrowaniem i awaryjnym zasilaniem pomp.
+- Po ustąpieniu sedacji jest biologicznie stabilny, ale wyraźnie zestresowany. Raz uderzył bokiem w ścianę obiegu; weterynarz nie stwierdził poważnego urazu i nakazał ograniczyć ludzi oraz bodźce przy zbiorniku.
+- Prowizoryczny zbiornik nie jest rozwiązaniem długoterminowym.
 
 ## Reaktor i odbudowa
 - Katastrofa została powiązana z przegrzaniem, zwiększonym parowaniem, spadkiem poziomu medium, niesprawnym pełnym awaryjnym zrzutem prętów i wzrostem ciśnienia.
 - Do atmosfery wydostała się radioaktywna para.
 - Hewlett finansuje ciężki sprzęt, naprawę reaktora, nowy mechanizm prętów oraz większe akumulatory.
-- Odbudowa trwa równolegle; pełna procedura transferowa nadal nie jest gotowa.
-- Moore i Dawson odtwarzają pełny model wykonawczy oraz analizują, czy dodatkowy żywy układ w zalanej komorze może ilościowo wyjaśnić skok poboru mocy i zmianę pola.
+- Reaktor nadal NIE jest gotowy do impulsowych obciążeń aparatury transferowej. Przed dopuszczeniem wymagane są dalsze próby ciśnieniowe, sprawdzenie obiegów, awaryjnego zrzutu i zachowania układu przy dynamicznym poborze mocy.
+- Stanley wyraźnie zaakceptował, że testów reaktora nie wolno skracać tylko dlatego, że rekin został odnaleziony.
+- Zespół pracuje nad poprawioną architekturą: twarde przerwanie po utracie potwierdzonego celu, fizyczna separacja erasera od ścieżki odczytu, potwierdzenie kanału zapisu przed wymazaniem oraz model energii oparty na rzeczywistym as-built.
 
 ## Jonathan Paxton, Phoenix i nieznajomy
 - Paxton wcześniej przejął nieznajomego znalezionego w grupie po ewakuacji; jego dalszy los pozostaje nieznany Jelenie.
@@ -89,15 +89,15 @@
 - Scena 032: Stanley odnajduje wcześniejszą anomalię z 13 kwietnia i zachowuje ją w tajemnicy.
 - Scena 033: plan poszukiwań jest znacznie precyzyjniejszy niż w źródle dzięki oznaczeniu rekina; Henry zostaje dopuszczony do pierwszej ekipy mimo zastrzeżeń Jeleny.
 - Scena 034: rekin zostaje odnaleziony i skutecznie przechwycony żywy znacznie wcześniej niż w bazowej chronologii.
-- Scena 034b: rekin trafia bezpośrednio na Skyropulę do prowizorycznego dużego zbiornika, zamiast pozostawać długo na morzu lub być przewożony przez publiczne zaplecze Skyros.
+- Scena 034b: rekin trafia bezpośrednio na Skyropulę do prowizorycznego dużego zbiornika.
+- Scena 035: zamiast natychmiastowego odczytu Stanley daje rekinowi czas na stabilizację i wykorzystuje przestój reaktora do zaprojektowania bezpieczniejszej procedury oraz zaślepionych testów behawioralnych.
 
 ## Aktywne wątki
 - Potwierdzenie lub odrzucenie hipotezy, że wzorzec Romana znajduje się w rekinie.
-- Zaprojektowanie bezpiecznego, możliwie nieinwazyjnego sposobu badania rekina przed pełnym przywróceniem aparatury transferowej.
+- Zaślepiony, nieinwazyjny protokół badań zachowania rekina przed read-only.
 - Ograniczony czas bezpiecznego utrzymania żarłacza w prowizorycznym zbiorniku.
 - Prywatny sekret Stanleya: wiadomość Romana i anomalia z 13 kwietnia.
 - Próba odzyskania / odtworzenia surowego pliku diagnostycznego z 13 kwietnia.
-- Odtworzenie pełnego modelu wykonawczego z Moore’em i Dawsonem.
 - Wyjaśnienie źródła `COMMON-MODE SATURATION` podczas przywracania Henry’ego.
 - Utrzymanie biologicznego ciała Romana przy życiu.
 - Odbudowa reaktora i przebudowa energetyki transferu.
@@ -105,5 +105,6 @@
 - Tożsamość i los nieznajomego przejętego przez Paxtona.
 
 ## Następny punkt
-- Rekin jest już na Skyropuli i po ustąpieniu sedacji pozostaje stabilny w prowizorycznym zbiorniku.
-- Pełna aparatura transferowa nie jest jeszcze gotowa, więc zespół musi zdecydować, czy najpierw dać zwierzęciu czas na stabilizację i obserwację, czy natychmiast rozpocząć nieinwazyjne / read-only próby potwierdzenia obecności wzorca Romana przy użyciu dostępnych narzędzi i przygotowywanej infrastruktury.
+- Bazowy kanon przechodzi do `novel/scenes/036-ostrzezenie-zebraczki.md`.
+- Scena źródłowa zawiera jawnie nadnaturalnie brzmiące ostrzeżenie. W kampanii należy zachować zdarzenie i ważny motyw słowa „kurtyna”, ale zgodnie z regułą tonu przedstawić je z perspektywy Stanleya w sposób początkowo możliwy do racjonalizacji jako zbieg okoliczności, plotka, prowokacja, manipulacja lub błędna percepcja.
+- Stanley nadal NIE zna faktu, że Henry wcześniej użył wobec Jeleny słowa „kurtyna”.
