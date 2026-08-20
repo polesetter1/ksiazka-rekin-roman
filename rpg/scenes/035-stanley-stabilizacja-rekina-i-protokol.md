@@ -1,0 +1,15 @@
+# 035. Stanley — stabilizacja rekina i praca nad bezpieczniejszą procedurą
+
+Po umieszczeniu przechwyconego rekina w prowizorycznym obiegu wodnym na Skyropuli Stanley zdecydował, że nie będzie naciskał na natychmiastowy odczyt. Zwierzę ma najpierw dojść do siebie po sedacji, transporcie i przeładunku. Decyzję wzmacnia stan techniczny ośrodka: reaktor nadal nie jest gotowy do bezpiecznego zasilania impulsów wymaganych przez aparaturę transferową, więc uruchamianie nawet części procedury pod presją czasu byłoby powtórzeniem błędów, które doprowadziły do katastrofy.
+
+W pierwszych godzinach rekin pozostaje biologicznie stabilny, ale wyraźnie zestresowany. Po ustąpieniu sedacji pływa szybciej i raz uderza bokiem w ścianę obiegu. Weterynarz nie stwierdza poważnego urazu, lecz nakazuje ograniczyć ludzi przy zbiorniku, wygasić zbędne światła, zakazać fotografowania z lampą i utrzymać możliwie stałe warunki przepływu oraz temperatury. Zwierzę nie wykazuje ostrej niewydolności, ale nikt nie gwarantuje, że prowizoryczny obieg będzie bezpieczny długoterminowo.
+
+Moore potwierdza, że odbudowa reaktora nadal trwa. Nowy układ awaryjnego zrzutu prętów i część instalacji zostały naprawione, lecz przed dopuszczeniem reaktora do obciążeń impulsowych konieczne są dalsze próby ciśnieniowe, sprawdzenie obiegów, zabezpieczeń i zachowania systemu przy dynamicznym poborze energii. Stanley akceptuje, że nie będzie skracania tych testów tylko dlatego, że rekin został odnaleziony.
+
+Czas oczekiwania zespół wykorzystuje do pracy nad poprawioną architekturą transferu. Stanley, Jelena, Moore i Dawson formułują kilka zasad: system nie może kontynuować procedury po utracie jednoznacznego potwierdzenia właściwego celu; eraser ma pozostać fizycznie odseparowany od ścieżki odczytu i nie może zostać aktywowany bez potwierdzonego kanału zapisu; model energetyczny ma uwzględniać rzeczywistą geometrię wykonawczą i gwałtowne zmiany obciążenia; procedura ma posiadać twarde warunki przerwania zamiast automatycznego kompensowania nieznanej zmiany środowiska pola.
+
+Jelena proponuje, aby zanim reaktor będzie gotowy, opracować całkowicie nieinwazyjny, zaślepiony protokół obserwacji zachowania rekina. Celem nie jest udowodnienie, że zwierzę „jest Romanem”, lecz sprawdzenie, czy wykazuje powtarzalne reakcje na bodźce związane z Romanem w porównaniu z dobranymi kontrolami. Stanley zgadza się, że interpretacja danych ma nastąpić dopiero po zakończeniu całej serii, bez dostosowywania kryteriów do wyniku.
+
+Henry pozostaje poza bezpośrednim planowaniem kolejnego transferu. Może pomagać technicznie przy kamerach, telemetrii i automatycznej rejestracji zachowania, ale nie ma być używany jako emocjonalny bodziec ani osoba mająca „sprawdzić”, czy rekin go rozpoznaje.
+
+Scena kończy się po kilkunastu godzinach, gdy rekin jest nadal zmęczony i zestresowany, ale stabilny, a zespół ma czas na przygotowanie protokołu zamiast natychmiastowego ryzykowania kolejnej procedury. Stanley po raz pierwszy od katastrofy świadomie odkłada eksperyment nie dlatego, że nie może go przeprowadzić, lecz dlatego, że uznaje, iż jeszcze nie powinien.
