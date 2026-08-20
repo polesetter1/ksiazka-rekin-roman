@@ -2,14 +2,21 @@
 
 ## 002 — Pierwszy wieczór Stanleya na Skyros
 - **Miejsce w chronologii:** po przylocie Stanleya na Skyros i zakwaterowaniu w hotelu Nefeli, przed pierwszymi właściwymi oględzinami Skyropuli.
-- **Wydarzenie kanoniczne:** Stanley po około czterech godzinach snu schodzi na imprezę przy basenie, pije znaczną ilość alkoholu, prowadzi niezręczną rozmowę z Talą, składa wobec niej niestosowną sugestię, traci równowagę i wpada do basenu. Zdarzenie może być widoczne w hotelowym monitoringu i pozostawia go następnego ranka zawstydzonego oraz z kacem.
-- **Wydarzenie RPG:** Stanley po krótkim wahaniu zostaje w pokoju L113. Przygotowuje plan pierwszego dnia pracy, analizuje dostępne informacje i idzie odpocząć. Nie pije alkoholu i nie uczestniczy w imprezie.
-- **Przyczyna rozbieżności:** świadoma decyzja gracza.
-- **Znane / prawdopodobne konsekwencje:** Stanley rozpoczyna kolejny dzień bardziej wypoczęty i skupiony; jego relacja z Talą pozostaje neutralna; nie istnieje kompromitujący incydent ani nagranie z basenu z pierwszej nocy; wszelkie późniejsze zdarzenia zależne od tej kompromitacji nie mogą być przyjmowane automatycznie z kanonu.
+- **Wydarzenie kanoniczne:** Stanley bierze udział w imprezie przy basenie i kompromituje się.
+- **Wydarzenie RPG:** Stanley zostaje w pokoju, pracuje i odpoczywa.
+- **Przyczyna rozbieżności:** decyzja gracza.
+- **Konsekwencje:** brak kompromitującego incydentu i związanych z nim skutków.
 
 ## 016 — Pierwszy odczyt żywego ludzkiego mózgu
-- **Miejsce w chronologii:** próbne rozruchy stanowiska, bezpośrednio przed pełnymi próbami transferu na zwierzętach.
-- **Wydarzenie kanoniczne:** po nieudanej próbie na martwym świńskim mózgu Stanley Hutchins sam zgłasza się jako pierwszy żywy człowiek poddany pełnemu odczytowi mózgu. Podczas procedury jest nieprzytomny, więc nie może kierować próbą z mostka.
-- **Wydarzenie RPG:** Jelena odmawia użycia Stanleya jako obiektu testowego, argumentując, że „kapitan musi być na mostku”. Zespół szuka innego świadomego ochotnika. Zgłasza się Phil, młody inżynier znany zespołowi z części technicznej projektu, pod warunkiem fizycznego odłączenia erasera i obecności Stanleya na mostku. Pierwszy odczyt daje wyraźnie użyteczne dane z żywego mózgu, lecz Jelena przerywa procedurę przed pełnym zakończeniem z powodu narastającej temperatury tkanki. Phil odzyskuje świadomość bez trwałych objawów, z przejściowym bólem głowy i oszołomieniem.
-- **Przyczyna rozbieżności:** świadoma decyzja gracza, aby zachować Stanleya w roli kierującego eksperymentem zamiast narażać go jako obiekt.
-- **Znane / prawdopodobne konsekwencje:** Stanley pozostaje na mostku i uzyskuje pełniejszy nadzór nad pierwszą żywą próbą; Phil staje się pierwszym ludzkim ochotnikiem w historii RPG projektu; procedura odczytu wymaga dodatkowej optymalizacji chłodzenia / parametrów pola przed uznaniem jej za w pełni zwalidowaną; relacja Jelena–Stanley zyskuje precedens, że Jelena może zablokować jego osobiste ryzyko z powodów operacyjnych i medycznych.
+- **Miejsce w chronologii:** próbne rozruchy przed transferem psów.
+- **Wydarzenie kanoniczne:** pierwszym żywym ludzkim obiektem odczytu jest Stanley.
+- **Wydarzenie RPG:** Jelena zatrzymuje Stanleya na mostku; zgłasza się Phil. Odczyt zostaje przerwany przez niebezpieczny trend termiczny, a Phil wychodzi z próby bez trwałych następstw.
+- **Przyczyna rozbieżności:** decyzja gracza.
+- **Konsekwencje:** Phil jest pierwszym ludzkim ochotnikiem; Stanley kieruje próbą z mostka; system zostaje poprawiony przed dalszymi eksperymentami.
+
+## 025 — Rekin zostaje oznaczony nadajnikiem
+- **Miejsce w chronologii:** bezpośrednio po nieudanym zapisie Romana do ciała Henry’ego i rozszczelnieniu kopuły.
+- **Wydarzenie kanoniczne:** rekin opuszcza uszkodzony ośrodek bez trwałego oznaczenia, co później wymusza szeroką akcję poszukiwawczą.
+- **Wydarzenie RPG:** Stanley odwołuje nurków, najpierw chroni Henry’ego i energetykę, przywraca wzorzec Henry’ego do jego własnego ciała, a następnie każe zdalnie wszczepić rekinowi nadajnik telemetryczny. Zwierzę opuszcza kopułę przez wyrwę, a zespół zachowuje jego sygnał.
+- **Przyczyna rozbieżności:** decyzja gracza.
+- **Konsekwencje:** zespół może śledzić konkretnego rekina, którego Stanley podejrzewa o noszenie wzorca Romana. Hipoteza nadal nie jest potwierdzona. Poszukiwania Romana mogą przez to przebiegać znacznie szybciej i precyzyjniej niż w powieści.
