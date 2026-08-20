@@ -1,8 +1,8 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–031b zakończone i zapisane; kolejny bazowy punkt kanonu to scena 032.
-- Ostatnia sfinalizowana scena: `rpg/scenes/031b-jelena-anomalia-kurtyny.md`.
+- Status: sceny RPG 001–031c zakończone i zapisane; kolejny bazowy punkt kanonu to scena 032.
+- Ostatnia sfinalizowana scena: `rpg/scenes/031c-jelena-zaslepiony-wywiad-henry.md`.
 - Bieżący bazowy punkt kanonu: `novel/plan.md` — przed sceną 32, **Powrotne wprowadzenie do podziemnego ośrodka**.
 - Perspektywa: Jelena Ivanova; następna scena może przejść do Stanleya zgodnie ze źródłem.
 - Miejsce: Skyros podczas analizy danych i odbudowy, przed pełnym powrotem zespołu do podziemnego ośrodka.
@@ -18,6 +18,7 @@
 - Nie chce zastępować Romana jednym nowym kierownikiem; zespół przejmuje część jego obowiązków.
 - Rano po analizie Jeleny poznał fizyczny ślad wzmacniający hipotezę, że podczas błędnego transferu w polu pojawiło się dodatkowe żywe obciążenie.
 - Poznał również niewyjaśnioną anomalię common-mode podczas późniejszego przywracania Henry’ego, ale Jelena nie powiedziała mu o możliwym skojarzeniu ze słowem „kurtyna”.
+- Zaproponował ponowną rozmowę z Henrym, lecz zaakceptował warunek Jeleny, że sam nie będzie uczestniczył w wywiadzie, aby nie zwiększać presji ani ryzyka sugestii.
 
 ## Roman Bagrowski
 - Jego wzorzec źródłowy został wymazany z własnego mózgu.
@@ -31,8 +32,13 @@
 - Jest silnie straumatyzowany i podczas wideokonferencji gwałtownie sprzeciwił się dalszym przygotowaniom do pełnego transferu, uderzając dłonią w stół i wychodząc.
 - Opisał Jelenie subiektywne doświadczenie oddzielenia od ciała, panoramicznej percepcji oraz późniejszej ciemnej „kurtyny” i obecności bytów, które nazwał „duchami”.
 - Jelena nie traktuje tej interpretacji jako hipotezy naukowej.
-- Surowe logi z ponownego zapisu Henry’ego zawierają jednak osobną, techniczną anomalię: przez około dwie sekundy niezależne kanały rejestracji korowej raportowały niemal identyczny przebieg próbka po próbce mimo stabilnego zasilania, prawidłowych znaczników czasu i poprawnych sum kontrolnych. Po epizodzie kanały rozdzieliły się i pojawiła się prawidłowa odpowiedź korowa.
-- Zjawisko jest oznaczone roboczo jako `COMMON-MODE SATURATION — SOURCE UNKNOWN`. Nie ma dowodu, że odpowiada subiektywnemu doświadczeniu „kurtyny”, a Jelena nie przedstawia takiej korelacji zespołowi.
+- Surowe logi z ponownego zapisu Henry’ego zawierają osobną, techniczną anomalię: przez około dwie sekundy niezależne kanały rejestracji korowej raportowały niemal identyczny przebieg próbka po próbce mimo stabilnego zasilania, prawidłowych znaczników czasu i poprawnych sum kontrolnych. Po epizodzie kanały rozdzieliły się i pojawiła się prawidłowa odpowiedź korowa.
+- Zjawisko jest oznaczone roboczo jako `COMMON-MODE SATURATION — SOURCE UNKNOWN`. Nie ma dowodu, że odpowiada subiektywnemu doświadczeniu „kurtyny”.
+- Jelena i profesor Peterson przeprowadzili z Henrym kontrolowany, zaślepiony wywiad bez obecności Stanleya i bez ujawniania anomalii z logów.
+- Początkowe odpowiedzi Henry’ego nie dostarczyły sprawdzalnych informacji, których nie mógłby znać z wcześniejszej percepcji, pamięci lub późniejszych rozmów.
+- Przy pytaniach dotyczących okresu po utracie zwykłego poczucia ciała Henry zaczął reagować silnym lękiem i ostatecznie sam przerwał wywiad.
+- Nie podał żadnej nowej, obiektywnie weryfikowalnej informacji o „kurtynie” ani o domniemanych bytach. Powiedział jedynie, że nie chce ponownie opisywać doświadczenia po to, aby zespół zamienił je w wykres i użył do kolejnego eksperymentu.
+- Peterson zaleca, by dalsze rozmowy odbywały się dopiero po poprawie stanu Henry’ego, bez nacisku i najlepiej nadal w sposób zaślepiony.
 
 ## Jelena Ivanova
 - Jako naukowiec odrzuca metafizyczne wyjaśnienia jako hipotezę roboczą i skupia się na danych obserwowalnych.
@@ -42,6 +48,9 @@
 - Po wieczornej analizie z Moore’em i Dawsonem zdecydowała, że nie będzie budzić Stanleya. Poczekała do rana, aby nie dawać mu przedwcześnie nadziei na podstawie niepełnych danych.
 - Rano przedstawiła zespołowi dwa tory techniczne: anomalię pola / poboru mocy podczas błędnego transferu Romana oraz osobną anomalię common-mode podczas powrotnego zapisu Henry’ego.
 - Nie ujawniła zespołowi, że słowo „kurtyna” Henry’ego przyszło jej na myśl przy analizie drugiej anomalii.
+- Zgodziła się na ponowny wywiad z Henrym tylko w formie zaślepionej i bez Stanleya. Rozmowę prowadziła wspólnie z profesorem Petersonem.
+- Po przerwaniu wywiadu przez Henry’ego uznaje brak wyniku za wynik metodologiczny: nie ma podstaw, by traktować jego reakcję lękową jako dowód na korelację z anomalią common-mode.
+- Nie zamierza dalej agresywnie wypytywać Henry’ego.
 - Nadal nie zna historii Oliwii.
 
 ## Rekin
@@ -73,6 +82,7 @@
 - Scena 030: Jelena formalnie zgodziła się na przygotowywanie kolejnego pełnego transferu po odbudowie; Henry zareagował gwałtownym sprzeciwem.
 - Scena 031: Jelena zabezpieczyła dokumentację Romana i niesynchronizowane lokalne logi transferu.
 - Scena 031b: Jelena czeka do rana z przekazaniem Stanleyowi technicznego tropu; podczas analizy powrotnego zapisu Henry’ego odkrywa niewyjaśnioną anomalię common-mode, którą nadal traktuje jako problem techniczny.
+- Scena 031c: ponowna rozmowa z Henrym odbywa się wcześniej i według kontrolowanego protokołu Jeleny z udziałem Petersona, bez Stanleya. Wywiad zostaje przerwany przez Henry’ego i nie dostarcza obiektywnego potwierdzenia jego interpretacji doświadczenia.
 
 ## Aktywne wątki
 - Odtworzenie pełnego modelu wykonawczego razem z Moore’em i Dawsonem.
