@@ -1,17 +1,23 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–031 zakończone i zapisane; kolejna scena przechodzi do analizy materiałów podczas odbudowy / dalszego toru sceny 031–032.
-- Ostatnia sfinalizowana scena: `rpg/scenes/031-jelena-biuro-romana.md`.
-- Bieżący bazowy punkt kanonu: `novel/plan.md` — koniec sceny 31, **Rozpoczęcie i proces odbudowy**, przed sceną 32.
-- Perspektywa: Jelena Ivanova.
-- Miejsce po zakończeniu sceny: powrót ze Skyropuli na Skyros z zabezpieczoną dokumentacją i logami.
+- Status: sceny RPG 001–031b zakończone i zapisane; kolejny bazowy punkt kanonu to scena 032.
+- Ostatnia sfinalizowana scena: `rpg/scenes/031b-jelena-anomalia-kurtyny.md`.
+- Bieżący bazowy punkt kanonu: `novel/plan.md` — przed sceną 32, **Powrotne wprowadzenie do podziemnego ośrodka**.
+- Perspektywa: Jelena Ivanova; następna scena może przejść do Stanleya zgodnie ze źródłem.
+- Miejsce: Skyros podczas analizy danych i odbudowy, przed pełnym powrotem zespołu do podziemnego ośrodka.
+
+## Zasada tonu od tego punktu
+- Atmosfera kampanii ma stopniowo stawać się coraz mroczniejsza.
+- Narastanie ma być powolne: najpierw drobne, racjonalizowalne anomalie i niepokojące zbieżności, później coraz trudniejsze do zignorowania wydarzenia.
+- Postacie nie otrzymują metafizycznej prawdy bez dowodów dostępnych z ich perspektywy. Jelena szczególnie długo trzyma się wyjaśnień fizycznych, neurologicznych i technicznych.
 
 ## Stanley Hutchins
 - Przeżył uraz głowy podczas awarii reaktora i zabezpieczył ostatnie dane oznaczonego rekina.
 - Jest obciążony poczuciem winy za Romana, ale wrócił do pracy nad odbudową i organizacją poszukiwań.
 - Nie chce zastępować Romana jednym nowym kierownikiem; zespół przejmuje część jego obowiązków.
-- Podczas pierwszego ograniczonego wejścia na Skyropulę pracował z Moore’em i Dawsonem przy części technicznej odbudowy / zabezpieczenia.
+- Rano po analizie Jeleny poznał fizyczny ślad wzmacniający hipotezę, że podczas błędnego transferu w polu pojawiło się dodatkowe żywe obciążenie.
+- Poznał również niewyjaśnioną anomalię common-mode podczas późniejszego przywracania Henry’ego, ale Jelena nie powiedziała mu o możliwym skojarzeniu ze słowem „kurtyna”.
 
 ## Roman Bagrowski
 - Jego wzorzec źródłowy został wymazany z własnego mózgu.
@@ -23,20 +29,19 @@
 ## Henry Marshall
 - Jego wzorzec został przywrócony do własnego mózgu po katastrofie.
 - Jest silnie straumatyzowany i podczas wideokonferencji gwałtownie sprzeciwił się dalszym przygotowaniom do pełnego transferu, uderzając dłonią w stół i wychodząc.
-- Jego relację o „duchach” Jelena nadal interpretuje wyłącznie jako subiektywne doświadczenie neurologiczne bez obiektywnego potwierdzenia metafizycznego.
+- Opisał Jelenie subiektywne doświadczenie oddzielenia od ciała, panoramicznej percepcji oraz późniejszej ciemnej „kurtyny” i obecności bytów, które nazwał „duchami”.
+- Jelena nie traktuje tej interpretacji jako hipotezy naukowej.
+- Surowe logi z ponownego zapisu Henry’ego zawierają jednak osobną, techniczną anomalię: przez około dwie sekundy niezależne kanały rejestracji korowej raportowały niemal identyczny przebieg próbka po próbce mimo stabilnego zasilania, prawidłowych znaczników czasu i poprawnych sum kontrolnych. Po epizodzie kanały rozdzieliły się i pojawiła się prawidłowa odpowiedź korowa.
+- Zjawisko jest oznaczone roboczo jako `COMMON-MODE SATURATION — SOURCE UNKNOWN`. Nie ma dowodu, że odpowiada subiektywnemu doświadczeniu „kurtyny”, a Jelena nie przedstawia takiej korelacji zespołowi.
 
 ## Jelena Ivanova
 - Jako naukowiec odrzuca metafizyczne wyjaśnienia jako hipotezę roboczą i skupia się na danych obserwowalnych.
 - Wyraziła zgodę na przygotowywanie kolejnego pełnego transferu po odbudowie, pod warunkiem przeprojektowania zabezpieczeń i wyjaśnienia mechanizmu awarii.
-- Podczas pierwszego ograniczonego wejścia na Skyropulę najpierw zabezpieczyła całe biuro Romana i jego odręczne segregatory techniczne.
-- W notatkach Romana znalazła ślady rozbieżności między modelem a wykonaniem: większy od modelowanego szum w środowisku zasolonym, uwagi o zachowaniu bufora przy szybkich zmianach obciążenia oraz informację, że część zmian wykonawczych nie została jeszcze w pełni naniesiona do modelu instalacji.
-- Jedna z notatek Romana brzmi: „sprawdzić przy pełnym obciążeniu — model nadal zbyt czysty”. Jelena traktuje ją jako roboczą uwagę techniczną.
-- Własną dokumentację neurologiczną spakowała bez analizowania na miejscu i zabrała do hotelu na Skyros.
-- Zamiast od razu rozmawiać z Moore’em i Dawsonem, wykorzystała pozostały czas na zabezpieczenie lokalnych logów centrum transferowego z pomocniczego węzła administracyjnego.
-- Udało jej się wykonać dwie niezależne kopie surowej telemetrii: pomiary pola, obciążenia, diagnostykę toru zapisu, dane czujników komory Henry’ego i część niesynchronizowanych komunikatów błędów.
-- Pobieżny podgląd logów wskazuje, że w krytycznej fazie transferu, gdy mózg Henry’ego nie potwierdzał zapisu, układ pola odnotował nagłą zmianę impedancji w zalanej komorze, korektę rozkładu energii i wzrost poboru mocy. System raportował postęp mimo bliskiego zeru na diagnostyce docelowego mózgu.
-- Dane sugerują pojawienie się dodatkowego, nieprzewidzianego obciążenia przewodzącego / biologicznego w obszarze pola. Nie identyfikują rekina ani nie dowodzą, że trafił do niego wzorzec Romana.
-- Jelena planuje skonfrontować logi i notatki Romana z Moore’em i Dawsonem już na Skyros.
+- Zabezpieczyła dokumentację techniczną Romana oraz własne materiały neurologiczne i wywiozła je na Skyros.
+- Zabezpieczyła także dwie kopie lokalnych, niesynchronizowanych logów transferu z pomocniczego węzła administracyjnego.
+- Po wieczornej analizie z Moore’em i Dawsonem zdecydowała, że nie będzie budzić Stanleya. Poczekała do rana, aby nie dawać mu przedwcześnie nadziei na podstawie niepełnych danych.
+- Rano przedstawiła zespołowi dwa tory techniczne: anomalię pola / poboru mocy podczas błędnego transferu Romana oraz osobną anomalię common-mode podczas powrotnego zapisu Henry’ego.
+- Nie ujawniła zespołowi, że słowo „kurtyna” Henry’ego przyszło jej na myśl przy analizie drugiej anomalii.
 - Nadal nie zna historii Oliwii.
 
 ## Rekin
@@ -44,14 +49,15 @@
 - Odpłynął na otwarte morze.
 - Ostatnia pozycja, czas, kierunek ruchu i identyfikator zostały zabezpieczone.
 - Paxton organizuje ludzi i sprzęt do poszukiwania / ponownego przechwycenia sygnału.
-- Nowe lokalne logi wzmacniają fizyczną możliwość, że w krytycznym momencie transferu w polu znalazł się dodatkowy żywy układ nerwowy, ale nie potwierdzają tożsamości celu.
+- Lokalne logi pokazują, że w krytycznej fazie błędnego transferu układ pola kompensował nagłą zmianę impedancji / dodatkowe obciążenie w zalanej komorze, podczas gdy mózg Henry’ego nie przyjmował wzorca. To wzmacnia fizyczną możliwość błędnego celu, ale nie identyfikuje rekina jako celu.
 
 ## Reaktor i odbudowa
 - Katastrofa została powiązana z przegrzaniem, zwiększonym parowaniem, spadkiem poziomu medium, niesprawnym pełnym awaryjnym zrzutem prętów i wzrostem ciśnienia.
 - Do atmosfery wydostała się radioaktywna para.
 - Hewlett zapewnia środki na ciężki sprzęt, naprawę reaktora, nowy mechanizm prętów i większe akumulatory.
 - Większość Skyropuli pozostaje czasowo niedostępna podczas prac zabezpieczających i odbudowy.
-- Notatki Romana i świeżo zabezpieczone logi wskazują, że rzeczywista konfiguracja oraz zachowanie instalacji odbiegały miejscami od modelu, ale nie ma jeszcze dowodu, która rozbieżność była przyczyną błędnego celu transferu.
+- Notatki Romana i lokalne logi wskazują, że rzeczywista konfiguracja oraz zachowanie instalacji odbiegały miejscami od modelu.
+- Moore i Dawson mają odtworzyć pełną konfigurację wykonawczą i model pola z dodatkowym żywym układem nerwowym w zalanej komorze.
 
 ## Jonathan Paxton i nieznajomy
 - Paxton wcześniej przejął nieznajomego znalezionego w grupie po ewakuacji; jego los pozostaje nieznany Jelenie.
@@ -65,11 +71,13 @@
 - Scena 028: Jelena wykryła nadmiarową osobę przez formalną kontrolę kart dostępu; Paxton przejął nieznajomego przez ochronę.
 - Scena 029: Jelena utrzymuje interpretację doświadczenia Henry’ego w granicach neurologii i danych obserwowalnych.
 - Scena 030: Jelena formalnie zgodziła się na przygotowywanie kolejnego pełnego transferu po odbudowie; Henry zareagował gwałtownym sprzeciwem.
-- Scena 031: Jelena nie ograniczyła się do dokumentacji Romana; zabezpieczyła także niesynchronizowane lokalne logi transferu, które mogą pozwolić zespołowi dokładniej odtworzyć techniczną anomalię.
+- Scena 031: Jelena zabezpieczyła dokumentację Romana i niesynchronizowane lokalne logi transferu.
+- Scena 031b: Jelena czeka do rana z przekazaniem Stanleyowi technicznego tropu; podczas analizy powrotnego zapisu Henry’ego odkrywa niewyjaśnioną anomalię common-mode, którą nadal traktuje jako problem techniczny.
 
 ## Aktywne wątki
-- Analiza notatek Romana razem z Moore’em i Dawsonem na Skyros.
-- Analiza surowych lokalnych logów i korelacja ich z EEG Henry’ego, poborem energii oraz momentem zalania komory.
+- Odtworzenie pełnego modelu wykonawczego razem z Moore’em i Dawsonem.
+- Sprawdzenie, czy dodatkowy żywy układ nerwowy w zalanej komorze może ilościowo wyjaśnić skok poboru mocy i zmianę pola.
+- Wyjaśnienie źródła `COMMON-MODE SATURATION` podczas przywracania Henry’ego.
 - Poszukiwanie oznaczonego rekina i ponowne przechwycenie jego sygnału.
 - Utrzymanie ciała Romana przy życiu.
 - Odbudowa reaktora i przebudowa energetyki transferu.
