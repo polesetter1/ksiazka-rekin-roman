@@ -1,9 +1,9 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–032 zakończone i zapisane; scena 032 kończy się nowym punktem decyzyjnym Stanleya.
+- Status: sceny RPG 001–032 zakończone i zapisane; scena 033 rozpoczyna się.
 - Ostatnia sfinalizowana scena: `rpg/scenes/032-stanley-notatki-13-kwietnia.md`.
-- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 32, **Powrotne wprowadzenie do podziemnego ośrodka**, przed przejściem do sceny 33.
+- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 33, **Opracowanie planu z wojskiem**.
 - Perspektywa bieżąca: Stanley Hutchins.
 - Miejsce: częściowo ponownie uruchomiony podziemny ośrodek na Skyropuli, kilka tygodni po katastrofie i w trakcie odbudowy.
 
@@ -17,15 +17,12 @@
 - Terapia z profesorem Petersonem oraz praca przy odbudowie pozwalają mu stopniowo odzyskiwać funkcjonalność, choć nadal jest obciążony losem Romana.
 - Zna fizyczny ślad wzmacniający hipotezę dodatkowego żywego obciążenia w polu podczas błędnego transferu Romana.
 - Zna niewyjaśnioną anomalię `COMMON-MODE SATURATION — SOURCE UNKNOWN` z powrotnego zapisu Henry’ego, ale Jelena nie powiedziała mu o swoim skojarzeniu tej anomalii ze słowem „kurtyna”.
-- Po częściowym ponownym otwarciu ośrodka wrócił do swojego biura.
 - W otrzymanej od Romana powieści `Samozwaniec` znalazł kartkę: „Gdyby coś poszło nie tak, zajrzyj do moich notatek z trzynastego kwietnia. Ufam, że zrozumiesz.”
-- Stanley zdecydował, że najpierw sam odnajdzie wskazane notatki.
-- Odnalazł chronologiczny zeszyt Romana z 13 kwietnia. Roman opisał w nim wcześniejszy, krótki test diagnostyczny układu pola przy pustej komorze / bez ludzkiego celu, podczas którego wiele niezależnych kanałów przez około dwie sekundy raportowało niemal identyczny wspólny przebieg.
-- Roman podejrzewał problem z masą, sprzężeniem lub elektroniką; zjawisko nie powtórzyło się w kolejnej próbie.
-- W tym samym przedziale Roman zanotował krótkie ściemnienie / utratę kontrastu w centralnej części obrazu z dwóch kamer obserwujących komorę, bez zaniku zasilania i bez oczywistej awarii oświetlenia. Traktował to jako możliwy błąd ekspozycji / elektroniki.
-- Dla Stanleya podobieństwo do późniejszego `COMMON-MODE SATURATION` Henry’ego jest niepokojące, ale nie stanowi dowodu na nic poza powtarzającą się anomalią techniczną.
-- Roman wskazał ścieżkę do surowego pliku z testu 13 kwietnia. Stanley znalazł tylko uszkodzoną / niekompletną kopię; metadane potwierdzają, że test się odbył, ale nie pozwalają obecnie niezależnie zweryfikować całego przebiegu.
-- Wpis Romana kończy się uwagą, że gdyby podobne zjawisko wystąpiło kiedykolwiek przy realnym transferze, nie należy automatycznie uznawać go za zwykły błąd pomiarowy bez sprawdzenia, co naprawdę rejestruje układ.
+- Sam odnalazł notatki z 13 kwietnia. Roman opisał w nich wcześniejszy test przy pustej komorze, podczas którego przez około dwie sekundy wiele niezależnych kanałów złożyło się w niemal identyczny wspólny przebieg, a dwie kamery jednocześnie zanotowały krótkie ściemnienie centralnej części obrazu bez zaniku zasilania.
+- Zjawisko z 13 kwietnia nie powtórzyło się w kolejnej próbie i Roman roboczo traktował je jako potencjalne sprzężenie / problem masy / elektronikę. Dopisał jednak, że jeśli kiedykolwiek pojawi się ponownie przy realnym transferze, nie wolno automatycznie uznać go za artefakt.
+- Surowy plik z 13 kwietnia jest uszkodzony / niekompletny; Stanley ma metadane i papierową notatkę, ale nie pełny zapis do niezależnej weryfikacji.
+- Stanley świadomie postanowił zachować kartkę i znaczenie notatki z 13 kwietnia wyłącznie dla siebie. Nie mówi o tym Jelenie, Moore’owi, Dawsonowi ani Henry’emu.
+- Uzasadnia sekret metodologicznie: bez surowych danych nie chce zaszczepiać zespołowi hipotezy i uruchamiać biasu potwierdzenia. Faktycznie po raz pierwszy tworzy prywatną warstwę wiedzy o projekcie, której nie dzieli z zespołem.
 
 ## Roman Bagrowski
 - Jego wzorzec źródłowy został wymazany z własnego mózgu.
@@ -33,8 +30,7 @@
 - Ciało Romana pozostaje biologicznie żywe i jest utrzymywane na niezależnym podtrzymaniu życia w centrum meteorologicznym.
 - Zespół traktuje oznaczonego rekina jako potencjalnego nosiciela wzorca Romana, ale hipoteza pozostaje niepotwierdzona.
 - Jelena zabezpieczyła jego dokumentację techniczną i odręczne segregatory.
-- Kartka ukryta w książce doprowadziła Stanleya do notatki z 13 kwietnia opisującej wcześniejszą anomalię common-mode i równoczesne zakłócenie obrazu kamer podczas testu bez ludzkiego celu.
-- Roman nie pozostawił metafizycznej interpretacji zjawiska; traktował je jako niewyjaśniony problem techniczny wymagający ponownej weryfikacji, jeśli kiedykolwiek powróci.
+- Tylko Stanley zna obecnie ukrytą wskazówkę Romana i wcześniejszą anomalię z 13 kwietnia.
 
 ## Henry Marshall
 - Jego wzorzec został przywrócony do własnego mózgu po katastrofie.
@@ -43,6 +39,7 @@
 - Kontrolowany, zaślepiony wywiad z Jeleną i Petersonem nie dostarczył nowych obiektywnie weryfikowalnych informacji i został przerwany przez Henry’ego.
 - Dostał pięciodniowy urlop, po którym wrócił do projektu na lżejsze zadania: intranet, sprzęt, kopie zapasowe, katalogowanie dokumentacji i infrastruktura pomocnicza.
 - Nie uczestniczy obecnie bezpośrednio w planowaniu kolejnego pełnego transferu ani w pracy przy komorze.
+- Nie wie o wcześniejszej anomalii z 13 kwietnia.
 
 ## Jelena Ivanova
 - Odrzuca metafizyczne wyjaśnienia jako hipotezę roboczą i skupia się na danych obserwowalnych.
@@ -52,7 +49,7 @@
 - Nie ujawniła zespołowi swojego skojarzenia tej anomalii ze słowem „kurtyna”.
 - Zgodziła się na dalsze przygotowania do pełnego transferu po odbudowie pod warunkiem nowych zabezpieczeń i wyjaśnienia mechanizmu awarii.
 - Nadal nie zna historii Oliwii.
-- Nie wie jeszcze, że Stanley odnalazł kartkę Romana ani notatkę z 13 kwietnia.
+- Nie wie, że Stanley odnalazł kartkę Romana ani notatkę z 13 kwietnia.
 
 ## Rekin
 - Został oznaczony nadajnikiem telemetrycznym przed opuszczeniem kopuły i odpłynął na otwarte morze.
@@ -83,10 +80,10 @@
 - Scena 031b: Jelena odkryła niewyjaśnioną anomalię common-mode podczas przywracania Henry’ego.
 - Scena 031c: kontrolowany wywiad Henry’ego odbył się wcześniej, z Petersonem i bez Stanleya; nie dał obiektywnego potwierdzenia relacji.
 - Scena 031d: Henry dostał pięciodniowy urlop i po powrocie pracuje czasowo przy lżejszych zadaniach.
-- Scena 032 rozwija kanoniczną wskazówkę Romana z 13 kwietnia: Stanley odnajduje wcześniejszą techniczną anomalię podobną do późniejszego common-mode Henry’ego, ale bez surowych danych pozwalających ją obecnie zweryfikować.
+- Scena 032 rozwija kanoniczną wskazówkę Romana z 13 kwietnia: Stanley odnajduje wcześniejszą techniczną anomalię podobną do późniejszego common-mode Henry’ego i decyduje się zachować ją w tajemnicy przed zespołem.
 
 ## Aktywne wątki
-- Co Stanley zrobi z notatką Romana z 13 kwietnia i czy pokaże ją Jelenie.
+- Prywatny sekret Stanleya: wiadomość Romana i anomalia z 13 kwietnia.
 - Próba odzyskania / odtworzenia surowego pliku diagnostycznego z 13 kwietnia.
 - Odtworzenie pełnego modelu wykonawczego z Moore’em i Dawsonem.
 - Sprawdzenie, czy dodatkowy żywy układ nerwowy w zalanej komorze wyjaśnia skok poboru mocy i zmianę pola.
@@ -97,8 +94,7 @@
 - Stan psychiczny Henry’ego po transferze.
 - Tożsamość i los nieznajomego przejętego przez Paxtona.
 
-## Nierozwiązany punkt decyzyjny sceny 032
-- Stanley sam odnalazł notatkę Romana z 13 kwietnia.
-- Wcześniejszy test przy pustej komorze zawiera opis krótkiego common-mode na wielu niezależnych kanałach oraz równoczesne krótkie zakłócenie obrazu kamer; Roman nie znał przyczyny i nie przypisywał temu znaczenia pozatechnicznego.
-- Surowy plik wskazany przez Romana jest uszkodzony / niekompletny, więc Stanley nie może jeszcze zweryfikować zapisu bezpośrednio.
-- Stanley musi zdecydować, czy natychmiast pokazać notatkę Jelenie i zestawić oba zdarzenia, czy najpierw sam spróbować odzyskać brakujące dane / znaleźć starszą kopię i dopiero wtedy ujawnić sprawę.
+## Następna scena
+- Spotkanie z wojskiem i opracowanie planu odnalezienia oznaczonego rekina / Romana.
+- Adaptacja źródłowej sceny musi uwzględnić, że rekin został fizycznie oznaczony i Stanley ma ostatnią znaną pozycję, czas, kierunek oraz identyfikator nadajnika; nie wolno wracać do źródłowego szerokiego, całkowicie ślepego poszukiwania całego Morza Śródziemnego.
+- Stanley nie zamierza ujawniać wojskowym ani zespołowi sekretu notatek z 13 kwietnia.
