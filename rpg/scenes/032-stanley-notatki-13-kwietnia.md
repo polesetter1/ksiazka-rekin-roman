@@ -14,4 +14,6 @@ Roman w notatce wskazał ścieżkę do surowego pliku diagnostycznego z testu z 
 
 Wpis kończy się krótką uwagą Romana, że jeśli zjawisko kiedykolwiek pojawi się ponownie przy realnym transferze, nie wolno automatycznie zakładać, że jest zwykłym błędem pomiarowym — najpierw trzeba ustalić, co naprawdę rejestruje układ. Roman nie przedstawia gotowej teorii ani metafizycznego wyjaśnienia.
 
-Stanley pozostaje sam z informacją. Musi zdecydować, czy natychmiast pokazać notatkę Jelenie i zestawić oba zdarzenia, czy najpierw w tajemnicy spróbować odzyskać brakujący surowy zapis z 13 kwietnia i upewnić się, że nie buduje kolejnej hipotezy na jednym starym zeszycie.
+Stanley świadomie decyduje się zatrzymać zarówno kartkę, jak i znaczenie notatki z 13 kwietnia dla siebie. Nie mówi o wcześniejszej anomalii Jelenie, Moore’owi, Dawsonowi ani Henry’emu. Uzasadnia to sobie metodologicznie: bez surowego zapisu z kwietnia nie chce zaszczepiać zespołowi hipotezy, która mogłaby zabarwić interpretację kolejnych artefaktów. Jednocześnie po raz pierwszy świadomie tworzy prywatną warstwę wiedzy o projekcie, której nie dzieli z najbliższymi współpracownikami.
+
+Kartkę Romana i odpowiednie strony zeszytu zabezpiecza tak, aby móc do nich wrócić. Dla reszty zespołu anomalia z procesu Henry’ego pozostaje odosobnionym, niewyjaśnionym problemem technicznym.
