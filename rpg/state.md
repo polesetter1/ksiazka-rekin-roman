@@ -1,72 +1,63 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–022 zakończone i zapisane; scena 023 rozpoczęta i trwa.
-- Ostatnia sfinalizowana scena: `rpg/scenes/022-roman-przygotowanie-do-transferu.md`.
-- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 23, **Roman przed eraserem**.
-- Perspektywa: Roman Bagrowski.
-- Chronologia: dzień pierwszego pełnego transferu człowiek–człowiek; po zakończeniu odczytu Romana, bezpośrednio przed nieodwracalnym etapem erasera.
-- Miejsce bieżące: Skyropula, sale transferowe w kopułach wychodzących w stronę morza.
+- Status: sceny RPG 001–023 zakończone i zapisane; scena 024 rozpoczęta.
+- Ostatnia sfinalizowana scena: `rpg/scenes/023-roman-przed-eraserem.md`.
+- Bieżący bazowy punkt kanonu: `novel/plan.md` — scena 24, **Niepowodzenie!**
+- Perspektywa: Stanley Hutchins.
+- Chronologia: pierwszy pełny transfer człowiek–człowiek Roman Bagrowski ↔ Henry Marshall; bezpośrednio po uruchomieniu nieodwracalnego etapu procedury.
+- Miejsce bieżące: Skyropula, mostek centrum transferowego i bliźniacze kopuły transferowe.
 
 ## Stanley Hutchins
 - Prowadzi naukową stronę Projektu Matuzalem i pozostaje głównym „kapitanem” eksperymentu.
-- Po sukcesie transferu psów sprzeciwił się narzuconemu przez Witchinsa terminowi próby ludzkiej.
-- Sarkastycznie rzucił kandydaturę Romana, ale Roman potraktował pytanie serio i zgłosił się dobrowolnie.
-- Stanley przez cały okres przygotowań próbował odwieść Romana od udziału, podkreślając, że jest potrzebny projektowi i że można znaleźć innych ochotników.
-- Wie, że główną deklarowaną motywacją Romana jest zaufanie do niego i przekonanie, że twórcy projektu powinni przyjąć na siebie część ryzyka.
-- Czuje osobistą odpowiedzialność za bezpieczeństwo Romana.
+- Roman zgłosił się do pełnego transferu, ponieważ ufa Stanleyowi i uważa, że twórcy projektu powinni przyjąć na siebie część ryzyka.
+- Stanley próbował wielokrotnie odwieść Romana od udziału i czuje za niego osobistą odpowiedzialność.
+- Odczyt Romana przed eraserem zakończył się powodzeniem.
+- Po utracie przytomności przez Romana Stanley musi kierować dalszą procedurą z mostka.
 
 ## Jelena Ivanova
 - Odpowiada za medyczną i neurologiczną stronę procedury.
-- Zatwierdziła wcześniej nieodwracalny etap kasowania podczas transferu Singla i Amber; eksperyment zakończył się sukcesem.
-- W okresie przygotowań wielokrotnie próbowała skłonić Romana do ponownego przemyślenia decyzji.
-- Jej reakcja na ryzyko Romana jest bardziej emocjonalna niż wcześniej; Roman zauważył łzy w jej oczach tuż przed pierwszym uśpieniem do odczytu.
+- Wcześniej zatwierdziła nieodwracalny etap kasowania podczas udanego transferu psów.
+- Reaguje na udział Romana silniej emocjonalnie niż wcześniej; Roman widział łzy w jej oczach przed odczytem.
 - Nadal nie zna historii Oliwii.
 
 ## Roman Bagrowski
-- Dobrowolnie zgłosił się do pierwszego pełnego transferu człowiek–człowiek razem z Henrym Marshallem.
-- Traktuje decyzję serio, ufa Stanleyowi i uważa, że twórcy projektu nie powinni przerzucać całego ryzyka na przypadkowych ludzi.
-- Nie chce wycofywać się z własnych słów.
-- W czasie przygotowań konfrontuje się z pytaniem, czy po wymazaniu i ponownym zapisie świadomości będzie nadal tym samym człowiekiem, czy jedynie kopią posiadającą jego wspomnienia.
-- Strach dotyczy przede wszystkim ciągłości własnego istnienia, nie bólu fizycznego.
-- Historia Oliwii, wypadku i pierścionka nadal pozostaje prywatną wiedzą Romana.
-- Myśl o Oliwii osłabia jego lęk przed śmiercią, choć Roman nie chce umrzeć.
-- Przed procedurą pomyślał, że chciałby jeszcze raz pójść do cerkwi, ale nie zrobił tego.
-- Po pierwszym uśpieniu został poddany pełnemu odczytowi mózgu i odzyskał świadomość przed transportem do sali erasera.
+- Dobrowolny uczestnik pierwszego pełnego transferu człowiek–człowiek.
+- Ufa Stanleyowi i nie wycofał się mimo świadomości ryzyka śmierci lub utraty ciągłości własnej osoby.
+- Odczyt jego mózgu zakończył się powodzeniem.
+- Tuż przed eraserem Stanley dał mu możliwość pożegnania się lub pozostawienia wiadomości.
+- Roman zamiast pożegnania krzyknął: **„FREEEEEEDOOOOOOOOOOOOOOOOOM!”**, nawiązując do *Braveheart*, i pozwolił kontynuować procedurę.
+- Następnie został ponownie uśpiony. Z perspektywy kampanii Roman nie ma już świadomej kontroli nad kolejnymi zdarzeniami do czasu ewentualnego odzyskania świadomości.
+- Historia Oliwii i pierścionka pozostaje jego prywatną wiedzą.
 
 ## Henry Marshall
-- Drugi dobrowolny uczestnik pełnego transferu człowiek–człowiek.
-- Jego strach jest widoczny, ale decyzja pozostaje świadoma.
-- Znajduje się w bliźniaczej sali i przechodzi równoległą procedurę.
+- Drugi dobrowolny uczestnik pełnego transferu.
+- Przechodzi równoległą procedurę w drugiej kopule.
+- Jest wyraźnie przestraszony, ale świadomie zgodził się na udział jako obiekt badawczy.
 
-## Jonathan Paxton i senator Randyll Witchins
-- Wymusili szybkie przejście do próby ludzkiej po sukcesie psów.
-- Traktują zgłoszenie Romana i Henry’ego jako rozwiązanie problemu doboru uczestników.
-- Ich presja pozostaje jednym z głównych powodów pośpiechu projektu.
-
-## Bieżąca sytuacja sceny 023
-- Odczyt Romana zakończył się; Roman obudził się i zachowuje pamięć, świadomość oraz zdolność logicznego myślenia.
-- Jest transportowany do sali transferowej, gdzie ma zostać podłączony do systemu podtrzymywania życia i erasera.
-- W bliźniaczej sali przygotowywany jest Henry Marshall.
-- Po uruchomieniu erasera wzorzec Romana w jego własnym mózgu zostanie usunięty. Dopiero później system spróbuje zapisać go w mózgu Marshalla.
-- Stanley daje Romanowi ostatnią realną możliwość powiedzenia czegoś, zadzwonienia do kogoś lub pozostawienia pożegnania przed nieodwracalnym etapem.
+## Bieżąca sytuacja sceny 024
+- Roman i Henry zostali odczytani i poddani nieodwracalnemu etapowi kasowania wzorców źródłowych.
+- Dalszy etap ma polegać na krzyżowym zapisie ich świadomości.
+- Stanley dowodzi z mostka; Paxton i Witchins obserwują.
+- W bazowym kanonie podczas próby pojawiają się pierwsze poważne anomalie: wyższe niż przewidywano zużycie energii, rosnąca temperatura reaktora, niewyjaśnione wstrząsy i brak widocznego przyrostu danych w mózgu docelowym mimo raportowanego postępu transferu.
+- Te anomalie nie są jeszcze interpretowane przez postacie jako zjawisko nadnaturalne; Stanley ma tylko dane techniczne i rosnące poczucie utraty kontroli.
 
 ## Aktywne wątki
-- Nieodwracalny etap pierwszego pełnego transferu między ludźmi.
-- Pytanie o ciągłość osoby po eraserze i ponownym zapisie.
-- Osobista odpowiedzialność Stanleya za Romana.
-- Relacja Jelena–Roman przed eksperymentem.
-- Nieujawniona historia Oliwii.
-- Presja sponsorów na wynik.
+- Czy pierwszy pełny transfer między ludźmi uda się zakończyć.
+- Rosnące ryzyko dla reaktora i całego ośrodka.
+- Możliwa utrata świadomości Romana.
+- Odpowiedzialność Stanleya za decyzję, czy kontynuować, czy przerwać procedurę przy niepełnych danych.
+- Presja Paxtona, który chce wyniku mimo ryzyka.
+- Relacja Stanley–Roman obciążona zaufaniem Romana i poczuciem winy Stanleya.
 
 ## Rozbieżności względem powieści
 - Aktywna rozbieżność ze sceny 002 pozostaje: Stanley nie uczestniczył w imprezie na Skyros i nie skompromitował się przy basenie.
 - W scenie 014 oba warianty erasera były przygotowywane równolegle.
 - W scenie 015 dodatkowy dialog Jeleny i Romana pogłębił ich relację bez ujawnienia historii Oliwii.
 - Istotna rozbieżność sceny 016 pozostaje: pierwszym ludzkim obiektem odczytu był Phil, nie Stanley; Stanley został na mostku.
-- Sceny 017–022 wróciły do głównego kierunku kanonu.
-- Motywacja Romana została doprecyzowana przez gracza: zgłasza się, ponieważ ufa Stanleyowi i traktuje jego sarkastyczne pytanie serio.
+- Sceny 017–023 wróciły do głównego kierunku kanonu.
+- Motywacja Romana została doprecyzowana: zgłasza się, ponieważ ufa Stanleyowi.
+- Zachowanie Romana tuż przed eraserem („FREEEEEEDOOOOOOOOOOOOOOOOOM!”) jest zgodne z bazowym torem sceny 023.
 
-## Nierozwiązany punkt decyzyjny
-- Tuż przed eraserem Stanley daje Romanowi możliwość pożegnania się, zadzwonienia do kogoś albo przekazania ostatniej wiadomości.
-- Roman nie musi ponownie decydować, czy bierze udział — tę decyzję już podjął. Następny wybór dotyczy tego, co robi z ostatnią chwilą przed utratą ciągłości świadomości, jeśli teoria projektu okaże się błędna.
+## Oczekujące konsekwencje
+- Najbliższa decyzja należy do Stanleya, gdy pojawią się pierwsze sprzeczne wskazania: postęp transferu raportowany przez system kontra brak danych w mózgu docelowym oraz rosnące zagrożenie energetyczne.
