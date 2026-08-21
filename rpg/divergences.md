@@ -43,8 +43,14 @@
 
 ## 042 — Natychmiastowy read-only bez Jeleny
 - **Miejsce w chronologii:** po pełnej odbudowie i walidacji, przed właściwym transferem powrotnym.
-- **Wydarzenie kanoniczne:** plan prowadzi już w stronę dopracowania procedury i transferu Romana; źródłowe sceny 47–48 są w dużej mierze TODO i nie narzucają szczegółowego przebiegu read-only.
 - **Wydarzenie RPG:** Stanley nie czeka na odnalezienie zaginionej Jeleny. Uznaje, że biologiczne ograniczenia utrzymania żarłacza wymagają szybkiego działania i po pełnej walidacji natychmiast przeprowadza read-only z fizycznie odseparowanym eraserem.
-- **Wynik:** częściowy odczyt daje pierwszy obiektywny, silny dowód, że mózg rekina zawiera charakterystyczny wzorzec Romana, wyraźnie odróżniający się od profili kontrolnych. Nie jest to jeszcze dowód pełnej ciągłości osobowej ani kompletności wszystkich wspomnień.
-- **Komplikacja:** podczas dalszego skanowania rośnie temperatura tkanki i stres zwierzęcia. Stanley respektuje twarde kryteria bezpieczeństwa i przerywa próbę przed pełnym mapowaniem. Rekin przeżywa i stabilizuje się.
-- **Konsekwencje:** zespół po raz pierwszy wie na podstawie danych, a nie zachowania czy telemetrii, że Roman rzeczywiście został przeniesiony do rekina. Do transferu powrotnego potrzebny jest jeszcze pełny odczyt źródłowy i zapis do biologicznego ciała Romana.
+- **Wynik:** częściowy odczyt daje pierwszy obiektywny, silny dowód, że mózg rekina zawiera charakterystyczny wzorzec Romana, wyraźnie odróżniający się od profili kontrolnych.
+- **Komplikacja:** podczas dalszego skanowania rośnie temperatura tkanki i stres zwierzęcia. Stanley respektuje twarde kryteria bezpieczeństwa i przerywa próbę przed pełnym mapowaniem.
+
+## 043 — Jedna ciągła procedura pełnego transferu powrotnego
+- **Miejsce w chronologii:** adaptacja źródłowej sceny 48 `Przeprowadzenie transferu`.
+- **Wydarzenie kanoniczne:** źródłowa scena jest TODO i nie narzuca szczegółowej architektury procedury.
+- **Wydarzenie RPG:** po regeneracji rekina Stanley odrzuca osobny drugi pełny read-only. Wybiera jedną ciągłą procedurę: pełny odczyt wzorca z rekina, natychmiastowy zapis do biologicznego mózgu Romana po potwierdzeniu jakości mapy, niezależną walidację targetu i dopiero potem erase źródła.
+- **Przyczyna:** decyzja gracza, że czas biologiczny rekina nie pozwala mnożyć kolejnych ekspozycji na aparaturę.
+- **Wynik:** pełny odczyt zostaje ukończony, zapis do biologicznego ciała Romana osiąga kryteria jakości i jest niezależnie potwierdzony. Dopiero po tej walidacji przeprowadzony zostaje erase źródła w mózgu rekina.
+- **Konsekwencje:** technicznie transfer powrotny kończy się sukcesem. Roman zaczyna się wybudzać w swoim biologicznym ciele; dopiero jego zachowanie i pamięć pozwolą ocenić ciągłość osobową oraz psychiczne skutki pobytu w rekinie. Rekin nie jest już nosicielem wzorca Romana i wymaga osobnego weterynaryjnego postępowania.
