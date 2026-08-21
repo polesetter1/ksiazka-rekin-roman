@@ -17,41 +17,68 @@
 ## 025 — Rekin zostaje oznaczony nadajnikiem
 - **Miejsce w chronologii:** bezpośrednio po nieudanym zapisie Romana do ciała Henry’ego i rozszczelnieniu kopuły.
 - **Wydarzenie kanoniczne:** rekin opuszcza uszkodzony ośrodek bez trwałego oznaczenia, co później wymusza szeroką akcję poszukiwawczą.
-- **Wydarzenie RPG:** Stanley natychmiast odwołuje nurków i rezygnuje z sedacji rekina. Najpierw zespół zdalnie wszczepia rekinowi nadajnik telemetryczny i wypłasza go z zalanej kopuły przez istniejącą wyrwę. Dopiero po potwierdzeniu, że rekin opuścił ośrodek, Stanley stabilizuje zasilanie na potrzeby kolejnego etapu i przywraca wzorzec Henry’ego do jego własnego mózgu.
+- **Wydarzenie RPG:** Stanley najpierw zdalnie oznacza rekina telemetrycznie i wypłasza go z uszkodzonego ośrodka, a dopiero później stabilizuje zasilanie i przywraca wzorzec Henry'ego do jego własnego mózgu.
 - **Przyczyna rozbieżności:** decyzja gracza.
-- **Konsekwencje:** zespół może śledzić konkretnego rekina, którego Stanley podejrzewa o noszenie wzorca Romana. Hipoteza nadal nie jest potwierdzona. Poszukiwania Romana mogą przez to przebiegać znacznie szybciej i precyzyjniej niż w powieści. Jednocześnie Henry nie jest narażony na procedurę zapisu, dopóki rekin pozostaje obok jego ciała w uszkodzonej kopule.
+- **Konsekwencje:** późniejsze poszukiwania mogą być kierowane na konkretne oznaczone zwierzę; kampania znacząco przyspiesza odnalezienie Romana/rekiniego nosiciela względem źródła.
 
 ## 031 — Zabezpieczenie lokalnych logów transferu
-- **Miejsce w chronologii:** pierwsze ograniczone wejście Jeleny na Skyropulę podczas odbudowy ośrodka.
-- **Wydarzenie kanoniczne:** Jelena zabiera dokumentację Romana i później analizuje ją podczas odbudowy; źródło nie daje zespołowi pełniejszej lokalnej kopii danych z samej katastrofy.
-- **Wydarzenie RPG:** po spakowaniu biura Romana i własnej dokumentacji Jelena wykorzystuje pozostały czas na zabezpieczenie pomocniczego węzła z niesynchronizowanymi, surowymi logami transferu. Wykonuje dwie kopie danych przed dalszą utratą zasilania.
+- **Miejsce w chronologii:** pierwsze ograniczone wejście Jeleny na Skyropulę podczas odbudowy.
+- **Wydarzenie RPG:** Jelena zabezpiecza niesynchronizowane lokalne logi transferu.
 - **Przyczyna rozbieżności:** decyzja gracza.
-- **Konsekwencje:** zespół dysponuje dodatkową telemetrią pokazującą w krytycznej fazie jednoczesną utratę potwierdzenia zapisu do mózgu Henry’ego, zmianę impedancji w zalanej komorze, korektę pola i wzrost poboru energii. Dane nie dowodzą, że wzorzec Romana trafił do rekina, ale dają wcześniejszy i mocniejszy fizyczny trop techniczny niż w powieści oraz mogą wpłynąć na projekt zabezpieczeń i tempo wyjaśniania awarii.
+- **Konsekwencje:** zespół ma wcześniejszy techniczny trop: utrata potwierdzenia zapisu do Henry'ego, zmiana impedancji, korekta pola i wzrost poboru energii.
 
-## 031d — Urlop i zmiana obowiązków Henry’ego
-- **Miejsce w chronologii:** okres odbudowy po kontrolowanym wywiadzie Henry’ego, przed pełnym powrotem zespołu do podziemnego ośrodka.
-- **Wydarzenie kanoniczne:** Henry odrzuca propozycję odpoczynku w Stanach i kontynuuje pracę przy analizie problemu razem z Jeleną.
-- **Wydarzenie RPG:** Jelena i Peterson kierują Henry’ego na krótki, pięciodniowy urlop bez kontaktu z pracą. Po powrocie Henry pozostaje w projekcie, lecz tymczasowo przechodzi na lżejsze zadania: intranet, sprzęt, kopie zapasowe, katalogowanie dokumentacji i infrastruktura pomocnicza. Nie uczestniczy bezpośrednio w planowaniu kolejnego transferu ani pracy przy komorze.
+## 031d — Urlop i zmiana obowiązków Henry'ego
+- **Miejsce w chronologii:** odbudowa po wywiadzie Henry'ego.
+- **Wydarzenie RPG:** Henry dostaje pięciodniowy urlop, a potem wraca do lżejszych obowiązków, z dala od komory i planowania transferu.
 - **Przyczyna rozbieżności:** decyzja gracza.
-- **Konsekwencje:** Henry zachowuje poczucie roli w zespole, ale otrzymuje okres regeneracji i ograniczenie ekspozycji na bodźce związane z traumą. Jego relacja z zespołem może przez to rozwijać się inaczej niż przy natychmiastowym powrocie do pełnych obowiązków.
+- **Konsekwencje:** Henry wraca bardziej funkcjonalny, ale jego trauma pozostaje aktywnym wątkiem.
+
+## 032 — Prywatna anomalia Stanleya z 13 kwietnia
+- **Miejsce w chronologii:** powrót do podziemnego ośrodka.
+- **Wydarzenie RPG:** Stanley odnajduje notatki Romana o wcześniejszym dwusekundowym common-mode i zakłóceniu kamer przy pustej komorze, ale zachowuje je dla siebie.
+- **Przyczyna rozbieżności:** decyzja gracza.
+- **Konsekwencje:** powstaje prywatna warstwa wiedzy Stanleya, której nie zna Jelena, Moore, Henry ani wojsko.
 
 ## 034 — Wczesne odnalezienie i skuteczne przechwycenie rekina
-- **Miejsce w chronologii:** początek wojskowej akcji poszukiwawczej, odpowiadający bazowej scenie 034.
-- **Wydarzenie kanoniczne:** źródłowo poszukiwania są szerokie i rekina podejrzewanego o noszenie Romana udaje się odnaleźć dopiero później, około sceny 037.
-- **Wydarzenie RPG:** dzięki nadajnikowi wszczepionemu podczas katastrofy, ostatnim zabezpieczonym danym oraz mobilnym odbiornikom pierwsza operacja ponownie przechwytuje sygnał oznaczonego rekina. Henry i załoga uzyskują wizualny kontakt. Stanley najpierw nakazuje podążać za zwierzęciem, potem podejmuje nocną próbę przechwycenia. Gdy tylna brama ramy blokuje się, Stanley zgadza się na ręczną interwencję wyszkolonego nurka, wierząc również, że jeśli Roman znajduje się w rekinie, nie skrzywdzi człowieka próbującego go uratować.
-- **Przyczyna rozbieżności:** konsekwencja wcześniejszego oznaczenia rekina oraz kolejnych decyzji gracza o szybkim rozpoczęciu operacji, nocnym przechwyceniu i ręcznym odblokowaniu bramy.
-- **Konsekwencje:** nurek bezpiecznie odblokowuje prowadnicę, rekin nie atakuje go, brama zostaje domknięta, a oznaczone zwierzę zostaje przechwycone żywe znacznie wcześniej niż w powieści. Zachowanie rekina nie stanowi dowodu obecności Romana, ale emocjonalnie wzmacnia przekonanie Stanleya. Kampania musi od tej chwili uwzględniać, że zespół ma fizyczny dostęp do konkretnego zwierzęcia jeszcze w trakcie odbudowy ośrodka.
+- **Miejsce w chronologii:** początek wojskowej akcji poszukiwawczej.
+- **Wydarzenie kanoniczne:** rekina odnajduje się dopiero później po szerokich poszukiwaniach.
+- **Wydarzenie RPG:** dzięki nadajnikowi pierwsza operacja ponownie przechwytuje sygnał. Stanley wybiera shadowing, później nocne przechwycenie, a przy awarii bramy zgadza się na ręczną interwencję nurka.
+- **Przyczyna rozbieżności:** wcześniejsze oznaczenie rekina i kolejne decyzje gracza.
+- **Konsekwencje:** nurek bezpiecznie odblokowuje prowadnicę, rekin nie atakuje go, a zwierzę zostaje przechwycone żywe znacznie wcześniej niż w powieści.
 
 ## 034b — Bezpośredni transport rekina na Skyropulę
-- **Miejsce w chronologii:** bezpośrednio po udanym przechwyceniu oznaczonego rekina.
-- **Wydarzenie kanoniczne:** w bazowej chronologii zespół na tym etapie nie ma jeszcze fizycznie zabezpieczonego rekina i nie musi rozwiązywać problemu jego natychmiastowego utrzymania na Skyropuli.
-- **Wydarzenie RPG:** Stanley odrzuca wykorzystanie publiczniejszego zaplecza Skyros i kieruje jednostkę bezpośrednio na Skyropulę. Moore i Dawson improwizują duży prowizoryczny zbiornik obiegowy wykorzystujący dawną infrastrukturę wodną komory, z wymuszonym przepływem, filtracją i awaryjnym zasilaniem pomp. Rekin zostaje bezpiecznie przeniesiony z ramy transportowej do zbiornika.
-- **Przyczyna rozbieżności:** decyzja gracza o priorytecie tajności i transporcie na Skyropulę.
-- **Konsekwencje:** rekin jest fizycznie dostępny zespołowi na wyspie znacznie wcześniej niż w źródle. Tymczasowe rozwiązanie jest wystarczające na pierwszą obserwację i badania, ale nie nadaje się do długoterminowego utrzymania żarłacza białego. Zespół musi szybciej opracować sposób potwierdzenia obecności wzorca Romana i dalszego postępowania ze zwierzęciem.
+- **Miejsce w chronologii:** bezpośrednio po przechwyceniu.
+- **Wydarzenie RPG:** Stanley wybiera Skyropulę zamiast publiczniejszego Skyros. Moore i Dawson tworzą prowizoryczny duży obieg wodny.
+- **Przyczyna rozbieżności:** priorytet tajności wybrany przez gracza.
+- **Konsekwencje:** zespół ma fizyczny dostęp do rekina na wyspie dużo wcześniej niż w kanonie, ale działa pod presją niedoskonałej infrastruktury.
+
+## 035 — Stabilizacja zamiast natychmiastowego odczytu
+- **Miejsce w chronologii:** po przywiezieniu rekina.
+- **Wydarzenie RPG:** Stanley daje zwierzęciu czas na stabilizację i akceptuje, że bez gotowego reaktora nie będzie read-only; zespół projektuje zaślepiony protokół behawioralny i bezpieczniejszą procedurę.
+- **Przyczyna rozbieżności:** decyzja gracza.
+- **Konsekwencje:** tempo eksperymentu spada, ale standard bezpieczeństwa rośnie.
+
+## 036 — Zignorowane ostrzeżenie staruszki
+- **Miejsce w chronologii:** scena ostrzeżenia na Skyros.
+- **Wydarzenie RPG:** Stanley słyszy motyw „kurtyny”, ale jednoznacznie racjonalizuje go i nikomu o nim nie mówi.
+- **Przyczyna rozbieżności:** decyzja gracza i ustalona zasada powolnego narastania mroku.
+- **Konsekwencje:** Stanley nadal nie łączy ostrzeżenia z relacją Henry'ego, której szczegółów nie zna.
+
+## 038 — Porwanie Jeleny z dodatkowymi tropami
+- **Miejsce w chronologii:** bazowa scena `Zniknięcie Jeleny`.
+- **Wydarzenie RPG:** główny beat porwania zostaje zachowany, ale Jelena zapamiętuje końcówkę tablicy 731, zapach auta i bliznę napastnika. Zespół później nie zna tych szczegółów.
+- **Przyczyna rozbieżności:** adaptacja do decyzji gracza o wejściu do auta i ograniczonej perspektywy.
+- **Konsekwencje:** istnieją potencjalne ślady, ale nie są dostępne Stanleyowi dopóki Jelena nie wróci lub nie zostanie odnaleziona.
 
 ## 039 — Monitoring Jeleny przed eksplozją na Skyropuli
-- **Miejsce w chronologii:** po zniknięciu Jeleny, przed pełnym wejściem w kanoniczny beat sceny 40.
-- **Wydarzenie kanoniczne:** w planie źródłowym najpierw dochodzi do wybuchu/zniszczenia szafy sterowniczej, a nieobecność Jeleny staje się osobnym późniejszym problemem.
-- **Wydarzenie RPG:** wskutek decyzji Stanleya, by od razu sprawdzić hotel po nieobecności Jeleny, porwanie zostaje rozpoznane wcześniej. Monitoring pokazuje ciemnego starszego volkswagena oraz celowe wyłączenie konkretnej kamery korytarzowej praktycznie dokładnie w chwili użycia credentialu MASTER/SERVICE. Dopiero po zabezpieczeniu tego materiału Stanley wzywa Paxtona. W czasie rozpoczętego śledztwa na Skyropuli dochodzi do kanonicznego zniszczenia szafy sterowniczej.
-- **Przyczyna rozbieżności:** decyzja gracza o kolejności działań — najpierw monitoring, potem Paxton — oraz wcześniejsze przesunięcia chronologii wynikające z szybkiego odnalezienia rekina.
-- **Konsekwencje:** Paxton od początku dysponuje twardym śladem sugerującym profesjonalne porwanie i musi jednocześnie brać pod uwagę możliwość związku z sabotażem infrastruktury na Skyropuli. Stanley staje przed wyborem między pozostaniem przy śledztwie na Skyros a powrotem do krytycznej infrastruktury, ciała Romana i przechwyconego rekina.
+- **Miejsce w chronologii:** po zniknięciu Jeleny, przed pełnym wejściem w beat zniszczenia szafy.
+- **Wydarzenie RPG:** Stanley najpierw sprawdza hotelowy monitoring. Kamera przy pokoju Jeleny zostaje celowo wyłączona praktycznie dokładnie przy użyciu MASTER/SERVICE. Dopiero potem Stanley wzywa Paxtona. W trakcie śledztwa dochodzi do zniszczenia szafy na Skyropuli.
+- **Przyczyna rozbieżności:** decyzja gracza o kolejności działań.
+- **Konsekwencje:** Paxton od początku traktuje sprawę jak profesjonalne porwanie i rozważa możliwy związek z sabotażem.
+
+## 040 — Stanley zostaje przy poszukiwaniach, potem wraca na Skyropulę
+- **Miejsce w chronologii:** adaptacja scen 40–43 po wykryciu porwania.
+- **Wydarzenie kanoniczne:** Stanley nie prowadzi tak wcześnie aktywnego nacisku na lotnisko/porty w sprawie Jeleny; monitoring sabotażu pojawia się później jako osobny element śledztwa.
+- **Wydarzenie RPG:** Stanley zostaje na Skyros i naciska na kontrolę lotniska, portów, promów, prywatnych przystani i ciemnych volkswagenów. Paxton, już prowadzący te działania, irytuje się uwagami laika i odsyła Stanleya na Skyropulę do oceny zniszczeń i harmonogramu. Konwencjonalny ślad Jeleny urywa się mimo małej skali wyspy. Na Skyropuli Stanley stwierdza ciężkie uszkodzenie głównej szafy oraz widzi monitoring z sekwencyjnymi zanikami kamer bez widocznego przechodzącego sprawcy.
+- **Przyczyna rozbieżności:** decyzja gracza, że Stanley osobiście naciska na poszukiwania; backstage użytkownika ustala też, że rzeczywiste porwanie Jeleny ma charakter demoniczny, więc tradycyjny ślad powinien faktycznie się urwać.
+- **Konsekwencje:** Paxton zachowuje profesjonalną, racjonalną interpretację i przejmuje poszukiwania. Stanley zostaje skierowany do swojej roli technicznej. Pełna odbudowa sterowania jest szacowana na 10–14 dni; możliwy jest 36–48-godzinny bypass wyłącznie dla infrastruktury pomocniczej. Zanik kamer przy sabotażu zaczyna niepokojąco przypominać metodę z hotelu Nefeli.
