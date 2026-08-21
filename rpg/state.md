@@ -3,9 +3,9 @@
 ## Metadane
 - Status: sceny RPG 001–036, 038–040 zapisane; scena 37 „Odnalezienie Romana” została funkcjonalnie wyprzedzona przez wcześniejsze namierzenie i przechwycenie oznaczonego rekina.
 - Ostatnia sfinalizowana scena: `rpg/scenes/040-stanley-poszukiwania-jeleny-i-ocena-zniszczen.md`.
-- Bieżący bazowy punkt kanonu: okolice scen 40–43 (`Wybuch w ośrodku`, `Nieobecność Jeleny`, `Śledztwo wojskowe`, `Monitoring z wybuchu szafki`), zaadaptowane do wcześniejszego odnalezienia rekina i wcześniejszego wykrycia porwania Jeleny.
+- Bieżący bazowy punkt kanonu: okolice scen 40–44, przy czym beaty dotyczące odnalezienia/namierzenia Romana zostały wyprzedzone przez rozbieżność telemetryczną.
 - Perspektywa bieżąca: Stanley Hutchins.
-- Miejsce: Skyropula; Stanley wrócił ze Skyros na polecenie Paxtona, aby ocenić zniszczenia i zaktualizować harmonogram.
+- Miejsce: Skyropula; Stanley wrócił ze Skyros na polecenie Paxtona, ocenił zniszczenia i zatwierdził plan pełnej odbudowy bez bypassu.
 
 ## Zasada tonu
 - Atmosfera kampanii stopniowo ciemnieje.
@@ -27,9 +27,10 @@
 - Odkrył zniknięcie Jeleny. Najpierw sprawdził monitoring, dopiero potem wezwał Paxtona.
 - Hotelowy monitoring: Jelena przyjechała ciemnym starszym volkswagenem; tablica i twarz kierowcy są nieczytelne. Kamera przy jej pokoju traci obraz niemal dokładnie przy użyciu credentialu MASTER/SERVICE, podczas gdy inne kamery działają.
 - Stanley nie zna zapamiętanej przez Jelenę końcówki tablicy **731**, blizny napastnika ani zapachu mokrej wełny/starego tytoniu.
-- Zgodnie z decyzją gracza Stanley został na Skyros i naciskał na poszukiwania przez port, promy, lotnisko, prywatne przystanie i volkswageny. Paxton był zirytowany uwagami laika, ponieważ jego zespół już prowadził te działania.
+- Został na Skyros i naciskał na poszukiwania przez port, promy, lotnisko, prywatne przystanie i volkswageny. Paxton był zirytowany uwagami laika, ponieważ jego zespół już prowadził te działania.
 - Konwencjonalne poszukiwania nie dały dotąd sensownego śladu: Jelena nie pojawia się w głównych punktach wyjazdu, a samochód z Nefeli nie daje się pewnie odnaleźć na kolejnych kamerach.
 - Paxton odesłał Stanleya na Skyropulę, aby oszacował zniszczenia i zaktualizował harmonogram projektu.
+- Stanley odrzucił tymczasowy bypass. Skoro ciało Romana i rekin pozostają na bezpiecznych niezależnych układach, wszystkie dostępne zasoby techniczne mają iść na docelową odbudowę. Nie będzie rozpraszania ludzi na rozwiązania prowizoryczne.
 
 ## Jelena Ivanova
 - Zna lokalne logi katastrofy, anomalię common-mode i relację Henry'ego o „kurtynie”, ale nie powiedziała Stanleyowi o tym skojarzeniu.
@@ -53,12 +54,12 @@
 - Nie wie o anomalii z 13 kwietnia.
 
 ## Reaktor, odbudowa i sabotaż
-- Reaktor nie był jeszcze gotowy do impulsowych obciążeń aparatury transferowej; Stanley wcześniej zaakceptował brak skracania testów.
+- Reaktor nie był jeszcze gotowy do impulsowych obciążeń aparatury transferowej; Stanley zaakceptował brak skracania testów.
 - Poprawiona architektura ma obejmować twarde przerwanie po utracie celu, fizyczną separację erasera od odczytu, niezależne potwierdzenie zapisu przed wymazaniem oraz model energii oparty na rzeczywistym as-built.
 - Główna szafa sterownicza/rozdzielcza została fizycznie zniszczona. Reaktor nie został uszkodzony przez samo zdarzenie i jego systemy bezpieczeństwa pozostają odseparowane.
-- Niezależne awaryjne układy nadal podtrzymują ciało Romana i obieg rekina, ale nie są rozwiązaniem docelowym.
+- Niezależne awaryjne układy nadal podtrzymują ciało Romana i obieg rekina.
 - Moore ocenia pełną odbudowę właściwego sterowania, przewodów, I/O, testów izolacji i walidacji na około **10–14 dni**.
-- Możliwy jest tymczasowy bypass w około **36–48 godzin**, ale wyłącznie dla ograniczonej infrastruktury pomocniczej i prac niekrytycznych. Moore nie dopuści bypassu do dynamicznych testów reaktora ani pełnego transferu.
+- Stanley **nie autoryzował bypassu 36–48 h**. Pełna docelowa odbudowa jest jedyną ścieżką techniczną; prace pomocnicze są dopuszczalne tylko wtedy, gdy nie odbierają zasobów ścieżce krytycznej.
 - Monitoring Skyropuli pokazuje sekwencyjne zaniki kolejnych kamer na możliwej trasie przez budynek ku zniszczonej szafie i dalej ku bocznemu wyjściu. Gdy obraz wraca, nie widać przechodzącej osoby. Racjonalne hipotezy: manipulacja zapisem, dostęp do monitoringu lub precyzyjne wyłączanie kanałów.
 - Wzorzec przypomina celowe wyłączenie kamery przy pokoju Jeleny, ale nie ma dowodu wspólnego sprawcy.
 - Stanley prywatnie pamięta podobny komponent obrazu z 13 kwietnia, lecz nadal go nie ujawnia.
@@ -80,7 +81,7 @@
 - 033–035: dzięki telemetrycznemu nadajnikowi rekin został wcześnie odnaleziony, przechwycony, przewieziony na Skyropulę i ustabilizowany; badania są wstrzymane do czasu gotowości infrastruktury.
 - 036: Stanley słyszy ostrzeżenie z motywem „kurtyny”, ale je ignoruje.
 - 038–039: porwanie Jeleny wykryto wcześniej dzięki logom i monitoringowi; kamera przy jej pokoju została celowo wyłączona.
-- 040: Stanley najpierw pozostaje na Skyros i naciska na poszukiwania, ale Paxton odsyła go do oceny ciężkich zniszczeń na Skyropuli. Monitoring sabotażu ujawnia sekwencyjne zaniki kamer bez widocznego sprawcy.
+- 040: Stanley najpierw pozostaje na Skyros i naciska na poszukiwania, ale Paxton odsyła go do oceny ciężkich zniszczeń na Skyropuli. Monitoring sabotażu ujawnia sekwencyjne zaniki kamer bez widocznego sprawcy. Stanley odrzuca prowizoryczny bypass i kieruje wszystkie zasoby na pełną odbudowę.
 
 ## Aktywne wątki
 - Poszukiwanie Jeleny i urywający się konwencjonalny ślad.
@@ -91,11 +92,12 @@
 - Prywatny sekret Stanleya: wiadomość Romana i anomalia z 13 kwietnia.
 - Wyjaśnienie `COMMON-MODE SATURATION` podczas przywracania Henry'ego.
 - Utrzymanie ciała Romana przy życiu.
-- Odbudowa reaktora i energetyki transferu.
+- Pełna odbudowa reaktora, sterowania i energetyki transferu bez bypassu.
 - Stan psychiczny Henry'ego.
 - Tożsamość i los nieznajomego przejętego przez Paxtona.
 
-## Nierozstrzygnięty punkt decyzyjny
-- Pełna, poprawna odbudowa sterowania i walidacja zajmą około 10–14 dni.
-- Moore może równolegle zbudować w 36–48 godzin tymczasowy bypass dla niekrytycznej infrastruktury pomocniczej; bypass nie będzie dopuszczony do reaktora ani transferu.
-- Stanley musi zdecydować, czy oficjalny plan ma opierać się wyłącznie na pełnej odbudowie, czy autoryzować równoległy bypass dla ograniczonych prac pomocniczych.
+## Następny punkt
+- Harmonogram zakłada pełną odbudowę i walidację w przedziale około 10–14 dni bez bypassu.
+- W tym czasie poszukiwania Jeleny trwają niezależnie pod dowództwem Paxtona.
+- Rekin i ciało Romana pozostają na niezależnych układach podtrzymujących; prowizoryczny zbiornik rekina pozostaje ograniczeniem czasowym i biologicznym.
+- Bazowy beat sceny 44 „Nawiązanie łączności z Romanem” musi zostać zaadaptowany, ponieważ rekin jest już fizycznie na Skyropuli. Najbliższym odpowiednikiem fabularnym będzie próba uzyskania pierwszego obiektywnego kontaktu / potwierdzenia Romana po odbudowie albo wcześniej przez bezpieczne badania behawioralne, jeśli stan zwierzęcia na to pozwoli.
