@@ -48,9 +48,11 @@
 - **Komplikacja:** podczas dalszego skanowania rośnie temperatura tkanki i stres zwierzęcia. Stanley respektuje twarde kryteria bezpieczeństwa i przerywa próbę przed pełnym mapowaniem.
 
 ## 043 — Jedna ciągła procedura pełnego transferu powrotnego
-- **Miejsce w chronologii:** adaptacja źródłowej sceny 48 `Przeprowadzenie transferu`.
-- **Wydarzenie kanoniczne:** źródłowa scena jest TODO i nie narzuca szczegółowej architektury procedury.
+- **Miejsce w chronologii:** adaptacja źródłowej sceny 48 `Przeprowadzenie transferu` i wejście w scenę 49 `Przebudzenie Romana`.
+- **Wydarzenie kanoniczne:** źródłowa scena transferu jest TODO; źródłowe przebudzenie zakłada Romana wracającego w ludzkim ciele z traumą po pobycie w rekinie.
 - **Wydarzenie RPG:** po regeneracji rekina Stanley odrzuca osobny drugi pełny read-only. Wybiera jedną ciągłą procedurę: pełny odczyt wzorca z rekina, natychmiastowy zapis do biologicznego mózgu Romana po potwierdzeniu jakości mapy, niezależną walidację targetu i dopiero potem erase źródła.
 - **Przyczyna:** decyzja gracza, że czas biologiczny rekina nie pozwala mnożyć kolejnych ekspozycji na aparaturę.
-- **Wynik:** pełny odczyt zostaje ukończony, zapis do biologicznego ciała Romana osiąga kryteria jakości i jest niezależnie potwierdzony. Dopiero po tej walidacji przeprowadzony zostaje erase źródła w mózgu rekina.
-- **Konsekwencje:** technicznie transfer powrotny kończy się sukcesem. Roman zaczyna się wybudzać w swoim biologicznym ciele; dopiero jego zachowanie i pamięć pozwolą ocenić ciągłość osobową oraz psychiczne skutki pobytu w rekinie. Rekin nie jest już nosicielem wzorca Romana i wymaga osobnego weterynaryjnego postępowania.
+- **Wynik techniczny:** pełny odczyt zostaje ukończony, zapis do biologicznego ciała Romana osiąga kryteria jakości i jest niezależnie potwierdzony. Dopiero po tej walidacji przeprowadzony zostaje erase źródła w mózgu rekina.
+- **Nowa konsekwencja biologiczna:** rekin po erase nie przeżywa; jego stan gwałtownie się załamuje i zwierzę umiera mimo wsparcia weterynaryjnego.
+- **Nowa konsekwencja dla Romana:** do ludzkiego ciała trafia aktualny wzorzec z mózgu rekina, zawierający ślady wielotygodniowej adaptacji do rekiniej architektury. Roman po przebudzeniu początkowo mówi o sobie w liczbie mnogiej i zachowuje się tak, jakby przeszedł dwie graniczne śmierci.
+- **Backstage:** sam transfer powrotny ponownie narusza kurtynę i umożliwia przejście kolejnych demonów. Bohaterowie nie znają tej przyczyny i mogą interpretować pierwsze skutki jedynie neurologicznie, technicznie albo psychologicznie.
