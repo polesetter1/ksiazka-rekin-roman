@@ -1,11 +1,11 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–036, 038–042 zapisane; scena 43 jest w toku i nie została jeszcze sfinalizowana z powodu nowego punktu decyzyjnego.
-- Ostatnia sfinalizowana scena: `rpg/scenes/042-stanley-read-only-romana.md`.
-- Bieżący bazowy punkt kanonu: przejście ze sceny 48 (`Przeprowadzenie transferu`) do sceny 49 (`Przebudzenie Romana`).
+- Status: sceny RPG 001–036, 038–043 zapisane; scena 37 „Odnalezienie Romana” została funkcjonalnie wyprzedzona przez wcześniejsze namierzenie i przechwycenie oznaczonego rekina.
+- Ostatnia sfinalizowana scena: `rpg/scenes/043-stanley-transfer-powrotny-i-przebudzenie-romana.md`.
+- Bieżący bazowy punkt kanonu: scena 49 `Przebudzenie Romana`, z istotnymi rozbieżnościami wynikającymi z wcześniejszego przechwycenia rekina i zaginionej Jeleny.
 - Perspektywa bieżąca: Stanley Hutchins.
-- Miejsce: Skyropula; pełny transfer powrotny z rekina do biologicznego ciała Romana zakończył się technicznym sukcesem, a Roman zaczyna się wybudzać pod nadzorem medycznym.
+- Miejsce: Skyropula, sala medyczna przy wybudzającym się Romanie.
 
 ## Zasada tonu
 - Atmosfera kampanii stopniowo ciemnieje.
@@ -13,22 +13,18 @@
 - Postacie nie otrzymują metafizycznej prawdy bez dowodów z ich perspektywy.
 
 ## Backstage / prawda kampanii
-- Użytkownik ustalił, że Jelena została porwana przez demony; z perspektywy bohaterów wygląda to jak profesjonalne porwanie, którego konwencjonalny ślad urywa się w sposób trudny do wyjaśnienia.
-- Stanley, Paxton i pozostali nie przyjmują metafizycznego wyjaśnienia bez dowodów.
+- Jelena została porwana przez demony; z perspektywy bohaterów wygląda to jak profesjonalne porwanie, którego konwencjonalny ślad urywa się w sposób trudny do wyjaśnienia.
+- Każdy właściwy transfer narusza „kurtynę” i może umożliwiać przejście bytów/demonów. Transfer powrotny Romana ponownie naruszył kurtynę i uwolnił kolejne demony.
+- Stanley, Paxton, lekarze i pozostali nie znają tej prawdy i nie mogą przyjąć metafizycznego wyjaśnienia bez dostępnych im dowodów.
 
 ## Stanley Hutchins
 - Zna `COMMON-MODE SATURATION — SOURCE UNKNOWN` z powrotnego zapisu Henry'ego, ale nie wie, że Henry mówił Jelenie o ciemnej „kurtynie”.
 - Odnalazł tajną wiadomość Romana i notatki z 13 kwietnia o około dwusekundowym common-mode przy pustej komorze i równoczesnym zakłóceniu obrazu kamer. Surowy plik jest uszkodzony/niekompletny. Nadal zachowuje tę wiedzę dla siebie.
 - Na Skyros usłyszał od starej żebraczki ostrzeżenie o „rozerwaniu kurtyny”, ale uznał je za dziwactwo/plotkę/przypadek/prowokację i nikomu o nim nie powiedział.
-- Odkrył zniknięcie Jeleny i najpierw sprawdził monitoring, potem wezwał Paxtona. Kamera przy pokoju Jeleny została celowo wyłączona praktycznie dokładnie przy użyciu credentialu MASTER/SERVICE.
-- Naciskał na kontrolę portów, promów, lotniska i volkswagenów; Paxton, który już prowadził te działania, odesłał go na Skyropulę do pracy technicznej.
-- Stanley nie zna zapamiętanej przez Jelenę końcówki tablicy **731**, blizny napastnika ani zapachu mokrej wełny/starego tytoniu.
-- Wybrał pełną odbudowę bez bypassu oraz zewnętrzną ekipę wojskową do budowy zagrody morskiej, aby nie rozpraszać zasobów Moore'a.
-- Pierwsza zaślepiona seria behawioralna była nierozstrzygająca.
-- Po pełnej walidacji przeprowadził read-only bez Jeleny. Częściowy odczyt silnie potwierdził wzorzec Romana w rekinie, ale Stanley przerwał próbę przy narastającym obciążeniu termicznym.
-- Po regeneracji rekina Stanley wybrał strategię jednej ciągłej procedury: pełny odczyt źródłowy, natychmiastowy zapis do biologicznego ciała Romana po weryfikacji jakości, niezależne potwierdzenie celu i dopiero potem końcowy erase źródła.
-- Pełny odczyt udało się zakończyć. Zapis do biologicznego mózgu Romana osiągnął pełne kryteria jakości i został potwierdzony niezależnymi torami. Dopiero po tym Stanley dopuścił erase wzorca źródłowego z mózgu rekina.
-- Biologiczne ciało Romana zawiera obecnie zapis zgodny z pełnym wzorcem źródłowym pobranym z rekina. Technicznie transfer powrotny zakończył się sukcesem, ale ciągłość osobowa, stan pamięci i psychiczne skutki pobytu w ciele rekina mogą być ocenione dopiero po wybudzeniu.
+- Odkrył zniknięcie Jeleny i najpierw sprawdził monitoring, potem wezwał Paxtona. Konwencjonalne poszukiwania nadal nie dały przełomu.
+- Wybrał pełną odbudowę bez bypassu, zewnętrzną ekipę do zagrody morskiej, natychmiastowy read-only bez Jeleny i następnie jedną ciągłą procedurę pełnego transferu powrotnego.
+- Pełny odczyt z rekina udało się ukończyć. Zapis do biologicznego mózgu Romana przeszedł niezależne kryteria jakości i dopiero potem Stanley dopuścił erase źródła.
+- Roman po wybudzeniu rozpoznaje Stanleya i mówi świadomie, lecz w skrajnym lęku. Zgodnie z decyzją gracza Stanley natychmiast pyta: „Kto tu jest?”, zamiast przerywać rozmowę.
 
 ## Jelena Ivanova
 - Zna lokalne logi katastrofy, anomalię common-mode i relację Henry'ego o „kurtynie”, ale nie powiedziała Stanleyowi o tym skojarzeniu.
@@ -39,24 +35,23 @@
 
 ## Roman Bagrowski
 - Pierwotny wzorzec Romana został podczas katastrofy wymazany z jego biologicznego mózgu i przeniesiony do oznaczonego rekina.
-- Ciało Romana przez cały okres poszukiwań i odbudowy pozostawało biologicznie żywe na niezależnym podtrzymaniu.
-- Read-only potwierdził wzorzec Romana w rekinie.
-- Po regeneracji rekina wykonano pełny odczyt źródłowy oraz zapis do biologicznego mózgu Romana. Weryfikacja celu i jakości zapisu zakończyła się sukcesem.
-- Dopiero po potwierdzeniu zapisu usunięto wzorzec źródłowy z mózgu rekina zgodnie z poprawioną procedurą.
-- Roman jest obecnie pod opieką medyczną i zaczyna się wybudzać. Jego pierwsza reakcja jest gwałtowna i przerażona; krzyczy, że nie chce być „tam” zabierany i zachowuje się tak, jakby wracał z ekstremalnie traumatycznego doświadczenia.
-- Nie wiadomo jeszcze, ile pamięta z pobytu w rekinie, czy zachował pełną autobiograficzną pamięć ani jak interpretuje swoje doświadczenie.
+- Spędził tygodnie funkcjonując w mózgu i ciele rekina. Pełny aktualny wzorzec zawiera nie tylko przedkatastroficznego Romana, ale też ślady doświadczeń i adaptacji do rekiniej architektury sensorycznej i neuronalnej.
+- Transfer powrotny przywrócił ten aktualny wzorzec do biologicznego ciała Romana.
+- Roman przeżył dwie graniczne „śmierci”: pierwotny erase własnego mózgu oraz późniejsze zakończenie istnienia w rekinie podczas erase źródła po powrotnym zapisie.
+- Na początku przebudzenia spontanicznie używa liczby mnogiej („my”, „nas”), co z perspektywy naukowej może być interpretowane jako zaburzenie reintegracji jaźni, efekt międzygatunkowej rekonstrukcji lub ostry stan po wybudzeniu.
+- Rozpoznaje Stanleya. Pierwsze wypowiedzi: nie chce być zabierany „tam” i twierdzi, że „on tu jest”.
 
 ## Rekin
 - Oznaczony żarłacz był biologicznym nosicielem wzorca Romana.
 - Po problemach w ciasnym technicznym obiegu został utrzymywany w dużej półzamkniętej zagrodzie morskiej.
-- Przed transferem powrotnym został ponownie przeniesiony do komory.
-- Po pełnym odczycie i niezależnym potwierdzeniu zapisu Romana do jego ludzkiego ciała przeprowadzono erase wzorca źródłowego w mózgu rekina jako końcowy etap właściwego transferu. Stan zwierzęcia po tej fazie wymaga osobnego weterynaryjnego postępowania; nie jest już traktowane jako nosiciel Romana.
+- Read-only potwierdził obecność wzorca Romana w jego mózgu.
+- Podczas finalnej procedury wykonano pełny odczyt źródłowy, następnie zapisano wzorzec do biologicznego mózgu Romana, a dopiero po niezależnym potwierdzeniu targetu wykonano erase źródła.
+- Po erase stan rekina gwałtownie się załamał. Mimo natychmiastowego wsparcia weterynaryjnego zwierzę zmarło krótko po procedurze.
 
 ## Henry Marshall
 - Jego wzorzec został przywrócony do własnego mózgu po katastrofie.
 - Opisał Jelenie oddzielenie od ciała, panoramiczną percepcję, ciemną „kurtynę” i obecność bytów nazwanych „duchami”.
 - Surowe logi powrotnego zapisu zawierają `COMMON-MODE SATURATION — SOURCE UNKNOWN`.
-- Po urlopie i lżejszych zadaniach sam zgłosił się do pierwszej ekipy poszukiwawczej i pierwszy potwierdził właściwego rekina.
 - Pomagał przy synchronizacji read-only oraz pełnej procedurze powrotnej.
 - Nie wie o anomalii z 13 kwietnia.
 
@@ -65,13 +60,14 @@
 - Stanley odrzucił bypass i skierował zasoby na pełną docelową odbudowę.
 - Moore i Dawson zakończyli odbudowę i pełną walidację przed read-only oraz transferem.
 - Poprawiona architektura obejmuje twarde przerwanie po utracie celu, fizyczną separację erasera od odczytu, niezależne potwierdzenie zapisu przed wymazaniem i model energii oparty na rzeczywistym as-built.
-- W transferze powrotnym procedura działała zgodnie z tą kolejnością: pełny read źródła → pełny write do biologicznego mózgu Romana → niezależna weryfikacja targetu → dopiero potem erase źródła.
+- W transferze powrotnym procedura działała zgodnie z kolejnością: pełny read źródła → pełny write do biologicznego mózgu Romana → niezależna weryfikacja targetu → dopiero potem erase źródła.
+- Technicznie transfer nie wywołał nowej katastrofy energetycznej, ale backstage ponownie naruszył kurtynę.
 
 ## Jonathan Paxton
 - Traktuje zniknięcie Jeleny jako profesjonalne porwanie/operację przeciw projektowi.
 - Konwencjonalne poszukiwania nadal nie dały wiarygodnego śladu wyjazdu Jeleny z wyspy.
 - Nie interpretuje braku śladu metafizycznie.
-- Wie o potwierdzeniu wzorca Romana i został poinformowany o przeprowadzeniu pełnej procedury powrotnej.
+- Wie o potwierdzeniu wzorca Romana i o przeprowadzeniu pełnej procedury powrotnej; czeka na ocenę stanu poznawczego po wybudzeniu.
 
 ## Główne rozbieżności względem powieści
 - 002: brak kompromitacji Stanleya przy basenie.
@@ -86,17 +82,19 @@
 - 040: Stanley naciska na poszukiwania, potem wraca na Skyropulę; odrzuca bypass i wybiera pełną odbudowę.
 - 041: zewnętrzna ekipa buduje dużą zagrodę morską; pierwszy test behawioralny jest nierozstrzygający.
 - 042: Stanley przeprowadza read-only bez Jeleny i uzyskuje pierwszy obiektywny dowód obecności wzorca Romana w rekinie.
-- 043: po regeneracji rekina Stanley nie robi osobnego drugiego read-only; wybiera jedną ciągłą procedurę pełnego odczytu i transferu powrotnego. Zapis do biologicznego ciała Romana zostaje potwierdzony przed erase źródła.
+- 043: po regeneracji rekina Stanley wybiera jedną ciągłą procedurę read→write→verify→erase. Roman wraca do biologicznego ciała z aktualnym wzorcem zawierającym ślady rekiniej adaptacji; rekin umiera po erase. Transfer powrotny ponownie narusza kurtynę backstage.
 
 ## Aktywne wątki
-- Pierwsze wybudzenie Romana i ocena jego pamięci, tożsamości oraz psychicznego stanu po pobycie w rekinie.
+- Pierwszy wywiad i ocena stanu Romana po transferze, w tym jego liczba mnoga i lęk przed „nim/nimi”.
 - Poszukiwanie Jeleny i urywający się konwencjonalny ślad.
 - Zbieżność zaniku kamer między hotelem Nefeli i sabotażem Skyropuli.
 - Prywatny sekret Stanleya: wiadomość Romana i anomalia z 13 kwietnia.
 - Wyjaśnienie `COMMON-MODE SATURATION` podczas przywracania Henry'ego.
+- Skutki kolejnego naruszenia kurtyny po transferze Romana.
 - Stan psychiczny Henry'ego.
 - Tożsamość i los nieznajomego przejętego przez Paxtona.
 
-## Nierozstrzygnięty punkt decyzyjny
-- Roman zaczyna się wybudzać po technicznie udanym transferze powrotnym i reaguje skrajną paniką, mówiąc, że nie chce być zabierany „tam”.
-- Stanley musi zdecydować, czy natychmiast naciskać na uzyskanie informacji o tym, czego Roman doświadczył, czy przede wszystkim uspokoić go i pozwolić lekarzom ograniczyć bodźce / ewentualnie ponownie go uspokoić farmakologicznie.
+## Następny punkt
+- Roman właśnie się wybudza, rozpoznaje Stanleya, mówi w liczbie mnogiej i twierdzi, że „on tu jest”.
+- Stanley natychmiast pyta: „Kto tu jest?”
+- Najbliższa scena ma rozwinąć pierwszą bardzo wczesną relację Romana z tego, co pamięta z bycia rekinem i z obu granicznych przejść, bez dawania Stanleyowi metafizycznej pewności ponad dostępne dowody.
