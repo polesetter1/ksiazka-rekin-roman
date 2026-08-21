@@ -32,6 +32,8 @@
 - Henry w neutralnej rozmowie niezależnie użył słowa „kurtyna”, opisał obecność czegoś po jej drugiej stronie i powiedział, że przy własnym powrocie miał wrażenie, iż coś przeszło wraz z nim na „naszą” stronę.
 - Stanley upewnił się, że Henry wcześniej przekazał ten szczegół przede wszystkim Jelenie; nie rozmawiał o nim z Romanem, który znajdował się wtedy już w rekinie. Stanley po raz pierwszy wie więc, że Roman i Henry niezależnie użyli tego samego słowa bez bezpośredniej wymiany informacji.
 - Stanley nadal nie przyjął hipotezy demonów, ale prosta interpretacja jako pojedyncze majaczenie Romana przestała być wystarczająca.
+- Zgodnie z decyzją gracza Stanley zachowuje pełny pakiet dla siebie do czasu uzyskania większej pewności. Moore zna jedynie techniczną anomalię common-mode i ma badać możliwe sprzężenia, uziemienia, ekrany, izolację i synchronizację. Paxton nie zna zbieżności relacji Henry'ego i Romana, ostrzeżenia staruszki ani notatki z 13 kwietnia.
+- Stanley świadomie tworzy prywatne śledztwo: nie chce skażać dalszych relacji świadków sugestią ani dopuścić, by wojsko potraktowało niepewną interpretację jako fakt operacyjny.
 
 ## Jelena Ivanova
 - Zna lokalne logi katastrofy, wcześniejszą anomalię common-mode i pełną relację Henry'ego o „kurtynie”; przed zaginięciem nie przekazała Stanleyowi tego konkretnego skojarzenia.
@@ -80,7 +82,7 @@
 - Traktuje zniknięcie Jeleny jako profesjonalne porwanie/operację przeciw projektowi.
 - Konwencjonalne poszukiwania nadal nie dały wiarygodnego śladu wyjazdu Jeleny z wyspy.
 - Nie interpretuje braku śladu metafizycznie.
-- Wie o potwierdzeniu wzorca Romana i o technicznie udanym transferze powrotnym, ale nie został jeszcze poinformowany o pełnym pakiecie: nowym common-mode, zgodności słowa „kurtyna” między Romanem i Henrym, ostrzeżeniu staruszki oraz prywatnej notatce z 13 kwietnia.
+- Wie o potwierdzeniu wzorca Romana i o technicznie udanym transferze powrotnym, ale nie został poinformowany o pełnym pakiecie: nowym common-mode, zgodności słowa „kurtyna” między Romanem i Henrym, ostrzeżeniu staruszki oraz prywatnej notatce z 13 kwietnia.
 
 ## Główne rozbieżności względem powieści
 - 002: brak kompromitacji Stanleya przy basenie.
@@ -96,13 +98,13 @@
 - 041: zewnętrzna ekipa buduje dużą zagrodę morską; pierwszy test behawioralny jest nierozstrzygający.
 - 042: Stanley przeprowadza read-only bez Jeleny i uzyskuje pierwszy obiektywny dowód obecności wzorca Romana w rekinie.
 - 043: po regeneracji rekina Stanley wybiera jedną ciągłą procedurę read→write→verify→erase. Roman wraca do biologicznego ciała z aktualnym wzorcem zawierającym ślady rekiniej adaptacji; rekin umiera po erase. Transfer powrotny ponownie narusza kurtynę backstage.
-- 044: Stanley odkrywa powtórzenie common-mode podczas właściwego transferu i niezależne powtórzenie motywu „kurtyny” przez Henry'ego, co tworzy pierwszy mocny pakiet zbieżności między danymi technicznymi i relacjami świadków.
+- 044: Stanley odkrywa powtórzenie common-mode podczas właściwego transferu i niezależne powtórzenie motywu „kurtyny” przez Henry'ego, a następnie zachowuje pełny pakiet dla siebie do czasu uzyskania większej pewności.
 
 ## Aktywne wątki
 - Pełny kontrolowany wywiad i ocena stanu Romana po transferze, w tym jego liczba mnoga, pamięć dwóch śmierci i relacja o kurtynie.
 - Poszukiwanie Jeleny i urywający się konwencjonalny ślad.
 - Ustalenie, czy zanik kamer w hotelu i na Skyropuli ma związek z powtarzającą się anomalią common-mode / utratą kontrastu.
-- Prywatny sekret Stanleya: notatka Romana z 13 kwietnia oraz ostrzeżenie staruszki.
+- Prywatny sekret Stanleya: notatka Romana z 13 kwietnia, ostrzeżenie staruszki oraz zbieżność relacji Henry'ego i Romana.
 - Powtarzalność `COMMON-MODE SATURATION` podczas właściwych transferów i brak tego efektu podczas zwykłego read-only.
 - Ocena, czy relacje Henry'ego i Romana są niezależną konwergencją czy mają możliwą ścieżkę informacji/primingu.
 - Skutki kolejnego naruszenia kurtyny po transferze Romana.
@@ -110,5 +112,5 @@
 - Tożsamość i los nieznajomego przejętego przez Paxtona.
 
 ## Następny punkt
-- Stanley ma teraz techniczny ślad powtarzający się w transferach oraz niezależne relacje Romana i Henry'ego o „kurtynie”. Do tego tylko on zna ostrzeżenie staruszki i notatkę z 13 kwietnia.
-- Musi zdecydować, czy ujawnić pełny pakiet Moore'owi/Paxtonowi i potraktować sprawę jako nowy krytyczny problem bezpieczeństwa, czy zachować najbardziej niepokojące elementy w wąskim kręgu i najpierw przeprowadzić kontrolowany wywiad z Romanem/Petersonem oraz dalszą analizę techniczną.
+- Stanley zdecydował, że nie ujawni pełnego pakietu Moore'owi ani Paxtonowi do czasu uzyskania większej pewności. Moore bada jedynie techniczny common-mode.
+- Roman pozostaje pod opieką medyczną po pierwszym przebudzeniu. Następny istotny krok to kontrolowany wywiad i ocena poznawcza Romana bez sugerowania mu relacji Henry'ego, staruszki ani interpretacji metafizycznej.
