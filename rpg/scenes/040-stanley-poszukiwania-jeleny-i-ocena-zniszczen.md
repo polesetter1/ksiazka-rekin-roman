@@ -1,0 +1,17 @@
+# 040. Stanley — poszukiwania Jeleny i ocena zniszczeń
+
+Stanley decyduje się pozostać na Skyros i osobiście naciskać na poszukiwania Jeleny. Koncentruje się na oczywistych w jego ocenie punktach wyjścia z małej wyspy: porcie, promach, lotnisku, prywatnych łodziach i ciemnych starszych volkswagenach. Paxton szybko okazuje irytację uwagami Stanleya, ponieważ jego zespół już równolegle sprawdza te kanały i nie potrzebuje naukowca do prowadzenia operacji poszukiwawczej.
+
+Wstępne wyniki są frustrujące. Jelena nie pojawia się na lotnisku, w oficjalnych odprawach promowych ani na dostępnych materiałach z głównych portów. Zespół eliminuje kolejne ciemne starsze volkswageny obecne na wyspie: część ma potwierdzonych właścicieli i lokalizacje, część nie odpowiada sylwetce pojazdu z Nefeli. Sam samochód widoczny przy hotelu nie daje się pewnie odnaleźć na dalszych kamerach żadnej oczywistej trasy wyjazdowej. Paxton nie interpretuje tego metafizycznie: bierze pod uwagę pojazd podstawiony, zmianę samochodu, ukrycie auta, luki kamer albo świadomą manipulację materiałem.
+
+Stanley wielokrotnie wraca do pytania o port i lotnisko oraz do argumentu, że Skyros jest małe i liczba pasujących volkswagenów musi być ograniczona. Paxton w końcu ucina rozmowę. Informuje Stanleya, że właśnie dlatego kontrolowane są lotnisko, promy, porty, drogi i prywatne przystanie, a obecność profesora nie przyspiesza sprawy. Nakazuje mu wrócić na Skyropulę, gdzie może zrobić coś, czego śledczy nie zrobią: technicznie ocenić zniszczenia, określić wpływ na ciało Romana, zbiornik z rekinem, reaktor i aparaturę transferową oraz przygotować zaktualizowany harmonogram dla sponsorów.
+
+Na Skyropuli Stanley zastaje ciężko zniszczoną główną szafę sterowniczą/rozdzielczą. Reaktor nie został fizycznie uszkodzony przez to zdarzenie i jego systemy bezpieczeństwa pozostają odseparowane, ale zniszczenie szafy uderza w dystrybucję, sterowanie i część infrastruktury wspólnej projektu. Niezależne zasilanie awaryjne utrzymuje ciało Romana i obieg rekina, lecz nie może być traktowane jako trwały stan roboczy.
+
+Moore ocenia, że pełna odbudowa właściwego układu sterowania, ponowne położenie części przewodów, odtworzenie I/O, testy izolacji i pełna walidacja zajmą mniej więcej 10–14 dni. Możliwy jest prowizoryczny bypass w około 36–48 godzin, ale tylko dla ograniczonej infrastruktury pomocniczej i prac niekrytycznych. Moore nie zgadza się, aby taki bypass był używany do dynamicznych prób reaktora ani pełnej procedury transferowej.
+
+Równolegle analiza monitoringu Skyropuli ujawnia niepokojący wzorzec zgodny z bazowym beatem źródłowym: kolejne kamery na potencjalnej trasie przez budynek tracą obraz jedna po drugiej, a gdy wracają, nie pokazują przechodzącej osoby. Sekwencja prowadzi w stronę zniszczonej szafy i później bocznego wyjścia. Najbardziej racjonalne hipotezy to ingerencja w zapis, dostęp do systemu monitoringu albo precyzyjne wyłączanie kanałów. Zbieżność z celowym zanikiem kamery przy pokoju Jeleny jest niepokojąca, ale nie stanowi dowodu wspólnego sprawcy.
+
+Stanley prywatnie pamięta również wcześniejszą anomalię obrazu z 13 kwietnia, lecz nadal jej nie ujawnia.
+
+Scena kończy się nowym problemem harmonogramowym. Stanley musi zdecydować, czy oficjalnie przyjąć konserwatywny termin pełnej odbudowy i walidacji (około 10–14 dni), czy równolegle autoryzować szybki bypass dla infrastruktury pomocniczej, aby odzyskać część prac w ciągu 36–48 godzin, bez dopuszczania go do reaktora ani transferu.
