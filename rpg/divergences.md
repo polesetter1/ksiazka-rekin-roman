@@ -38,7 +38,13 @@
 
 ## 041 — Zagroda morska zamiast dalszego trzymania rekina w technicznym obiegu
 - **Miejsce w chronologii:** okres pełnej odbudowy po sabotażu, przed pierwszym read-only na odnalezionym rekinie.
-- **Wydarzenie kanoniczne:** źródło nie przewiduje na tym etapie wcześniejszego przechwycenia rekina ani potrzeby długiego utrzymywania go podczas odbudowy.
-- **Wydarzenie RPG:** gdy prowizoryczny obieg zaczyna szkodzić zwierzęciu, Stanley nie oddelegowuje ludzi Moore'a i nie wypuszcza rekina. Wybiera zewnętrzną wojskową ekipę techników i nurków, która pod przykrywką projektu biologii morskiej buduje dużą półzamkniętą zagrodę przy Skyropuli.
-- **Przyczyna:** decyzja gracza o ochronie ścieżki krytycznej odbudowy i równoczesnym zabezpieczeniu zwierzęcia.
-- **Konsekwencje:** własny zespół techniczny nie traci czasu. Budowę komplikuje kotwienie, a podczas przenoszenia rekin pogłębia otarcie pyska, ale nie ucieka i po kilku godzinach w zagrodzie funkcjonuje lepiej. Pierwsza zaślepiona seria behawioralna nie daje powtarzalnego dowodu obecności Romana. Po pełnej walidacji infrastruktury nadal potrzebny będzie read-only, wymagający ponownego transportu rekina do komory.
+- **Wydarzenie RPG:** Stanley wybiera zewnętrzną wojskową ekipę techników i nurków do budowy dużej półzamkniętej zagrody przy Skyropuli, zamiast odciągać ludzi Moore'a lub wypuszczać rekina.
+- **Konsekwencje:** odbudowa nie traci zasobów. Podczas przenoszenia rekin pogłębia powierzchowne otarcie pyska, ale później funkcjonuje lepiej. Pierwsza seria behawioralna nie daje powtarzalnego dowodu obecności Romana.
+
+## 042 — Natychmiastowy read-only bez Jeleny
+- **Miejsce w chronologii:** po pełnej odbudowie i walidacji, przed właściwym transferem powrotnym.
+- **Wydarzenie kanoniczne:** plan prowadzi już w stronę dopracowania procedury i transferu Romana; źródłowe sceny 47–48 są w dużej mierze TODO i nie narzucają szczegółowego przebiegu read-only.
+- **Wydarzenie RPG:** Stanley nie czeka na odnalezienie zaginionej Jeleny. Uznaje, że biologiczne ograniczenia utrzymania żarłacza wymagają szybkiego działania i po pełnej walidacji natychmiast przeprowadza read-only z fizycznie odseparowanym eraserem.
+- **Wynik:** częściowy odczyt daje pierwszy obiektywny, silny dowód, że mózg rekina zawiera charakterystyczny wzorzec Romana, wyraźnie odróżniający się od profili kontrolnych. Nie jest to jeszcze dowód pełnej ciągłości osobowej ani kompletności wszystkich wspomnień.
+- **Komplikacja:** podczas dalszego skanowania rośnie temperatura tkanki i stres zwierzęcia. Stanley respektuje twarde kryteria bezpieczeństwa i przerywa próbę przed pełnym mapowaniem. Rekin przeżywa i stabilizuje się.
+- **Konsekwencje:** zespół po raz pierwszy wie na podstawie danych, a nie zachowania czy telemetrii, że Roman rzeczywiście został przeniesiony do rekina. Do transferu powrotnego potrzebny jest jeszcze pełny odczyt źródłowy i zapis do biologicznego ciała Romana.
