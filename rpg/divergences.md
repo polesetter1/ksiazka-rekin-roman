@@ -56,3 +56,10 @@
 - **Nowa konsekwencja biologiczna:** rekin po erase nie przeżywa; jego stan gwałtownie się załamuje i zwierzę umiera mimo wsparcia weterynaryjnego.
 - **Nowa konsekwencja dla Romana:** do ludzkiego ciała trafia aktualny wzorzec z mózgu rekina, zawierający ślady wielotygodniowej adaptacji do rekiniej architektury. Roman po przebudzeniu początkowo mówi o sobie w liczbie mnogiej i zachowuje się tak, jakby przeszedł dwie graniczne śmierci.
 - **Backstage:** sam transfer powrotny ponownie narusza kurtynę i umożliwia przejście kolejnych demonów. Bohaterowie nie znają tej przyczyny i mogą interpretować pierwsze skutki jedynie neurologicznie, technicznie albo psychologicznie.
+
+## 044 — Powtarzający się common-mode i niezależna relacja Henry'ego
+- **Miejsce w chronologii:** bezpośrednio po pierwszym przebudzeniu Romana, przed pełnym kontrolowanym wywiadem.
+- **Wydarzenie RPG:** Stanley po wypowiedziach Romana nie przyjmuje od razu metafizycznej interpretacji. Najpierw analizuje surowe logi transferu i odkrywa nowy, około dwusekundowy epizod common-mode podczas właściwego zapisu do ludzkiego mózgu Romana, przy stabilnym reaktorze, zasilaniu, sieci i zegarach. Podobny epizod nie występuje podczas samego read-only.
+- **Dodatkowy ślad:** krótki spadek kontrastu na części kamer przypomina notatkę Romana z 13 kwietnia. Morfologia sygnału jest bardzo podobna do wcześniejszego `COMMON-MODE SATURATION — SOURCE UNKNOWN` z przywracania Henry'ego.
+- **Rozmowa z Henrym:** Stanley prowadzi neutralną rozmowę bez użycia słów Romana lub staruszki. Henry niezależnie ponownie używa słowa „kurtyna”, opisuje obecność czegoś po jej drugiej stronie i wspomina, że przy powrocie miał wrażenie, iż coś przeszło wraz z nim na „naszą” stronę. Potwierdza, że wcześniej mówił o tym przede wszystkim Jelenie i nie rozmawiał o tym z Romanem.
+- **Konsekwencje:** Stanley po raz pierwszy ma jednocześnie powtarzalny ślad techniczny oraz trzy niezależne źródła motywu „kurtyny” (staruszka, Henry, Roman). Nadal nie ma dowodu na demony, ale hipoteza pojedynczego majaczenia Romana przestaje wystarczać.
