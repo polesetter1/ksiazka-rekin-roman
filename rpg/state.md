@@ -1,11 +1,11 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–036 zapisane; bazowy beat sceny 37 został już funkcjonalnie wyprzedzony przez wcześniejsze odnalezienie i przechwycenie rekina, więc kampania przechodzi w kierunku sceny 38.
-- Ostatnia sfinalizowana scena: `rpg/scenes/036-stanley-ostrzezenie-staruszki.md`.
-- Bieżący bazowy punkt kanonu: po scenie 36; scena 37 „Odnalezienie Romana” została w RPG zrealizowana wcześniej jako konsekwencja oznaczenia rekina, następny nierozstrzygnięty istotny beat to scena 38, **Zniknięcie Jeleny**.
-- Perspektywa po scenie 036 może przejść ze Stanleya na Jelenę zgodnie z bazowym układem scen.
-- Miejsce: Skyropula / Skyros; oznaczony rekin jest zabezpieczony na Skyropuli w prowizorycznym dużym zbiorniku obiegowym.
+- Status: sceny RPG 001–036 oraz 038 zapisane; scena 37 „Odnalezienie Romana” została funkcjonalnie wyprzedzona przez wcześniejsze odnalezienie i przechwycenie rekina.
+- Ostatnia sfinalizowana scena: `rpg/scenes/038-jelena-znikniecie.md`.
+- Bieżący bazowy punkt kanonu: po scenie 38, **Zniknięcie Jeleny**; kolejny istotny beat źródłowy to scena 39, ale jej element „namierzony Roman” został już skonsumowany przez rozbieżność telemetryczną.
+- Perspektywa może teraz przejść z Jeleny na Stanleya.
+- Miejsce: Skyros / Skyropula. Jelena zniknęła z pokoju w hotelu Nefeli; oznaczony rekin pozostaje zabezpieczony na Skyropuli.
 
 ## Zasada tonu
 - Atmosfera kampanii stopniowo ciemnieje.
@@ -24,7 +24,8 @@
 - Po przechwyceniu wybrał transport bezpośrednio na Skyropulę zamiast Skyros.
 - Po umieszczeniu rekina w zbiorniku dał mu czas na stabilizację i zaakceptował, że bez gotowego reaktora nie będzie natychmiastowego read-only.
 - Zgodził się na zaślepiony, nieinwazyjny protokół behawioralny i bezpieczniejszą architekturę przyszłego odczytu/transferu.
-- Na Skyros spotkał starą żebrzącą kobietę, która po angielsku mówiła o „otwarciu”, „rozerwaniu kurtyny” i konieczności zamknięcia jej, zanim „oni nauczą się drogi”. Stanley uznał to za dziwactwo, plotkę, przypadek albo prowokację. Nie zna związku słowa „kurtyna” z relacją Henry'ego. Nie poszedł za kobietą, nie zgłosił sprawy i nikomu o niej nie powiedział.
+- Na Skyros spotkał starą żebrzącą kobietę, która mówiła o „rozerwaniu kurtyny”. Uznał to za dziwactwo, plotkę, przypadek albo prowokację; nie zna związku słowa „kurtyna” z relacją Henry'ego i nikomu o spotkaniu nie powiedział.
+- Stanley nie wie jeszcze, że Jelena została uprowadzona.
 
 ## Roman Bagrowski
 - Jego wzorzec źródłowy został wymazany z własnego mózgu.
@@ -50,8 +51,13 @@
 - Ma lokalne logi katastrofy i zna anomalię common-mode podczas przywracania Henry'ego.
 - Wie, że Henry użył słowa „kurtyna”, ale nie ujawniła tego Stanleyowi ani zespołowi jako podstawy hipotezy.
 - Nadal nie zna historii Oliwii ani sekretu Stanleya z 13 kwietnia.
-- Po przechwyceniu zwierzęcia podkreśla, że potwierdzono właściwego rekina, lecz nie obecność Romana w jego mózgu.
-- Popiera stabilizację rekina przed odczytem i przygotowuje zaślepiony protokół zachowania oraz kryteria przyszłego read-only.
+- Po przechwyceniu zwierzęcia podkreślała, że potwierdzono właściwego rekina, lecz nie obecność Romana w jego mózgu.
+- Popiera stabilizację rekina przed odczytem i przygotowała zaślepiony protokół zachowania oraz kryteria przyszłego read-only.
+- Wróciła z Markiem na Skyros podczas ulewy. Po rozstaniu przyjęła podwózkę od nieznajomego kierowcy ciemnego starszego volkswagena i wysiadła przy hotelu Nefeli.
+- Z przyzwyczajenia zapamiętała końcówkę numeru rejestracyjnego auta: **731**. W aucie wyczuła mieszaninę mokrej wełny i starego tytoniu.
+- Po zamknięciu się w pokoju i kąpieli odkryła, że drzwi są uchylone. W środku był wysoki, masywny mężczyzna o sylwetce odpowiadającej kierowcy. Jelena zauważyła długą jasną bliznę na jego prawej dłoni od podstawy kciuka w stronę nadgarstka.
+- Napastnik zaskoczył Jelenę, stłumił jej krzyk i obezwładnił ją od tyłu; Jelena straciła przytomność. Nie wiadomo jej, kim jest napastnik, jak dostał się do pokoju ani dokąd ją zabiera.
+- Potencjalne obiektywne tropy po zniknięciu: logi dostępu elektronicznego do pokoju, monitoring hotelu/okolicy, samochód z końcówką rejestracji 731, a po ewentualnym powrocie Jeleny — blizna napastnika i zapach auta/odzieży.
 
 ## Rekin
 - Został oznaczony nadajnikiem telemetrycznym podczas katastrofy, odnaleziony podczas pierwszej operacji i wizualnie potwierdzony.
@@ -85,8 +91,10 @@
 - 034–034b: rekin został odnaleziony, przechwycony żywy i przewieziony bezpośrednio na Skyropulę znacznie wcześniej niż w bazowej chronologii.
 - 035: Stanley daje rekinowi czas na stabilizację zamiast natychmiastowego odczytu; zespół projektuje bezpieczniejszą procedurę i zaślepione testy.
 - 036: Stanley słyszy ostrzeżenie staruszki z motywem „kurtyny”, ale jednoznacznie je racjonalizuje i nikomu o nim nie mówi.
+- 038: główny beat zniknięcia Jeleny pozostaje zgodny z kanonem; adaptacja RPG zachowuje fizyczne, racjonalnie możliwe porwanie i dodaje drobne potencjalne tropy wynikające z uwagi Jeleny.
 
 ## Aktywne wątki
+- Odkrycie zniknięcia Jeleny i reakcja zespołu.
 - Potwierdzenie lub odrzucenie hipotezy, że wzorzec Romana znajduje się w rekinie.
 - Zaślepiony, nieinwazyjny protokół zachowania rekina przed read-only.
 - Ograniczony czas bezpiecznego utrzymania żarłacza w prowizorycznym zbiorniku.
@@ -100,6 +108,6 @@
 - Staruszka i jej ostrzeżenie pozostają niezgłoszonym, prywatnie zignorowanym epizodem Stanleya.
 
 ## Następny punkt
-- Bazowa scena 37 „Odnalezienie Romana” została fabularnie skonsumowana wcześniej przez rozbieżność z nadajnikiem i przechwycenie rekina.
-- Następny ważny kanoniczny beat to `novel/scenes/038-znikniecie-jeleny.md`.
-- Przy adaptacji sceny 038 trzeba zachować przyczynowość RPG: Jelena nie wraca już z odkrycia rekina, bo rekin jest na Skyropuli. Można natomiast zachować jej powrót na Skyros/hotel po pracy i kanoniczne zagrożenie podczas tej drogi, o ile wynika ono naturalnie z bieżącej sytuacji i gracz otrzyma realny punkt decyzyjny przed ryzykowną decyzją.
+- Perspektywa powinna przejść do Stanleya i ujawnić mu, że Jelena nie wróciła / nie zgłosiła się do pracy.
+- Bazowa scena 39 zawiera sen Stanleya i odkrywanie nieobecności Jeleny, ale element ponownego namierzenia Romana jest już nieaktualny, bo rekin znajduje się na Skyropuli.
+- Należy zachować separację wiedzy: Stanley nie zna szczegółów porwania, numeru 731 ani blizny, dopóki nie zostaną ujawnione przez obiektywne ślady lub samą Jelenę.
