@@ -14,4 +14,6 @@ Równolegle analiza monitoringu Skyropuli ujawnia niepokojący wzorzec zgodny z 
 
 Stanley prywatnie pamięta również wcześniejszą anomalię obrazu z 13 kwietnia, lecz nadal jej nie ujawnia.
 
-Scena kończy się nowym problemem harmonogramowym. Stanley musi zdecydować, czy oficjalnie przyjąć konserwatywny termin pełnej odbudowy i walidacji (około 10–14 dni), czy równolegle autoryzować szybki bypass dla infrastruktury pomocniczej, aby odzyskać część prac w ciągu 36–48 godzin, bez dopuszczania go do reaktora ani transferu.
+Stanley odrzuca pomysł tymczasowego bypassu. Skoro niezależne układy bezpiecznie utrzymują ciało Romana i obieg rekina, nie chce rozpraszać ludzi Moore'a i Dawsona ani dokładać do instalacji kolejnej prowizorycznej warstwy. Cały dostępny wysiłek techniczny ma pójść w docelową odbudowę, pełną walidację i przywrócenie bezpiecznej konfiguracji. Prace pomocnicze mogą być prowadzone wyłącznie wtedy, gdy nie odbierają zasobów ścieżce krytycznej odbudowy.
+
+Oficjalny harmonogram przyjmuje więc pełną odbudowę w przedziale około 10–14 dni, bez skrótu przez bypass. Do czasu walidacji nie będzie read-only ani transferu.
