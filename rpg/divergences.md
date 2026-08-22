@@ -64,3 +64,17 @@
 - **Rozmowa z Henrym:** Stanley prowadzi neutralną rozmowę bez użycia słów Romana lub staruszki. Henry niezależnie ponownie używa słowa „kurtyna”, opisuje obecność czegoś po jej drugiej stronie i wspomina, że przy powrocie miał wrażenie, iż coś przeszło wraz z nim na „naszą” stronę. Potwierdza, że wcześniej mówił o tym przede wszystkim Jelenie i nie rozmawiał o tym z Romanem.
 - **Decyzja gracza:** Stanley zachowuje pełny pakiet dla siebie do czasu uzyskania większej pewności. Moore zna wyłącznie techniczną anomalię common-mode i bada ją jako potencjalny problem fizyczny/sprzętowy; Paxton nie dostaje informacji o zbieżności relacji świadków, staruszce ani notatce z 13 kwietnia.
 - **Konsekwencje:** Stanley po raz pierwszy ma jednocześnie powtarzalny ślad techniczny oraz trzy niezależne źródła motywu „kurtyny” (staruszka, Henry, Roman), ale tworzy prywatną warstwę śledztwa i nie dopuszcza jeszcze wojska do interpretacji zjawiska. Nadal nie ma dowodu na demony, lecz hipoteza pojedynczego majaczenia Romana przestaje wystarczać.
+
+## 045 — Pierwszy kontrolowany wywiad Romana
+- **Miejsce w chronologii:** po przebudzeniu Romana, przed powrotem Jeleny.
+- **Wydarzenie RPG:** Roman odzyskuje autobiograficzną tożsamość, wspomnienia z pobytu w rekinie i stopniowo sprawność. Nadal zdarza mu się liczba mnoga oraz fantomowe odczucia rekiniego ciała. W kontrolowanym wywiadzie nie powtarza spontanicznie pełnej relacji o kurtynie.
+- **Decyzja gracza:** Stanley nie mówi Romanowi prawdy o zaginięciu Jeleny; obiecuje wyjaśnienie później, gdy Roman będzie stabilniejszy.
+
+## 046 — Odnalezienie Jeleny i konflikt o pierwszy debrief
+- **Miejsce w chronologii:** adaptacja scen 52–53, których źródłowe pliki są TODO.
+- **Wydarzenie RPG:** Jelena zostaje odnaleziona żywa przy bocznej drodze w północno-zachodniej części Skyros, na obszarze wcześniej wielokrotnie przeszukiwanym, około dwóch tygodni po zaginięciu.
+- **Decyzja gracza:** Stanley odrzuca bierne oczekiwanie i natychmiast jedzie na Skyros, próbując wymusić osobisty dostęp do Jeleny.
+- **Wynik:** Paxton nie dopuszcza go do pokoju podczas pierwszego wojskowego debriefu, lecz Stanley wywalcza możliwość obserwacji bez zadawania pytań i późniejsze krótkie spotkanie.
+- **Relacja Jeleny:** potwierdza ona ciemnego starszego volkswagena, końcówkę tablicy **731**, zapach mokrej wełny i starego tytoniu oraz bliznę na prawej dłoni napastnika. Pamięć urywa się po ataku w hotelu i wraca dopiero przy przebudzeniu obok drogi.
+- **Nowa anomalia:** Jelena subiektywnie uważa, że minęło najwyżej kilka godzin i podaje datę odpowiadającą porankowi po porwaniu, mimo że faktycznie minęło około dwóch tygodni. Nie ma wspomnień z całego okresu pośredniego. To nadal może mieć wyjaśnienie farmakologiczne, traumatyczne lub neurologiczne.
+- **Konsekwencje:** Paxton zatrzymuje Jelenę do dalszych badań medycznych, toksykologicznych, kryminalistycznych i bezpieczeństwa. Stanley musi zdecydować, czy zaakceptować tę kwarantannę, czy próbować zabrać ją na Skyropulę.
