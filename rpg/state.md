@@ -1,11 +1,11 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–036, 038–044 zapisane; scena 37 „Odnalezienie Romana” została funkcjonalnie wyprzedzona przez wcześniejsze namierzenie i przechwycenie oznaczonego rekina.
-- Ostatnia sfinalizowana scena: `rpg/scenes/044-stanley-common-mode-i-marshall.md`.
-- Bieżący bazowy punkt kanonu: przejście od sceny 49 `Przebudzenie Romana` w stronę sceny 51 `Wywiad z Romanem`; źródłowa scena 50 jest TODO i może zostać pominięta lub zaadaptowana zależnie od stanu Romana.
+- Status: sceny RPG 001–036, 038–045 zapisane; scena 37 „Odnalezienie Romana” została funkcjonalnie wyprzedzona przez wcześniejsze namierzenie i przechwycenie oznaczonego rekina.
+- Ostatnia sfinalizowana scena: `rpg/scenes/045-stanley-wywiad-romana-i-przemilczenie-jeleny.md`.
+- Bieżący bazowy punkt kanonu: po scenie 51 `Wywiad z Romanem`, przed sceną 52 `Odnalezienie Jeleny`.
 - Perspektywa bieżąca: Stanley Hutchins.
-- Miejsce: Skyropula; Roman po transferze powrotnym pozostaje pod opieką medyczną, a Stanley właśnie połączył nowe dane techniczne z niezależną relacją Henry'ego.
+- Miejsce: Skyropula; Roman odzyskuje sprawność po transferze, a Stanley utrzymuje prywatne śledztwo dotyczące anomalii transferowych i jednocześnie nie ujawnia Romanowi prawdy o zaginięciu Jeleny.
 
 ## Zasada tonu
 - Atmosfera kampanii stopniowo ciemnieje.
@@ -34,6 +34,8 @@
 - Stanley nadal nie przyjął hipotezy demonów, ale prosta interpretacja jako pojedyncze majaczenie Romana przestała być wystarczająca.
 - Zgodnie z decyzją gracza Stanley zachowuje pełny pakiet dla siebie do czasu uzyskania większej pewności. Moore zna jedynie techniczną anomalię common-mode i ma badać możliwe sprzężenia, uziemienia, ekrany, izolację i synchronizację. Paxton nie zna zbieżności relacji Henry'ego i Romana, ostrzeżenia staruszki ani notatki z 13 kwietnia.
 - Stanley świadomie tworzy prywatne śledztwo: nie chce skażać dalszych relacji świadków sugestią ani dopuścić, by wojsko potraktowało niepewną interpretację jako fakt operacyjny.
+- W kontrolowanym wywiadzie Roman potwierdził liczne wspomnienia z pobytu w rekinie i zachowaną autobiograficzną tożsamość, ale nie powtórzył na żądanie pełnej relacji o kurtynie.
+- Gdy Roman zauważył nieobecność Jeleny i zażądał wyjaśnienia, Stanley nie skłamał, lecz odmówił szczegółów i obiecał, że powie mu wszystko później, gdy jego stan będzie stabilniejszy.
 
 ## Jelena Ivanova
 - Zna lokalne logi katastrofy, wcześniejszą anomalię common-mode i pełną relację Henry'ego o „kurtynie”; przed zaginięciem nie przekazała Stanleyowi tego konkretnego skojarzenia.
@@ -47,11 +49,12 @@
 - Spędził tygodnie funkcjonując w mózgu i ciele rekina. Pełny aktualny wzorzec zawiera nie tylko przedkatastroficznego Romana, ale też ślady doświadczeń i adaptacji do rekiniej architektury sensorycznej i neuronalnej.
 - Transfer powrotny przywrócił ten aktualny wzorzec do biologicznego ciała Romana.
 - Roman przeżył dwie graniczne „śmierci”: pierwotny erase własnego mózgu oraz późniejsze zakończenie istnienia w rekinie podczas erase źródła po powrotnym zapisie.
-- Na początku przebudzenia spontanicznie używa liczby mnogiej („my”, „nas”).
-- Rozpoznaje Stanleya i posiada dostęp do autobiograficznej tożsamości, ale jego integracja jaźni i pamięci po pobycie w rekinie pozostaje nieoceniona.
-- W pierwszych wypowiedziach opisuje wodę i rekinie zmysły jako realne wspomnienia, mówi, że z czasem nie wiedział, gdzie kończy się „on” i zaczyna ciało rekina, oraz twierdzi, że pamięta obie śmierci.
-- Użył słowa „kurtyna”, opisał „ich” po drugiej stronie i powiedział, że „oni wiedzą, kiedy otwieramy” oraz że podczas transferu „coś przyszło z nami”.
-- Lekarze przerwali rozmowę i uspokoili go farmakologicznie ze względu na przeciążenie i wysokie pobudzenie.
+- Na początku przebudzenia spontanicznie używa liczby mnogiej („my”, „nas”). Liczba mnoga stopniowo miesza się z pojedynczą, ale nie zniknęła całkowicie.
+- Rozpoznaje ludzi, miejsce, własną biografię i poprawnie przechodzi podstawowe testy poznawcze. Jego dawny ironiczny, rzeczowy sposób mówienia stopniowo wraca.
+- W pierwszych wypowiedziach opisał wodę i rekinie zmysły jako realne wspomnienia, utratę granicy między własnym „ja” a rekinim ciałem, dwie śmierci, ciemną „kurtynę”, obecność „ich” oraz przekonanie, że coś przeszło wraz z transferem.
+- W późniejszym kontrolowanym wywiadzie bez sugestii opisuje pobyt w rekinie, polowanie i momenty zaniku ludzkiej tożsamości, ale odmawia szczegółowego opisu pierwszego erase i nie powtarza spontanicznie całej relacji o kurtynie.
+- Miewa fantomowe odczucia rekiniego ciała, co może mieć neurologiczne wyjaśnienie jako utrwalony schemat ciała po transferze międzygatunkowym.
+- Wie, że rekin zmarł po erase, ale nie wie jeszcze, że Jelena została prawdopodobnie porwana. Widzi, że Stanley coś przed nim ukrywa; Stanley obiecał mu pełne wyjaśnienie później.
 
 ## Rekin
 - Oznaczony żarłacz był biologicznym nosicielem wzorca Romana.
@@ -64,7 +67,7 @@
 - Wcześniej opisał Jelenie oddzielenie od ciała, panoramiczną percepcję, ciemną „kurtynę” i obecność bytów nazwanych wtedy „duchami”.
 - Surowe logi powrotnego zapisu Henry'ego zawierają `COMMON-MODE SATURATION — SOURCE UNKNOWN`.
 - Po urlopie i lżejszych zadaniach funkcjonuje lepiej i pomagał przy synchronizacji read-only oraz pełnej procedurze powrotnej Romana.
-- Zgodnie z ostatnią decyzją gracza Stanley rozmawia z nim ponownie bez sugerowania treści. Henry współpracuje i spontanicznie powtarza motyw „kurtyny”.
+- Zgodnie z decyzją gracza Stanley rozmawiał z nim ponownie bez sugerowania treści. Henry współpracował i spontanicznie powtórzył motyw „kurtyny”.
 - Henry obecnie mówi ostrożniej niż wcześniej o „duchach”: uważa to słowo za interpretację, ale podtrzymuje doświadczenie obecności czegoś za kurtyną i wrażenie, że coś przeszło razem z nim podczas powrotu.
 - Potwierdza, że nie rozmawiał o tym z Romanem.
 - Nie wie o prywatnej anomalii Stanleya z 13 kwietnia ani o ostrzeżeniu staruszki.
@@ -99,9 +102,10 @@
 - 042: Stanley przeprowadza read-only bez Jeleny i uzyskuje pierwszy obiektywny dowód obecności wzorca Romana w rekinie.
 - 043: po regeneracji rekina Stanley wybiera jedną ciągłą procedurę read→write→verify→erase. Roman wraca do biologicznego ciała z aktualnym wzorcem zawierającym ślady rekiniej adaptacji; rekin umiera po erase. Transfer powrotny ponownie narusza kurtynę backstage.
 - 044: Stanley odkrywa powtórzenie common-mode podczas właściwego transferu i niezależne powtórzenie motywu „kurtyny” przez Henry'ego, a następnie zachowuje pełny pakiet dla siebie do czasu uzyskania większej pewności.
+- 045: Roman przechodzi pierwszy kontrolowany wywiad i wykazuje zachowaną tożsamość oraz liczne wspomnienia z pobytu w rekinie. Stanley świadomie wstrzymuje przed nim prawdę o zaginięciu Jeleny, obiecując wyjaśnienie później.
 
 ## Aktywne wątki
-- Pełny kontrolowany wywiad i ocena stanu Romana po transferze, w tym jego liczba mnoga, pamięć dwóch śmierci i relacja o kurtynie.
+- Dalsza rehabilitacja i ocena stanu Romana, w tym liczba mnoga, rekinie ślady sensoryczne i wspomnienia dwóch śmierci.
 - Poszukiwanie Jeleny i urywający się konwencjonalny ślad.
 - Ustalenie, czy zanik kamer w hotelu i na Skyropuli ma związek z powtarzającą się anomalią common-mode / utratą kontrastu.
 - Prywatny sekret Stanleya: notatka Romana z 13 kwietnia, ostrzeżenie staruszki oraz zbieżność relacji Henry'ego i Romana.
@@ -112,5 +116,5 @@
 - Tożsamość i los nieznajomego przejętego przez Paxtona.
 
 ## Następny punkt
-- Stanley zdecydował, że nie ujawni pełnego pakietu Moore'owi ani Paxtonowi do czasu uzyskania większej pewności. Moore bada jedynie techniczny common-mode.
-- Roman pozostaje pod opieką medyczną po pierwszym przebudzeniu. Następny istotny krok to kontrolowany wywiad i ocena poznawcza Romana bez sugerowania mu relacji Henry'ego, staruszki ani interpretacji metafizycznej.
+- Stanley obiecał Romanowi, że później wyjaśni nieobecność Jeleny, ale na razie nie powiedział o jej zniknięciu ani o podejrzeniu porwania.
+- Bazowy kolejny beat to scena 52 `Odnalezienie Jeleny`; źródło jest TODO, więc sposób jej powrotu należy rozegrać zgodnie z dotychczasowym stanem kampanii i zasadą stopniowego narastania grozy.
