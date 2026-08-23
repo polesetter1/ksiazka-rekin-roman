@@ -67,7 +67,7 @@
 - Stanley akceptuje 24-godzinną wojskową kwarantannę zamiast zabierać Jelenę od razu na Skyropulę.
 - Toksykologia nie wykrywa środka wiarygodnie tłumaczącego dwutygodniową lukę pamięci.
 - Kryminalistyka nie tworzy konwencjonalnej drogi do miejsca przetrzymywania.
-- W drugim neutralnym debriefie Jelena odzyskuje tylko fragment sensoryczny: ciśnienie w uszach/głowie i metaliczny posmak.
+- W drugim neutralnym debriefie Jelena odzyskuje fragment sensoryczny: ciśnienie w uszach/głowie i metaliczny posmak.
 - Testy aparatury bez żywego transferu nie odtwarzają common-mode.
 - Po dobie Paxton pozwala Jelenie wrócić na Skyropulę.
 - Roman reaguje na jej obecność metalicznym smakiem/naciskiem kojarzącym mu się z drugim erase i „tamtą stroną”, ale nie twierdzi, że Jelena jest kimś innym.
@@ -103,8 +103,18 @@
 - Zapis Boyle→młode ciało przechodzi pełną walidację. Przez krótki czas istnieją dwa aktywne nośniki wzorca Boyle'a: młode ciało po write i oryginalne chore ciało.
 - Następnie Stanley autoryzuje erase wzorca Boyle'a w starym ciele i write zapisanej mapy więźnia.
 - Drugi zapis także przechodzi pełną walidację. Technicznie swap kończy się sukcesem: Boyle znajduje się w młodym ciele, więzień w ciele Boyle'a.
-- Więzień odzyskuje jedynie krótki kontakt; wyniszczony organizm Boyle'a po wcześniejszym zatrzymaniu krążenia i kolejnej procedurze gwałtownie się załamuje. Więzień umiera mimo resuscytacji.
-- Kampania funkcjonalnie wraca do źródłowego beatu sceny 62 — śmierci więźnia w ciele Boyle'a — lecz dochodzi do niego po wcześniejszej nieudanej próbie i sekwencyjnym swapie.
+- Więzień odzyskuje jedynie krótki kontakt; wyniszczony organizm Boyle'a gwałtownie się załamuje. Więzień umiera mimo resuscytacji.
 - Common-mode i utrata kontrastu kamer ponownie towarzyszą właściwym write.
 - Backstage: oba nowe write ponownie naruszają kurtynę i przepuszczają kolejne byty/demony.
-- Następny etap kampanii odpowiada źródłowej scenie 63: zjawiska przechodzą z subtelnych anomalii w jawny kryzys w ośrodku.
+
+## 052 — Ewakuacja Skyropuli
+- Po śmierci więźnia światła w kompleksie gasną mimo działających szyn zasilających; pojawia się potężny ryk oraz pierwsze jawne, nienaturalne ciemne sylwetki.
+- Stanley natychmiast zarządza pełną ewakuację. Jelenie poleca wyciągnąć Romana, Paxtonowi pozostawia Boyle'a, Witchinsa i VIP-ów, a sam biegnie do Henry'ego.
+- Stanley znajduje Henry'ego martwego z ciężkim, niewyjaśnionym urazem klatki piersiowej. Widzi z bliska nienaturalną sylwetkę za szybą i po raz pierwszy przestaje traktować wszystko jako możliwą awarię aparatury.
+- **Decyzja gracza:** Stanley nie wraca po Paxtona ani VIP-ów. Wyprowadza wszystkich, których może, uznając, że jeśli zawodowy żołnierz nie zdoła uratować siebie i Boyle'a, Stanley tym bardziej mu nie pomoże.
+- Główna grupa — Jelena, Roman, Moore, Dawson, technicy, część medyczna i ochrona — rusza tunelem serwisowym do nabrzeża.
+- Ewakuacja jest częściowo udana: systemy awaryjne zawodzą, ciemne sylwetki docierają również do bocznych ciągów, a jeden technik zostaje ciężko ranny, lecz zabrany z grupą.
+- Paxton sam przebija się ze skrzydła medycznego z Boyle'em i Witchinsem. Jeden z jego ludzi nie wraca, drugi jest ranny, ale VIP-owie docierają do nabrzeża.
+- Jedna łódź techniczna nie daje się uruchomić, więc ewakuowani dzielą się między trzy sprawne jednostki.
+- Łodzie odpływają od Skyropuli w stronę Skyros. Strzały ochrony nie dają pewności, czy ciemne sylwetki można skutecznie zranić.
+- Funkcjonalnie kampania przechodzi do źródłowej sceny 65 `Dotarcie do Skyros`, a następnie 66 `Ucieczka Cessną`.
