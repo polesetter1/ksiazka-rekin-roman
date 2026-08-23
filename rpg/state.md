@@ -1,120 +1,107 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–036, 038–046 zapisane; scena 37 „Odnalezienie Romana” została funkcjonalnie wyprzedzona przez wcześniejsze namierzenie i przechwycenie oznaczonego rekina.
-- Ostatnia sfinalizowana scena: `rpg/scenes/046-stanley-powrot-jeleny-i-konflikt-z-paxtonem.md`.
-- Bieżący bazowy punkt kanonu: scena 52 `Odnalezienie Jeleny` / wejście w scenę 53 `Przesłuchanie Jeleny przez wojsko`; źródła 52–55 są TODO, więc przebieg opiera się na stanie RPG.
+- Status: sceny RPG 001–036, 038–047 zapisane; scena 37 została funkcjonalnie wyprzedzona przez wcześniejsze namierzenie i przechwycenie oznaczonego rekina.
+- Ostatnia sfinalizowana scena: `rpg/scenes/047-stanley-kwarantanna-jeleny-i-powrot-na-skyropule.md`.
+- Bieżący punkt kanonu: po scenach 52–54 (`Odnalezienie Jeleny`, `Przesłuchanie`, `Wypuszczenie`), wejście w 55–56; źródła 52–56 są TODO, więc przebieg opiera się na stanie RPG.
 - Perspektywa bieżąca: Stanley Hutchins.
-- Miejsce: Skyros, zabezpieczony obiekt używany przez Paxtona do pierwszego debriefu Jeleny.
+- Miejsce: Skyropula; Jelena wróciła po 24-godzinnej kwarantannie, Roman nadal przechodzi rehabilitację po transferze.
 
 ## Zasada tonu
-- Atmosfera kampanii stopniowo ciemnieje.
-- Najpierw występują racjonalizowalne anomalie i niepokojące zbieżności; później mogą stawać się trudniejsze do zignorowania.
-- Postacie nie otrzymują metafizycznej prawdy bez dowodów z ich perspektywy.
+- Atmosfera stopniowo ciemnieje.
+- Najpierw występują racjonalizowalne anomalie i zbieżności; później mogą stawać się trudniejsze do zignorowania.
+- Postacie nie otrzymują prawdy metafizycznej bez dowodów dostępnych z ich perspektywy.
 
 ## Backstage / prawda kampanii
-- Jelena została porwana przez demony; z perspektywy bohaterów wyglądało to jak profesjonalne porwanie, którego konwencjonalny ślad urwał się niemal całkowicie.
-- Każdy właściwy transfer narusza „kurtynę” i może umożliwiać przejście bytów/demonów. Transfer powrotny Romana ponownie naruszył kurtynę i uwolnił kolejne demony.
-- Stanley, Paxton, lekarze i pozostali nie znają tej prawdy i nie mogą przyjąć metafizycznego wyjaśnienia bez dostępnych im dowodów.
+- Jelena została porwana przez demony. Konwencjonalnie wyglądało to jak profesjonalne porwanie, którego ślad praktycznie znika.
+- Każdy właściwy transfer narusza „kurtynę” i może umożliwiać przejście bytów/demonów.
+- Transfer powrotny Romana ponownie naruszył kurtynę i uwolnił kolejne demony.
+- Powrót Jeleny ma związek z demoniczną stroną wydarzeń, ale Stanley, Paxton i pozostali nie znają tej prawdy.
 
 ## Stanley Hutchins
-- Zna wcześniejszy `COMMON-MODE SATURATION — SOURCE UNKNOWN` z powrotnego zapisu Henry'ego.
-- Odnalazł tajną wiadomość Romana i notatki z 13 kwietnia o około dwusekundowym common-mode przy pustej komorze i równoczesnym zakłóceniu obrazu kamer. Surowy plik z 13 kwietnia jest uszkodzony/niekompletny; Stanley nadal zachowuje istnienie tych notatek dla siebie.
-- Na Skyros usłyszał od starej żebraczki ostrzeżenie o „rozerwaniu kurtyny”; nikomu o spotkaniu nie powiedział.
-- Odkrył zniknięcie Jeleny, sprawdził monitoring, a następnie wezwał Paxtona. Kamera przy pokoju Jeleny została celowo wyłączona praktycznie dokładnie przy użyciu credentialu MASTER/SERVICE.
-- Wybrał pełną odbudowę bez bypassu, zewnętrzną ekipę do zagrody morskiej, natychmiastowy read-only bez Jeleny i następnie jedną ciągłą procedurę pełnego transferu powrotnego.
-- Pełny odczyt z rekina udało się ukończyć. Zapis do biologicznego mózgu Romana przeszedł niezależne kryteria jakości i dopiero potem Stanley dopuścił erase źródła.
-- Roman po wybudzeniu rozpoznał Stanleya, spontanicznie mówił w liczbie mnogiej, opisał dwie „śmierci”, ciemną „kurtynę”, obecność „ich” po drugiej stronie i stwierdził, że podczas transferu „coś przyszło z nami”.
-- Stanley najpierw sprawdził logi pełnego transferu, a dopiero potem porozmawiał z Marshallem, unikając sugerowania słów Romana i staruszki.
-- W logach pełnego transferu znalazł nowy około dwusekundowy epizod common-mode podczas właściwego zapisu do ludzkiego mózgu Romana. Podczas samego read-only i pełnego odczytu źródła z rekina podobnego epizodu nie było.
-- Nowy common-mode obejmował wiele niezależnych kanałów obu torów przy stabilnych zegarach, checksumach, sieci, reaktorze i buforach energetycznych. Równolegle część kamer odnotowała krótki spadek kontrastu.
-- Morfologia anomalii jest bardzo podobna do wcześniejszego `COMMON-MODE SATURATION — SOURCE UNKNOWN` z przywracania Henry'ego i jakościowo przypomina notatkę z 13 kwietnia.
-- Henry w neutralnej rozmowie niezależnie użył słowa „kurtyna”, opisał obecność czegoś po jej drugiej stronie i powiedział, że przy własnym powrocie miał wrażenie, iż coś przeszło wraz z nim na „naszą” stronę. Potwierdził, że nie rozmawiał o tym z Romanem.
-- Stanley nadal nie przyjął hipotezy demonów, ale prosta interpretacja jako pojedyncze majaczenie Romana przestała być wystarczająca.
-- Zgodnie z decyzją gracza zachowuje pełny pakiet dla siebie. Moore zna jedynie techniczną anomalię common-mode i bada możliwe sprzężenia, uziemienia, ekrany, izolację i synchronizację. Paxton nie zna zbieżności relacji Henry'ego i Romana, ostrzeżenia staruszki ani notatki z 13 kwietnia.
-- W kontrolowanym wywiadzie Roman potwierdził liczne wspomnienia z pobytu w rekinie i zachowaną autobiograficzną tożsamość, ale nie powtórzył na żądanie pełnej relacji o kurtynie.
-- Gdy Roman zauważył nieobecność Jeleny, Stanley nie skłamał, lecz odmówił szczegółów i obiecał, że powie mu wszystko później.
-- Po odnalezieniu Jeleny Stanley natychmiast pojechał na Skyros i próbował wymusić osobisty dostęp. Paxton nie pozwolił mu uczestniczyć w pierwszym debriefie, ale Stanley wywalczył możliwość obserwowania go bez zadawania pytań.
-- Stanley nadal nie ujawnił Jelenie prywatnego pakietu anomalii transferowych.
+- Zna `COMMON-MODE SATURATION — SOURCE UNKNOWN` z przywracania Henry'ego.
+- Zna prywatną notatkę Romana z 13 kwietnia: około dwusekundowy common-mode przy pustej komorze plus krótka utrata kontrastu kamer; surowy plik jest uszkodzony. Nikomu tego nie ujawnił.
+- Na Skyros usłyszał od starej żebraczki ostrzeżenie o „rozerwaniu kurtyny”; nikomu o tym nie powiedział.
+- Po katastrofie przeprowadził pełną odbudowę bez bypassu, później read-only na rekinie i jedną ciągłą procedurę read→write→verify→erase przy powrotnym transferze Romana.
+- Logi transferu Romana zawierają nowy około dwusekundowy common-mode podczas właściwego write, ale nie podczas zwykłego read-only. Zegary, checksumy, sieć, reaktor i bufory były stabilne. Część kamer odnotowała równoczesny spadek kontrastu.
+- Henry w neutralnej rozmowie niezależnie użył słowa „kurtyna” i podtrzymał wrażenie, że coś przeszło wraz z nim „na naszą stronę”. Potwierdził, że nie mówił o tym Romanowi.
+- Roman po przebudzeniu również użył słowa „kurtyna”, mówił o „nich” po drugiej stronie i o czymś, co „przyszło z nami”.
+- Stanley nie przyjął hipotezy demonów, ale pojedyncze majaczenie przestało mu wystarczać jako wyjaśnienie.
+- Zgodnie z decyzją gracza zachowuje pełny pakiet dla siebie. Moore zna jedynie techniczny common-mode. Paxton nie zna zbieżności relacji świadków, staruszki ani notatki z 13 kwietnia.
+- Stanley świadomie prowadzi prywatne śledztwo i nie chce skażać świadków sugestią.
+- Po odnalezieniu Jeleny natychmiast pojechał na Skyros. Paxton dopuścił go jedynie do obserwacji pierwszego debriefu i krótkiego nadzorowanego spotkania.
+- Stanley zaakceptował 24-godzinną kwarantannę Jeleny zamiast próbować zabrać ją natychmiast na Skyropulę.
+- Nadal nie ujawnił Jelenie pełnego prywatnego pakietu anomalii.
 
 ## Jelena Ivanova
-- Przed zaginięciem znała lokalne logi katastrofy, wcześniejszą anomalię common-mode i pełną relację Henry'ego o „kurtynie”; nie przekazała Stanleyowi tego konkretnego skojarzenia.
-- Po odnalezieniu potwierdziła w pierwszym debriefie: ciemnego starszego volkswagena, końcówkę tablicy **731**, zapach mokrej wełny i starego tytoniu, długą jasną bliznę na prawej dłoni napastnika od podstawy kciuka ku nadgarstkowi, wejście do hotelu, uchylone drzwi i sam atak.
-- Jej pamięć urywa się po obezwładnieniu w pokoju. Następne wspomnienie to przebudzenie przy bocznej drodze w północno-zachodniej części Skyros.
-- Rejon odnalezienia był wcześniej wielokrotnie przeszukiwany, w tym poprzedniego dnia.
-- Jelena subiektywnie sądzi, że od ataku minęło najwyżej kilka godzin i w pierwszym debriefie podaje datę odpowiadającą porankowi po zaginięciu, mimo że faktycznie minęło około dwóch tygodni.
-- Nie pamięta miejsca przetrzymywania, karmienia, pojenia, transportu ani rozmów. Medycznie ma odwodnienie, osłabienie i powierzchowne otarcia, ale brak ciężkich obrażeń; sam stan nie dowodzi dwutygodniowego pozbawienia opieki i dopuszcza możliwość, że była karmiona/pojona bez zachowanej pamięci.
-- Rozpoznaje Stanleya, mówi rzeczowo i precyzyjnie. Dowiedziała się od niego, że Roman został odnaleziony i przywrócony do własnego ciała. Pytała o liczbę właściwych transferów wykonanych podczas jej nieobecności i o stan Romana.
-- Pozostaje obecnie pod kontrolą Paxtona do dalszych badań medycznych, toksykologicznych, kryminalistycznych i bezpieczeństwa.
+- Przed zaginięciem znała wcześniejszy common-mode i pełną relację Henry'ego o „kurtynie”, ale nie przekazała Stanleyowi tego skojarzenia.
+- Przed porwaniem zapamiętała: ciemnego starszego volkswagena, końcówkę tablicy **731**, zapach mokrej wełny i starego tytoniu, dużego napastnika oraz długą jasną bliznę na jego prawej dłoni od podstawy kciuka ku nadgarstkowi.
+- Pamięć urywa się po ataku w hotelu. Następne pełne wspomnienie to przebudzenie przy bocznej drodze w północno-zachodniej części Skyros.
+- Rejon odnalezienia był wcześniej wielokrotnie przeszukiwany, również poprzedniego dnia.
+- Jelena subiektywnie sądziła, że od ataku minęło najwyżej kilka godzin; faktycznie minęło około dwóch tygodni.
+- Nie pamięta miejsca przetrzymywania, karmienia, pojenia, transportu ani rozmów.
+- Toksykologia po odnalezieniu nie wykazała środka, który wiarygodnie tłumaczyłby prawie dwutygodniową lukę pamięci.
+- Kryminalistyka ubrania i obuwia dała przede wszystkim świeże mikroślady zgodne z miejscem odnalezienia, bez użytecznego tropu prowadzącego do miejsca przetrzymywania; operacyjnie wygląda to tak, jakby została podrzucona krótko przed znalezieniem.
+- W drugim neutralnym debriefie odzyskała tylko krótki fragment sensoryczny tuż przed przebudzeniem: silne ciśnienie w uszach/głowie i metaliczny posmak, bez obrazu miejsca, osoby lub pojazdu.
+- Po 24 godzinach Paxton nie znalazł podstaw do dalszej izolacji i pozwolił jej wrócić na Skyropulę.
+- Jelena zachowuje dawny chłodny, precyzyjny i ironiczny sposób mówienia. Wie, że Roman został odnaleziony i przywrócony do własnego ciała. Wie też, że podczas jej nieobecności wykonano jeden właściwy write; pytała o common-mode, lecz Stanley nie podał jej pełnego wyniku.
 
 ## Roman Bagrowski
-- Pierwotny wzorzec Romana został podczas katastrofy wymazany z jego biologicznego mózgu i przeniesiony do oznaczonego rekina.
-- Spędził tygodnie funkcjonując w mózgu i ciele rekina. Pełny aktualny wzorzec zawiera przedkatastroficznego Romana oraz ślady doświadczeń i adaptacji do rekiniej architektury sensorycznej i neuronalnej.
-- Transfer powrotny przywrócił ten aktualny wzorzec do biologicznego ciała Romana.
-- Roman przeżył dwie graniczne „śmierci”: pierwotny erase własnego mózgu oraz późniejsze zakończenie istnienia w rekinie podczas erase źródła po powrotnym zapisie.
-- Liczba mnoga („my”, „nas”) stopniowo miesza się z pojedynczą, ale nie zniknęła całkowicie.
-- Rozpoznaje ludzi, miejsce i własną biografię; jego dawny ironiczny, rzeczowy sposób mówienia wraca.
-- Opisał wodę i rekinie zmysły jako realne wspomnienia, utratę granicy między własnym „ja” a rekinim ciałem, dwie śmierci, ciemną „kurtynę”, obecność „ich” oraz przekonanie, że coś przeszło wraz z transferem.
+- Pierwotny wzorzec Romana został podczas katastrofy przeniesiony do oznaczonego rekina, a jego ludzkie ciało utrzymywano biologicznie przy życiu.
+- Spędził tygodnie funkcjonując w mózgu i ciele rekina. Aktualny wzorzec zawiera ślady rekiniej architektury sensorycznej i doświadczeń.
+- Powrotny transfer przywrócił aktualny wzorzec do biologicznego mózgu Romana.
+- Roman przeżył dwie graniczne „śmierci”: pierwszy erase własnego mózgu oraz końcowy erase źródła w rekinie.
+- Rekin zmarł po erase.
+- Roman rozpoznaje ludzi, miejsce i własną biografię. Liczba mnoga („my”, „nas”) stopniowo zanika, lecz wraca w zmęczeniu i przy doświadczeniach powiązanych z rekinem/transferem.
 - Miewa fantomowe odczucia rekiniego ciała.
-- Wie, że rekin zmarł po erase. Stanley zdążył powiedzieć mu tylko, że Jelena została odnaleziona żywa; Roman nie zna jeszcze pełnej historii jej zniknięcia i powrotu.
-
-## Rekin
-- Oznaczony żarłacz był biologicznym nosicielem wzorca Romana.
-- Read-only potwierdził obecność wzorca Romana w jego mózgu.
-- Podczas finalnej procedury wykonano pełny odczyt źródłowy, zapisano wzorzec do biologicznego mózgu Romana, a dopiero po niezależnym potwierdzeniu targetu wykonano erase źródła.
-- Po erase stan rekina gwałtownie się załamał i zwierzę zmarło mimo wsparcia weterynaryjnego.
+- Opisał ciemną „kurtynę”, obecność „ich” oraz przekonanie, że coś przeszło podczas transferu.
+- W kontrolowanym wywiadzie nie powtórzył całej tej relacji na żądanie.
+- Po powrocie Jeleny spotkał ją krótko. Początkowo reagował ulgą, ale nagle zesztywniał. Po jej wyjściu powiedział Stanleyowi, że przy niej wróciło sensoryczne wrażenie związane z drugim erase: metaliczny smak/nacisk i poczucie obecności czegoś „z tamtej strony”. Sam nie twierdzi, że Jelena nie jest sobą ani że ma dowód na zagrożenie.
 
 ## Henry Marshall
-- Jego wzorzec został przywrócony do własnego mózgu po katastrofie.
-- Wcześniej opisał Jelenie oddzielenie od ciała, panoramiczną percepcję, ciemną „kurtynę” i obecność bytów nazwanych wtedy „duchami”.
-- Surowe logi powrotnego zapisu Henry'ego zawierają `COMMON-MODE SATURATION — SOURCE UNKNOWN`.
-- W neutralnej ponownej rozmowie ze Stanleyem spontanicznie powtórzył motyw „kurtyny” i podtrzymał wrażenie, że coś przeszło razem z nim podczas powrotu.
-- Nie wie o prywatnej anomalii Stanleya z 13 kwietnia ani o ostrzeżeniu staruszki.
+- Po własnym transferze opisał Jelenie oddzielenie od ciała, panoramiczną percepcję, ciemną „kurtynę” i obecność czegoś po drugiej stronie.
+- Jego logi zawierają `COMMON-MODE SATURATION — SOURCE UNKNOWN`.
+- W neutralnej ponownej rozmowie ze Stanleyem spontanicznie powtórzył motyw „kurtyny” i wrażenie, że coś przeszło wraz z nim podczas powrotu.
+- Nie zna prywatnej notatki z 13 kwietnia ani ostrzeżenia staruszki.
 
-## Reaktor, odbudowa i procedura
-- Główna szafa sterownicza/rozdzielcza została wcześniej fizycznie zniszczona; monitoring pokazał sekwencyjne zaniki kamer bez widocznego sprawcy.
-- Stanley odrzucił bypass i skierował zasoby na pełną docelową odbudowę.
-- Moore i Dawson zakończyli odbudowę i pełną walidację przed read-only oraz transferem.
-- Poprawiona architektura obejmuje twarde przerwanie po utracie celu, fizyczną separację erasera od odczytu, niezależne potwierdzenie zapisu przed wymazaniem i model energii oparty na rzeczywistym as-built.
-- W transferze powrotnym procedura działała: pełny read źródła → pełny write do biologicznego mózgu Romana → niezależna weryfikacja targetu → dopiero potem erase źródła.
-- Technicznie transfer nie wywołał nowej katastrofy energetycznej, ale podczas właściwego write pojawił się ponownie common-mode bez oczywistego źródła energetycznego lub sieciowego.
+## Reaktor, aparatura i Moore
+- Po sabotażu głównej szafy Stanley odrzucił bypass i zespół wykonał pełną odbudowę oraz walidację.
+- Poprawiona architektura: twarde przerwanie po utracie celu, fizyczna separacja erasera od read, niezależne potwierdzenie write przed erase, model energii oparty na as-built.
+- Moore bada common-mode jako problem fizyczny/sprzętowy. Testy bez żywego transferu nie odtworzyły zjawiska.
+- Na razie common-mode koreluje z właściwym write, a nie ze zwykłym read-only, ale mechanizm jest nieznany.
 
 ## Jonathan Paxton
 - Traktował zniknięcie Jeleny jako profesjonalne porwanie/operację przeciw projektowi.
-- Po jej odnalezieniu natychmiast izolował ją i prowadzi pierwszy debrief oraz badania bezpieczeństwa bez osób z projektu.
-- Nie pozwolił Stanleyowi wejść do pokoju podczas pierwszej relacji; po konflikcie zgodził się jedynie na obserwację bez możliwości zadawania pytań, a następnie na krótkie nadzorowane spotkanie.
+- Po jej powrocie przeprowadził izolację, dwa debriefy, toksykologię i kryminalistykę.
+- Nie uzyskał twardego konwencjonalnego tropu prowadzącego do miejsca przetrzymywania.
+- Po 24 godzinach dotrzymał słowa i pozwolił Jelenie wrócić na Skyropulę.
 - Nadal nie zna pełnego pakietu Stanleya dotyczącego kurtyny/common-mode/notatki z 13 kwietnia.
-- Obecnie nie zgadza się wypuścić Jeleny przed dalszymi badaniami medycznymi, toksykologicznymi i kryminalistycznymi.
 
 ## Główne rozbieżności względem powieści
 - 002: brak kompromitacji Stanleya przy basenie.
-- 016: pierwszym żywym ludzkim obiektem odczytu był Phil, nie Stanley.
-- 025/027: rekin został oznaczony, a Stanley zabezpieczył dane telemetryczne przed utratą zasilania.
-- 028: Jelena wykryła nadmiarową osobę; Paxton przejął nieznajomego.
-- 029–031d: wcześniejsza analiza Henry'ego, lokalne logi, common-mode, urlop i lżejsze zadania.
-- 032: Stanley odnalazł anomalię z 13 kwietnia i zachowuje ją w tajemnicy.
-- 033–035: rekin został wcześnie odnaleziony, przechwycony, przewieziony na Skyropulę i ustabilizowany.
-- 036: Stanley słyszy ostrzeżenie z motywem „kurtyny”, ale je ignoruje.
-- 038–039: porwanie Jeleny wykryto wcześniej dzięki logom i monitoringowi.
-- 040: Stanley naciska na poszukiwania, potem wraca na Skyropulę; odrzuca bypass i wybiera pełną odbudowę.
-- 041: zewnętrzna ekipa buduje dużą zagrodę morską; pierwszy test behawioralny jest nierozstrzygający.
-- 042: Stanley przeprowadza read-only bez Jeleny i uzyskuje pierwszy obiektywny dowód obecności wzorca Romana w rekinie.
-- 043: Stanley wybiera jedną ciągłą procedurę read→write→verify→erase. Roman wraca do biologicznego ciała z aktualnym wzorcem zawierającym ślady rekiniej adaptacji; rekin umiera po erase. Transfer powrotny ponownie narusza kurtynę backstage.
-- 044: Stanley odkrywa powtórzenie common-mode podczas właściwego transferu i niezależne powtórzenie motywu „kurtyny” przez Henry'ego, a następnie zachowuje pełny pakiet dla siebie.
-- 045: Roman przechodzi pierwszy kontrolowany wywiad; Stanley świadomie wstrzymuje przed nim prawdę o zaginięciu Jeleny.
-- 046: Jelena zostaje odnaleziona na wcześniej przeszukiwanym obszarze Skyros około dwóch tygodni po zniknięciu. Stanley jedzie natychmiast i próbuje wymusić dostęp, lecz Paxton dopuszcza go jedynie do obserwacji pierwszego debriefu oraz późniejszego krótkiego spotkania.
+- 016: pierwszym żywym ludzkim obiektem read jest Phil, nie Stanley.
+- 025/027: rekin zostaje oznaczony i telemetria zabezpieczona.
+- 028: Jelena wykrywa nadmiarową osobę podczas ewakuacji; Paxton ją przejmuje.
+- 029–032: wcześniejsza analiza Henry'ego, common-mode i prywatna anomalia z 13 kwietnia.
+- 033–035: rekin zostaje wcześnie odnaleziony, przechwycony i ustabilizowany.
+- 036: Stanley słyszy ostrzeżenie o „kurtynie”, ale je ignoruje.
+- 038–040: porwanie Jeleny wykryto wcześniej; monitoring hotelu i Skyropuli ma celowe/sekwencyjne zaniki.
+- 041–043: zagroda morska, read-only bez Jeleny, a następnie ciągły read→write→verify→erase; Roman wraca, rekin umiera.
+- 044: powtórny common-mode i niezależna relacja Henry'ego; Stanley zachowuje pakiet dla siebie.
+- 045: pierwszy kontrolowany wywiad Romana.
+- 046: Jelena odnaleziona po około dwóch tygodniach z niemal całkowitą luką pamięci; Stanley obserwuje wojskowy debrief.
+- 047: Stanley akceptuje 24-godzinną kwarantannę; brak klasycznego przełomu toksykologicznego/kryminalistycznego; Jelena wraca na Skyropulę, a Roman reaguje na nią niepokojącym sensorycznym skojarzeniem.
 
 ## Aktywne wątki
-- Ocena stanu Jeleny po około dwutygodniowej luce pamięciowej i ustalenie, co działo się między atakiem w hotelu a odnalezieniem przy drodze.
-- Weryfikacja volkswagena / końcówki tablicy **731**, blizny napastnika i innych twardych śladów z relacji Jeleny.
-- Decyzja, czy Jelena pozostaje jeszcze pod wojskową kwarantanną, czy wraca na Skyropulę.
-- Dalsza rehabilitacja Romana i jego reakcja na pełną prawdę o Jelenie.
-- Ustalenie, czy zaniki kamer i utrata kontrastu mają związek z powtarzającym się common-mode.
-- Prywatny sekret Stanleya: notatka z 13 kwietnia, ostrzeżenie staruszki oraz zbieżność relacji Henry'ego i Romana.
-- Powtarzalność `COMMON-MODE SATURATION` podczas właściwych transferów i brak tego efektu podczas zwykłego read-only.
-- Skutki kolejnego naruszenia kurtyny po transferze Romana.
-- Tożsamość i los nieznajomego przejętego przez Paxtona.
+- Czy Stanley ograniczy Jelenie dostęp do aparatury na podstawie niezweryfikowanej reakcji Romana.
+- Co wydarzyło się z Jeleną podczas dwutygodniowej luki pamięciowej.
+- Weryfikacja volkswagena, końcówki tablicy **731** i blizny napastnika.
+- Związek między common-mode, utratą kontrastu kamer i właściwym write.
+- Prywatny sekret Stanleya: 13 kwietnia, staruszka, Henry, Roman i reakcja Romana na Jelenę.
+- Dalsza rehabilitacja Romana i stopniowa reintegracja jego jaźni po rekinie.
+- Tożsamość i los nieznajomego przejętego wcześniej przez Paxtona.
 
-## Następny punkt
-- Paxton chce zatrzymać Jelenę w zabezpieczonym obiekcie do dalszych badań medycznych, toksykologicznych, kryminalistycznych i bezpieczeństwa.
-- Stanley musi zdecydować, czy zaakceptować krótką kwarantannę i zachować dostęp obserwacyjny, czy próbować zabrać Jelenę na Skyropulę pod swoją odpowiedzialność.
+## Nierozstrzygnięty punkt decyzyjny
+- Paxton formalnie oczyścił Jelenę do powrotu na Skyropulę.
+- Roman po spotkaniu z nią zgłasza niepokojące, ale subiektywne sensoryczne skojarzenie z drugim erase i „tamtą stroną”.
+- Stanley musi zdecydować, czy bez ujawniania powodów tymczasowo ograniczyć Jelenie dostęp do aparatury transferowej, czy nie podejmować działań na podstawie niezweryfikowanej reakcji Romana.
