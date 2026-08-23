@@ -66,36 +66,45 @@
 ## 047 — Kwarantanna Jeleny i powrót na Skyropulę
 - Stanley akceptuje 24-godzinną wojskową kwarantannę zamiast zabierać Jelenę od razu na Skyropulę.
 - Toksykologia nie wykrywa środka wiarygodnie tłumaczącego dwutygodniową lukę pamięci.
-- Kryminalistyka ubrania i obuwia daje przede wszystkim świeże ślady zgodne z miejscem odnalezienia i nie tworzy konwencjonalnej drogi do miejsca przetrzymywania.
-- W drugim neutralnym debriefie Jelena odzyskuje tylko krótki fragment sensoryczny: ciśnienie w uszach/głowie i metaliczny posmak tuż przed przebudzeniem.
+- Kryminalistyka nie tworzy konwencjonalnej drogi do miejsca przetrzymywania.
+- W drugim neutralnym debriefie Jelena odzyskuje tylko fragment sensoryczny: ciśnienie w uszach/głowie i metaliczny posmak.
 - Testy aparatury bez żywego transferu nie odtwarzają common-mode.
 - Po dobie Paxton pozwala Jelenie wrócić na Skyropulę.
-- Podczas pierwszego spotkania po powrocie Roman reaguje na Jelenę nagłym sensorycznym skojarzeniem z drugim erase: metaliczny smak/nacisk i poczucie obecności czegoś „z tamtej strony”. Sam nie twierdzi, że Jelena jest kimś innym ani że ma dowód zagrożenia.
+- Roman reaguje na jej obecność metalicznym smakiem/naciskiem kojarzącym mu się z drugim erase i „tamtą stroną”, ale nie twierdzi, że Jelena jest kimś innym.
 
 ## 048 — Brak ograniczeń Jeleny i nacisk Boyle'a
-- Stanley nie robi nic wobec niezweryfikowanej reakcji Romana. Nie ogranicza Jelenie dostępu do aparatury i nie informuje Paxtona o prywatnych podejrzeniach.
-- Jelena wraca do normalnej pracy i samodzielnie odnajduje nowy common-mode w logach Romana.
-- Witchins przybywa wraz z ciężko chorym Boyle'em, który żąda przygotowania transferu do zdrowego ciała.
+- Stanley nie ogranicza Jelenie dostępu bez dowodu i nie informuje Paxtona o prywatnych podejrzeniach.
+- Jelena samodzielnie odnajduje common-mode w logach Romana.
+- Witchins przybywa wraz z ciężko chorym Boyle'em, który żąda transferu do zdrowego ciała.
 
 ## 049 — Stanley zgadza się ze strachu
-- **Decyzja gracza:** Stanley zgadza się przygotować transfer Boyle'a, ponieważ brakuje mu odwagi, by sprzeciwić się Boyle'owi, Witchinsowi i Paxtonowi.
-- Racjonalizuje zgodę technicznymi zabezpieczeniami zamiast kwestionować samą procedurę.
+- Stanley zgadza się przygotować transfer Boyle'a, ponieważ brakuje mu odwagi, by sprzeciwić się Boyle'owi, Witchinsowi i Paxtonowi.
+- Racjonalizuje zgodę technicznymi zabezpieczeniami.
 - Sprowadzony zostaje młodszy zdrowy więzień, były żołnierz skazany za zabójstwo, któremu obiecano możliwość uniknięcia kary śmierci / poprawy sytuacji prawnej.
-- Stanley zaczyna podejrzewać, że zgoda więźnia nie obejmuje pełnego zrozumienia planowanej zamiany wzorców.
 
 ## Korekta ciągłości przed 050
-- Źródłowa scena 62 nosi tytuł `Śmierć więźnia w ciele profesora Boyle'a`, więc procedura Boyle'a jest **zamianą ciał/wzorców**, a nie jednostronnym nadpisaniem targetu.
-- Poprzednie sformułowanie narracyjne o prostym wymazaniu tożsamości więźnia było błędem asystenta. Korekta nie zmienia żadnej decyzji gracza: plan brzmi Boyle→ciało więźnia oraz więzień→chore ciało Boyle'a.
+- Procedura Boyle'a jest dwukierunkową zamianą wzorców: Boyle→młode ciało więźnia oraz więzień→chore ciało Boyle'a.
+- Wcześniejsze sformułowanie o jednostronnym nadpisaniu było błędem narracyjnym i zostało skorygowane bez zmiany decyzji gracza.
 
 ## 050 — Półprawda Stanleya i nieudany swap Boyle↔więzień
-- **Decyzja gracza:** na pytanie więźnia, czy po eksperymencie nadal będzie sobą, Stanley odpowiada: **„Zawsze jest się sobą.”**
-- Nie wyjaśnia, że więzień miał obudzić się w śmiertelnie chorym ciele Boyle'a. Więzień pozostaje niespokojny, ale nie wycofuje zgody.
+- Na pytanie więźnia, czy po eksperymencie nadal będzie sobą, Stanley odpowiada: **„Zawsze jest się sobą.”** Nie wyjaśnia mu, że ma trafić do śmiertelnie chorego ciała Boyle'a.
 - Pełne odczyty obu wzorców zostają ukończone poprawnie.
-- Podczas właściwego cross-write jakość obu targetów gwałtownie spada. Ponownie pojawia się common-mode i chwilowa utrata kontrastu kamer przy stabilnym reaktorze, sieci i zegarach.
-- Przebudowana architektura bezpieczeństwa działa: system zatrzymuje write przed pełnym target confirmation, a erase pozostaje zablokowany.
-- Do źródłowej pełnej zamiany i śmierci więźnia w ciele Boyle'a **nie dochodzi**. Oryginalne wzorce pozostają we własnych ciałach, ale oba mózgi otrzymują częściowe imprinty drugiej osoby.
-- Więzień przechodzi uogólniony napad drgawkowy i krótkotrwałe zaburzenia mowy / obce skojarzenia.
-- Boyle dostaje ciężkiej arytmii i zatrzymania krążenia; resuscytacja przywraca krążenie, ale Boyle pozostaje zaintubowany i krytycznie niestabilny.
-- Stanley sam doświadcza w chwili common-mode metalicznego posmaku i silnego ciśnienia w głowie, ale nadal nie ujawnia pełnego pakietu Paxtonowi ani Witchinsowi.
-- Backstage: nawet przerwany cross-write ponownie narusza kurtynę i przepuszcza kolejne byty/demony.
-- Nowy punkt decyzyjny: czy Stanley zgodzi się na drugą próbę z użyciem gotowych pełnych map, jeśli Boyle zostanie choć minimalnie ustabilizowany, czy wreszcie zatrzyma dalsze właściwe transfery.
+- Podczas właściwego cross-write jakość obu targetów spada. Ponownie pojawia się common-mode i utrata kontrastu kamer przy stabilnym reaktorze, sieci i zegarach.
+- Zabezpieczenia zatrzymują write przed target confirmation, a erase pozostaje zablokowany.
+- Oryginalne wzorce pozostają we własnych ciałach, ale oba mózgi otrzymują częściowe imprinty drugiej osoby.
+- Więzień ma napad drgawkowy; Boyle przechodzi zatrzymanie krążenia i zostaje zresuscytowany.
+- Stanley sam doświadcza metalicznego posmaku i silnego ciśnienia w głowie podczas common-mode.
+- Backstage: nawet przerwany cross-write narusza kurtynę.
+
+## 051 — Sekwencyjny erase→write i pełna zamiana
+- **Decyzja gracza:** Stanley ponownie podporządkowuje się naciskom. Uznaje, że przed kolejnym write trzeba najpierw wykonać erase targetu i pisać na wyzerowany biologiczny mózg.
+- Zespół zaczyna od młodego ciała więźnia i zapisanej mapy Boyle'a.
+- Stanley autoryzuje erase aktywnego wzorca więźnia, pozostawiając jego tożsamość wyłącznie jako zapis systemowy, a następnie wykonuje write pełnej mapy Boyle'a.
+- Zapis Boyle→młode ciało przechodzi pełną walidację. Przez krótki czas istnieją dwa aktywne nośniki wzorca Boyle'a: młode ciało po write i oryginalne chore ciało.
+- Następnie Stanley autoryzuje erase wzorca Boyle'a w starym ciele i write zapisanej mapy więźnia.
+- Drugi zapis także przechodzi pełną walidację. Technicznie swap kończy się sukcesem: Boyle znajduje się w młodym ciele, więzień w ciele Boyle'a.
+- Więzień odzyskuje jedynie krótki kontakt; wyniszczony organizm Boyle'a po wcześniejszym zatrzymaniu krążenia i kolejnej procedurze gwałtownie się załamuje. Więzień umiera mimo resuscytacji.
+- Kampania funkcjonalnie wraca do źródłowego beatu sceny 62 — śmierci więźnia w ciele Boyle'a — lecz dochodzi do niego po wcześniejszej nieudanej próbie i sekwencyjnym swapie.
+- Common-mode i utrata kontrastu kamer ponownie towarzyszą właściwym write.
+- Backstage: oba nowe write ponownie naruszają kurtynę i przepuszczają kolejne byty/demony.
+- Następny etap kampanii odpowiada źródłowej scenie 63: zjawiska przechodzą z subtelnych anomalii w jawny kryzys w ośrodku.
