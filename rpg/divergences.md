@@ -101,13 +101,21 @@
 - **Decyzja gracza:** Stanley pozostaje przy planie Paxtona i odlatuje z Jeleną i Romanem jak najwcześniej.
 - Start kończy się powodzeniem mimo niestabilności części awioniki/łączności.
 - W locie Roman i Jelena naciskają, by Stanley wyjaśnił kontekst wiadomości.
-- **Najnowsza decyzja gracza:** Stanley uznaje, że nie ma już sensu niczego ukrywać i ujawnia im cały prywatny pakiet: 13 kwietnia, ostrzeżenie staruszki, pełną neutralną relację Henry'ego, niezależną zbieżność z Romanem, chronologię common-mode, własne doświadczenia sensoryczne oraz fakt, że mimo tego dopuścił kolejne transfery.
-- Stanley przyznaje również, że milczał i podporządkowywał się częściowo ze strachu przed ludźmi kontrolującymi projekt.
-- Od tego momentu Roman i Jelena mają wspólną ze Stanleyem chronologię anomalii; sekret przestaje być wyłącznie jego prywatnym śledztwem.
+- Stanley ujawnia im cały prywatny pakiet: 13 kwietnia, ostrzeżenie staruszki, neutralną relację Henry'ego, zbieżność z Romanem, chronologię common-mode, własne doświadczenia sensoryczne oraz fakt, że mimo tego dopuścił kolejne transfery.
+- Przyznaje również, że milczał i podporządkowywał się częściowo ze strachu przed ludźmi kontrolującymi projekt.
+
+## 054 — Awaryjne lądowanie zamiast źródłowego finału w Cessnie
+- Po pełnym ujawnieniu słowa o „kurtynie” i „drodze” uruchamiają u Jeleny fragmenty dwutygodniowej luki. Mówi o „drugiej stronie” i o czymś, co nie potrzebowało tam ludzkiego kształtu.
+- Jej oczy zaczynają nienaturalnie czernieć, a sposób mówienia staje się częściowo obcy. Metaliczny smak/nacisk wraca u Stanleya i Romana.
+- **Decyzja gracza:** Stanley nie pomaga Romanowi w fizycznym ataku. Każe pilotowi lądować tak szybko, jak to możliwe i sam próbuje przemówić do Jeleny, żeby „to coś” się cofnęło.
+- Pilot kieruje Cessnę na Skiathos. Zakłócenia awioniki pozostają, ale podstawowe instrumenty pozwalają kontynuować podejście.
+- Stanley próbuje kotwiczyć Jelenę konkretnymi wspomnieniami i jej własnym językiem. Kontakt jest tylko chwilowy; zjawisko nie cofa się pod wpływem rozmowy, ale nie dochodzi też do gwałtownego ataku w powietrzu.
+- Cessna ląduje twardo, lecz bez katastrofy. Po przyziemieniu czarne oczy Jeleny wracają do normalnego wyglądu, a ona traci przytomność.
+- W odróżnieniu od tytułowego beatu źródłowej sceny 67 nie dochodzi w tym momencie do zabicia Stanleya ani wypadnięcia Romana z samolotu. Kampania odchodzi od tego finału wskutek decyzji gracza i przebiegu zdarzeń.
 
 ## Aktywne rozbieżności / konsekwencje
-- Paxton, Witchins, Boyle i Moore nadal nie znają pełnego pakietu ujawnionego teraz Romanowi i Jelenie.
-- Po jawnych manifestacjach nie jest już wiarygodne traktowanie wszystkiego jako zwykłej usterki technicznej, ale postacie nadal nie znają natury bytów.
+- Paxton, Witchins, Boyle i Moore nadal nie znają pełnego pakietu ujawnionego Romanowi i Jelenie.
 - Boyle żyje w młodym ciele; więzień i Henry nie żyją.
-- Zjawisko sensoryczne wystąpiło również na Skyros, więc opuszczenie Skyropuli nie zatrzymało problemu.
-- Kolejny beat prowadzi ku źródłowej scenie 67; jej przebieg może zostać zmieniony przez decyzje RPG.
+- Zjawisko sensoryczne i epizod Jeleny wystąpiły poza Skyropulą, więc opuszczenie ośrodka nie zatrzymało problemu.
+- Nie wiadomo, czy chwilowe ustąpienie manifestacji u Jeleny po lądowaniu oznacza cofnięcie zjawiska, czy tylko jego uśpienie.
+- Następny wybór dotyczy izolacji Jeleny i decyzji, czy po raz pierwszy ujawnić Paxtonowi/Phoenix pełną skalę zagrożenia.
