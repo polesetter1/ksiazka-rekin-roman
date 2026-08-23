@@ -73,9 +73,29 @@
 - Podczas pierwszego spotkania po powrocie Roman reaguje na Jelenę nagłym sensorycznym skojarzeniem z drugim erase: metaliczny smak/nacisk i poczucie obecności czegoś „z tamtej strony”. Sam nie twierdzi, że Jelena jest kimś innym ani że ma dowód zagrożenia.
 
 ## 048 — Brak ograniczeń Jeleny i nacisk Boyle'a
-- **Decyzja gracza:** Stanley nie robi nic wobec niezweryfikowanej reakcji Romana. Nie ogranicza Jelenie dostępu do aparatury, nie odbiera credentiali i nie informuje Paxtona o swoich prywatnych podejrzeniach.
-- Jelena wraca do normalnej pracy z pełnymi uprawnieniami i samodzielnie odnajduje w surowych logach nowy epizod common-mode z właściwego write Romana, rozpoznając podobieństwo do przypadku Henry'ego.
-- Stanley nadal nie ujawnia jej notatki z 13 kwietnia, ostrzeżenia staruszki ani niezależnej relacji Romana o kurtynie.
-- Witchins przybywa na Skyropulę wraz z ciężko chorym Christopherem Boyle'em.
-- Boyle interpretuje udany powrót Romana jako dowód działania technologii i żąda przygotowania kolejnego transferu człowiek→człowiek dla siebie, do zdrowego ciała.
-- Powstaje nowy konflikt: Stanley ma techniczny sukces, ale również nieujawniony pakiet anomalii korelujących z właściwym write.
+- Stanley nie robi nic wobec niezweryfikowanej reakcji Romana. Nie ogranicza Jelenie dostępu do aparatury i nie informuje Paxtona o prywatnych podejrzeniach.
+- Jelena wraca do normalnej pracy i samodzielnie odnajduje nowy common-mode w logach Romana.
+- Witchins przybywa wraz z ciężko chorym Boyle'em, który żąda przygotowania transferu do zdrowego ciała.
+
+## 049 — Stanley zgadza się ze strachu
+- **Decyzja gracza:** Stanley zgadza się przygotować transfer Boyle'a, ponieważ brakuje mu odwagi, by sprzeciwić się Boyle'owi, Witchinsowi i Paxtonowi.
+- Racjonalizuje zgodę technicznymi zabezpieczeniami zamiast kwestionować samą procedurę.
+- Sprowadzony zostaje młodszy zdrowy więzień, były żołnierz skazany za zabójstwo, któremu obiecano możliwość uniknięcia kary śmierci / poprawy sytuacji prawnej.
+- Stanley zaczyna podejrzewać, że zgoda więźnia nie obejmuje pełnego zrozumienia planowanej zamiany wzorców.
+
+## Korekta ciągłości przed 050
+- Źródłowa scena 62 nosi tytuł `Śmierć więźnia w ciele profesora Boyle'a`, więc procedura Boyle'a jest **zamianą ciał/wzorców**, a nie jednostronnym nadpisaniem targetu.
+- Poprzednie sformułowanie narracyjne o prostym wymazaniu tożsamości więźnia było błędem asystenta. Korekta nie zmienia żadnej decyzji gracza: plan brzmi Boyle→ciało więźnia oraz więzień→chore ciało Boyle'a.
+
+## 050 — Półprawda Stanleya i nieudany swap Boyle↔więzień
+- **Decyzja gracza:** na pytanie więźnia, czy po eksperymencie nadal będzie sobą, Stanley odpowiada: **„Zawsze jest się sobą.”**
+- Nie wyjaśnia, że więzień miał obudzić się w śmiertelnie chorym ciele Boyle'a. Więzień pozostaje niespokojny, ale nie wycofuje zgody.
+- Pełne odczyty obu wzorców zostają ukończone poprawnie.
+- Podczas właściwego cross-write jakość obu targetów gwałtownie spada. Ponownie pojawia się common-mode i chwilowa utrata kontrastu kamer przy stabilnym reaktorze, sieci i zegarach.
+- Przebudowana architektura bezpieczeństwa działa: system zatrzymuje write przed pełnym target confirmation, a erase pozostaje zablokowany.
+- Do źródłowej pełnej zamiany i śmierci więźnia w ciele Boyle'a **nie dochodzi**. Oryginalne wzorce pozostają we własnych ciałach, ale oba mózgi otrzymują częściowe imprinty drugiej osoby.
+- Więzień przechodzi uogólniony napad drgawkowy i krótkotrwałe zaburzenia mowy / obce skojarzenia.
+- Boyle dostaje ciężkiej arytmii i zatrzymania krążenia; resuscytacja przywraca krążenie, ale Boyle pozostaje zaintubowany i krytycznie niestabilny.
+- Stanley sam doświadcza w chwili common-mode metalicznego posmaku i silnego ciśnienia w głowie, ale nadal nie ujawnia pełnego pakietu Paxtonowi ani Witchinsowi.
+- Backstage: nawet przerwany cross-write ponownie narusza kurtynę i przepuszcza kolejne byty/demony.
+- Nowy punkt decyzyjny: czy Stanley zgodzi się na drugą próbę z użyciem gotowych pełnych map, jeśli Boyle zostanie choć minimalnie ustabilizowany, czy wreszcie zatrzyma dalsze właściwe transfery.
