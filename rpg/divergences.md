@@ -64,11 +64,18 @@
 - Ma niemal całkowitą lukę pamięci od ataku do przebudzenia przy drodze i sądzi, że minęło kilka godzin, nie dwa tygodnie.
 
 ## 047 — Kwarantanna Jeleny i powrót na Skyropulę
-- **Decyzja gracza:** Stanley akceptuje 24-godzinną wojskową kwarantannę zamiast zabierać Jelenę od razu na Skyropulę.
+- Stanley akceptuje 24-godzinną wojskową kwarantannę zamiast zabierać Jelenę od razu na Skyropulę.
 - Toksykologia nie wykrywa środka wiarygodnie tłumaczącego dwutygodniową lukę pamięci.
-- Kryminalistyka ubrania i obuwia daje przede wszystkim świeże ślady zgodne z miejscem odnalezienia i nie tworzy konwencjonalnej drogi do miejsca przetrzymywania; operacyjnie wygląda to jak podrzucenie Jeleny krótko przed znalezieniem.
-- W drugim neutralnym debriefie Jelena odzyskuje tylko krótki fragment sensoryczny: ciśnienie w uszach/głowie i metaliczny posmak tuż przed przebudzeniem, bez obrazu miejsca ani ludzi.
+- Kryminalistyka ubrania i obuwia daje przede wszystkim świeże ślady zgodne z miejscem odnalezienia i nie tworzy konwencjonalnej drogi do miejsca przetrzymywania.
+- W drugim neutralnym debriefie Jelena odzyskuje tylko krótki fragment sensoryczny: ciśnienie w uszach/głowie i metaliczny posmak tuż przed przebudzeniem.
 - Testy aparatury bez żywego transferu nie odtwarzają common-mode.
-- Po dobie Paxton dotrzymuje słowa i pozwala Jelenie wrócić na Skyropulę.
+- Po dobie Paxton pozwala Jelenie wrócić na Skyropulę.
 - Podczas pierwszego spotkania po powrocie Roman reaguje na Jelenę nagłym sensorycznym skojarzeniem z drugim erase: metaliczny smak/nacisk i poczucie obecności czegoś „z tamtej strony”. Sam nie twierdzi, że Jelena jest kimś innym ani że ma dowód zagrożenia.
-- Powstaje nowy punkt decyzyjny: czy Stanley tymczasowo ogranicza Jelenie dostęp do aparatury transferowej bez ujawniania prawdziwego powodu, czy nie działa na podstawie subiektywnej reakcji Romana.
+
+## 048 — Brak ograniczeń Jeleny i nacisk Boyle'a
+- **Decyzja gracza:** Stanley nie robi nic wobec niezweryfikowanej reakcji Romana. Nie ogranicza Jelenie dostępu do aparatury, nie odbiera credentiali i nie informuje Paxtona o swoich prywatnych podejrzeniach.
+- Jelena wraca do normalnej pracy z pełnymi uprawnieniami i samodzielnie odnajduje w surowych logach nowy epizod common-mode z właściwego write Romana, rozpoznając podobieństwo do przypadku Henry'ego.
+- Stanley nadal nie ujawnia jej notatki z 13 kwietnia, ostrzeżenia staruszki ani niezależnej relacji Romana o kurtynie.
+- Witchins przybywa na Skyropulę wraz z ciężko chorym Christopherem Boyle'em.
+- Boyle interpretuje udany powrót Romana jako dowód działania technologii i żąda przygotowania kolejnego transferu człowiek→człowiek dla siebie, do zdrowego ciała.
+- Powstaje nowy konflikt: Stanley ma techniczny sukces, ale również nieujawniony pakiet anomalii korelujących z właściwym write.
