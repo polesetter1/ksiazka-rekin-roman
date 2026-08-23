@@ -1,80 +1,74 @@
 # Rozbieżności kampanii RPG względem powieści
 
 ## 002 — Pierwszy wieczór Stanleya na Skyros
-- **Miejsce w chronologii:** po przylocie Stanleya na Skyros.
-- **Wydarzenie RPG:** Stanley zostaje w pokoju, pracuje i odpoczywa zamiast kompromitacji przy basenie.
-- **Przyczyna:** decyzja gracza.
+- Stanley zostaje w pokoju zamiast kompromitacji przy basenie.
 
-## 016 — Pierwszy odczyt żywego ludzkiego mózgu
-- **Wydarzenie RPG:** pierwszym żywym obiektem odczytu jest Phil, nie Stanley.
-- **Przyczyna:** decyzja gracza.
+## 016 — Pierwszy odczyt żywego człowieka
+- Pierwszym żywym obiektem read jest Phil, nie Stanley.
 
-## 025/027 — Oznaczenie rekina i zabezpieczenie telemetrii
-- **Wydarzenie RPG:** rekin zostaje oznaczony przed ucieczką; Stanley później zabezpiecza ostatnie dane telemetryczne przed utratą zasilania.
-- **Konsekwencje:** poszukiwania konkretnego zwierzęcia są znacznie szybsze i precyzyjniejsze niż w powieści.
+## 025/027 — Oznaczenie rekina
+- Rekin zostaje oznaczony przed ucieczką; Stanley zabezpiecza telemetrię. Poszukiwania konkretnego zwierzęcia są znacznie szybsze niż w powieści.
 
-## 031–032 — Dodatkowe logi i prywatna anomalia Stanleya
-- Jelena zabezpiecza lokalne logi katastrofy i odkrywa `COMMON-MODE SATURATION — SOURCE UNKNOWN` podczas przywracania Henry'ego.
-- Stanley odnajduje wcześniejszą anomalię z 13 kwietnia oraz ukrytą wskazówkę Romana, ale zachowuje je dla siebie.
+## 031–032 — Common-mode i prywatna anomalia
+- Jelena zabezpiecza logi i odkrywa `COMMON-MODE SATURATION — SOURCE UNKNOWN` podczas przywracania Henry'ego.
+- Stanley odnajduje notatkę z 13 kwietnia o podobnym zjawisku i zachowuje ją dla siebie.
 
 ## 031d — Urlop Henry'ego
-- Henry dostaje pięciodniowy urlop i wraca do lżejszych zadań, zamiast od razu wrócić do pełnej pracy przy transferze.
+- Henry dostaje pięciodniowy urlop i wraca do lżejszych zadań.
 
-## 034–035 — Wczesne przechwycenie i stabilizacja rekina
-- Dzięki telemetrycznemu nadajnikowi rekin zostaje odnaleziony, przechwycony żywy i przewieziony bezpośrednio na Skyropulę znacznie wcześniej niż w kanonie.
-- Stanley daje mu czas na stabilizację i nie wymusza natychmiastowego read-only bez gotowego reaktora.
+## 034–035 — Wczesne przechwycenie rekina
+- Dzięki telemetrii rekin zostaje wcześnie odnaleziony, przechwycony i przewieziony na Skyropulę.
 
-## 036 — Zignorowane ostrzeżenie staruszki
-- Stanley słyszy motyw „kurtyny”, ale racjonalizuje zdarzenie i nikomu o nim nie mówi.
+## 036 — Ostrzeżenie staruszki
+- Stanley słyszy ostrzeżenie o „rozerwaniu kurtyny”, ale nikomu o nim nie mówi.
 
 ## 038–039 — Porwanie Jeleny wykryte wcześniej
-- Jelena zostaje porwana zgodnie z głównym beatem źródłowym, ale zapamiętuje końcówkę tablicy 731, zapach auta i bliznę napastnika.
-- Stanley szybciej wykrywa zniknięcie dzięki logom i monitoringowi; kamera przy pokoju Jeleny została celowo wyłączona przy użyciu credentialu MASTER/SERVICE.
+- Jelena zapamiętuje końcówkę tablicy 731, zapach auta i bliznę napastnika.
+- Stanley szybciej wykrywa zniknięcie; kamera przy pokoju jest celowo wyłączona przy użyciu credentialu MASTER/SERVICE.
 
-## 040 — Poszukiwania Jeleny i pełna odbudowa bez bypassu
-- Stanley naciska na kontrolę lotniska, portów, promów i volkswagenów; Paxton odsyła go na Skyropulę do technicznej oceny zniszczeń.
+## 040 — Poszukiwania i pełna odbudowa
+- Stanley naciska na poszukiwania Jeleny, potem wraca na Skyropulę.
 - Monitoring sabotażu pokazuje sekwencyjne zaniki kamer bez widocznego sprawcy.
-- Stanley odrzuca prowizoryczny bypass i nakazuje skupić wszystkie zasoby techniczne na pełnej docelowej odbudowie.
+- Stanley odrzuca bypass i wybiera pełną odbudowę.
 
-## 041 — Zagroda morska zamiast dalszego trzymania rekina w technicznym obiegu
-- **Miejsce w chronologii:** okres pełnej odbudowy po sabotażu, przed pierwszym read-only na odnalezionym rekinie.
-- **Wydarzenie RPG:** Stanley wybiera zewnętrzną wojskową ekipę techników i nurków do budowy dużej półzamkniętej zagrody przy Skyropuli, zamiast odciągać ludzi Moore'a lub wypuszczać rekina.
-- **Konsekwencje:** odbudowa nie traci zasobów. Podczas przenoszenia rekin pogłębia powierzchowne otarcie pyska, ale później funkcjonuje lepiej. Pierwsza seria behawioralna nie daje powtarzalnego dowodu obecności Romana.
+## 041 — Zagroda morska
+- Zewnętrzna wojskowa ekipa buduje dużą zagrodę, dzięki czemu ludzie Moore'a nie są odciągani od odbudowy.
+- Pierwszy test behawioralny rekina pozostaje nierozstrzygający.
 
-## 042 — Natychmiastowy read-only bez Jeleny
-- **Miejsce w chronologii:** po pełnej odbudowie i walidacji, przed właściwym transferem powrotnym.
-- **Wydarzenie RPG:** Stanley nie czeka na odnalezienie zaginionej Jeleny. Uznaje, że biologiczne ograniczenia utrzymania żarłacza wymagają szybkiego działania i po pełnej walidacji natychmiast przeprowadza read-only z fizycznie odseparowanym eraserem.
-- **Wynik:** częściowy odczyt daje pierwszy obiektywny, silny dowód, że mózg rekina zawiera charakterystyczny wzorzec Romana, wyraźnie odróżniający się od profili kontrolnych.
-- **Komplikacja:** podczas dalszego skanowania rośnie temperatura tkanki i stres zwierzęcia. Stanley respektuje twarde kryteria bezpieczeństwa i przerywa próbę przed pełnym mapowaniem.
+## 042 — Read-only bez Jeleny
+- Stanley po pełnej walidacji natychmiast wykonuje read-only i uzyskuje pierwszy silny obiektywny dowód wzorca Romana w rekinie.
+- Przerywa próbę po wzroście obciążenia termicznego.
 
-## 043 — Jedna ciągła procedura pełnego transferu powrotnego
-- **Miejsce w chronologii:** adaptacja źródłowej sceny 48 `Przeprowadzenie transferu` i wejście w scenę 49 `Przebudzenie Romana`.
-- **Wydarzenie kanoniczne:** źródłowa scena transferu jest TODO; źródłowe przebudzenie zakłada Romana wracającego w ludzkim ciele z traumą po pobycie w rekinie.
-- **Wydarzenie RPG:** po regeneracji rekina Stanley odrzuca osobny drugi pełny read-only. Wybiera jedną ciągłą procedurę: pełny odczyt wzorca z rekina, natychmiastowy zapis do biologicznego mózgu Romana po potwierdzeniu jakości mapy, niezależną walidację targetu i dopiero potem erase źródła.
-- **Przyczyna:** decyzja gracza, że czas biologiczny rekina nie pozwala mnożyć kolejnych ekspozycji na aparaturę.
-- **Wynik techniczny:** pełny odczyt zostaje ukończony, zapis do biologicznego ciała Romana osiąga kryteria jakości i jest niezależnie potwierdzony. Dopiero po tej walidacji przeprowadzony zostaje erase źródła w mózgu rekina.
-- **Nowa konsekwencja biologiczna:** rekin po erase nie przeżywa; jego stan gwałtownie się załamuje i zwierzę umiera mimo wsparcia weterynaryjnego.
-- **Nowa konsekwencja dla Romana:** do ludzkiego ciała trafia aktualny wzorzec z mózgu rekina, zawierający ślady wielotygodniowej adaptacji do rekiniej architektury. Roman po przebudzeniu początkowo mówi o sobie w liczbie mnogiej i zachowuje się tak, jakby przeszedł dwie graniczne śmierci.
-- **Backstage:** sam transfer powrotny ponownie narusza kurtynę i umożliwia przejście kolejnych demonów. Bohaterowie nie znają tej przyczyny i mogą interpretować pierwsze skutki jedynie neurologicznie, technicznie albo psychologicznie.
+## 043 — Jedna ciągła procedura powrotna
+- Stanley wybiera read→write→verify→erase zamiast osobnego drugiego read-only.
+- Pełny odczyt i zapis do ludzkiego ciała Romana zostają potwierdzone przed erase.
+- Rekin umiera po erase.
+- Roman wraca z aktualnym wzorcem zawierającym ślady rekiniej adaptacji i początkowo mówi o sobie w liczbie mnogiej.
+- Backstage: transfer powrotny ponownie narusza kurtynę i przepuszcza kolejne demony.
 
-## 044 — Powtarzający się common-mode i niezależna relacja Henry'ego
-- **Miejsce w chronologii:** bezpośrednio po pierwszym przebudzeniu Romana, przed pełnym kontrolowanym wywiadem.
-- **Wydarzenie RPG:** Stanley po wypowiedziach Romana nie przyjmuje od razu metafizycznej interpretacji. Najpierw analizuje surowe logi transferu i odkrywa nowy, około dwusekundowy epizod common-mode podczas właściwego zapisu do ludzkiego mózgu Romana, przy stabilnym reaktorze, zasilaniu, sieci i zegarach. Podobny epizod nie występuje podczas samego read-only.
-- **Dodatkowy ślad:** krótki spadek kontrastu na części kamer przypomina notatkę Romana z 13 kwietnia. Morfologia sygnału jest bardzo podobna do wcześniejszego `COMMON-MODE SATURATION — SOURCE UNKNOWN` z przywracania Henry'ego.
-- **Rozmowa z Henrym:** Stanley prowadzi neutralną rozmowę bez użycia słów Romana lub staruszki. Henry niezależnie ponownie używa słowa „kurtyna”, opisuje obecność czegoś po jej drugiej stronie i wspomina, że przy powrocie miał wrażenie, iż coś przeszło wraz z nim na „naszą” stronę. Potwierdza, że wcześniej mówił o tym przede wszystkim Jelenie i nie rozmawiał o tym z Romanem.
-- **Decyzja gracza:** Stanley zachowuje pełny pakiet dla siebie do czasu uzyskania większej pewności. Moore zna wyłącznie techniczną anomalię common-mode i bada ją jako potencjalny problem fizyczny/sprzętowy; Paxton nie dostaje informacji o zbieżności relacji świadków, staruszce ani notatce z 13 kwietnia.
-- **Konsekwencje:** Stanley po raz pierwszy ma jednocześnie powtarzalny ślad techniczny oraz trzy niezależne źródła motywu „kurtyny” (staruszka, Henry, Roman), ale tworzy prywatną warstwę śledztwa i nie dopuszcza jeszcze wojska do interpretacji zjawiska. Nadal nie ma dowodu na demony, lecz hipoteza pojedynczego majaczenia Romana przestaje wystarczać.
+## 044 — Powtarzający się common-mode i Henry
+- Właściwy write Romana znów daje około dwusekundowy common-mode przy stabilnym reaktorze, sieci i zegarach; zwykły read-only tego nie robi.
+- Henry w neutralnej rozmowie spontanicznie powtarza motyw „kurtyny” i wrażenie, że coś przeszło na „naszą stronę”.
+- Potwierdza, że nie rozmawiał o tym z Romanem.
+- Stanley zachowuje pełny pakiet dla siebie; Moore zna tylko problem techniczny, Paxton nie zna interpretacyjnej części.
 
 ## 045 — Pierwszy kontrolowany wywiad Romana
-- **Miejsce w chronologii:** po przebudzeniu Romana, przed powrotem Jeleny.
-- **Wydarzenie RPG:** Roman odzyskuje autobiograficzną tożsamość, wspomnienia z pobytu w rekinie i stopniowo sprawność. Nadal zdarza mu się liczba mnoga oraz fantomowe odczucia rekiniego ciała. W kontrolowanym wywiadzie nie powtarza spontanicznie pełnej relacji o kurtynie.
-- **Decyzja gracza:** Stanley nie mówi Romanowi prawdy o zaginięciu Jeleny; obiecuje wyjaśnienie później, gdy Roman będzie stabilniejszy.
+- Roman wykazuje zachowaną autobiograficzną tożsamość i wspomnienia z pobytu w rekinie, ale nie powtarza na żądanie pełnej relacji o kurtynie.
+- Stanley wstrzymuje przed nim prawdę o zaginięciu Jeleny i obiecuje wyjaśnienie później.
 
-## 046 — Odnalezienie Jeleny i konflikt o pierwszy debrief
-- **Miejsce w chronologii:** adaptacja scen 52–53, których źródłowe pliki są TODO.
-- **Wydarzenie RPG:** Jelena zostaje odnaleziona żywa przy bocznej drodze w północno-zachodniej części Skyros, na obszarze wcześniej wielokrotnie przeszukiwanym, około dwóch tygodni po zaginięciu.
-- **Decyzja gracza:** Stanley odrzuca bierne oczekiwanie i natychmiast jedzie na Skyros, próbując wymusić osobisty dostęp do Jeleny.
-- **Wynik:** Paxton nie dopuszcza go do pokoju podczas pierwszego wojskowego debriefu, lecz Stanley wywalcza możliwość obserwacji bez zadawania pytań i późniejsze krótkie spotkanie.
-- **Relacja Jeleny:** potwierdza ona ciemnego starszego volkswagena, końcówkę tablicy **731**, zapach mokrej wełny i starego tytoniu oraz bliznę na prawej dłoni napastnika. Pamięć urywa się po ataku w hotelu i wraca dopiero przy przebudzeniu obok drogi.
-- **Nowa anomalia:** Jelena subiektywnie uważa, że minęło najwyżej kilka godzin i podaje datę odpowiadającą porankowi po porwaniu, mimo że faktycznie minęło około dwóch tygodni. Nie ma wspomnień z całego okresu pośredniego. To nadal może mieć wyjaśnienie farmakologiczne, traumatyczne lub neurologiczne.
-- **Konsekwencje:** Paxton zatrzymuje Jelenę do dalszych badań medycznych, toksykologicznych, kryminalistycznych i bezpieczeństwa. Stanley musi zdecydować, czy zaakceptować tę kwarantannę, czy próbować zabrać ją na Skyropulę.
+## 046 — Odnalezienie Jeleny i konflikt o debrief
+- Jelena zostaje odnaleziona żywa na wcześniej przeszukiwanym obszarze Skyros około dwóch tygodni po zniknięciu.
+- Stanley jedzie natychmiast i próbuje wymusić dostęp.
+- Paxton nie wpuszcza go do pierwszego debriefu, ale pozwala obserwować bez zadawania pytań i później spotkać się krótko z Jeleną.
+- Jelena potwierdza volkswagena, końcówkę 731, mokrą wełnę/stary tytoń i bliznę napastnika.
+- Ma niemal całkowitą lukę pamięci od ataku do przebudzenia przy drodze i sądzi, że minęło kilka godzin, nie dwa tygodnie.
+
+## 047 — Kwarantanna Jeleny i powrót na Skyropulę
+- **Decyzja gracza:** Stanley akceptuje 24-godzinną wojskową kwarantannę zamiast zabierać Jelenę od razu na Skyropulę.
+- Toksykologia nie wykrywa środka wiarygodnie tłumaczącego dwutygodniową lukę pamięci.
+- Kryminalistyka ubrania i obuwia daje przede wszystkim świeże ślady zgodne z miejscem odnalezienia i nie tworzy konwencjonalnej drogi do miejsca przetrzymywania; operacyjnie wygląda to jak podrzucenie Jeleny krótko przed znalezieniem.
+- W drugim neutralnym debriefie Jelena odzyskuje tylko krótki fragment sensoryczny: ciśnienie w uszach/głowie i metaliczny posmak tuż przed przebudzeniem, bez obrazu miejsca ani ludzi.
+- Testy aparatury bez żywego transferu nie odtwarzają common-mode.
+- Po dobie Paxton dotrzymuje słowa i pozwala Jelenie wrócić na Skyropulę.
+- Podczas pierwszego spotkania po powrocie Roman reaguje na Jelenę nagłym sensorycznym skojarzeniem z drugim erase: metaliczny smak/nacisk i poczucie obecności czegoś „z tamtej strony”. Sam nie twierdzi, że Jelena jest kimś innym ani że ma dowód zagrożenia.
+- Powstaje nowy punkt decyzyjny: czy Stanley tymczasowo ogranicza Jelenie dostęp do aparatury transferowej bez ujawniania prawdziwego powodu, czy nie działa na podstawie subiektywnej reakcji Romana.
