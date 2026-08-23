@@ -1,11 +1,11 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–036, 038–049 zapisane; scena 37 została funkcjonalnie wyprzedzona przez wcześniejsze namierzenie i przechwycenie oznaczonego rekina.
-- Ostatnia sfinalizowana scena: `rpg/scenes/049-stanley-zgoda-na-transfer-boyle-a.md`.
-- Bieżący punkt kanonu: scena 59 `Przyprowadzenie więźnia-mordercy w celu zamiany ciał`; źródłowa scena jest TODO, więc przebieg opiera się na stanie RPG i kartach postaci.
+- Status: sceny RPG 001–036, 038–050 zapisane; scena 37 została funkcjonalnie wyprzedzona przez wcześniejsze namierzenie i przechwycenie oznaczonego rekina.
+- Ostatnia sfinalizowana scena: `rpg/scenes/050-stanley-polprawda-i-nieudana-zamiana-boyle-a.md`.
+- Bieżący punkt kanonu: adaptacja scen 59–60; źródłowa scena 60 jest TODO. Kampania znacząco odchodzi teraz od źródłowego beatu scen 61–62, ponieważ pierwsza próba zamiany Boyle↔więzień nie zakończyła się pełnym transferem.
 - Perspektywa bieżąca: Stanley Hutchins.
-- Miejsce: Skyropula; trwają przygotowania do kolejnego transferu człowiek→człowiek dla Christophera Boyle'a. Zdrowy target został właśnie przywieziony pod wojskową eskortą.
+- Miejsce: Skyropula. Boyle po nieudanym cross-write jest po zatrzymaniu krążenia, skutecznie zresuscytowany, zaintubowany i krytycznie niestabilny. Więzień przeżył z napadem drgawkowym i częściowymi obcymi imprintami.
 
 ## Zasada tonu
 - Atmosfera stopniowo ciemnieje.
@@ -13,57 +13,46 @@
 - Postacie nie otrzymują prawdy metafizycznej bez dowodów dostępnych z ich perspektywy.
 
 ## Backstage / prawda kampanii
-- Jelena została porwana przez demony. Konwencjonalnie wyglądało to jak profesjonalne porwanie, którego ślad praktycznie znika.
-- Każdy właściwy transfer narusza „kurtynę” i może umożliwiać przejście bytów/demonów.
-- Transfer powrotny Romana ponownie naruszył kurtynę i uwolnił kolejne demony.
-- Powrót Jeleny ma związek z demoniczną stroną wydarzeń, ale Stanley, Paxton i pozostali nie znają tej prawdy.
+- Jelena została porwana przez demony; konwencjonalnie wyglądało to jak profesjonalne porwanie, którego ślad praktycznie zniknął.
+- Każdy właściwy transfer / cross-write narusza „kurtynę” i może umożliwiać przejście bytów/demonów.
+- Transfer powrotny Romana naruszył kurtynę i uwolnił kolejne demony.
+- Nieudany cross-write Boyle↔więzień również naruszył kurtynę mimo przerwania procedury przed erase.
+- Stanley, Paxton, Witchins, Boyle i reszta zespołu nie znają tej prawdy.
 
 ## Stanley Hutchins
 - Zna `COMMON-MODE SATURATION — SOURCE UNKNOWN` z przywracania Henry'ego.
 - Zna prywatną notatkę Romana z 13 kwietnia: około dwusekundowy common-mode przy pustej komorze plus krótka utrata kontrastu kamer; surowy plik jest uszkodzony. Nikomu tego nie ujawnił.
 - Na Skyros usłyszał od starej żebraczki ostrzeżenie o „rozerwaniu kurtyny”; nikomu o tym nie powiedział.
-- Po katastrofie przeprowadził pełną odbudowę bez bypassu, później read-only na rekinie i jedną ciągłą procedurę read→write→verify→erase przy powrotnym transferze Romana.
-- Logi transferu Romana zawierają nowy około dwusekundowy common-mode podczas właściwego write, ale nie podczas zwykłego read-only. Zegary, checksumy, sieć, reaktor i bufory były stabilne. Część kamer odnotowała równoczesny spadek kontrastu.
-- Henry w neutralnej rozmowie niezależnie użył słowa „kurtyna” i podtrzymał wrażenie, że coś przeszło wraz z nim „na naszą stronę”. Potwierdził, że nie mówił o tym Romanowi.
-- Roman po przebudzeniu również użył słowa „kurtyna”, mówił o „nich” po drugiej stronie i o czymś, co „przyszło z nami”.
-- Stanley nie przyjął hipotezy demonów, ale pojedyncze majaczenie przestało mu wystarczać jako wyjaśnienie.
-- Zachowuje pełny pakiet dla siebie. Moore zna jedynie techniczny common-mode. Paxton nie zna zbieżności relacji świadków, staruszki ani notatki z 13 kwietnia.
-- Stanley świadomie prowadzi prywatne śledztwo i nie chce skażać świadków sugestią.
-- Po odnalezieniu Jeleny obserwował pierwszy wojskowy debrief, zaakceptował 24-godzinną kwarantannę i nie znalazł wraz z Paxtonem klasycznego tropu wyjaśniającego dwutygodniową lukę pamięci.
-- Nie ograniczył Jelenie dostępu do stref transferowych ani aparatury i nie poinformował Paxtona o reakcji Romana na jej obecność. Bez obiektywnego dowodu nie chce działać przeciw Jelenie na podstawie prywatnej hipotezy.
-- Nadal nie ujawnił Jelenie notatki z 13 kwietnia, ostrzeżenia staruszki ani niezależnej relacji Romana o kurtynie.
-- **Kluczowa decyzja charakterologiczna:** zgodził się przygotować kolejny właściwy transfer dla Boyle'a mimo własnych obaw. Nie zrobił tego z przekonania o bezpieczeństwie procedury, lecz dlatego, że zabrakło mu odwagi, by sprzeciwić się Boyle'owi, Witchinsowi i Paxtonowi. Boi się ich władzy, konsekwencji zawodowych i osobistych oraz tego, że mogą odebrać mu projekt i kontrolę nad własnym życiem.
-- Natychmiast zaczął racjonalizować zgodę językiem technicznym: pełna walidacja, twarda kolejność read→write→verify→erase, brak skrótów. Nie ustanowił jednak moratorium i nie ujawnił pełnego pakietu anomalii.
-- Obecnie wie, że biologicznym targetem dla Boyle'a ma być młodszy, zdrowy skazany więzień, były żołnierz z wyrokiem za zabójstwo. Stanley zobaczył podpisany dokument zgody, ale ma poważne wątpliwości, czy więzień otrzymał pełną informację, że skuteczny transfer Boyle'a może oznaczać wymazanie jego własnej tożsamości.
+- Logi powrotnego transferu Romana zawierają podobny common-mode podczas właściwego write, ale nie podczas zwykłego read-only. Zegary, checksumy, sieć, reaktor i bufory były stabilne; część kamer odnotowała spadek kontrastu.
+- Henry w neutralnej rozmowie niezależnie użył słowa „kurtyna” i opisał wrażenie, że coś przeszło wraz z nim „na naszą stronę”. Roman niezależnie użył tego samego słowa po własnym powrocie.
+- Stanley nadal nie przyjął hipotezy demonów, ale pojedyncze majaczenie przestało mu wystarczać jako wyjaśnienie.
+- Zachowuje pełny pakiet dla siebie. Moore zna jedynie techniczny problem common-mode. Paxton nie zna zbieżności relacji, staruszki ani notatki z 13 kwietnia.
+- Po powrocie Jeleny nie ograniczył jej dostępu do aparatury bez obiektywnego dowodu. Jelena samodzielnie znalazła common-mode w logach Romana.
+- **Kluczowa cecha/wybór:** Stanley zgodził się na transfer Boyle'a przede wszystkim ze strachu przed Boyle'em, Witchinsem i Paxtonem. Brakuje mu odwagi, by sprzeciwić się ludziom kontrolującym projekt, jego karierę i życie. Racjonalizuje posłuszeństwo językiem procedur i bezpieczeństwa.
+- Gdy więzień zapytał, czy po eksperymencie nadal będzie sobą, Stanley odpowiedział: **„Zawsze jest się sobą.”** Nie wyjaśnił mu wprost planowanej zamiany wzorców i tego, że więzień miał obudzić się w śmiertelnie chorym ciele Boyle'a.
+- Korekta ciągłości: procedura Boyle'a jest **dwukierunkową zamianą wzorców**, nie jednostronnym nadpisaniem: Boyle→młode ciało więźnia oraz więzień→chore ciało Boyle'a. Źródłowa scena 62 zakłada śmierć więźnia w ciele Boyle'a; poprzednie sformułowanie o prostym wymazaniu targetu było błędem narracyjnym i zostało skorygowane bez zmiany decyzji gracza.
+- Pierwsza próba swapu: pełne odczyty obu osób zakończyły się poprawnie, ale właściwy cross-write nie osiągnął kryteriów target confirmation. System bezpieczeństwa przerwał write i nie dopuścił do erase.
+- W chwili nieudanego write common-mode pojawił się ponownie przy stabilnym zasilaniu i zegarach, a część kamer odnotowała chwilową utratę kontrastu.
+- Stanley sam po raz pierwszy poczuł podczas common-mode krótkie ciśnienie w głowie i metaliczny posmak. Nikomu z nadzoru o tym nie powiedział.
+- Po przerwaniu procedury oba oryginalne wzorce pozostały w swoich ciałach, ale oba mózgi otrzymały częściowy, niepełny imprint drugiej osoby.
 
 ## Jelena Ivanova
 - Przed zaginięciem znała wcześniejszy common-mode i pełną relację Henry'ego o „kurtynie”, ale nie przekazała Stanleyowi tego skojarzenia.
-- Przed porwaniem zapamiętała: ciemnego starszego volkswagena, końcówkę tablicy **731**, zapach mokrej wełny i starego tytoniu, dużego napastnika oraz długą jasną bliznę na jego prawej dłoni od podstawy kciuka ku nadgarstkowi.
-- Pamięć urywa się po ataku w hotelu. Następne pełne wspomnienie to przebudzenie przy bocznej drodze w północno-zachodniej części Skyros.
-- Rejon odnalezienia był wcześniej wielokrotnie przeszukiwany, również poprzedniego dnia.
-- Jelena subiektywnie sądziła, że od ataku minęło najwyżej kilka godzin; faktycznie minęło około dwóch tygodni.
-- Nie pamięta miejsca przetrzymywania, karmienia, pojenia, transportu ani rozmów.
-- Toksykologia nie wykazała środka wiarygodnie tłumaczącego prawie dwutygodniową lukę pamięci.
-- Kryminalistyka ubrania i obuwia dała głównie świeże mikroślady zgodne z miejscem odnalezienia, bez tropu prowadzącego do miejsca przetrzymywania.
-- W drugim neutralnym debriefie odzyskała tylko krótki fragment sensoryczny: silne ciśnienie w uszach/głowie i metaliczny posmak tuż przed przebudzeniem.
-- Po 24 godzinach Paxton dopuścił ją do powrotu na Skyropulę.
-- Zachowuje dawny chłodny, precyzyjny i ironiczny sposób mówienia.
-- Ma pełne dotychczasowe uprawnienia do pracy. Samodzielnie przeglądając logi powrotnego transferu Romana odkryła nowy epizod common-mode i rozpoznała podobieństwo do przypadku Henry'ego.
-- Wie, że Moore bada common-mode technicznie, ale nie zna prywatnego pakietu Stanleya.
-- Wie, że Boyle żąda kolejnego transferu i że przygotowania ruszyły. Zwróciła Stanleyowi uwagę na niewyjaśniony common-mode, ale nie zna jego głębszych powodów do obaw.
+- Zaginęła po przyjęciu podwózki ciemnym starszym volkswagenem; zapamiętała końcówkę tablicy **731**, zapach mokrej wełny/starego tytoniu i bliznę na prawej dłoni napastnika.
+- Wróciła po około dwóch tygodniach z niemal całkowitą luką pamięci. Toksykologia i kryminalistyka nie dały klasycznego wyjaśnienia; tuż przed odzyskaniem świadomości pamięta ciśnienie w uszach/głowie i metaliczny posmak.
+- Ma pełne uprawnienia do pracy i zachowuje dawny chłodny, precyzyjny sposób mówienia.
+- Samodzielnie rozpoznała podobieństwo common-mode z transferu Romana do przypadku Henry'ego.
+- Wie, że Moore bada common-mode technicznie, ale nie zna notatki z 13 kwietnia, ostrzeżenia staruszki ani pełnej relacji Romana po przebudzeniu.
+- Podczas nieudanego cross-write Boyle↔więzień była obecna przy procedurze; Stanley zauważył, że na moment zastygła podczas anomalii, ale nie wie, co wtedy odczuła.
 
 ## Roman Bagrowski
-- Pierwotny wzorzec Romana został podczas katastrofy przeniesiony do oznaczonego rekina, a jego ludzkie ciało utrzymywano biologicznie przy życiu.
-- Spędził tygodnie funkcjonując w mózgu i ciele rekina. Aktualny wzorzec zawiera ślady rekiniej architektury sensorycznej i doświadczeń.
-- Powrotny transfer przywrócił aktualny wzorzec do biologicznego mózgu Romana.
-- Roman przeżył dwie graniczne „śmierci”: pierwszy erase własnego mózgu oraz końcowy erase źródła w rekinie.
-- Rekin zmarł po erase.
-- Roman rozpoznaje ludzi, miejsce i własną biografię. Liczba mnoga („my”, „nas”) stopniowo zanika, lecz wraca w zmęczeniu i przy doświadczeniach powiązanych z rekinem/transferem.
-- Miewa fantomowe odczucia rekiniego ciała.
-- Opisał ciemną „kurtynę”, obecność „ich” oraz przekonanie, że coś przeszło podczas transferu.
-- Po powrocie Jeleny zgłosił Stanleyowi krótkie wrażenie metalicznego smaku/nacisku i skojarzenie z drugim erase oraz „tamtą stroną”, ale sam nie twierdzi, że Jelena jest kimś innym ani że ma dowód zagrożenia.
-- Kontynuuje rehabilitację.
-- Sprzeciwia się pośpiechowi przy kolejnym write i uważa, że zespół powinien lepiej zrozumieć skutki jego powrotu. Stanley nie dopuścił go jednak do realnego wpływu na decyzję Boyle'a.
+- Jego wzorzec został podczas katastrofy przeniesiony do oznaczonego rekina, a ludzkie ciało utrzymywano przy życiu.
+- Spędził tygodnie w mózgu/ciele rekina; powrotny transfer przywrócił aktualny wzorzec do jego biologicznego mózgu.
+- Rekin zmarł po końcowym erase.
+- Roman przeżył dwie graniczne „śmierci” i początkowo mówił o sobie w liczbie mnogiej; liczba mnoga stopniowo zanika, ale wraca przy zmęczeniu i doświadczeniach związanych z transferem.
+- Pamięta rekinie zmysły, ma fantomowe odczucia rekiniego ciała, opisał ciemną „kurtynę”, obecność „ich” oraz przekonanie, że coś przeszło podczas transferu.
+- Po powrocie Jeleny przy niej poczuł metaliczny smak/nacisk i skojarzenie z drugim erase oraz „tamtą stroną”, ale nie twierdzi, że Jelena jest kimś innym.
+- Sprzeciwiał się pośpiechowi przy kolejnym write i uważał, że zespół powinien lepiej zrozumieć skutki jego powrotu.
 
 ## Henry Marshall
 - Po własnym transferze opisał Jelenie oddzielenie od ciała, panoramiczną percepcję, ciemną „kurtynę” i obecność czegoś po drugiej stronie.
@@ -73,31 +62,28 @@
 
 ## Reaktor, aparatura i Moore
 - Po sabotażu głównej szafy Stanley odrzucił bypass i zespół wykonał pełną odbudowę oraz walidację.
-- Poprawiona architektura: twarde przerwanie po utracie celu, fizyczna separacja erasera od read, niezależne potwierdzenie write przed erase, model energii oparty na as-built.
+- Architektura bezpieczeństwa: twarde przerwanie po utracie celu, fizyczna separacja erasera, niezależne potwierdzenie write przed erase, model energii oparty na as-built.
 - Moore bada common-mode jako problem fizyczny/sprzętowy. Testy bez żywego transferu nie odtworzyły zjawiska.
-- Na razie common-mode koreluje z właściwym write, a nie ze zwykłym read-only, ale mechanizm jest nieznany.
-- Po zgodzie Stanleya na procedurę Boyle'a aparatura przechodzi kolejną pełną walidację bez skrótów.
+- Podczas swapu Boyle↔więzień zabezpieczenia zadziałały: przy spadku jakości cross-write procedura została zatrzymana, a erase pozostał zablokowany.
 
-## Jonathan Paxton
-- Traktował zniknięcie Jeleny jako profesjonalne porwanie/operację przeciw projektowi.
-- Po jej powrocie przeprowadził izolację, dwa debriefy, toksykologię i kryminalistykę, ale nie uzyskał twardego tropu.
-- Po 24 godzinach pozwolił Jelenie wrócić na Skyropulę.
-- Nadal nie zna pełnego pakietu Stanleya dotyczącego kurtyny/common-mode/notatki z 13 kwietnia.
-- Wraz z Witchinsem i Boyle'em naciska na przygotowanie kolejnej próby człowiek→człowiek.
+## Jonathan Paxton / Witchins
+- Paxton nadal nie zna pełnego pakietu Stanleya o kurtynie/common-mode/notatce z 13 kwietnia.
+- Witchins i Paxton doprowadzili do sprowadzenia więźnia oraz naciskali na wykonanie transferu dla Boyle'a.
+- Po nieudanej próbie i resuscytacji Boyle'a obaj naciskają, by rozważyć kolejną próbę, jeśli tylko medycznie pojawi się minimalne okno.
 
 ## Christopher Boyle
-- Przybył na Skyropulę z Witchinsem w wyraźnie pogorszonym stanie fizycznym; jest śmiertelnie chory, ale pozostaje intelektualnie ostry i kontrolujący.
-- Traktuje powrót Romana jako dowód działania technologii, nie jako argument za jej zatrzymaniem.
-- Oczekuje transferu własnej świadomości do nowego, zdrowego ciała.
-- Nie zna prywatnego pakietu anomalii Stanleya.
-- Otrzymał od Stanleya zgodę na rozpoczęcie przygotowań.
+- Śmiertelnie chory; przybył na Skyropulę, by przenieść własny wzorzec do młodszego zdrowego ciała.
+- Pełny odczyt jego wzorca został wykonany i pozostaje dostępny.
+- Pierwszy cross-write do ciała więźnia nie osiągnął pełnej walidacji i został przerwany przed erase.
+- Boyle nie został przeniesiony; jego oryginalny wzorzec pozostaje w jego chorym ciele, z częściowym imprintem wzorca więźnia.
+- W trakcie próby doszło do ciężkiej arytmii i zatrzymania krążenia. Resuscytacja przywróciła krążenie, ale Boyle jest zaintubowany i krytycznie niestabilny.
 
-## Target Boyle'a
-- Młodszy, zdrowy mężczyzna; skazany więzień i były żołnierz, z wyrokiem za zabójstwo.
-- Został przywieziony na Skyropulę pod wojskową eskortą jako biologiczny target dla Boyle'a.
-- Istnieje podpisany dokument zgody związany z udziałem w eksperymentalnej procedurze medycznej oraz możliwością poprawy jego sytuacji prawnej/uniknięcia kary śmierci.
-- Nie jest jasne, czy poinformowano go wprost, że skuteczny transfer Boyle'a może oznaczać wymazanie jego własnego wzorca i koniec jego dotychczasowej tożsamości.
-- W bezpośrednim kontakcie pyta Stanleya, czy „po tym” będzie jeszcze sobą.
+## Więzień / target Boyle'a
+- Młodszy, zdrowy mężczyzna; były żołnierz, skazany za zabójstwo, z perspektywą kary śmierci.
+- Podpisał udział w eksperymentalnej procedurze w zamian za możliwość poprawy sytuacji prawnej, ale nie otrzymał jasnej informacji o tym, że planowany swap miał przenieść go do śmiertelnie chorego ciała Boyle'a.
+- Po odpowiedzi Stanleya „Zawsze jest się sobą” pozostał niespokojny, ale nie wycofał zgody.
+- Pełny odczyt jego wzorca został wykonany.
+- Podczas cross-write dostał uogólnionego napadu drgawkowego. Po przerwaniu procedury pozostaje w swoim własnym ciele, ale ma częściowy imprint wzorca Boyle'a oraz krótkotrwałe zaburzenia mowy / obce skojarzenia.
 
 ## Główne rozbieżności względem powieści
 - 002: brak kompromitacji Stanleya przy basenie.
@@ -108,23 +94,23 @@
 - 033–035: rekin zostaje wcześnie odnaleziony, przechwycony i ustabilizowany.
 - 036: Stanley słyszy ostrzeżenie o „kurtynie”, ale je ignoruje.
 - 038–040: porwanie Jeleny wykryto wcześniej; monitoring hotelu i Skyropuli ma celowe/sekwencyjne zaniki.
-- 041–043: zagroda morska, read-only bez Jeleny, a następnie ciągły read→write→verify→erase; Roman wraca, rekin umiera.
+- 041–043: zagroda morska, read-only bez Jeleny, ciągły read→write→verify→erase; Roman wraca, rekin umiera.
 - 044: powtórny common-mode i niezależna relacja Henry'ego; Stanley zachowuje pakiet dla siebie.
-- 045: pierwszy kontrolowany wywiad Romana.
-- 046: Jelena odnaleziona po około dwóch tygodniach z niemal całkowitą luką pamięci; Stanley obserwuje wojskowy debrief.
-- 047: Stanley akceptuje 24-godzinną kwarantannę; Jelena wraca na Skyropulę, a Roman reaguje na nią niepokojącym sensorycznym skojarzeniem.
-- 048: Stanley świadomie nie ogranicza Jelenie dostępu bez dowodu; Jelena samodzielnie trafia na common-mode w logach Romana. Boyle przybywa ciężko chory i żąda przygotowania kolejnego transferu dla siebie.
+- 045–048: kontrolowany wywiad Romana, powrót Jeleny, brak ograniczeń jej dostępu, przylot Boyle'a i nacisk na kolejny transfer.
+- 049: Stanley ze strachu zgadza się na transfer Boyle'a i sprowadzenie skazanego targetu.
+- 050: Stanley odpowiada więźniowi półprawdą; pierwsza próba pełnej zamiany Boyle↔więzień nie dochodzi do skutku. Zabezpieczenia zatrzymują write przed erase, ale obie osoby otrzymują częściowe obce imprinty; Boyle przechodzi zatrzymanie krążenia i zostaje zresuscytowany. To odchodzi od źródłowego beatu sceny 62, w którym więzień umiera już w ciele Boyle'a.
 
 ## Aktywne wątki
-- Czy Stanley powie więźniowi pełną prawdę o tym, czym może zakończyć się skuteczny transfer Boyle'a.
-- Czy Stanley ujawni komukolwiek pełny pakiet anomalii przed następnym transferem.
+- Czy Stanley dopuści drugą próbę cross-write z użyciem gotowych pełnych map, jeśli Boyle zostanie choć minimalnie ustabilizowany.
+- Stan neurologiczny więźnia po częściowym imprintowaniu wzorca Boyle'a.
+- Stan neurologiczny Boyle'a po zatrzymaniu krążenia i częściowym imprintowaniu wzorca więźnia.
+- Powtarzający się common-mode, tym razem ponownie podczas właściwego cross-write.
+- Prywatny sekret Stanleya: notatka z 13 kwietnia, staruszka, zbieżność Henry/Roman i własny metaliczny posmak podczas ostatniej próby.
 - Co wydarzyło się z Jeleną podczas dwutygodniowej luki pamięciowej.
-- Weryfikacja volkswagena, końcówki tablicy **731** i blizny napastnika.
-- Związek między common-mode, utratą kontrastu kamer i właściwym write.
-- Prywatny sekret Stanleya: 13 kwietnia, staruszka, Henry, Roman i reakcja Romana na Jelenę.
-- Dalsza rehabilitacja Romana i stopniowa reintegracja jego jaźni po rekinie.
+- Skutki kolejnego backstage'owego naruszenia kurtyny.
 
 ## Nierozstrzygnięty punkt decyzyjny
-- Stanley zgodził się na przygotowanie transferu Boyle'a przede wszystkim ze strachu przed ludźmi kontrolującymi projekt.
-- Zdrowy target jest skazanym więźniem, któremu obiecano możliwość poprawy sytuacji prawnej w zamian za udział w eksperymencie.
-- Więzień pyta Stanleya wprost, czy po procedurze będzie jeszcze sobą. Stanley musi zdecydować, czy powie mu pełną prawdę o erase i ryzyku utraty własnej tożsamości, czy pozostanie przy oficjalnym, niepełnym opisie procedury.
+- Boyle żyje po resuscytacji, ale jego stan jest krytyczny i może nie dawać kolejnego długiego okna.
+- Pełne mapy Boyle'a i więźnia są już zapisane, więc technicznie drugi cross-write można przygotować bez kolejnego pełnego read.
+- Witchins i Paxton naciskają, by spróbować ponownie, jeśli medycy dopuszczą choć minimalne okno.
+- Stanley musi zdecydować, czy po nieudanej próbie wreszcie zatrzymuje dalsze właściwe transfery, czy ponownie podporządkowuje się presji i przygotowuje drugą próbę.
