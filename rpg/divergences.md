@@ -100,21 +100,32 @@
 - **Decyzja gracza:** Stanley ponownie podporządkowuje się naciskom. Uznaje, że przed kolejnym write trzeba najpierw wykonać erase targetu i pisać na wyzerowany biologiczny mózg.
 - Zespół zaczyna od młodego ciała więźnia i zapisanej mapy Boyle'a.
 - Stanley autoryzuje erase aktywnego wzorca więźnia, pozostawiając jego tożsamość wyłącznie jako zapis systemowy, a następnie wykonuje write pełnej mapy Boyle'a.
-- Zapis Boyle→młode ciało przechodzi pełną walidację. Przez krótki czas istnieją dwa aktywne nośniki wzorca Boyle'a: młode ciało po write i oryginalne chore ciało.
+- Zapis Boyle→młode ciało przechodzi pełną walidację. Przez krótki czas istnieją dwa aktywne nośniki wzorca Boyle'a.
 - Następnie Stanley autoryzuje erase wzorca Boyle'a w starym ciele i write zapisanej mapy więźnia.
 - Drugi zapis także przechodzi pełną walidację. Technicznie swap kończy się sukcesem: Boyle znajduje się w młodym ciele, więzień w ciele Boyle'a.
-- Więzień odzyskuje jedynie krótki kontakt; wyniszczony organizm Boyle'a gwałtownie się załamuje. Więzień umiera mimo resuscytacji.
-- Common-mode i utrata kontrastu kamer ponownie towarzyszą właściwym write.
+- Więzień odzyskuje jedynie krótki kontakt i umiera mimo resuscytacji.
 - Backstage: oba nowe write ponownie naruszają kurtynę i przepuszczają kolejne byty/demony.
 
 ## 052 — Ewakuacja Skyropuli
-- Po śmierci więźnia światła w kompleksie gasną mimo działających szyn zasilających; pojawia się potężny ryk oraz pierwsze jawne, nienaturalne ciemne sylwetki.
-- Stanley natychmiast zarządza pełną ewakuację. Jelenie poleca wyciągnąć Romana, Paxtonowi pozostawia Boyle'a, Witchinsa i VIP-ów, a sam biegnie do Henry'ego.
-- Stanley znajduje Henry'ego martwego z ciężkim, niewyjaśnionym urazem klatki piersiowej. Widzi z bliska nienaturalną sylwetkę za szybą i po raz pierwszy przestaje traktować wszystko jako możliwą awarię aparatury.
-- **Decyzja gracza:** Stanley nie wraca po Paxtona ani VIP-ów. Wyprowadza wszystkich, których może, uznając, że jeśli zawodowy żołnierz nie zdoła uratować siebie i Boyle'a, Stanley tym bardziej mu nie pomoże.
-- Główna grupa — Jelena, Roman, Moore, Dawson, technicy, część medyczna i ochrona — rusza tunelem serwisowym do nabrzeża.
-- Ewakuacja jest częściowo udana: systemy awaryjne zawodzą, ciemne sylwetki docierają również do bocznych ciągów, a jeden technik zostaje ciężko ranny, lecz zabrany z grupą.
-- Paxton sam przebija się ze skrzydła medycznego z Boyle'em i Witchinsem. Jeden z jego ludzi nie wraca, drugi jest ranny, ale VIP-owie docierają do nabrzeża.
-- Jedna łódź techniczna nie daje się uruchomić, więc ewakuowani dzielą się między trzy sprawne jednostki.
-- Łodzie odpływają od Skyropuli w stronę Skyros. Strzały ochrony nie dają pewności, czy ciemne sylwetki można skutecznie zranić.
-- Funkcjonalnie kampania przechodzi do źródłowej sceny 65 `Dotarcie do Skyros`, a następnie 66 `Ucieczka Cessną`.
+- Po śmierci więźnia gasną światła, pojawia się potężny ryk i pierwsze jawne ciemne postacie.
+- Stanley zarządza pełną ewakuację. Najpierw biegnie do Henry'ego, lecz znajduje go martwego z niewyjaśnionym urazem klatki piersiowej.
+- Jelena wyciąga Romana z części medycznej; Paxton przejmuje Boyle'a i Witchinsa.
+- **Decyzja gracza:** Stanley nie wraca po Paxtona/VIP-ów. Wyprowadza natychmiast wszystkich, których ma pod ręką, uznając, że Paxton jako zawodowy żołnierz ma większe szanse sam sobie pomóc.
+- Większość personelu dociera tunelem serwisowym do nabrzeża. Paxton sam przebija się z Boyle'em i Witchinsem.
+- Łodzie odpływają na Skyros. Strzały ochrony nie dają jednoznacznego potwierdzenia skuteczności wobec ciemnych sylwetek.
+
+## 053 — Skyros i ucieczka Cessną
+- Po dotarciu na Skyros Stanley, Roman i Jelena jednocześnie odczuwają metaliczny smak / nacisk, mimo oddalenia od Skyropuli.
+- Stanley otrzymuje wiadomość z nieznanego greckiego numeru: **`YOU DID NOT CLOSE IT.`** Jego reakcja zdradza Romanowi i Jelenie, że rozumie kontekst wiadomości.
+- Paxton proponuje rozproszenie ewakuacji: Boyle i Witchins osobnym kanałem wojskowym, Stanley/Jelena/Roman pierwszym dostępnym lekkim samolotem.
+- **Decyzja gracza:** Stanley pozostaje przy planie Paxtona i wraz z Jeleną i Romanem leci jak najwcześniej, nie czekając kilka godzin na pełną ewakuację reszty.
+- Na lokalnym lotnisku część awioniki/łączności Cessny zachowuje się niestabilnie, lecz silnik i podstawowe niezależne instrumenty są sprawne. Pilot podejmuje szybki lot VFR.
+- Start kończy się powodzeniem; trójka opuszcza Skyros.
+- W locie Roman i Jelena naciskają Stanleya, by wyjaśnił, skąd wiedział, co oznacza `YOU DID NOT CLOSE IT`, i co jeszcze przed nimi ukrywał.
+
+## Aktywne rozbieżności / konsekwencje
+- Stanley nadal nie ujawnił pełnego prywatnego pakietu: notatki z 13 kwietnia, ostrzeżenia staruszki, pełnej neutralnej relacji Henry'ego oraz chronologii wszystkich zbieżności.
+- Po jawnych manifestacjach nie jest już wiarygodne traktowanie wszystkiego jako zwykłej usterki technicznej, ale postacie nadal nie znają natury bytów.
+- Boyle żyje w młodym ciele; więzień i Henry nie żyją.
+- Zjawisko sensoryczne wystąpiło również na Skyros, więc nie ma pewności, czy opuszczenie Skyropuli lub samej wyspy zatrzymuje zagrożenie.
+- Bieżący wybór dotyczy tego, czy Stanley w Cessnie ujawni Romanowi i Jelenie całą dotąd skrywaną historię anomalii.
