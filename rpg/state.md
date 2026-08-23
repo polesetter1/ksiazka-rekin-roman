@@ -1,11 +1,11 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–036, 038–048 zapisane; scena 37 została funkcjonalnie wyprzedzona przez wcześniejsze namierzenie i przechwycenie oznaczonego rekina.
-- Ostatnia sfinalizowana scena: `rpg/scenes/048-stanley-brak-ograniczen-jeleny-i-przylot-boyle-a.md`.
-- Bieżący punkt kanonu: sceny 55–58 (`Rozmowa z Jeleną`, `Rozmyślanie nad powtórzeniem eksperymentu`, `Przylot senatora z umierającym prof. Boyle'em`, `Namawianie profesora na powtórzenie próby`); źródła 55–58 są TODO, więc przebieg opiera się na stanie RPG i kartach postaci.
+- Status: sceny RPG 001–036, 038–049 zapisane; scena 37 została funkcjonalnie wyprzedzona przez wcześniejsze namierzenie i przechwycenie oznaczonego rekina.
+- Ostatnia sfinalizowana scena: `rpg/scenes/049-stanley-zgoda-na-transfer-boyle-a.md`.
+- Bieżący punkt kanonu: scena 59 `Przyprowadzenie więźnia-mordercy w celu zamiany ciał`; źródłowa scena jest TODO, więc przebieg opiera się na stanie RPG i kartach postaci.
 - Perspektywa bieżąca: Stanley Hutchins.
-- Miejsce: Skyropula; Jelena wróciła do pracy bez ograniczeń, Roman rehabilituje się, a Witchins i ciężko chory Christopher Boyle właśnie przybyli z naciskiem na kolejną próbę transferu.
+- Miejsce: Skyropula; trwają przygotowania do kolejnego transferu człowiek→człowiek dla Christophera Boyle'a. Zdrowy target został właśnie przywieziony pod wojskową eskortą.
 
 ## Zasada tonu
 - Atmosfera stopniowo ciemnieje.
@@ -30,9 +30,11 @@
 - Zachowuje pełny pakiet dla siebie. Moore zna jedynie techniczny common-mode. Paxton nie zna zbieżności relacji świadków, staruszki ani notatki z 13 kwietnia.
 - Stanley świadomie prowadzi prywatne śledztwo i nie chce skażać świadków sugestią.
 - Po odnalezieniu Jeleny obserwował pierwszy wojskowy debrief, zaakceptował 24-godzinną kwarantannę i nie znalazł wraz z Paxtonem klasycznego tropu wyjaśniającego dwutygodniową lukę pamięci.
-- Zgodnie z ostatnią decyzją gracza nie ograniczył Jelenie dostępu do stref transferowych ani aparatury i nie poinformował Paxtona o reakcji Romana na jej obecność. Uważa, że bez obiektywnego dowodu nie może działać przeciw Jelenie na podstawie prywatnej hipotezy.
-- Stanley nadal nie ujawnił Jelenie notatki z 13 kwietnia, ostrzeżenia staruszki ani niezależnej relacji Romana o kurtynie.
-- Obecnie stoi przed bezpośrednim naciskiem Boyle'a, Witchinsa i Paxtona na przygotowanie kolejnego właściwego transferu człowiek→człowiek dla śmiertelnie chorego Boyle'a.
+- Nie ograniczył Jelenie dostępu do stref transferowych ani aparatury i nie poinformował Paxtona o reakcji Romana na jej obecność. Bez obiektywnego dowodu nie chce działać przeciw Jelenie na podstawie prywatnej hipotezy.
+- Nadal nie ujawnił Jelenie notatki z 13 kwietnia, ostrzeżenia staruszki ani niezależnej relacji Romana o kurtynie.
+- **Kluczowa decyzja charakterologiczna:** zgodził się przygotować kolejny właściwy transfer dla Boyle'a mimo własnych obaw. Nie zrobił tego z przekonania o bezpieczeństwie procedury, lecz dlatego, że zabrakło mu odwagi, by sprzeciwić się Boyle'owi, Witchinsowi i Paxtonowi. Boi się ich władzy, konsekwencji zawodowych i osobistych oraz tego, że mogą odebrać mu projekt i kontrolę nad własnym życiem.
+- Natychmiast zaczął racjonalizować zgodę językiem technicznym: pełna walidacja, twarda kolejność read→write→verify→erase, brak skrótów. Nie ustanowił jednak moratorium i nie ujawnił pełnego pakietu anomalii.
+- Obecnie wie, że biologicznym targetem dla Boyle'a ma być młodszy, zdrowy skazany więzień, były żołnierz z wyrokiem za zabójstwo. Stanley zobaczył podpisany dokument zgody, ale ma poważne wątpliwości, czy więzień otrzymał pełną informację, że skuteczny transfer Boyle'a może oznaczać wymazanie jego własnej tożsamości.
 
 ## Jelena Ivanova
 - Przed zaginięciem znała wcześniejszy common-mode i pełną relację Henry'ego o „kurtynie”, ale nie przekazała Stanleyowi tego skojarzenia.
@@ -46,8 +48,9 @@
 - W drugim neutralnym debriefie odzyskała tylko krótki fragment sensoryczny: silne ciśnienie w uszach/głowie i metaliczny posmak tuż przed przebudzeniem.
 - Po 24 godzinach Paxton dopuścił ją do powrotu na Skyropulę.
 - Zachowuje dawny chłodny, precyzyjny i ironiczny sposób mówienia.
-- Zgodnie z decyzją gracza ma pełne dotychczasowe uprawnienia do pracy. Samodzielnie przeglądając logi powrotnego transferu Romana odkryła nowy epizod common-mode i rozpoznała jego podobieństwo do przypadku Henry'ego.
+- Ma pełne dotychczasowe uprawnienia do pracy. Samodzielnie przeglądając logi powrotnego transferu Romana odkryła nowy epizod common-mode i rozpoznała podobieństwo do przypadku Henry'ego.
 - Wie, że Moore bada common-mode technicznie, ale nie zna prywatnego pakietu Stanleya.
+- Wie, że Boyle żąda kolejnego transferu i że przygotowania ruszyły. Zwróciła Stanleyowi uwagę na niewyjaśniony common-mode, ale nie zna jego głębszych powodów do obaw.
 
 ## Roman Bagrowski
 - Pierwotny wzorzec Romana został podczas katastrofy przeniesiony do oznaczonego rekina, a jego ludzkie ciało utrzymywano biologicznie przy życiu.
@@ -60,6 +63,7 @@
 - Opisał ciemną „kurtynę”, obecność „ich” oraz przekonanie, że coś przeszło podczas transferu.
 - Po powrocie Jeleny zgłosił Stanleyowi krótkie wrażenie metalicznego smaku/nacisku i skojarzenie z drugim erase oraz „tamtą stroną”, ale sam nie twierdzi, że Jelena jest kimś innym ani że ma dowód zagrożenia.
 - Kontynuuje rehabilitację.
+- Sprzeciwia się pośpiechowi przy kolejnym write i uważa, że zespół powinien lepiej zrozumieć skutki jego powrotu. Stanley nie dopuścił go jednak do realnego wpływu na decyzję Boyle'a.
 
 ## Henry Marshall
 - Po własnym transferze opisał Jelenie oddzielenie od ciała, panoramiczną percepcję, ciemną „kurtynę” i obecność czegoś po drugiej stronie.
@@ -72,19 +76,28 @@
 - Poprawiona architektura: twarde przerwanie po utracie celu, fizyczna separacja erasera od read, niezależne potwierdzenie write przed erase, model energii oparty na as-built.
 - Moore bada common-mode jako problem fizyczny/sprzętowy. Testy bez żywego transferu nie odtworzyły zjawiska.
 - Na razie common-mode koreluje z właściwym write, a nie ze zwykłym read-only, ale mechanizm jest nieznany.
+- Po zgodzie Stanleya na procedurę Boyle'a aparatura przechodzi kolejną pełną walidację bez skrótów.
 
 ## Jonathan Paxton
 - Traktował zniknięcie Jeleny jako profesjonalne porwanie/operację przeciw projektowi.
 - Po jej powrocie przeprowadził izolację, dwa debriefy, toksykologię i kryminalistykę, ale nie uzyskał twardego tropu.
 - Po 24 godzinach pozwolił Jelenie wrócić na Skyropulę.
 - Nadal nie zna pełnego pakietu Stanleya dotyczącego kurtyny/common-mode/notatki z 13 kwietnia.
-- Wraz z Witchinsem i Boyle'em naciska obecnie na przygotowanie kolejnej próby człowiek→człowiek.
+- Wraz z Witchinsem i Boyle'em naciska na przygotowanie kolejnej próby człowiek→człowiek.
 
 ## Christopher Boyle
 - Przybył na Skyropulę z Witchinsem w wyraźnie pogorszonym stanie fizycznym; jest śmiertelnie chory, ale pozostaje intelektualnie ostry i kontrolujący.
 - Traktuje powrót Romana jako dowód działania technologii, nie jako argument za jej zatrzymaniem.
-- Oczekuje przygotowania transferu własnej świadomości do nowego, zdrowego ciała.
+- Oczekuje transferu własnej świadomości do nowego, zdrowego ciała.
 - Nie zna prywatnego pakietu anomalii Stanleya.
+- Otrzymał od Stanleya zgodę na rozpoczęcie przygotowań.
+
+## Target Boyle'a
+- Młodszy, zdrowy mężczyzna; skazany więzień i były żołnierz, z wyrokiem za zabójstwo.
+- Został przywieziony na Skyropulę pod wojskową eskortą jako biologiczny target dla Boyle'a.
+- Istnieje podpisany dokument zgody związany z udziałem w eksperymentalnej procedurze medycznej oraz możliwością poprawy jego sytuacji prawnej/uniknięcia kary śmierci.
+- Nie jest jasne, czy poinformowano go wprost, że skuteczny transfer Boyle'a może oznaczać wymazanie jego własnego wzorca i koniec jego dotychczasowej tożsamości.
+- W bezpośrednim kontakcie pyta Stanleya, czy „po tym” będzie jeszcze sobą.
 
 ## Główne rozbieżności względem powieści
 - 002: brak kompromitacji Stanleya przy basenie.
@@ -103,7 +116,7 @@
 - 048: Stanley świadomie nie ogranicza Jelenie dostępu bez dowodu; Jelena samodzielnie trafia na common-mode w logach Romana. Boyle przybywa ciężko chory i żąda przygotowania kolejnego transferu dla siebie.
 
 ## Aktywne wątki
-- Decyzja Stanleya wobec żądania Boyle'a przeprowadzenia kolejnego właściwego transferu człowiek→człowiek.
+- Czy Stanley powie więźniowi pełną prawdę o tym, czym może zakończyć się skuteczny transfer Boyle'a.
 - Czy Stanley ujawni komukolwiek pełny pakiet anomalii przed następnym transferem.
 - Co wydarzyło się z Jeleną podczas dwutygodniowej luki pamięciowej.
 - Weryfikacja volkswagena, końcówki tablicy **731** i blizny napastnika.
@@ -112,6 +125,6 @@
 - Dalsza rehabilitacja Romana i stopniowa reintegracja jego jaźni po rekinie.
 
 ## Nierozstrzygnięty punkt decyzyjny
-- Boyle wprost żąda przygotowania kolejnego właściwego transferu do zdrowego ludzkiego ciała.
-- Stanley wie, że technicznie system po odbudowie zadziałał, ale właściwy write ponownie korelował z niewyjaśnionym common-mode i z niezależnymi relacjami o „kurtynie”.
-- Musi zdecydować, czy odmówić dalszych transferów do wyjaśnienia anomalii, zgodzić się warunkowo na przygotowania bez ujawniania prywatnych podejrzeń, czy ujawnić Boyle'owi/Witchinsowi/Paxtonowi część lub całość posiadanych danych.
+- Stanley zgodził się na przygotowanie transferu Boyle'a przede wszystkim ze strachu przed ludźmi kontrolującymi projekt.
+- Zdrowy target jest skazanym więźniem, któremu obiecano możliwość poprawy sytuacji prawnej w zamian za udział w eksperymencie.
+- Więzień pyta Stanleya wprost, czy po procedurze będzie jeszcze sobą. Stanley musi zdecydować, czy powie mu pełną prawdę o erase i ryzyku utraty własnej tożsamości, czy pozostanie przy oficjalnym, niepełnym opisie procedury.
