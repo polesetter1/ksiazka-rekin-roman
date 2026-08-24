@@ -1,0 +1,15 @@
+# 058. Stanley — ewakuacja McIntyre’a i pozostawiony driver
+
+**Decyzja gracza:** Stanley nie każe niszczyć końcowego drivera pola. Uznaje, że po fizycznym usunięciu modułu synchronizacji końcowej i modułu fazowego układ jest już niekompletny i nie powinien być zdolny do właściwego write bez istotnej rekonstrukcji. Priorytetem staje się natychmiastowa ewakuacja McIntyre’a i zespołu.
+
+Paxton akceptuje decyzję operacyjnie: McIntyre ma przerwać pracę przy driverze, zabrać wymontowane moduły i wycofać się tą samą trasą. Nie dochodzi do próby ponownego zasilenia lokalnej szyny ani do lokalnego niszczenia drivera.
+
+Odwrót jest napięty, ale ostatecznie skuteczny. Zespół słyszy i miejscami widzi niejasne ciemne sylwetki w korytarzach; część prostych sensorów i kamer ponownie daje nienaturalne zaniki / czarne obrazy. McIntyre utrzymuje Animus wyłączony z trybów predykcji i identyfikacji, nie próbuje walczyć z czymś, czego nie potrafi wiarygodnie sklasyfikować. W jednym miejscu dochodzi do krótkiego kontaktu wzrokowego z nieludzką sylwetką na trasie odwrotu, ale McIntyre wybiera obejście i nie inicjuje wymiany ognia.
+
+Cały zespół wydostaje się z części podziemnej i dociera do nabrzeża bez ofiar śmiertelnych. Jeden z operatorów doznaje lekkiego urazu podczas gwałtownego przejścia przez uszkodzone drzwi techniczne, ale pozostaje zdolny do ewakuacji. Podczas końcowego odwrotu / wejścia na łódź jeden z pojemników z wymontowanym sprzętem zostaje utracony i nie daje się bezpiecznie odzyskać; drugi moduł zostaje wywieziony. Utrata dodatkowo utrudnia szybkie odtworzenie write, ale oznacza także stratę części sprzętu, który Stanley chciał zachować do analizy.
+
+Końcowy driver pozostaje na Skyropuli, nadal mechanicznie osadzony w aparaturze. Jednak bez usuniętych elementów synchronizacji i fazy system nie jest gotowy do wykonania właściwego write. Ponowne uruchomienie wymagałoby fizycznej rekonstrukcji brakujących torów i ponownej walidacji systemu; nie jest możliwe prostym włączeniem aparatury.
+
+Po opuszczeniu wyspy Animus McIntyre’a pozostaje wyłączony, ale diagnostyka zapisuje ślady nietypowych błędów / niezgodnych klasyfikacji z czasu pobytu na Skyropuli. Nie ma jeszcze dowodu, że implant został trwale uszkodzony lub „skażony”, lecz Paxton traktuje McIntyre’a oraz jego implant jako materiał do kwarantanny i analizy przed przywróceniem systemu do normalnego działania.
+
+Bieżący problem strategiczny: aparatura została zachowana w stanie częściowo rozbrojonym, a zespół McIntyre’a przeżył operację. Jednocześnie pozostawiony na wyspie driver oraz dane z Animusa stają się nowymi źródłami ryzyka i wiedzy. Stanley musi zdecydować, czy priorytetem powinno być teraz pełne przeanalizowanie logów Animusa McIntyre’a jako niezależnego zapisu kontaktu z fenomenem, czy przede wszystkim dalsza praca nad sposobem zamknięcia kurtyny i izolacja wszystkich osób/sprzętu, które miały bezpośredni kontakt ze Skyropulą.
