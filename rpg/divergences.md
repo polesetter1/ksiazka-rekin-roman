@@ -52,11 +52,19 @@
 
 ## 057 — McIntyre wraca na Skyropulę
 - **Decyzja gracza:** Stanley akceptuje próbę fizycznego rozbrojenia funkcji write przez ppłk. Joshuę McIntyre’a i mały zespół wojskowo-techniczny.
-- McIntyre nie jest więźniem/dawcą z wcześniejszego swapu; zgodnie z kanoniczną kartą jest doświadczonym dowódcą operacji specjalnych z implantem Animus i własną granicą moralną.
-- Wejście na wyspę jest trudne, ale bez ofiar śmiertelnych. Animus generuje silnie anomalne wskazania i klasyfikuje sylwetki/celowe kontury w pustych korytarzach; McIntyre ogranicza warstwę predykcji zamiast ślepo jej ufać.
-- Zespół usuwa część synchronizacji końcowej i moduł fazowy, znacząco utrudniając write.
+- McIntyre, zgodnie z kanoniczną kartą, jest doświadczonym dowódcą operacji specjalnych z implantem Animus i własną granicą moralną.
+- Animus generuje anomalne klasyfikacje w pustych korytarzach i sprzeczne oznaczenia; McIntyre ogranicza lub wyłącza warstwy predykcji zamiast im ufać.
+- Zespół usuwa moduł synchronizacji końcowej i moduł fazowy, znacząco utrudniając write.
 - Końcowy driver pola pozostaje mechanicznie zablokowany. Można go usunąć dopiero po załączeniu lokalnego zasilania albo lokalnie zniszczyć z ryzykiem uszkodzenia sąsiedniej aparatury.
-- McIntyre nie uruchamia zasilania samowolnie i czeka na decyzję Stanleya/Paxtona.
+
+## 058 — Driver pozostaje, McIntyre się ewakuuje
+- **Decyzja gracza:** Stanley nie każe niszczyć końcowego drivera. Uznaje, że niekompletny system po usunięciu synchronizacji i fazy i tak nie jest zdolny do poprawnego write bez istotnej rekonstrukcji.
+- McIntyre natychmiast przerywa prace przy driverze i rozpoczyna odwrót; nie dochodzi do ponownego zasilenia żadnej części systemu ani do lokalnego wysadzania aparatury.
+- Wycofanie kończy się sukcesem bez ofiar śmiertelnych. Jeden operator odnosi lekki uraz, ale cały zespół opuszcza Skyropulę.
+- Na trasie odwrotu pojawiają się niejasne ciemne sylwetki / kroki oraz kolejne czarne obrazy sensorów; McIntyre wybiera obejście i nie inicjuje walki z niepewnym celem.
+- Jeden z dwóch wymontowanych modułów zostaje utracony w końcowej fazie ewakuacji, drugi zostaje odzyskany i wywieziony. Szybkie odtworzenie write staje się jeszcze trudniejsze, ale Stanley traci część sprzętu do analizy.
+- Końcowy driver pozostaje na Skyropuli. Sam nie wystarcza do write; wymagana byłaby fizyczna rekonstrukcja brakujących torów i ponowna walidacja.
+- Animus McIntyre’a pozostaje wyłączony po anomaliach; jego logi zawierają nietypowe klasyfikacje i błędy, które stają się niezależnym źródłem danych o zjawisku.
 
 ## Aktywne konsekwencje
 - Paxton zna pełny pakiet Stanleya; Boyle/Witchins nie muszą znać całości.
@@ -64,4 +72,5 @@
 - Jelena pozostaje okresowo sobą, ale może być używana jako kanał przez nieznane zjawisko.
 - Twierdzenia bytu o celu i wiadomości `YOU DID NOT CLOSE IT` pozostają nieweryfikowalne.
 - Zjawiska rozprzestrzeniają się poza Grecję.
-- Aparatura na Skyropuli jest częściowo rozbrojona, ale nie w pełni. Bieżący wybór dotyczy zniszczenia końcowego drivera albo odwrotu po częściowym rozbrojeniu.
+- Aparatura na Skyropuli jest częściowo rozbrojona i nie jest gotowa do write, ale nie została zniszczona.
+- McIntyre i jego zespół przeżyli powrót na Skyropulę; logi Animusa mogą dać nowy, niezależny zapis anomalii.
