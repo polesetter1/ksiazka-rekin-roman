@@ -1,11 +1,11 @@
 # Stan kampanii RPG
 
 ## Metadane
-- Status: sceny RPG 001–036, 038–057 zapisane; scena 37 została funkcjonalnie wyprzedzona przez wcześniejsze przechwycenie oznaczonego rekina.
-- Ostatnia sfinalizowana scena: `rpg/scenes/057-stanley-mcintyre-rozbrojenie-write.md`.
+- Status: sceny RPG 001–036, 038–058 zapisane; scena 37 została funkcjonalnie wyprzedzona przez wcześniejsze przechwycenie oznaczonego rekina.
+- Ostatnia sfinalizowana scena: `rpg/scenes/058-stanley-ewakuacja-mcintyre-i-pozostawiony-driver.md`.
 - Kampania wyszła istotnie poza źródłowy beat sceny 67; źródłowa śmierć Stanleya i wypadnięcie Romana z Cessny nie nastąpiły.
 - Perspektywa bieżąca: Stanley Hutchins.
-- Główne miejsce operacyjne: zabezpieczona infrastruktura Phoenix na Skiathos / Grecja. Jelena pozostaje w izolacji; Stanley i Roman współpracują z Paxtonem. McIntyre jest obecnie na Skyropuli z małym zespołem techniczno-operacyjnym.
+- Główne miejsce operacyjne: zabezpieczona infrastruktura Phoenix na Skiathos / Grecja. Jelena pozostaje w izolacji; Stanley i Roman współpracują z Paxtonem. McIntyre i jego zespół opuścili Skyropulę po częściowym rozbrojeniu write.
 
 ## Backstage / prawda kampanii
 - Każdy właściwy write narusza „kurtynę” i może przepuszczać byty/demony.
@@ -27,7 +27,8 @@
 - Podczas pierwszego kontrolowanego kontaktu byt zasugerował kolejne otwarcia/write, bo „reszta jeszcze czeka”; na pytanie jak zamknąć kurtynę odpowiedział „Nie zamykajcie” i gwałtownie zmienił zachowanie. Twierdził też, że `YOU DID NOT CLOSE IT` nie pochodziło od „nich”.
 - Stanley przyjął zasadę: żadnych kolejnych właściwych write do czasu zrozumienia sytuacji.
 - Nie zgodził się na natychmiastowe zniszczenie aparatury. Zaproponował fizyczne rozbrojenie funkcji write przy zachowaniu reszty systemu do badań.
-- **Najnowsza decyzja gracza:** zaakceptował wysłanie ppłk. Joshuy McIntyre’a z małym zespołem na Skyropulę w celu fizycznego odebrania aparaturze możliwości write.
+- Zaakceptował wysłanie ppłk. Joshuy McIntyre’a z małym zespołem na Skyropulę w celu fizycznego odebrania aparaturze możliwości write.
+- **Najnowsza decyzja gracza:** Stanley polecił pozostawić końcowy driver pola na miejscu i natychmiast ewakuować zespół, uznając, że brak modułu synchronizacji końcowej i modułu fazowego już uniemożliwia poprawny write bez istotnej rekonstrukcji.
 
 ## Jelena Ivanova
 - Wróciła po ok. dwóch tygodniach zaginięcia z niemal całkowitą luką pamięci; klasyczna toksykologia i kryminalistyka nie wyjaśniły zdarzenia.
@@ -66,12 +67,17 @@
 ## McIntyre / operacja Skyropula
 - Joshua „Josh” McIntyre: ppłk. armii USA, dowódca elitarnego zespołu operacji specjalnych, ok. 39–44 lata, wysoki/atletyczny, implant bojowy Animus. Zdyscyplinowany i małomówny, ale ma własną granicę moralną; nie jest bezmyślnym narzędziem systemu.
 - Paxton wysłał go z małym zespołem i technikiem na Skyropulę, aby usunąć elementy wymagane do write, zachowując resztę aparatury.
-- Wejście było trudne z powodu niestabilnych sensorów i częściowo zablokowanej infrastruktury, ale bez ofiar śmiertelnych.
-- Animus zaczął generować anomalne klasyfikacje: sylwetki/celowe kontury w pustych korytarzach, sygnatury za ścianami i sprzeczne oznaczenia własnych ludzi. McIntyre ograniczył warstwę predykcji/identyfikacji i kontynuował na prostszych procedurach.
-- Technik bezpiecznie zdemontował część synchronizacji końcowej i moduł fazowy.
-- Końcowy driver pola pozostaje mechanicznie zablokowany/uszkodzony i nie daje się wyjąć bez zasilenia lokalnej szyny serwisowej albo lokalnego zniszczenia, które może uszkodzić sąsiednią aparaturę.
-- McIntyre odmówił samowolnego załączenia zasilania i czeka na decyzję Stanleya/Paxtona.
+- Technik bezpiecznie zdemontował moduł synchronizacji końcowej i moduł fazowy. Końcowy driver pola pozostał mechanicznie zablokowany.
+- Animus generował anomalne klasyfikacje: sylwetki w pustych korytarzach, sygnatury za ścianami, sprzeczne oznaczenia własnych ludzi i finalnie wiele niemożliwych/nieludzkich celów. McIntyre wyłączył warstwy predykcji i identyfikacji zamiast im ufać.
+- Na polecenie Stanleya zespół nie niszczył drivera i natychmiast rozpoczął odwrót.
+- Odwrót zakończył się sukcesem bez ofiar śmiertelnych. Jeden operator odniósł lekki uraz, ale został ewakuowany.
+- Podczas wyjścia pojawiły się niejasne ciemne sylwetki / kroki i kolejne czarne obrazy sensorów. McIntyre ominął zagrożenie i nie inicjował walki.
+- Jeden z dwóch pojemników z wymontowanym sprzętem został utracony podczas końcowej fazy ewakuacji; drugi moduł bezpiecznie wywieziono. Utrata jeszcze bardziej komplikuje szybkie odtworzenie write, ale zmniejsza materiał do analizy.
+- Końcowy driver nadal pozostaje na Skyropuli, ale sam nie wystarcza do wykonania właściwego write. Ponowne uruchomienie wymagałoby fizycznej rekonstrukcji brakujących torów synchronizacji/fazy i ponownej walidacji.
+- Animus McIntyre’a pozostaje wyłączony; jego logi zawierają nietypowe błędy i anomalne klasyfikacje z pobytu na wyspie. Paxton traktuje implant i McIntyre’a jako materiał do kwarantanny/diagnostyki przed ponownym uruchomieniem systemu.
 
-## Bieżący punkt decyzyjny
-- Misja McIntyre’a osiągnęła częściowy sukces: write jest obecnie bardzo utrudniony, ale końcowy driver nadal pozostaje na miejscu.
-- Stanley musi zdecydować: **lokalnie zniszczyć końcowy driver**, ryzykując nieodwracalne uszkodzenie części aparatury, ale znacznie pewniej blokując przyszły write; albo **nakazać odwrót po częściowym rozbrojeniu**, maksymalnie zachowując aparaturę do przyszłych badań, lecz pozostawiając teoretyczną możliwość rekonstrukcji funkcji write.
+## Bieżący punkt
+- Aparatura na Skyropuli została zachowana w stanie częściowo rozbrojonym i nie jest gotowa do write.
+- McIntyre i zespół przeżyli operację i opuścili wyspę.
+- Ważnym nowym źródłem danych są logi Animusa McIntyre’a, które rejestrowały zjawiska w sposób niezależny od aparatury transferowej.
+- Stanley musi ustalić, czy priorytetem jest teraz głęboka analiza Animusa jako nowego czujnika/anomalii, czy dalsze skupienie na mechanizmie zamknięcia kurtyny i ograniczaniu rozprzestrzeniania.
