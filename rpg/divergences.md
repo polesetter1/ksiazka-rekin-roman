@@ -66,6 +66,16 @@
 - Końcowy driver pozostaje na Skyropuli. Sam nie wystarcza do write; wymagana byłaby fizyczna rekonstrukcja brakujących torów i ponowna walidacja.
 - Animus McIntyre’a pozostaje wyłączony po anomaliach; jego logi zawierają nietypowe klasyfikacje i błędy, które stają się niezależnym źródłem danych o zjawisku.
 
+## 059 — Analiza Animusa i pełna kwarantanna zespołu
+- **Decyzja gracza:** Stanley poleca analizować logi Animusa i jednocześnie izoluje całą ekipę McIntyre’a, a także sprzęt, moduł fazowy, broń/oporzadzenie i łódź używaną do odwrotu.
+- Implant McIntyre’a pozostaje fizycznie wyłączony; analiza odbywa się na kopiach logów w odseparowanym środowisku.
+- Analiza pokazuje, że anomalie zaczynają się poniżej warstwy klasyfikacji: surowe kanały sensor-fusion na krótko przestają tworzyć fizycznie spójny model sceny, a dopiero potem Animus nadaje etykiety `OBJECT/HOSTILE/UNKNOWN BIOLOGICAL/HUMAN PROBABILITY: 0%`.
+- W kilku zapisach niespójność sensorów pojawia się przed jawną manifestacją lub `IMAGE BLACK / SIGNAL PRESENT`, co czyni ją potencjalnym prekursorem.
+- Jeden z operatorów, którego Animus na wyspie chwilowo oznaczył jako `HOSTILE`, w indywidualnej izolacji doświadcza metalicznego posmaku/nacisku; kamera jego pomieszczenia na ok. dwie sekundy przechodzi w pełną czerń przy prawidłowym zasilaniu. Operator pozostaje sobą i nie zostaje ranny.
+- W tym samym czasie izolowany osobno McIntyre także odczuwa metaliczny posmak/nacisk. Fizycznie wyłączony Animus nie rejestruje nowego zdarzenia.
+- Kwarantanna działa: nie dochodzi do ucieczki, dalszych ofiar ani rozprzestrzenienia incydentu poza strefę izolacji.
+- Pojawia się nowa możliwość: Animus może działać jako wczesny detektor prekursorów manifestacji, ale jego ponowne uruchomienie na McIntyrze może nieść nieznane ryzyko.
+
 ## Aktywne konsekwencje
 - Paxton zna pełny pakiet Stanleya; Boyle/Witchins nie muszą znać całości.
 - Boyle żyje w młodym ciele; więzień i Henry nie żyją.
@@ -73,4 +83,6 @@
 - Twierdzenia bytu o celu i wiadomości `YOU DID NOT CLOSE IT` pozostają nieweryfikowalne.
 - Zjawiska rozprzestrzeniają się poza Grecję.
 - Aparatura na Skyropuli jest częściowo rozbrojona i nie jest gotowa do write, ale nie została zniszczona.
-- McIntyre i jego zespół przeżyli powrót na Skyropulę; logi Animusa mogą dać nowy, niezależny zapis anomalii.
+- McIntyre i jego zespół przeżyli powrót na Skyropulę i pozostają w pełnej kwarantannie.
+- Logi Animusa dają pierwszy niezależny ślad techniczny, że manifestację może poprzedzać krótki, wykrywalny rozjazd sensor-fusion.
+- Bieżący wybór dotyczy tego, czy ponownie uruchomić Animus McIntyre’a w ograniczonym trybie diagnostycznym jako potencjalny detektor, czy pozostawić implant fizycznie wyłączony.
