@@ -13,101 +13,55 @@
 - Jelena wykrywa `COMMON-MODE SATURATION — SOURCE UNKNOWN` podczas przywracania Henry'ego.
 - Stanley odnajduje zapis z 13 kwietnia o podobnym zjawisku przy pustej komorze i długo go ukrywa.
 
-## 034–035 — Wczesne przechwycenie rekina
-- Dzięki telemetrii rekin zostaje wcześniej odnaleziony i przewieziony na Skyropulę.
-
-## 036 — Ostrzeżenie staruszki
+## 034–036 — Wczesne przechwycenie rekina i ostrzeżenie
+- Rekin zostaje wcześniej odnaleziony i przewieziony na Skyropulę.
 - Stanley słyszy ostrzeżenie o „rozerwaniu kurtyny” i konieczności jej zamknięcia, lecz długo nikomu o nim nie mówi.
 
-## 038–039 — Porwanie Jeleny
-- Jelena zapamiętuje końcówkę tablicy 731, zapach mokrej wełny/starego tytoniu i bliznę napastnika.
-- Kamera przy pokoju zostaje celowo wyłączona przy użyciu credentialu MASTER/SERVICE.
+## 038–047 — Porwanie i powrót Jeleny
+- Jelena zapamiętuje częściowe szczegóły porwania, wraca po ok. dwóch tygodniach z niemal całkowitą luką pamięci, a klasyczna toksykologia/kryminalistyka nie daje wyjaśnienia.
+- Roman przy Jelenie odczuwa metaliczny smak/nacisk kojarzący się z „tamtą stroną”.
 
-## 040–042 — Odbudowa i wcześniejszy read-only Romana
-- Stanley odrzuca bypass i wybiera pełną odbudowę aparatury.
-- Monitoring pokazuje sekwencyjne zaniki kamer bez widocznego sprawcy.
-- Read-only daje silny obiektywny dowód wzorca Romana w rekinie.
-
-## 043 — Powrotny transfer Romana
-- Stanley wybiera ciągłą procedurę read→write→verify→erase.
+## 043–045 — Powrotny transfer Romana i Henry
 - Roman wraca do własnego ciała z aktualną mapą zawierającą ślady rekiniej adaptacji; rekin umiera po erase.
-- Backstage: write ponownie narusza kurtynę.
+- Henry i Roman niezależnie używają motywu „kurtyny”; Stanley długo ukrywa pełną zbieżność.
 
-## 044–045 — Henry i niezależna zbieżność
-- Właściwy write Romana znów daje common-mode przy stabilnych systemach.
-- Henry w neutralnej rozmowie spontanicznie mówi o „kurtynie” i o czymś, co przeszło „na naszą stronę”; nie rozmawiał o tym z Romanem.
-- Roman po powrocie niezależnie używa tej samej terminologii.
-- Stanley zachowuje pełny pakiet dla siebie.
-
-## 046–047 — Odnalezienie i kwarantanna Jeleny
-- Jelena zostaje odnaleziona żywa po ok. dwóch tygodniach na wcześniej przeszukiwanym obszarze Skyros.
-- Ma niemal całkowitą lukę pamięci; toksykologia i kryminalistyka nie dają klasycznego wyjaśnienia.
-- Odzyskuje fragment sensoryczny: ciśnienie i metaliczny posmak.
-- Po jej powrocie Roman odczuwa przy niej podobny smak/nacisk kojarzący się z „tamtą stroną”.
-
-## 048–049 — Boyle i podporządkowanie Stanleya
-- Stanley nie ogranicza Jelenie dostępu bez dowodu.
-- Boyle żąda transferu do zdrowego ciała.
-- **Decyzja gracza:** Stanley zgadza się przygotować transfer, bo brakuje mu odwagi sprzeciwić się Boyle'owi, Witchinsowi i Paxtonowi.
-- Sprowadzony zostaje młodszy zdrowy więzień, były żołnierz skazany za zabójstwo.
-
-## Korekta ciągłości przed 050
-- Procedura Boyle'a jest dwukierunkową zamianą: Boyle→młode ciało więźnia oraz więzień→chore ciało Boyle'a.
-
-## 050 — Półprawda i nieudany swap
-- Stanley mówi więźniowi: **„Zawsze jest się sobą.”** Nie wyjaśnia jasno, że więzień ma trafić do śmiertelnie chorego ciała Boyle'a.
-- Pierwszy symetryczny cross-write nie osiąga target confirmation i zostawia częściowe imprinty.
-- Więzień ma napad drgawkowy; Boyle przechodzi zatrzymanie krążenia i zostaje zresuscytowany.
-- Stanley sam doświadcza metalicznego posmaku i ciśnienia podczas common-mode.
-- Backstage: nawet przerwany cross-write narusza kurtynę.
-
-## 051 — Sekwencyjny erase→write
-- Stanley ponownie się podporządkowuje i zmienia procedurę: najpierw erase targetu, potem write zapisanej mapy.
-- Boyle trafia do młodego ciała więźnia, a więzień do starego ciała Boyle'a.
-- Technicznie swap się udaje; więzień umiera krótko później.
-- Backstage: oba właściwe write ponownie naruszają kurtynę.
+## 048–051 — Boyle, półprawda i swap
+- Stanley zgadza się na transfer Boyle'a głównie ze strachu przed Boyle'em, Witchinsem i Paxtonem.
+- Więźniowi mówi: **„Zawsze jest się sobą.”** Nie wyjaśnia jasno, że ma trafić do śmiertelnie chorego ciała Boyle'a.
+- Pierwszy cross-write nie osiąga target confirmation i zostawia częściowe imprinty.
+- Druga próba wykorzystuje sekwencyjne erase→write: Boyle trafia do młodego ciała więźnia, więzień do starego ciała Boyle'a i krótko później umiera.
+- Kolejne write backstage'owo naruszają kurtynę.
 
 ## 052 — Ewakuacja Skyropuli
-- Po śmierci więźnia gasną światła, pojawia się ryk i jawne ciemne postacie.
-- Stanley zarządza pełną ewakuację.
+- Po jawnych manifestacjach Stanley zarządza pełną ewakuację.
 - Znajduje Henry'ego martwego z niewyjaśnionym ciężkim urazem klatki piersiowej.
-- Nie wraca po Paxtona/VIP-ów; wyprowadza ludzi tunelem serwisowym. Paxton sam przebija się z Boyle'em i Witchinsem.
+- Nie wraca po Paxtona/VIP-ów; Paxton sam przebija się z Boyle'em i Witchinsem.
 
-## 053 — Skyros, Cessna i pełne ujawnienie
-- Na Skyros Stanley, Roman i Jelena jednocześnie odczuwają metaliczny smak/nacisk mimo oddalenia od Skyropuli.
-- Stanley otrzymuje wiadomość `YOU DID NOT CLOSE IT.`
-- Paxton rozprasza ewakuację; Stanley/Jelena/Roman odlatują Cessną.
-- Stanley ujawnia Romanowi i Jelenie cały prywatny pakiet oraz własny strach jako powód milczenia.
-
-## 054 — Awaryjne lądowanie zamiast źródłowego finału
+## 053–055 — Cessna, awaryjne lądowanie i kontakt z bytem
+- Stanley/Jelena/Roman odlatują Cessną; Stanley ujawnia cały ukrywany pakiet.
 - U Jeleny pojawiają się nienaturalnie czarne oczy i obcy sposób mówienia.
-- **Decyzja gracza:** Stanley każe pilotowi jak najszybciej lądować i próbuje kotwiczyć Jelenę rozmową zamiast wszczynać walkę.
-- Kontakt z właściwą Jeleną wraca na kilka sekund.
-- Cessna bezpiecznie, choć twardo ląduje na Skiathos.
-- Nie dochodzi do źródłowej śmierci Stanleya ani wypadnięcia Romana z samolotu.
-
-## 055 — Paxton poznaje pełny pakiet i pierwszy kontakt
-- Stanley nie oddaje Jeleny lokalnym medykom. Dzwoni do Paxtona i po raz pierwszy przekazuje mu pełny pakiet anomalii.
-- Phoenix przejmuje Jelenę i organizuje izolację.
-- Podczas kontrolowanego kontaktu zjawisko sugeruje, że kolejne write pozwoliłyby przejść „reszcie”. Nie wiadomo, czy mówi prawdę.
-- Twierdzi, że wiadomość `YOU DID NOT CLOSE IT` nie pochodzi od „nich”.
-- Na pytanie o zamknięcie kurtyny reaguje wyraźnie i mówi: **„Nie zamykajcie.”**
-- Prowizoryczne zabezpieczenie częściowo zawodzi; Jelena na chwilę wraca jako ona sama i wypowiada urwane ostrzeżenie.
+- Zamiast źródłowej śmierci Stanleya i wypadnięcia Romana z samolotu Stanley każe awaryjnie lądować i próbuje kotwiczyć Jelenę rozmową. Cessna ląduje na Skiathos.
+- Stanley przekazuje Paxtonowi pełny pakiet i Phoenix izoluje Jelenę.
+- Podczas kontrolowanego kontaktu zjawisko sugeruje, że kolejne write pozwolą przejść „reszcie”; na pytanie o zamknięcie kurtyny odpowiada „Nie zamykajcie”.
 
 ## 056 — Współpraca z Paxtonem i rozprzestrzenianie
-- **Decyzja gracza:** Stanley współpracuje z Paxtonem i akceptuje mocniejszą wojskową izolację Jeleny, ale naciska, by być obecny przy jej kolejnym epizodzie. Paxton zgadza się warunkowo na udział z odseparowanego stanowiska i z prawem Phoenix do przerwania kontaktu.
-- Stanley i Paxton przyjmują zasadę: żadnych kolejnych właściwych write do czasu zrozumienia mechanizmu.
-- Zjawisko zaczyna rozprzestrzeniać się poza Skyropulę. Na Skyros pojawiają się kolejne zaniki świateł / nienaturalna czerń kamer oraz urazy przypominające śmierć Henry'ego.
-- Podobny epizod pojawia się na cywilnym promie, a później również na kontynencie po wojskowym medevacu ludzi ze Skyros. Oznacza to, że zagrożenie nie jest już ograniczone do jednej wyspy.
-- Wektor pozostaje niejasny: brak pewności, czy zjawiska podążają za konkretnymi ewakuowanymi, za transferowanymi, sprzętem czy po prostu rozchodzą się po otwartej drodze.
-- Phoenix nakazuje ponowne śledzenie i zabezpieczenie ewakuowanych oraz ograniczenie ich samodzielnych podróży. Publicznie sprawa jest jeszcze częściowo maskowana jako seria awarii/wypadków, ale kontrola informacji słabnie.
-- Aparatura transferowa nadal istnieje na opuszczonej Skyropuli. Jej zniszczenie uniemożliwiłoby łatwy kolejny write, ale mogłoby także usunąć jedyne znane narzędzie potrzebne do odtworzenia warunków otwarcia i ewentualnego zamknięcia kurtyny.
+- Stanley współpracuje z Paxtonem i akceptuje silniejszą izolację Jeleny, ale zachowuje udział w przyszłych kontaktach z odseparowanego stanowiska.
+- Przyjęta zostaje zasada: żadnych kolejnych właściwych write.
+- Zjawisko zaczyna pojawiać się poza Skyropulą/Skyros: prom, kontynent grecki, Ateny/Saloniki, później Bari. Wektor pozostaje niejasny.
+- Paxton rozważa zniszczenie aparatury transferowej, ale Stanley sprzeciwia się, uznając ją za potencjalnie jedyne narzędzie do zrozumienia i zamknięcia kurtyny.
+
+## 057 — McIntyre wraca na Skyropulę
+- **Decyzja gracza:** Stanley akceptuje próbę fizycznego rozbrojenia funkcji write przez ppłk. Joshuę McIntyre’a i mały zespół wojskowo-techniczny.
+- McIntyre nie jest więźniem/dawcą z wcześniejszego swapu; zgodnie z kanoniczną kartą jest doświadczonym dowódcą operacji specjalnych z implantem Animus i własną granicą moralną.
+- Wejście na wyspę jest trudne, ale bez ofiar śmiertelnych. Animus generuje silnie anomalne wskazania i klasyfikuje sylwetki/celowe kontury w pustych korytarzach; McIntyre ogranicza warstwę predykcji zamiast ślepo jej ufać.
+- Zespół usuwa część synchronizacji końcowej i moduł fazowy, znacząco utrudniając write.
+- Końcowy driver pola pozostaje mechanicznie zablokowany. Można go usunąć dopiero po załączeniu lokalnego zasilania albo lokalnie zniszczyć z ryzykiem uszkodzenia sąsiedniej aparatury.
+- McIntyre nie uruchamia zasilania samowolnie i czeka na decyzję Stanleya/Paxtona.
 
 ## Aktywne konsekwencje
-- Paxton zna pełny pakiet Stanleya; Witchins/Boyle nie muszą znać całości.
+- Paxton zna pełny pakiet Stanleya; Boyle/Witchins nie muszą znać całości.
 - Boyle żyje w młodym ciele; więzień i Henry nie żyją.
-- Jelena jest okresowo sobą, ale może być używana jako kanał przez nieznane zjawisko.
-- Twierdzenie, że zjawisko chce kolejnych write, pozostaje nieweryfikowalne.
-- Nie wiadomo, kto wysłał `YOU DID NOT CLOSE IT`, jeśli byt mówił prawdę.
-- Zjawiska zaczynają pojawiać się poza Skyropulą i Skyros.
-- Główne pytanie brzmi teraz nie tylko „jak zamknąć kurtynę?”, lecz także „czy zniszczyć aparaturę, zanim ktoś wykona kolejny write, czy zachować ją jako jedyną możliwą drogę do odwrócenia procesu?”
+- Jelena pozostaje okresowo sobą, ale może być używana jako kanał przez nieznane zjawisko.
+- Twierdzenia bytu o celu i wiadomości `YOU DID NOT CLOSE IT` pozostają nieweryfikowalne.
+- Zjawiska rozprzestrzeniają się poza Grecję.
+- Aparatura na Skyropuli jest częściowo rozbrojona, ale nie w pełni. Bieżący wybór dotyczy zniszczenia końcowego drivera albo odwrotu po częściowym rozbrojeniu.
